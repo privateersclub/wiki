@@ -44,12 +44,12 @@ Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum
 
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
 
-- BlackBox
-- CPG Repacks
-- Dodi
-- Darck
-- ElAmigos
-- FitGirl
+- [BlackBox](http://www.blackboxrepack.com/)
+- [CPG Repacks](http://cpgrepacks.site/)
+- [Dodi](http://dodi-repacks.site/)
+- [Darck](https://darckrepacks.com/)
+- [ElAmigos](https://elamigos.site/)
+- [FitGirl](http://fitgirl-repacks.site/)
 - Gnarly
 - KaosKrew
 - Kapital Sin
@@ -67,30 +67,35 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 
 Please note, none of these sites provide downloads, only information on Scene/P2P releases.
 
-- Moderator's Choice: r/CrackWatch - Straight to the point for videogames.
+- **Moderator's Choice: r/CrackWatch** - Straight to the point for videogames.
 
 Other noteworthy mentions:
 
-predb.org
-predb.ovh
-predb.pw
-xREL
+- predb.org
+- predb.ovh
+- predb.pw
+- xREL
+
 Please note that the "crackwatch" website is not recommended since it is not official.
 
-ROM Sites:
-CDRomance
-Edge Emulation
-Emu Paradise - Use this script to download.
-The Eye
-TheRomDepot
-Romulation
-r/ROMS
-Vimm's Lair
-Ziperto - DDL site for Nintendo and Playstation ROMS.
-Torrent Software:
+## **ROM Sites:**
+
+- CDRomance
+- Edge Emulation
+- Emu Paradise - Use this script to download.
+- The Eye
+- TheRomDepot
+- Romulation
+- r/ROMS
+- Vimm's Lair
+- Ziperto - DDL site for Nintendo and Playstation ROMS.
+
+## **Torrent Software:**
+
 To torrent, use these programs:
 
-Moderators' choice: Qbittorrent
+- **Moderators' choice: Qbittorrent**
+
 Other noteworthy mentions:
 
 BiglyBT
