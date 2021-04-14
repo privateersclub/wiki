@@ -30,11 +30,11 @@ Other noteworthy mentions:
 - [Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
 - [Online-fix.me](https://online-fix.me/) - Online multiplayer games.
--[Ovagames](http://www.ovagames.com/) - DDL Games.
--[RLSBB](https://rlsbb.ru/) - DDL Scene Releases.
--[SCNLOG.ME](https://scnlog.me/) - DDL Scene Releases.
--[SteamUnlocked](https://steamunlocked.net/)
--[Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases.
+- [Ovagames](http://www.ovagames.com/) - DDL Games.
+- [RLSBB](https://rlsbb.ru/) - DDL Scene Releases.
+- [SCNLOG.ME](https://scnlog.me/) - DDL Scene Releases.
+- [SteamUnlocked](https://steamunlocked.net/)
+- [Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases.
 
 Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) on [CS.RIN.RU](http://cs.rin.ru/) forum. [This post](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) is also helpful.
 
