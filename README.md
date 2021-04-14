@@ -2,7 +2,7 @@
 
 **Here's the r/PiratedGames Mega Thread!**
 
-**Torrent Sites:**
+## **Torrent Sites:**
 - **Moderators' choice:** [RARBG](https://rarbg.to/) - Safe torrents, best quality.
 
 Other noteworthy mentions:
@@ -24,20 +24,20 @@ Other noteworthy mentions:
 **Other noteworthy mentions:**
 
 [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
-GLOAD - German DDL site.
-Gamesdrive.co - Repacks and Scene game downloads.
-GOG Games - GOG Games.
-Mobilisim - Mobile apps and games.
-MyAbandonware - Old/retro games.
-Online-fix.me - Online multiplayer games.
-Ovagames - DDL Games.
-RLSBB - DDL Scene Releases.
-SCNLOG.ME - DDL Scene Releases.
-SteamUnlocked
-Torrminatorr Forum - DDL games - Scene games and GOG Releases.
-Oculus Quest users can download games from this thread on CS.RIN.RU forum. This post is also helpful.
+[GLOAD](https://gload.cc/) - German DDL site.
+[Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
+[GOG Games](https://gog-games.com/) - GOG Games.
+[Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
+[MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
+[Online-fix.me](https://online-fix.me/) - Online multiplayer games.
+[Ovagames](http://www.ovagames.com/) - DDL Games.
+[RLSBB](https://rlsbb.ru/) - DDL Scene Releases.
+[SCNLOG.ME](https://scnlog.me/) - DDL Scene Releases.
+[SteamUnlocked](https://steamunlocked.net/)
+[Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL games - Scene games and GOG Releases.
+Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) on [CS.RIN.RU](http://cs.rin.ru/) forum. [This post](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) is also helpful.
 
-For Crack Only content, NoCD fixes and trainers, go to GameCopyWorld.
+For Crack Only content, NoCD fixes and trainers, go to [GameCopyWorld](https://gamecopyworld.com/games/index.php).
 
 Repacks:
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
