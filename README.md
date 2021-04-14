@@ -41,30 +41,34 @@ Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum
 **For Crack Only content, NoCD fixes and trainers, go to [GameCopyWorld](https://gamecopyworld.com/games/index.php).**
 
 ## **Repacks:**
+
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
 
-BlackBox
-CPG Repacks
-Dodi
-Darck
-ElAmigos
-FitGirl
-Gnarly
-KaosKrew
-Kapital Sin
-M4ckD0ge
-Masquerade
-Mr DJ
-R.G. Catalyst
-R.G. Mechanics
-R.G. Revenants
-Scooter Repacks
-Xatab
-ZAZIX
-Release Networks:
+- BlackBox
+- CPG Repacks
+- Dodi
+- Darck
+- ElAmigos
+- FitGirl
+- Gnarly
+- KaosKrew
+- Kapital Sin
+- M4ckD0ge
+- Masquerade
+- MJ DJ
+- R.G. Catalyst
+- R.G. Mechanics
+- R.G. Revenants
+- Scooter Repacks
+- Xatab
+- ZAZIX
+
+## **Release Networks**
+
 Please note, none of these sites provide downloads, only information on Scene/P2P releases.
 
-Moderator's Choice: r/CrackWatch - Straight to the point for videogames.
+- Moderator's Choice: r/CrackWatch - Straight to the point for videogames.
+
 Other noteworthy mentions:
 
 predb.org
