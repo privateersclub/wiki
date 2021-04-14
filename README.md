@@ -98,88 +98,100 @@ To torrent, use these programs:
 
 Other noteworthy mentions:
 
-BiglyBT
-Deluge
-PicoTorrent
-Transmission
-Direct Downloading Software:
+- BiglyBT
+- Deluge
+- PicoTorrent
+- Transmission
+
+## **Direct Downloading Software:**
+
 To direct download, use these programs:
 
-Moderators' choice: JDownloader2
+**Moderators' choice: JDownloader2**
+
 Other noteworthy mentions:
 
-Internet Download Manager.
-pyLoad
-Xtreme Download Manager
-Debrid service:
+- Internet Download Manager.
+- pyLoad
+- Xtreme Download Manager
+
+## **Debrid service:**
 A debrid service will convert premium / slow file host links into faster download links, just for you.
 
-Moderators' Choice: Real Debrid
+**Moderators' Choice: Real Debrid**
+
 Other noteworthy mentions:
 
-AllDebrid
-Premiumize
-Tools:
+- AllDebrid
+- Premiumize
+
+## **Tools:**
 These tools are helpful with cracking your own games.
 
-ALi213 Steam Emulator - Emulate Steam
-Auto CreamAPI - Automatically set your game up for CreamAPI.
-Auto Steamworks Fix Tool - Automatically create Steamworks Fixes.
-CODEX Steam Emulator - Emulate Steam
-CreamAPI - Unlock pirated DLC on legitimate Steam Games.
-GoldBerg Emulator - Emulate Steam
-Lucky Patcher - Patch Android Apps (better with root)
-LumaPlay - Emulate Uplay
-Nemirtingas Epic Emulator
-Origin DLC unlocker - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
-RIN SteamInternals - A Broad Collection of Steam Tools
-SmartSteamEmu - Emulate Steam
-Steamless - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
-Useful Software:
-7zip File Manager - Better than WinRAR.
-BleachBit - System Cleaner, safer than CCLeaner.
-Bitwarden - Open Source Password Management Solution.
-QuickSFV - Verify checksums and generate hash info.
-WinRAR - Alternative to 7zip.
-Vapor Store - A store (similar to Steam!) where you can download cracked games!
+- ALi213 Steam Emulator - Emulate Steam
+- Auto CreamAPI - Automatically set your game up for CreamAPI.
+- Auto Steamworks Fix Tool - Automatically create Steamworks Fixes.
+- CODEX Steam Emulator - Emulate Steam
+- CreamAPI - Unlock pirated DLC on legitimate Steam Games.
+- GoldBerg Emulator - Emulate Steam
+- Lucky Patcher - Patch Android Apps (better with root)
+- LumaPlay - Emulate Uplay
+- Nemirtingas Epic Emulator
+- Origin DLC unlocker - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
+- RIN SteamInternals - A Broad Collection of Steam Tools
+- SmartSteamEmu - Emulate Steam
+- Steamless - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
+
+## **Useful Software:**
+
+- 7zip File Manager - Better than WinRAR.
+- BleachBit - System Cleaner, safer than CCLeaner.
+- Bitwarden - Open Source Password Management Solution.
+- QuickSFV - Verify checksums and generate hash info.
+- WinRAR - Alternative to 7zip.
+- Vapor Store - A store (similar to Steam!) where you can download cracked games!
+
 Not game related, but for Microsoft Products and Adobe Products, go to the backup of r/sjain_guides.
 
-Useful Browser Extensions:
+## **Useful Browser Extensions:**
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-Decentraleyes
-HTTPS Everywhere
-Privacy Badger
-Trace
-Ublock Origin
-Universal Bypass
-DNS:
+- Decentraleyes
+- HTTPS Everywhere
+- Privacy Badger
+- Trace
+- Ublock Origin
+- Universal Bypass
+
+## **DNS:**
 Using a privacy-focused DNS can speed up your browsing experience as well as make your network traffic more secure (NOT a VPN substitute):
 
-Moderators' Choice: Adguard DNS
+**Moderators' Choice: Adguard DNS**
 More trusted DNS providers can be found here.
 
-VPNs:
-Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
-Privacy Tools' VPN recommendations
-VPN Comparison Chart
-Tor is NOT a VPN, it will not protect you when torrenting!
+## **VPNs:**
+- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
+- Privacy Tools' VPN recommendations
+- VPN Comparison Chart
+**Tor is NOT a VPN, it will not protect you when torrenting!**
 
-Unsafe software:
-Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
-Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
-CCleaner - Owned by Avast.
-Avast - Notorious for collecting and selling user data.
-Untrusted sites:
-IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
-BBRepacks - Fake BlackBox Repacks, contain malware.
-OceanOfGames - High malware risk.
-nosTEAM
-cracked-games.org - Malware Risk.
-crackingpatching - Malware Risk
-Pirate Bay - Malware Risk
-Kickass Torrents - Malware Risk
-Any site with a scene group name in the URL - SCENE GROUPS DON'T HAVE SITES!
+## **Unsafe software:**
+- Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
+- Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
+- CCleaner - Owned by Avast.
+- Avast - Notorious for collecting and selling user data.
+
+## **Untrusted sites:**
+- IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
+- BBRepacks - Fake BlackBox Repacks, contain malware.
+- OceanOfGames - High malware risk.
+- nosTEAM
+- cracked-games.org - Malware Risk.
+- crackingpatching - Malware Risk
+- Pirate Bay - Malware Risk
+- Kickass Torrents - Malware Risk
+**Any site with a scene group name in the URL - SCENE GROUPS DON'T HAVE SITES!**
+
 Anybody caught linking a website the moderators deem unsafe will have their comments removed in order to keep people safe on the subreddit!
 
 We will keep this thread updated, so check back every so often!
