@@ -1,6 +1,6 @@
 ## piratedgames-megathread
 
-Here's the r/PiratedGames Mega Thread!
+**Here's the r/PiratedGames Mega Thread!**
 
 **Torrent Sites:**
 - **Moderators' choice:** [RARBG](https://rarbg.to/) - Safe torrents, best quality.
@@ -20,9 +20,10 @@ Other noteworthy mentions:
 
 ## **Direct Download Sites:**
 **Moderator's Choice:** [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/) - Best place for any game, this should be the first place you check. Does not allow Scene releases.
-Other noteworthy mentions:
 
-CrackHub - DDL for scene games and FitGirl repacks.
+**Other noteworthy mentions:**
+
+[CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
 GLOAD - German DDL site.
 Gamesdrive.co - Repacks and Scene game downloads.
 GOG Games - GOG Games.
