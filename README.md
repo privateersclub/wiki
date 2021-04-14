@@ -94,7 +94,7 @@ Please note that the "crackwatch" website is not recommended since it is not off
 
 To torrent, use these programs:
 
-- **Moderators' choice: Qbittorrent**
+- **Moderators' choice: [Qbittorrent](https://www.qbittorrent.org/download.php)**
 
 Other noteworthy mentions:
 
