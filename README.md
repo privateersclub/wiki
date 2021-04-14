@@ -6,15 +6,16 @@ Moderators' choice: [RARBG](https://rarbg.to/) - Safe torrents, best quality.
 
 Other noteworthy mentions:
 
-[1337X](https://1337x.to/) - Has lots of content, well moderated.
-Mac Torrents - Mac torrents.
-NXMAC - MAC games.
-RuTor - Russian Torrent Tracker.
-RuTracker - Russian Torrent Forum.
-Rustorka - Russian Torrent Tracker.
-Tapochek - Russian Torrent Tracker.
-Torrents.csv - Easy viewing torrent search engine.
-We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.
+- [1337X](https://1337x.to/) - Has lots of content, well moderated.
+- Mac Torrents - Mac torrents.
+- NXMAC - MAC games.
+- RuTor - Russian Torrent Tracker.
+- RuTracker - Russian Torrent Forum.
+- Rustorka - Russian Torrent Tracker.
+- Tapochek - Russian Torrent Tracker.
+- Torrents.csv - Easy viewing torrent search engine.
+
+**We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
 Direct Download Sites:
 Moderator's Choice: CS.RIN.RU - Steam Underground Community - Best place for any game, this should be the first place you check. Does not allow Scene releases.
