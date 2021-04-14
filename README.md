@@ -50,17 +50,17 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Darck](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site/)
 - [FitGirl](http://fitgirl-repacks.site/)
-- Gnarly
-- KaosKrew
-- Kapital Sin
-- M4ckD0ge
-- Masquerade
+- [Gnarly](https://gnarly-repacks.site/)
+- [KaosKrew](https://kaoskrew.org/)
+- [Kapital Sin](http://www.kapitalsin.com/forum/)
+- [M4ckD0ge](https://m4ckd0ge-repacks.me/)
+- [Masquerade](https://masquerade.site/)
 - MJ DJ
 - R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
-- Scooter Repacks
-- Xatab
+- [Scooter Repacks](https://scooter-repacks.site/)
+- [Xatab](https://xatab-repack.com/)
 - ZAZIX
 
 ## **Release Networks**
