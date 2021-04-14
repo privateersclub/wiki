@@ -1,11 +1,12 @@
-# piratedgames-megathread
+## piratedgames-megathread
 
 Here's the r/PiratedGames Mega Thread!
 Torrent Sites:
-Moderators' choice: RARBG - Safe torrents, best quality.
+Moderators' choice: [RARBG](https://rarbg.to/) - Safe torrents, best quality.
+
 Other noteworthy mentions:
 
-1337X - Has lots of content, well moderated.
+[1337X](https://1337x.to/) - Has lots of content, well moderated.
 Mac Torrents - Mac torrents.
 NXMAC - MAC games.
 RuTor - Russian Torrent Tracker.
