@@ -1,6 +1,7 @@
 ## piratedgames-megathread
 
 Here's the r/PiratedGames Mega Thread!
+
 **Torrent Sites:**
 - **Moderators' choice:** [RARBG](https://rarbg.to/) - Safe torrents, best quality.
 
