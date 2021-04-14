@@ -1,24 +1,24 @@
 ## piratedgames-megathread
 
 Here's the r/PiratedGames Mega Thread!
-Torrent Sites:
-Moderators' choice: [RARBG](https://rarbg.to/) - Safe torrents, best quality.
+**Torrent Sites:**
+- **Moderators' choice:** [RARBG](https://rarbg.to/) - Safe torrents, best quality.
 
 Other noteworthy mentions:
 
 - [1337X](https://1337x.to/) - Has lots of content, well moderated.
-- Mac Torrents - Mac torrents.
-- NXMAC - MAC games.
-- RuTor - Russian Torrent Tracker.
-- RuTracker - Russian Torrent Forum.
-- Rustorka - Russian Torrent Tracker.
-- Tapochek - Russian Torrent Tracker.
-- Torrents.csv - Easy viewing torrent search engine.
+- [Mac Torrents](https://mac-torrents.io/mac-games/) - Mac torrents.
+- [NXMAC](https://nxmac.com/) - MAC games.
+- [RuTor](http://www.rutor.info/) - Russian Torrent Tracker.
+- [RuTracker](https://rutracker.org/) - Russian Torrent Forum.
+- [Rustorka](http://rustorka.com/) - Russian Torrent Tracker.
+- [Tapochek](https://tapochek.net/index.php) - Russian Torrent Tracker.
+- [Torrents.csv](https://torrents-csv.ml/) - Easy viewing torrent search engine.
 
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
-Direct Download Sites:
-Moderator's Choice: CS.RIN.RU - Steam Underground Community - Best place for any game, this should be the first place you check. Does not allow Scene releases.
+## **Direct Download Sites:**
+**Moderator's Choice:** [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/) - Best place for any game, this should be the first place you check. Does not allow Scene releases.
 Other noteworthy mentions:
 
 CrackHub - DDL for scene games and FitGirl repacks.
