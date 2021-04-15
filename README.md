@@ -145,16 +145,17 @@ These tools are helpful with cracking your own games.
 
 ## **Useful Software:**
 
-- 7zip File Manager - Better than WinRAR.
-- BleachBit - System Cleaner, safer than CCLeaner.
-- Bitwarden - Open Source Password Management Solution.
-- QuickSFV - Verify checksums and generate hash info.
-- WinRAR - Alternative to 7zip.
-- Vapor Store - A store (similar to Steam!) where you can download cracked games!
+- [7zip File Manager](https://www.7-zip.org/) - Better than WinRAR.
+- [BleachBit](https://www.bleachbit.org/) - System Cleaner, safer than CCLeaner.
+- [Bitwarden](https://bitwarden.com/) - Open Source Password Management Solution.
+- [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
+- [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
+- [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
 
-Not game related, but for Microsoft Products and Adobe Products, go to the backup of r/sjain_guides.
+**Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://saidit.net/s/sjain_guides)**
 
 ## **Useful Browser Extensions:**
+
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
 - Decentraleyes
@@ -165,24 +166,30 @@ These don't help much with online piracy, but will make your browsing much more 
 - Universal Bypass
 
 ## **DNS:**
+
 Using a privacy-focused DNS can speed up your browsing experience as well as make your network traffic more secure (NOT a VPN substitute):
 
-**Moderators' Choice: Adguard DNS**
-More trusted DNS providers can be found here.
+**Moderators' Choice: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html)**
+
+More trusted DNS providers can be found [here](https://www.privacytools.io/providers/dns/).
 
 ## **VPNs:**
+
 - Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
-- Privacy Tools' VPN recommendations
-- VPN Comparison Chart
+- [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
+- [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
+
 **Tor is NOT a VPN, it will not protect you when torrenting!**
 
 ## **Unsafe software:**
+
 - Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
 - Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
 - CCleaner - Owned by Avast.
 - Avast - Notorious for collecting and selling user data.
 
 ## **Untrusted sites:**
+
 - IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
 - BBRepacks - Fake BlackBox Repacks, contain malware.
 - OceanOfGames - High malware risk.
@@ -191,10 +198,11 @@ More trusted DNS providers can be found here.
 - crackingpatching - Malware Risk
 - Pirate Bay - Malware Risk
 - Kickass Torrents - Malware Risk
+
 **Any site with a scene group name in the URL - SCENE GROUPS DON'T HAVE SITES!**
 
 Anybody caught linking a website the moderators deem unsafe will have their comments removed in order to keep people safe on the subreddit!
 
-We will keep this thread updated, so check back every so often!
+**We will keep this thread updated, so check back every so often!**
 
-If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.
+**If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.**
