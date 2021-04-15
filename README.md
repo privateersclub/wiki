@@ -134,14 +134,14 @@ These tools are helpful with cracking your own games.
 - [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks Fixes.
 - [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) - Emulate Steam
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLC on legitimate Steam Games.
-- GoldBerg Emulator - Emulate Steam
-- Lucky Patcher - Patch Android Apps (better with root)
-- LumaPlay - Emulate Uplay
-- Nemirtingas Epic Emulator
-- Origin DLC unlocker - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
-- RIN SteamInternals - A Broad Collection of Steam Tools
-- SmartSteamEmu - Emulate Steam
-- Steamless - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
+- [GoldBerg Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulate Steam
+- [Lucky Patcher](https://www.luckypatchers.com/) - Patch Android Apps (better with root)
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulate Uplay
+- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
+- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - A Broad Collection of Steam Tools
+- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulate Steam
+- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
 
 ## **Useful Software:**
 
