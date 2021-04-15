@@ -71,24 +71,24 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 
 Other noteworthy mentions:
 
-- predb.org
-- predb.ovh
-- predb.pw
-- xREL
+- [predb.org](https://predb.org/)
+- [predb.ovh](https://predb.ovh/)
+- [predb.pw](https://predb.pw/)
+- [xREL](https://xrel.to/)
 
 Please note that the "crackwatch" website is not recommended since it is not official.
 
 ## **ROM Sites:**
 
-- CDRomance
-- Edge Emulation
-- Emu Paradise - Use this script to download.
-- The Eye
-- TheRomDepot
-- Romulation
+- [CDRomance](https://cdromance.com/)
+- [Edge Emulation](https://edgemu.net/)
+- [Emu Paradise](https://www.emuparadise.me/) - [Use this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to download.
+- [The Eye](http://the-eye.eu/public/rom/)
+- [TheRomDepot](https://theromdepot.com/)
+- [Romulation](https://www.romulation.net/)
 - r/ROMS
-- Vimm's Lair
-- Ziperto - DDL site for Nintendo and Playstation ROMS.
+- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
 
 ## **Torrent Software:**
 
@@ -98,41 +98,42 @@ To torrent, use these programs:
 
 Other noteworthy mentions:
 
-- BiglyBT
-- Deluge
-- PicoTorrent
-- Transmission
+- [BiglyBT](https://www.biglybt.com/download/)
+- [Deluge](https://dev.deluge-torrent.org/wiki/Download)
+- [PicoTorrent](https://picotorrent.org/download/)
+- [Transmission](https://transmissionbt.com/download/)
 
 ## **Direct Downloading Software:**
 
 To direct download, use these programs:
 
-**Moderators' choice: JDownloader2**
+**Moderators' choice: [JDownloader2](http://jdownloader.org/jdownloader2)**
 
 Other noteworthy mentions:
 
-- Internet Download Manager.
-- pyLoad
-- Xtreme Download Manager
+- [Internet Download Manager.](https://www.internetdownloadmanager.com/download.html)
+- [pyLoad](https://pyload.net/)
+- [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
 ## **Debrid service:**
+
 A debrid service will convert premium / slow file host links into faster download links, just for you.
 
-**Moderators' Choice: Real Debrid**
+**Moderators' Choice: [Real Debrid](https://real-debrid.com/)**
 
 Other noteworthy mentions:
 
-- AllDebrid
-- Premiumize
+- [AllDebrid](https://alldebrid.com/)
+- [Premiumize](https://www.premiumize.me/)
 
 ## **Tools:**
 These tools are helpful with cracking your own games.
 
-- ALi213 Steam Emulator - Emulate Steam
-- Auto CreamAPI - Automatically set your game up for CreamAPI.
-- Auto Steamworks Fix Tool - Automatically create Steamworks Fixes.
-- CODEX Steam Emulator - Emulate Steam
-- CreamAPI - Unlock pirated DLC on legitimate Steam Games.
+- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) - Emulate Steam
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks Fixes.
+- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) - Emulate Steam
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLC on legitimate Steam Games.
 - GoldBerg Emulator - Emulate Steam
 - Lucky Patcher - Patch Android Apps (better with root)
 - LumaPlay - Emulate Uplay
