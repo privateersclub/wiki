@@ -162,8 +162,8 @@ These don't help much with online piracy, but will make your browsing much more 
 - HTTPS Everywhere
 - Privacy Badger
 - Trace
-- Ublock Origin
-- Universal Bypass
+- [Ublock Origin](https://github.com/gorhill/uBlock)
+- [Universal Bypass](https://universal-bypass.org/)
 
 ## **DNS:**
 
