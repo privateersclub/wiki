@@ -158,9 +158,9 @@ These tools are helpful with cracking your own games.
 
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-- Decentraleyes
-- HTTPS Everywhere
-- Privacy Badger
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+- [Privacy Badger](https://privacybadger.org/)
 - Trace
 - [Ublock Origin](https://github.com/gorhill/uBlock)
 - [Universal Bypass](https://universal-bypass.org/)
