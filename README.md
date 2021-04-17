@@ -152,7 +152,7 @@ These tools are helpful with cracking your own games.
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
 
-**Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://saidit.net/s/sjain_guides)**
+**Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
 ## **Useful Browser Extensions:**
 
