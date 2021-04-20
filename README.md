@@ -146,6 +146,7 @@ These tools are helpful with cracking your own games.
 ## **Useful Software:**
 
 - [7zip File Manager](https://www.7-zip.org/) - Better than WinRAR.
+- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - View every achievement earned on your PC whether it's coming from Steam, a Steam emulator, and more.
 - [BleachBit](https://www.bleachbit.org/) - System Cleaner, safer than CCLeaner.
 - [Bitwarden](https://bitwarden.com/) - Open Source Password Management Solution.
 - [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
