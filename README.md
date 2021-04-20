@@ -3,7 +3,7 @@
 **Here's the r/PiratedGames Mega Thread!**
 
 ## **Torrent Sites:**
-- **Moderators' choice:** [RARBG](https://rarbg.to/) - Safe torrents, best quality.
+- **Moderators' choice: [RARBG](https://rarbg.to/)** - Safe torrents, best quality.
 
 Other noteworthy mentions:
 
@@ -19,7 +19,7 @@ Other noteworthy mentions:
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
 ## **Direct Download Sites:**
-**Moderator's Choice:** [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/) - Best place for any game, this should be the first place you check. Does not allow Scene releases.
+**Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
 
 **Other noteworthy mentions:**
 
@@ -198,8 +198,7 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 - crackingpatching - Malware Risk
 - Pirate Bay - Malware Risk
 - Kickass Torrents - Malware Risk
-
-**Any site with a scene group name in the URL - SCENE GROUPS DON'T HAVE SITES!**
+- Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
 
 Anybody caught linking a website the moderators deem unsafe will have their comments removed in order to keep people safe on the subreddit!
 
