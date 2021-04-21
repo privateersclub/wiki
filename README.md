@@ -53,7 +53,7 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 - [Gnarly](https://gnarly-repacks.site/)
 - [KaosKrew](https://kaoskrew.org/)
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
-- [M4ckD0ge](https://m4ckd0ge-repacks.me/)
+- [M4ckDOge](https://m4ckd0ge-repacks.me/)
 - [Masquerade](https://masquerade.site/)
 - MJ DJ
 - R.G. Catalyst
