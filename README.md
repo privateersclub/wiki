@@ -152,7 +152,8 @@ These tools are helpful with cracking your own games.
 - [QuickSFV](https://www.quicksfv.org/download.html) - Verify checksums and generate hash info.
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
-
+## **Redist Files*:*
+in redist/ these files allow to run cracked games and compensate for dll errors
 **Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
 
 ## **Useful Browser Extensions:**
