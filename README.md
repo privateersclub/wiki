@@ -19,7 +19,7 @@ Other noteworthy mentions:
 **We do not recommend The Pirate Bay or Kickass Torrents due to how easy it is to pick up malware.**
 
 ## **Direct Download Sites:**
-**Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
+- **Moderator's Choice: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Best place for any game, this should be the first place you check. Does not allow Scene releases.
 
 **Other noteworthy mentions:**
 
