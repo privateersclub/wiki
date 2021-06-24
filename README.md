@@ -108,7 +108,7 @@ Other noteworthy mentions:
 
 To direct download, use these programs:
 
-**Moderators' choice: [JDownloader2](http://jdownloader.org/jdownloader2)**
+- **Moderators' choice: [JDownloader2](http://jdownloader.org/jdownloader2)**
 
 Other noteworthy mentions:
 
