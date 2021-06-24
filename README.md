@@ -171,7 +171,7 @@ These don't help much with online piracy, but will make your browsing much more 
 
 Using a privacy-focused DNS can speed up your browsing experience as well as make your network traffic more secure (NOT a VPN substitute):
 
-**Moderators' Choice: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html)**
+- **Moderators' Choice: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html)**
 
 More trusted DNS providers can be found [here](https://www.privacytools.io/providers/dns/).
 
