@@ -45,6 +45,7 @@ Oculus Quest users can download games from [this thread](https://cs.rin.ru/forum
 Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
 
 - [BlackBox](http://www.blackboxrepack.com/)
+- [Chovka](https://repack.info/)
 - [CPG Repacks](http://cpgrepacks.site/)
 - [Dodi](http://dodi-repacks.site/)
 - [Darck](https://darckrepacks.com/)
