@@ -120,7 +120,7 @@ Other noteworthy mentions:
 
 A debrid service will convert premium / slow file host links into faster download links, just for you.
 
-**Moderators' Choice: [Real Debrid](https://real-debrid.com/)**
+- **Moderators' Choice: [Real Debrid](https://real-debrid.com/)**
 
 Other noteworthy mentions:
 
