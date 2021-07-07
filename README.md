@@ -68,7 +68,7 @@ Repacks are highly compressed game downloads, designed for people with slow/limi
 
 Please note, none of these sites provide downloads, only information on Scene/P2P releases.
 
-- **Moderator's Choice: r/CrackWatch** - Straight to the point for videogames.
+- **Moderator's Choice: [r/CrackWatch](https://reddit.com/r/crackwatch)** - Straight to the point for videogames.
 
 Other noteworthy mentions:
 
@@ -178,7 +178,7 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 
 ## **VPNs:**
 
-- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards r/VPN.
+- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards [/VPN](http://reddit.com/r/vpn).
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
