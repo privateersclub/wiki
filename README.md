@@ -87,7 +87,7 @@ Please note that the "crackwatch" website is not recommended since it is not off
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com/)
 - [Romulation](https://www.romulation.net/)
-- r/ROMS
+- [r/ROMS](https://reddit.com/r/roms)
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/) - DDL site for Nintendo and Playstation ROMS.
 
@@ -112,7 +112,9 @@ To direct download, use these programs:
 
 Other noteworthy mentions:
 
+- [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager.](https://www.internetdownloadmanager.com/download.html)
+- [Motrix](https://motrix.app/)
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
@@ -120,10 +122,7 @@ Other noteworthy mentions:
 
 A debrid service will convert premium / slow file host links into faster download links, just for you.
 
-- **Moderators' Choice: [Real Debrid](https://real-debrid.com/)**
-
-Other noteworthy mentions:
-
+- [Real Debrid](https://real-debrid.com/)
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
 
@@ -140,13 +139,13 @@ These tools are helpful with cracking your own games.
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulate Uplay
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Unlock pirated DLC in legitimate Origin games. Only confirmed working for The Sims 4.
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - A Broad Collection of Steam Tools
+- [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) 
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulate Steam
 - [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Remove Steam DRM from EXE files (to be used with a Steam Emulator)
 
 ## **Useful Software:**
 
-- [7zip File Manager](https://www.7-zip.org/) - Better than WinRAR.
+- [7zip File Manager](https://www.7-zip.org/) - Better than WinRAR, open source.
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - View every achievement earned on your PC whether it's coming from Steam, a Steam emulator, and more.
 - [BleachBit](https://www.bleachbit.org/) - System Cleaner, safer than CCLeaner.
 - [Bitwarden](https://bitwarden.com/) - Open Source Password Management Solution.
@@ -154,13 +153,15 @@ These tools are helpful with cracking your own games.
 - [WinRAR](https://www.rarlab.com/) - Alternative to 7zip.
 - [Vapor Store](https://github.com/CrypticShy/vapor-store) - A store (similar to Steam!) where you can download cracked games!
 
-**Not game related, but for Microsoft Products and Adobe Products, [go to the backup of r/sjain_guides.](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides)**
+**For Microsoft products (Windows/Office) you can use [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) to activate them.**
+
+**For Adobe products, visit [monkrus](http://monkrus.ws/).**
 
 ## **Useful Browser Extensions:**
 
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)
+- [Decentraleyes/LocalCDN](https://git.synz.io/Synzvato/decentraleyes)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
@@ -196,6 +197,8 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 - BBRepacks - Fake BlackBox Repacks, contain malware.
 - OceanOfGames - High malware risk.
 - nosTEAM
+- xGIROx - repacks contain bitcoin miners.
+- Seyter - repacks contain bitcoin miners
 - cracked-games.org - Malware Risk.
 - crackingpatching - Malware Risk
 - Pirate Bay - Malware Risk
