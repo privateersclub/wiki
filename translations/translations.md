@@ -1,7 +1,7 @@
 # Translations/How to translate
 
 * Translations
- - Russian
+  - Russian
 
 * How to translate the repo.
 
