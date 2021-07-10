@@ -210,3 +210,8 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 **We will keep this thread updated, so check back every so often!**
 
 **If you have any recommendations for the Mega Thread, please comment below! Unsafe sites will be removed by the moderators.**
+
+
+## **Translations:**
+
+See translations.
