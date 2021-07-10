@@ -27,7 +27,7 @@
 **Пометка от переводчика: А также не скачивайте первую попавшуюся игру с поисковика, чтоб не было вирусов**.
 
 ## **Сайты прямой загрузки (DDL):**
-- **Выбор модератора: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Лучшее место для любой игры, это должно быть первое место, которое вы проверяете. Не разрешает релизы Scene.
+- **Выбор модератора: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Лучшее место для любой игры, это должно быть первое место, которое вы проверяете. Не разрешает релизы сцены.
 
 **Другие заслуживающие внимания упоминания:**
 
@@ -170,7 +170,7 @@
 
 Эти расширения не сильно помогают в борьбе с пиратством в Интернете, но сделают ваш просмотр сайтов более приватным и безопасным.
 
-- [Decentraleyes/LocalCDN](https://git.synz.io/Synzvato/decentraleyes)
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
@@ -223,4 +223,4 @@
 
 ## **Другие переводы:**
 
-См. [переводы](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md).
+См. **[переводы](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
