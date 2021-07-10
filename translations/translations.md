@@ -1,13 +1,13 @@
 # Translations/How to translate
 
 * Translations
-    * Russian
+
 
 * How to translate the repo.
 
 ## Translations:
 
-- Russian Translations by Cerda (@AndreVuillemot160)
+
 
 ## How to translate:
 
