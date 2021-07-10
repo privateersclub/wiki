@@ -178,7 +178,7 @@ More trusted DNS providers can be found [here](https://www.privacytools.io/provi
 
 ## **VPNs:**
 
-- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards [/VPN](http://reddit.com/r/vpn).
+- Recommending a VPN service is very difficult, so we'd like to point your VPN related questions towards [r/VPN](http://reddit.com/r/vpn).
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
