@@ -214,4 +214,4 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 
 ## **Translations:**
 
-See translations.
+See [translations](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md).
