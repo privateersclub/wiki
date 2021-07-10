@@ -161,7 +161,7 @@ These tools are helpful with cracking your own games.
 
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-- [Decentraleyes/LocalCDN](https://git.synz.io/Synzvato/decentraleyes)
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
