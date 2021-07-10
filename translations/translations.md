@@ -16,6 +16,7 @@ All translations are welcome, we don't really expect much from a PR right now, b
 - Try to keep it decent, we don't want *actual* native speakers to be confused with half-baked translations, so atleast have basic knowledge of said language. Also, you are not allowed to use translators like Google Translate.
 
 - You are not allowed to add your own stuff in, nor allowed to upload files or modify the format, it **must** be 1:1 exact to this repo excepting translations.
+ - Feel free to add your contacts if you want at last.
 
 - You are supposed to update/manage it whenever the main repo updates with an Pull Request, if you miss out on atleast 3 updates, your translation will be removed.
 
