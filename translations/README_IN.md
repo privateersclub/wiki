@@ -5,8 +5,8 @@
 Diterjemahkan oleh myudak .Jika ada kesalahan, buat PR .Dan Anda juga bisa kontak saya di sini.
 | Layanan | Alamat |
 | -------- | -------- |
-|** Instagram ** |[@m.yudak] (https://www.instagram.com/m.yudak/) |
-|** Email ** | myudak@protonmail.com |
+|**Instagram** |[@m.yudak](https://www.instagram.com/m.yudak/) |
+|**Email** | myudak@protonmail.com |
 
 ## **Situs torrent:**
 
