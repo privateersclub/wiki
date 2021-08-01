@@ -25,7 +25,7 @@ Other noteworthy mentions:
 
 - [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
 - [GLOAD](https://gload.cc/) - German DDL site.
-- [Gamesdrive.co](https://gamesdrive.net/) - Repacks and Scene game downloads.
+- [Gamesdrive.net](https://gamesdrive.net/) - Repacks and Scene game downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
 - [Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
