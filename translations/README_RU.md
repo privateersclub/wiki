@@ -33,7 +33,7 @@
 
 - [CrackHub](https://crackhub.site/) - DDL для сюжетных игр и репаков FitGirl.
 - [GLOAD](https://gload.cc/) - немецкий сайт DDL.
-- [Gamesdrive.co](https://gamesdrive.co/) - Репаки и загрузки сценовских игр.
+- [Gamesdrive.net](https://gamesdrive.net) - Репаки и загрузки сценовских игр.
 - [GOG Games](https://gog-games.com/) - Игры GOG.
 - [Mobilisim](https://forum.mobilism.org/index.php) - Мобильные приложения и игры.
 - [MyAbandonware](https://www.myabandonware.com/) - Старые/ретро игры.
