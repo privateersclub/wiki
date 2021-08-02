@@ -33,7 +33,7 @@ Pilihan penting lainnya:
 
 -   [CrackHub](https://crackhub.site/) - DDL untuk game scene dan FitGirl repacks.
 -   [GLOAD](https://gload.cc/) - Situs DDL Jerman.
--   [Gamesdrive.co](https://gamesdrive.co/) - Repacks dan download Scene game.
+-   [Gamesdrive.net](https://gamesdrive.net/) - Repacks dan download Scene game.
 -   [GOG Games](https://gog-games.com/) - Game-game GOG.
 -   [Mobilisim](https://forum.mobilism.org/index.php) - Aplikasi dan game seluler.
 -   [MyAbandonware](https://www.myabandonware.com/) - Game lama/retro.
