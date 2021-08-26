@@ -24,6 +24,7 @@ Other noteworthy mentions:
 **Other noteworthy mentions:**
 
 - [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
+- [Crackhub [Scene Games]](https://scene.crackhub.site/) - Takes you directly to Crackhub's scene uploads.
 - [GLOAD](https://gload.cc/) - German DDL site.
 - [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
@@ -72,6 +73,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 
 Other noteworthy mentions:
 
+- [predb.me](https://predb.me/)
 - [predb.org](https://predb.org/)
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
