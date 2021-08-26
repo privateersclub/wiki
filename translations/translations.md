@@ -1,14 +1,9 @@
 # Translations/How to translate
 
-* Translations
-  - Russian
-
-* How to translate the repo.
-
 ## Translations:
 
-- [Russian translation by @AndreVuillemot160.](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/README_RU.md)
-
+- [Russian translation by @AndreVuillemot160](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/README_RU.md)
+- [Indonesian translation by @Sampahcokk-dev](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/README_IN.md)
 
 ## How to translate:
 
