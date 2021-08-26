@@ -26,7 +26,7 @@ Other noteworthy mentions:
 - [CrackHub](https://crackhub.site/) - DDL for scene games and FitGirl repacks.
 - [Crackhub [Scene Games]](https://scene.crackhub.site/) - Takes you directly to Crackhub's scene uploads.
 - [GLOAD](https://gload.cc/) - German DDL site.
-- [Gamesdrive.co](https://gamesdrive.co/) - Repacks and Scene game downloads.
+- [Gamesdrive.net](https://gamesdrive.net/) - Repacks and Scene game downloads.
 - [GOG Games](https://gog-games.com/) - GOG Games.
 - [Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
@@ -163,7 +163,7 @@ These tools are helpful with cracking your own games.
 
 These don't help much with online piracy, but will make your browsing much more private and safe.
 
-- [Decentraleyes/LocalCDN](https://git.synz.io/Synzvato/decentraleyes)
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
@@ -216,4 +216,4 @@ Anybody caught linking a website the moderators deem unsafe will have their comm
 
 ## **Translations:**
 
-See [translations](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md).
+See **[translations](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
