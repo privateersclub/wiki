@@ -1,4 +1,4 @@
-## piratedgames-megathread
+## piratedgames-megathread - [Uptime monitor](https://taskylizard.github.io/probable-chainsaw)
 
 **Here's the r/PiratedGames Mega Thread!**
 
