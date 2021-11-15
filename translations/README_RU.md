@@ -1,4 +1,4 @@
-## piratedgames-megathread
+## piratedgames-megathread - [Айтайм сайтов](https://taskylizard.github.io/probable-chainsaw)
 
 **Здесь находится мега-тред r/PiratedGames!**
 
