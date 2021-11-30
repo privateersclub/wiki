@@ -5,6 +5,8 @@
 
 ### Torrent Sites
 
+You will likely need a VPN to download torrents to avoid receiving Copyright notices from your ISP - unless, your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads - you download from other people who have downloaded the file. No servers are involved.
+
 - [1337X](https://1337x.to/)
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
 - [NXMAC](https://nxmac.com/)
@@ -17,54 +19,75 @@
 
 ### Direct Download Sites
 
+Direct Downloads are any normal download. You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. In some cases, you will need a VPN to access blocked filehost sites (e.g. ZippyShare is blocked in some EU countries). It is recommended to use a Download Manager mentioned further down the Mega Thread to help manage your downloads.
+
 - [CrackHub](https://crackhub.site) - for scene games and FitGirl repacks.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - takes you directly to CrackHub213's scene uploads.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
+- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - use Google Translate.
 - [G4U](https://g4u.to/)
 - [GLOAD](https://gload.cc/)
 - [Gamesdrive](https://gamesdrive.net)
 - [GOG Games](https://gog-games.com/)
-- [Mobilisim](https://forum.mobilism.org/index.php) - Mobile apps and games.
+- [iPhone Cake](https://www.iphonecake.com/) - For cracked iOS apps and games.
+- [Mobilisim](https://forum.mobilism.org/index.php) - Android apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
+- [OldGamesDownload](https://oldgamesdownload.com/) - Old games.
 - [Online-Fix](https://online-fix.me) - Online multiplayer games.
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
+- [SKlauncher](https://skmedix.pl/sklauncher) - for Minecraft.
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
-**For Crack Only files, NoCD fixes and trainers, go to [GameCopyWorld](https://gamecopyworld.com/games/index.php).**
+### Trainers (Cheats)
+
+Note: these are not for online games. Do not use cheats in online games!
+
+- [Fearless Revolution](https://fearlessrevolution.com/) - has Cheat Engine tables.
+- [FLiNG Trainers](https://flingtrainer.com/)
+- [WeMod](https://www.wemod.com/)
+- [MrAntiFun](https://mrantifun.net/)
+- [GameCopyWorld](https://gamecopyworld.com/games/index.php) - also has crack only / NoCD fixes.
 
 ### Repacks
 
 Repacks are highly compressed games, designed for people with slow/limited internet bandwidth. Once you download them, you must install them on your computer which can take a long time due to file decompression.
 
 - [Chovka](https://repack.info/)
-- [CPG Repacks](http://cpgrepacks.site)
-- [DODI Repacks](http://dodi-repacks.site/)
+- [CPG Repacks](https://cpgrepacks.site)
+- [DODI Repacks](https://dodi-repacks.site/)
 - [Darck Repacks](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site)
-- [FitGirl Repacks](http://fitgirl-repacks.site)
+- [FitGirl Repacks](https://fitgirl-repacks.site)
+- [Gnarly Repacks](https://gnarly-repacks.site)
 - [KaosKrew](https://kaoskrew.org/)
-- [Kapital Sin](http://www.kapitalsin.com/forum/)
+- [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
 - [Masquerade Repacks](https://masquerade.site)
-- Mr DJ
-- R.G. Catalyst
-- R.G. Mechanics
-- R.G. Revenants
+- Mr DJ (Does not have any official site.)
+- R.G. Catalyst (Does not have any official site.)
+- R.G. Mechanics (Does not have any official site.)
+- R.G. Revenants (Does not have any official site.)
 - [Scooter Repacks](https://scooter-repacks.site)
 - [Xatab](https://xatab-repack.com/)
+- ZAZIX
 
 ### Release Networks
 
-Please note, none of these sites provide downloads, only information on Scene/P2P releases.
+Please note, none of these sites provide downloads, only information on Scene/P2P releases. Looking to see if a game is cracked? Check here!
 
 - [CrackWatch](https://reddit.com/r/CrackWatch)
+- [CrackForecast](https://reddit.com/r/CrackForecast) - joke subreddit to answer "When will X game be cracked?" question.
 - [m2v.ru](http://m2v.ru/)
+- [predb.de](https://predb.de/)
 - [predb.me](https://predb.me/?cats=games-pc)
 - [predb.org](https://predb.org)
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
+- [srrDB](https://www.srrdb.com/)
 - [xREL](https://xrel.to)
 
 ### ROM Sites
@@ -80,13 +103,36 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/)
 
+### Emulators
+
+- [Citra](https://citra-emu.org/) - for 3DS games.
+- [DeSmeME](https://desmume.org/) - for DS games.
+- [Dolphin Emulator](https://dolphin-emu.org/) - for GameCube / Wii games.
+- [ePSXe](https://www.epsxe.com/) - for PlayStation 1 games.
+- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) - for SEGA Genesis / Mega Drive games.
+- [MAME](https://www.mamedev.org/index.php) - for Arcade games.
+- [No$GBA](https://www.nogba.com/) - for GBA and DS games.
+- [Project64](https://www.pj64-emu.com/) - for Nintendo 64 games.
+- [PCSX2](https://pcsx2.net/) - for PS2 games.
+- [PPSSPP](https://www.ppsspp.org/index.html) - for PSP games.
+- [RCPS3](https://rpcs3.net/) - for PS3 games.
+- [RetroArch](https://www.retroarch.com/)
+- [Ryujinx](https://ryujinx.org/) - for Nintendo Switch games.
+- [Yuzu](https://yuzu-emu.org/) - for Nintendo Switch games.
+- [Xemu](https://xemu.app/) - for original XBOX games.
+- [Xenia](https://xenia.jp/) - for XBOX 360 games.
+- [ZSNES](https://www.zsnes.com/) - for SNES games.
+
 ### Torrent Software
 
 - [BiglyBT](https://www.biglybt.com/download/)
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - for Android devices.
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Qbittorrent](https://www.qbittorrent.org/download.php)
 - [Transmission](https://transmissionbt.com/download/)
+- [Vuze](http://www.vuze.com/)
+- [Tixati](https://tixati.com/)
 
 ### Direct Downloading Software
 
@@ -115,7 +161,9 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [7-Zip](https://www.7-zip.org/)
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/)
 - [Bitwarden](https://bitwarden.com/) - Open source password manager.
+- [Parsec](https://parsec.app/) - play local multiplayer games from anywhere.
 - [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verify checksums and generate hash info.
+- [Tor Browser](https://www.torproject.org/download/)
 - [WinRAR](https://www.rarlab.com/)
 
 **For Microsoft products (Windows/Office) you can use [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) to activate them.**
@@ -136,7 +184,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 
 - [r/VPN](https://reddit.com/r/VPN)
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
-- [VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
+- [VPN Comparison Chart on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
 
 **Tor is NOT a VPN, it will not protect you when torrenting!**
 
@@ -149,15 +197,18 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 
 ### Untrusted sites / uploaders
 
-- AGFY
+- AGFY - scam links
 - IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
 - BBRepacks - Fake BlackBox Repacks, contain malware.
 - OceanOfGames - High malware risk.
 - nosTEAM
 - xGIROx - repacks contain bitcoin miners.
-- Seyter - repacks contain bitcoin miners
-- cracked-games.org - Malware Risk.
-- crackingpatching - Malware Risk
-- Pirate Bay - Malware Risk
-- Kickass Torrents - Malware Risk
+- Seyter - repacks contain bitcoin miners.
+- SteamRip - full of ads.
+- SteamUnlocked - slow downloads, malicious link redirects and uploads stolen from IGG Games.
+- cracked-games  - Malware Risk.
+- crackingpatching - Malware Risk.
+- RepackGames - mislabel games and steal releases.
+- Pirate Bay - Malware Risk.
+- Kickass Torrents - Malware Risk.
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
