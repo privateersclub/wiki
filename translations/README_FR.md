@@ -2,7 +2,7 @@
 
 **Voici le Mega Thread de r/PiratedGames!**
 
-### Sites de Torrents:
+### Sites de Torrents
 
 Vous allez probzblement avoir besoin d'un VPN pour télécharger des torrents et éviter de recvoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des tékéchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
 
@@ -21,7 +21,7 @@ Autres mentions:
 
 **Nous ne recommendons pas The Pirate Bay ou Kickass Torrents car il est très facile de télécharger des virus.**
 
-### Sites de Téléchargement Direct:
+### Sites de Téléchargement Direct
 
 Les téléchargements directs sont des téléchargements normaux. Vous téléchargez un fichier à partir d'un serveur en passant par un naviguateur. Il est nettement plus sûr de télécharger de cette facon et vous n'aurez pas besoin de VPN. Dans certains cas, vous aurez besoin d'un VPN pour accéder à des sites d'hébergement de fichiers (e.x. ZippyShare est bloqué dans certains pays d'Europe). Il est recommendé d'utilisé un gestionnaire des téléchargements mentionné plus loin dans le Mega Thread pour vous aider à gérer vos téléchargements.
 
@@ -125,7 +125,7 @@ Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas o
 - [ZSNES](https://www.zsnes.com/) - Pour les jeux SNES
 
 
-### Sites de ROM:
+### Sites de ROM
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgemu.net/)
@@ -137,7 +137,7 @@ Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas o
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/) - Site de téléchargement pour ROM PlayStation et Nintendo.
 
-### Logiciels de Torrents:
+### Logiciels de Torrents
 
 Pour télécharger des torrents, utilisez ces logiciels:
 
@@ -153,7 +153,7 @@ Autres mentions:
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
 
-### Logiciels de Téléchargements Directs:
+### Logiciels de Téléchargements Directs
 
 Pour télécharger directement, utilisez ces logiciels:
 
@@ -193,7 +193,7 @@ Ces outils sont utiles pour cracker vos propres jeux.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulez Steam
 - [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Enlevez le DRM Steam de fichiers EXE (utilisé avec un emulateur Steam)
 
-### Logiciels Utiles:
+### Logiciels Utiles
 
 - [7zip File Manager](https://www.7-zip.org/) - Meilleur que WinRAR, open source.
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - Visualisez tous les succès sur votre PC même s'il vient de Steam, d'un emulateur Steam et plus encore.
@@ -209,7 +209,7 @@ Ces outils sont utiles pour cracker vos propres jeux.
 
 **Pour des produits Adobe, visitez [monkrus](http://monkrus.ws/).**
 
-### Extensions de Naviguateur Utiles:
+### Extensions de Naviguateur Utiles
 
 Ces extensions n'aident pas beaucoup pour le piratage en-ligne, mais vont rendre votre naviguation beaucoup plus sûre et respectueuse de votre vie privée.
 
@@ -220,7 +220,7 @@ Ces extensions n'aident pas beaucoup pour le piratage en-ligne, mais vont rendre
 - [Ublock Origin](https://github.com/gorhill/uBlock)
 - [Universal Bypass](https://universal-bypass.org/)
 
-### DNS:
+### DNS
 
 En utilisant un DNS axé sur la protection de la vie privée, vous pouvez accélérer votre experience de naviguation et rendre votre traffic Internet plus sûr. (N'EST PAS UN REMPLACEMENT A UN VPN):
 
@@ -228,7 +228,7 @@ En utilisant un DNS axé sur la protection de la vie privée, vous pouvez accél
 
 Plus de fournisseurs DNS peuvent être trouvés [ici](https://www.privacytools.io/providers/dns/)
 
-### VPNs:
+### VPNs
 
 - [r/VPN](https://reddit.com/r/VPN)
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
@@ -236,14 +236,14 @@ Plus de fournisseurs DNS peuvent être trouvés [ici](https://www.privacytools.i
 
 **Tor n'est PAS un VPN, il ne vous protégera PAS quand vos téléchargez des Torrents!**
 
-### Logiciels non sécurisés:
+### Logiciels non sécurisés
 
 - Bittorrent - Meme chose que Utorrent, a des pubs, trackers et est non securisé.
 - Utorrent - Meme chose que Bittorrent, a des pubs, trackers et est non securisé.
 - CCleaner - Appartient a Avast.
 - Avast - Connu pour la collection de données et la revente de celles-ci.
 
-### Sites non Fiables:
+### Sites non Fiables
 
 - AGFY - Arnaques.
 - IGG Games/ PC Games Torrents - Ils ont [doxxé](https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles) mercs213 (propriétaire de GoodOldDownloads), emballent leur propre DRM dans des jeux indés et vous exploite pour l'argent des pubs.
@@ -272,6 +272,6 @@ Quiconque se fait prendre en train de publier des liens vers un site que les mod
 
 **Si vous avez quelconque recommendation pour ce Mega Thread, veuillez Commenter! Les sites non-fiables seront supprimés pas les moderateurs.**
 
-### Traductions:
+### Traductions
 
 Veuillez Consulter les **[traductions](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
