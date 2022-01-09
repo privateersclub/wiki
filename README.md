@@ -3,19 +3,22 @@
 
 ---
 
-### Required Components
-
+### Required Components:
 You will need to install all of these before downloading any games (legitimate or pirated!) to stop games crashing due to missing software on your computer:
 
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 
-### Torrent Sites
+### Related Subreddits:
 
+- [r/Piracy](https://reddit.com/r/Piracy)
+- [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
+
+### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving Copyright notices from your ISP - unless, your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads - you download from other people who have downloaded the file. No servers are involved.
 
-- [1337X](https://1337x.to/)
+- [1337X](https://1337x.to/) - Do not download torrents uploaded by IGG games.
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
 - [NXMAC](https://nxmac.com/)
 - [RARBG](https://rarbg.to/)
@@ -25,12 +28,11 @@ You will likely need a VPN to download torrents to avoid receiving Copyright not
 - [Tapochek](https://tapochek.net/index.php)
 - [Torrents.csv](https://torrents-csv.ml/)
 
-### Direct Download Sites
-
+### Direct Download Sites:
 Direct Downloads are any normal download. You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. In some cases, you will need a VPN to access blocked filehost sites (e.g. ZippyShare is blocked in some EU countries). It is recommended to use a Download Manager mentioned further down the Mega Thread to help manage your downloads.
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - for scene games and FitGirl repacks.
+- [CrackHub](https://crackhub.site) - for scene games and FitGirl repacks. 
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - takes you directly to CrackHub213's scene uploads.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
@@ -45,15 +47,14 @@ Direct Downloads are any normal download. You download the file from a server th
 - [Mobilisim](https://forum.mobilism.org/index.php) - Android apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
 - [OldGamesDownload](https://oldgamesdownload.com/) - Old games.
-- [Online-Fix](https://online-fix.me) - Online multiplayer games.
+- [Online-Fix](https://online-fix.me) - Online multiplayer games. 
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
 - [SKlauncher](https://skmedix.pl/sklauncher) - for Minecraft.
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
-### Trainers (Cheats)
-
+### Trainers (Cheats):
 Note: these are not for online games. Do not use cheats in online games!
 
 - [Fearless Revolution](https://fearlessrevolution.com/) - has Cheat Engine tables.
@@ -62,12 +63,11 @@ Note: these are not for online games. Do not use cheats in online games!
 - [MrAntiFun](https://mrantifun.net/)
 - [GameCopyWorld](https://gamecopyworld.com/games/index.php) - also has crack only / NoCD fixes.
 
-### Repacks
-
+### Repacks:
 Repacks are highly compressed games, designed for people with slow/limited internet bandwidth. Once you download them, you must install them on your computer which can take a long time due to file decompression.
 
 - [Chovka](https://repack.info/)
-- [CPG Repacks](https://cpgrepacks.site)
+- [CPG Repacks](https://cpgrepacks.site) 
 - [DODI Repacks](https://dodi-repacks.site/)
 - [Darck Repacks](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site)
@@ -85,8 +85,7 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
 
-### Release Networks
-
+### Release Networks:
 Please note, none of these sites provide downloads, only information on Scene/P2P releases. Looking to see if a game is cracked? Check here!
 
 - [CrackWatch](https://reddit.com/r/CrackWatch)
@@ -102,7 +101,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [srrDB](https://www.srrdb.com/)
 - [xREL](https://xrel.to)
 
-### ROM Sites
+### ROM Sites:
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
@@ -116,7 +115,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/)
 
-### Emulators
+### Emulators:
 
 - [Bsnes](https://bsnes.dev/) - for SNES games.
 - [Cemu](http://cemu.info/) - for Wii U games.
@@ -142,7 +141,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Xenia](https://xenia.jp/) - for XBOX 360 games.
 - [ZSNES](https://www.zsnes.com/) - for SNES games.
 
-### Torrent Software
+### Torrent Software:
 
 - [BiglyBT](https://www.biglybt.com/download/)
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
@@ -153,16 +152,16 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
 
-### Direct Downloading Software
+### Direct Downloading Software:
 
-- [FreeDownloadManager](https://www.freedownloadmanager.org/)
+- [FreeDownloadManager](https://www.freedownloadmanager.org/) 
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html).
 - [JDownloader2](http://jdownloader.org/jdownloader2)
-- [Motrix](https://motrix.app/)
+- [Motrix](https://motrix.app/) 
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
-### Tools
+### Tools:
 
 - [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
 - [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks Fixes.
@@ -175,7 +174,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
-### Useful Software
+### Useful Software:
 
 - [7-Zip](https://www.7-zip.org/)
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/)
@@ -189,7 +188,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 
 **For Adobe products, visit [monkrus.ws](http://monkrus.ws).**
 
-### Useful Browser Extensions
+### Useful Browser Extensions:
 
 - [Decentraleyes](https://decentraleyes.org/)
 - [LocalCDN](https://www.localcdn.org/)
@@ -199,22 +198,21 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - Trace
 - [Ublock Origin](https://ublockorigin.com/)
 
-### VPNs
-
+### VPNs:
 - [r/VPN](https://reddit.com/r/VPN)
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
 
 **Tor is NOT a VPN, it will not protect you when torrenting!**
 
-### Unsafe software
+### Unsafe software:
 
 - Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
 - Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
 - CCleaner - Owned by Avast.
 - Avast - Notorious for collecting and selling user data.
 
-### Untrusted sites / uploaders
+### Untrusted sites / uploaders:
 
 - AGFY - scam links
 - Apunkagames
@@ -222,7 +220,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - BBRepacks - Fake BlackBox Repacks, contain malware.
 - OceanOfGames - High malware risk.
 - nosTEAM
-- xGIROx - repacks contain bitcoin miners.
+- xGIROx - repacks contain bitcoin miners. 
 - Seyter - repacks contain bitcoin miners.
 - SteamRip - full of ads.
 - SteamUnlocked / GOG Unlocked - slow downloads, malicious link redirects and uploads stolen from IGG Games.
