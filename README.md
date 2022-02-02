@@ -1,8 +1,5 @@
-<!-- markdownlint-disable MD041 -->
 **Here's the /r/PiratedGames Mega Thread!** - [translations](translations/) / [License](LICENSE)
-
 ---
-
 ### Required Components:
 You will need to install all of these before downloading any games (legitimate or pirated!) to stop games crashing due to missing software on your computer:
 
@@ -12,6 +9,10 @@ You will need to install all of these before downloading any games (legitimate o
 
 ### Related Subreddits:
 
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/Piracy](https://reddit.com/r/Piracy)
 - [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
 
@@ -77,10 +78,10 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 - [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
 - [Masquerade Repacks](https://masquerade.site)
-- Mr DJ (Does not have any official site.)
-- R.G. Catalyst (Does not have any official site.)
-- R.G. Mechanics (Does not have any official site.)
-- R.G. Revenants (Does not have any official site.)
+- Mr DJ
+- R.G. Catalyst 
+- R.G. Mechanics
+- R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
@@ -222,7 +223,6 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - nosTEAM
 - xGIROx - repacks contain bitcoin miners. 
 - Seyter - repacks contain bitcoin miners.
-- SteamRip - full of ads.
 - SteamUnlocked / GOG Unlocked - slow downloads, malicious link redirects and uploads stolen from IGG Games.
 - cracked-games  - Malware Risk.
 - crackingpatching - Malware Risk.
