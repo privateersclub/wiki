@@ -2,54 +2,55 @@
 
 **Voici le Mega Thread de r/PiratedGames!**
 
+### Composants Necessaires:
+
+Vous allez devoir installer tous ces composants avant de télécharger un jeux (légitime ou piraté!) pour prévenirs d'éventuels plantages dans des jeux:
+
+- [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+- [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
+- [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
+
+### Subredits Connexes:
+
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/Piracy](https://reddit.com/r/Piracy)
+- [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
+
 ### Sites de Torrents
 
 Vous allez probzblement avoir besoin d'un VPN pour télécharger des torrents et éviter de recvoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des tékéchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
 
-- **Choix des Moderateurs: [RARBG](https://rarbg.to)** - Torrents sûrs, meilleure qualité.
-
-Autres mentions:
-
-- [1337X](https://1337.to/) - Beaucoup de contenu avec une bonne équipe de modération.
-- [Mac Torrents](https://mac-torrents.io/mac-games/) - Torrents pour Mac.
-- [NXMAC](https://nxmac.com/) - Jeux Macs.
-- [RuTor](http://www.rutor.info/) - Trackeurs de torrents Russe.
-- [RuTracker](https://rutracker.org/) - Forums de torrents Russe.
-- [Rustorka](http://rustorka.com/) - Trackeur de torrents Russe.
-- [Tapochek](https://tapochek.net/index.php) - Tracker de torrents Russe.
-- [Torrents.csv](https://torrents-csv.ml/) - Moteur de recherche pour torrents.
-
-**Nous ne recommendons pas The Pirate Bay ou Kickass Torrents car il est très facile de télécharger des virus.**
+- [1337X](https://1337x.to/) - Ne téléchargez pas les torrents soumis par IGG Games
+- [Mac Torrents](https://mac-torrents.io/mac-games/)
+- [NXMAC](https://nxmac.com/)
+- [RARBG](https://rarbg.to/)
+- [RuTor](http://www.rutor.info/)
+- [RuTracker](https://rutracker.org)
+- [Rustorka](http://rustorka.com/)
+- [Tapochek](https://tapochek.net/index.php)
+- [Torrents.csv](https://torrents-csv.ml/)
 
 ### Sites de Téléchargement Direct
 
 Les téléchargements directs sont des téléchargements normaux. Vous téléchargez un fichier à partir d'un serveur en passant par un naviguateur. Il est nettement plus sûr de télécharger de cette facon et vous n'aurez pas besoin de VPN. Dans certains cas, vous aurez besoin d'un VPN pour accéder à des sites d'hébergement de fichiers (e.x. ZippyShare est bloqué dans certains pays d'Europe). Il est recommendé d'utilisé un gestionnaire des téléchargements mentionné plus loin dans le Mega Thread pour vous aider à gérer vos téléchargements.
 
-- **Choix des Moderateurs: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Meilleur endroit pour n'importe quel jeux, ce site devrait être le premier endroit que vous vérifiez pour un jeux. N'autorise pas les publications de groupes de crack.
-
-**Autres Mentions:**
-
-- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - Utilisez Google Translate.
-- [CrackHub](https://crackhub.site/) - Site de téléchargement pour des jeux de groupes de crack et pour les repacks FitGirl.
-- [Crackhub [Scene Games]](https://scene.crackhub.site/) - Vous emmene directement au uploads de Scène de CrackHub.
-- [GLOAD](https://gload.cc/) - Site de téléchargement Allemand.
-- [Gamesdrive.net](https://gamesdrive.net/) - Repacks et des Jeux de Scène.
-- [GOG Games](https://gog-games.com/) - Jeux GOG.
-- [iPhone Cake](https://www.iphonecake.com/) - Pour des jeux et applications iOS crackés.
-- [Mobilisim](https://forum.mobilism.org/index.php) - Jeux et applications Android.
-- [Mobilisim](https://forum.mobilism.org/index.php) - Applications et jeux mobiles.
-- [MyAbandonware](https://www.myabandonware.com/) - Jeux vieux/retro.
-- [OldGamesDownload](https://oldgamesdownload.com/) - Vieux jeux.
-- [Online-fix.me](https://online-fix.me/) - Jeux Multijoueurs en-ligne.
-- [Ovagames](http://www.ovagames.com/) - Téléchargement de Jeux.
-- [RLSBB](https://rlsbb.ru/) - Téléchargement de jeux de Scène.
-- [SCNLOG.ME](https://scnlog.me/) - Téléchargement de jeux de Scène.
-- [SteamUnlocked](https://steamunlocked.net/)
-- [SKlauncher](https://skmedix.pl/sklauncher) - Pour Minecraft.
-- [Torrminatorr Forum](https://forum.torrminatorr.com/) - Jeux en téléchargement pour les jeux de Scène et GOG.
-
-Les utilisateurs d'Oculus Quest peuvent télécharger des jeux de [ce thread](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) sur les forums de [CS.RIN.RU](http://cs.rin.ru/).
-[Cette publication](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) est aussi utile.
+- [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
+- [CrackHub](https://crackhub.site) - Pour les jeux de scène et jeux FitGirl
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - Vous emmène directement au uploads de scène de CrackHub213
+- [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
+- [Kapital Sin](https://www.kapitalsin.com/forum/)
+- [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
+- [Masquerade Repacks](https://masquerade.site)
+- Mr DJ
+- R.G. Catalyst 
+- R.G. Mechanics
+- R.G. Revenants
+- [Scooter Repacks](https://scooter-repacks.site)
+- [Xatab](https://xatab-repack.com/)
+- ZAZIX
 
 ### Trainers (Outils de triche)
 
@@ -78,10 +79,10 @@ Les repacks sont des versions très compréssées de jeux, faites pour des perss
 - [Kapital Sin](http://www.kapitalsin.com/forum/)
 - [M4ckDOge](https://m4ckd0ge-repacks.me/)
 - [Masquerade](https://masquerade.site/)
-- MJ DJ (N'a pas de site officiel.)
-- R.G. Catalyst (N'a pas de site officiel.)
-- R.G. Mechanics (N'a pas de site officiel.)
-- R.G. Revenants (N'a pas de site officiel.)
+- MJ DJ
+- R.G. Catalyst
+- R.G. Mechanics
+- R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site/)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
@@ -90,9 +91,6 @@ Les repacks sont des versions très compréssées de jeux, faites pour des perss
 
 Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement des informations sur les sorties de Scène/P2P. Vous voulez savoir si un jeu et cracké? Vérifiez ici!
 
-- **Choix des Moderateurs: [r/CrackWatch](https://reddit.com/r/crackwatch)** - Droit au but pour les Jeux-vidéos.
-
-Autres mentions:
 - [CrackForecast](https://reddit.com/r/CrackForecast) - Subreddit ironique pour répondre a "Quand est-ce que jeu X va etre cracké?".
 - [predb.me](https://predb.me/?cats=games-pc)
 - [predb.org](https://predb.org/)
@@ -139,15 +137,10 @@ Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas o
 
 ### Logiciels de Torrents
 
-Pour télécharger des torrents, utilisez ces logiciels:
-
-- **Choix des Moderateurs: [Qbittorrent](https://www.qbittorrent.org/download.php)**
-
-Autres mentions:
-
 - [BiglyBT](https://www.biglybt.com/download/)
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - Pour les appareils Android.
+- [Qbittorrent](https://www.qbittorrent.org/download.php)
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Transmission](https://transmissionbt.com/download/)
 - [Vuze](http://www.vuze.com/)
@@ -155,14 +148,9 @@ Autres mentions:
 
 ### Logiciels de Téléchargements Directs
 
-Pour télécharger directement, utilisez ces logiciels:
-
-- **Choix des Moderateurs: [JDownloader2](http://jdownloader.org/jdownloader2)**
-
-Autres mentions:
-
 - [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager.](https://www.internetdownloadmanager.com/download.html)
+- [JDownloader2](http://jdownloader.org/jdownloader2)
 - [Motrix](https://motrix.app/)
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
@@ -211,22 +199,12 @@ Ces outils sont utiles pour cracker vos propres jeux.
 
 ### Extensions de Naviguateur Utiles
 
-Ces extensions n'aident pas beaucoup pour le piratage en-ligne, mais vont rendre votre naviguation beaucoup plus sûre et respectueuse de votre vie privée.
-
 - [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
 - [Ublock Origin](https://github.com/gorhill/uBlock)
 - [Universal Bypass](https://universal-bypass.org/)
-
-### DNS
-
-En utilisant un DNS axé sur la protection de la vie privée, vous pouvez accélérer votre experience de naviguation et rendre votre traffic Internet plus sûr. (N'EST PAS UN REMPLACEMENT A UN VPN):
-
-- **Choix des Moderateurs: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html)**
-
-Plus de fournisseurs DNS peuvent être trouvés [ici](https://www.privacytools.io/providers/dns/)
 
 ### VPNs
 
