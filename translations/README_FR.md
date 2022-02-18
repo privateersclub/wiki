@@ -1,4 +1,5 @@
 **Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/) / [Licence](LICENSE)
+---
 
 ### Composants Necessaires:
 
