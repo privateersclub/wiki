@@ -1,6 +1,4 @@
-## piratedgames-megathread - [Moniteur de Statut](https://taskylizard.github.io/probable-chainsaw)
-
-**Voici le Mega Thread de r/PiratedGames!**
+**Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/) / [Licence](LICENSE)
 
 ### Composants Necessaires:
 
@@ -21,7 +19,7 @@ Vous allez devoir installer tous ces composants avant de télécharger un jeux (
 
 ### Sites de Torrents
 
-Vous allez probzblement avoir besoin d'un VPN pour télécharger des torrents et éviter de recvoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des tékéchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
+Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et éviter de recvoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des tékéchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
 
 - [1337X](https://1337x.to/) - Ne téléchargez pas les torrents soumis par IGG Games
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
