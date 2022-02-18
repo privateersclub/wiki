@@ -20,7 +20,7 @@ Vous allez devoir installer tous ces composants avant de télécharger un jeux (
 
 ### Sites de Torrents
 
-Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et éviter de recvoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des tékéchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
+Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et éviter de recevoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des téléchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
 
 - [1337X](https://1337x.to/) - Ne téléchargez pas les torrents soumis par IGG Games
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
@@ -37,19 +37,27 @@ Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et
 Les téléchargements directs sont des téléchargements normaux. Vous téléchargez un fichier à partir d'un serveur en passant par un naviguateur. Il est nettement plus sûr de télécharger de cette facon et vous n'aurez pas besoin de VPN. Dans certains cas, vous aurez besoin d'un VPN pour accéder à des sites d'hébergement de fichiers (e.x. ZippyShare est bloqué dans certains pays d'Europe). Il est recommendé d'utilisé un gestionnaire des téléchargements mentionné plus loin dans le Mega Thread pour vous aider à gérer vos téléchargements.
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - Pour les jeux de scène et jeux FitGirl
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - Vous emmène directement au uploads de scène de CrackHub213
+- [CrackHub](https://crackhub.site) - pour les jeux de scène et repacks FitGirl.
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - vous emmène directement au upoloads de CrackHub213.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
-- [Kapital Sin](https://www.kapitalsin.com/forum/)
-- [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
-- [Masquerade Repacks](https://masquerade.site)
-- Mr DJ
-- R.G. Catalyst 
-- R.G. Mechanics
-- R.G. Revenants
-- [Scooter Repacks](https://scooter-repacks.site)
-- [Xatab](https://xatab-repack.com/)
-- ZAZIX
+- [DOSGamesArchive](https://www.dosgamesarchive.com/)
+- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - use Google Translate.
+- [G4U](https://g4u.to/)
+- [Game-2U](https://game-2u.com) - pour les jeux PS4 (utilisez [l'extension FastForward](https://fastforward.team/install) pour contourner les pubs sur les shortlinks.)
+- [GLOAD](https://gload.cc/)
+- [Gamesdrive](https://gamesdrive.net)
+- [GOG Games](https://gog-games.com/)
+- [iPhone Cake](https://www.iphonecake.com/) - Pour les jeux iOS et Android crackés
+- [Macbed](https://www.macbed.com/)
+- [Mobilisim](https://forum.mobilism.org/index.php) - Pour les applications et jeux Android.
+- [MyAbandonware](https://www.myabandonware.com/) - Jeux Vieux/Retro.
+- [OldGamesDownload](https://oldgamesdownload.com/) - Vieux jeux.
+- [Online-Fix](https://online-fix.me) - Jeux multijoeurs en ligne.
+- [Ovagames](http://www.ovagames.com/)
+- [RLSBB](https://rlsbb.ru)
+- [SCNLOG.ME](https://scnlog.me/)
+- [SKlauncher](https://skmedix.pl/sklauncher) - Pour Minecraft.
+- [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
 ### Trainers (Outils de triche)
 
