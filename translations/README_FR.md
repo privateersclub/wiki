@@ -127,23 +127,29 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 
 ### Emulateurs
 
+- [Bsnes](https://bsnes.dev/) - Pour les jeux SNES.
+- [Cemu](http://cemu.info/) - Pour les jeux Wii U.
 - [Citra](https://citra-emu.org/) - Pour les jeux 3DS.
-- [DeSmeME](https://desmume.org/) - Pour les jeux DS.
-- [Dolphin Emulator](https://dolphin-emu.org/) - Pour les jeux GameCube / Wii
-- [ePSXe](https://www.epsxe.com/) - Pour les jeux PlayStation 1
-- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) - POur les jeux SEGA Genesis / Mega Drive
-- [MAME](https://www.mamedev.org/index.php) - Pour les jeux Arcade
+- [DeSmuME](https://desmume.org/) - Pour les jeux DS.
+- [Dolphin Emulator](https://dolphin-emu.org/) - Pour les jeux GameCube / Wii.
+- [DuckStation](https://www.duckstation.org/) - Pour les jeux PlayStation 1.
+- [ePSXe](https://www.epsxe.com/) - Pour les jeux PlayStation 1.
+- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) - POur les jeux SEGA Genesis / Mega Drive.
+- [MAME](https://www.mamedev.org/index.php) - Pour les jeux d'Arcade.
+- [MelonDS](http://melonds.kuribo64.net/) - Pour les jeux DS.
+- [mGBA](https://mgba.io/) - Pour GBAGames.
 - [No$GBA](https://www.nogba.com/) - Pour les jeux GBA et DS.
-- [Project64](https://www.pj64-emu.com/) - Pour les jeux Nintendo 64
-- [PCSX2](https://pcsx2.net/) - Pour les jeux PS2
-- [PPSSPP](https://www.ppsspp.org/index.html) - Pour les jeux PSP
-- [RCPS3](https://rpcs3.net/) - Pour les jeux PS3
+- [Project64](https://www.pj64-emu.com/) - Pour les jeux Nintendo 64.
+- [PCSX2](https://pcsx2.net/) - Pour les jeux PS2.
+- [PPSSPP](https://www.ppsspp.org/index.html) - Pour les jeux PSP.
+- [RCPS3](https://rpcs3.net/) - Pour les jeux PS3.
 - [RetroArch](https://www.retroarch.com/)
-- [Ryujinx](https://ryujinx.org/) - Pour les jeux Nintendo Switch
-- [Yuzu](https://yuzu-emu.org/) - Pour les jeux Nintendo Switch
-- [Xemu](https://xemu.app/) - Pour les jeux originaux XBOX
-- [Xenia](https://xenia.jp/) - Pour les jeux XBOX 360
-- [ZSNES](https://www.zsnes.com/) - Pour les jeux SNES
+- [Ryujinx](https://ryujinx.org/) - Pour les jeux Nintendo Switch.
+- [Snes9x](https://www.snes9x.com/) - Pour les jeux SNES.
+- [Yuzu](https://yuzu-emu.org/) - Pour les jeux Nintendo Switch.
+- [Xemu](https://xemu.app/) - Pour les jeux XBOX.
+- [Xenia](https://xenia.jp/) - pour les jeux XBOX 360.
+- [ZSNES](https://www.zsnes.com/) - Pour les jeux SNES.
 
 ### Logiciels de Torrents
 
