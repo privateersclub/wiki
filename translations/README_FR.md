@@ -98,13 +98,17 @@ Les repacks sont des versions très compréssées de jeux, faites pour des perss
 
 Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement des informations sur les sorties de Scène/P2P. Vous voulez savoir si un jeu et cracké? Vérifiez ici!
 
+- [CrackWatch](https://reddit.com/r/CrackWatch)
 - [CrackForecast](https://reddit.com/r/CrackForecast) - Subreddit ironique pour répondre a "Quand est-ce que jeu X va etre cracké?".
+- [m2v.ru](http://m2v.ru/)
+- [predb.de](https://predb.de/)
 - [predb.me](https://predb.me/?cats=games-pc)
 - [predb.org](https://predb.org/)
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
-- [xREL](https://xrel.to/)- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Pour les repacks seulement.
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Pour les repacks seulemnt. Subreddit soeur de [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Repacks seulement.
+- [xREL](https://xrel.to/)
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Pour les repacks seulement. Subreddit soeur de [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
 - [srrDB](https://www.srrdb.com/)
 
 Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas officiel.
