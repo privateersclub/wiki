@@ -224,33 +224,18 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 
 ### Sites non Fiables
 
-- AGFY - Arnaques.
-- IGG Games/ PC Games Torrents - Ils ont [doxxé](https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles) mercs213 (propriétaire de GoodOldDownloads), emballent leur propre DRM dans des jeux indés et vous exploite pour l'argent des pubs.
-- BBRepacks - Copie de BlackBox Repacks, contient des virus.
-- OceanOfGames - Risque de virus élevé.
+- AGFY - Arnaques
+- Apunkagames
+- IGG Games / PC Games Torrents - Ils ont doxxé mercs213 (propriétaire de GoodOldDownloads), emballent leur propre GDN (DRM en anglais) sur des jeux indés et vous exploite pour l'argent des pubs.
+- BBRepacks - Faux repacks BlackBox, contient des virus.
+- OceanOfGames - Risque de virus.
 - nosTEAM
-- Seyter - Les repacks contiennent des miners de cryptomonaie.
-- xGIROx - Les repacks contiennent des miners de cryptomonaie.
-- cracked-games.org - Risque de virus.
-- crackingpatching - Risque de virus.
-- Pirate Bay - Risque de virus.
-- Kickass Torrents - Risque de virus.
-- Seyter - Les repacks contiennent des miners de cryptomonaie.
-- SteamRip - Plein de pubs.
-- SteamUnlocked - Téléchargements lents, liens dangereux.
+- xGIROx - Les repacks contiennent des mineurs de Bitcoin.
+- Seyter - Les repacks contiennent des mineurs de Bitcoin.
+- SteamUnlocked / GOG Unlocked - Téléchargements lents, liens malicieux qui redirigent vers des uploads volé d'IGG Games.
 - cracked-games  - Risque de virus.
 - crackingpatching - Risque de virus.
-- RepackGames - Jeux mal étiquétés et volent des publications de groupes de crack.
+- RepackGames - Volent des jeux.
 - Pirate Bay - Risque de virus.
 - Kickass Torrents - Risque de virus.
 - N'importe quel site qui contient un nom de groupe de crack dans l'URL - **LES GROUPES DE CRACK N'ONT PAS DE SITES**
-
-Quiconque se fait prendre en train de publier des liens vers un site que les moderateurs estiment non-fiables vont voir leurs commentaires supprimés afin de garder la securité des gens sur ce subreddit!
-
-**Nous allons garder ce thread mis a jour, alors revenez nous voir de temps en temps!**
-
-**Si vous avez quelconque recommendation pour ce Mega Thread, veuillez Commenter! Les sites non-fiables seront supprimés pas les moderateurs.**
-
-### Traductions
-
-Veuillez Consulter les **[traductions](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
