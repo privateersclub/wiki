@@ -111,7 +111,19 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Pour les repacks seulement. Subreddit soeur de [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
 - [srrDB](https://www.srrdb.com/)
 
-Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas officiel.
+### Sites de ROM
+
+- [CDRomance](https://cdromance.com/)
+- [Edge Emulation](https://edgeemu.net)
+- [Emu Paradise](https://www.emuparadise.me/) - [utilisez ce script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) pour télécharger.
+- [The Eye](http://the-eye.eu/public/rom/)
+- [TheRomDepot](https://theromdepot.com)
+- [Romulation](https://www.romulation.net/)
+- [r/ROMS](https://reddit.com/r/roms)
+- [r/ROMS Mega Thread](https://r-roms.github.io/)
+- [Romspure](https://romspure.cc/)
+- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Ziperto](https://www.ziperto.com/)
 
 ### Emulateurs
 
@@ -132,19 +144,6 @@ Veuillez noter que le site "crackwatch" n'est pas recommendé car il n'est pas o
 - [Xemu](https://xemu.app/) - Pour les jeux originaux XBOX
 - [Xenia](https://xenia.jp/) - Pour les jeux XBOX 360
 - [ZSNES](https://www.zsnes.com/) - Pour les jeux SNES
-
-
-### Sites de ROM
-
-- [CDRomance](https://cdromance.com/)
-- [Edge Emulation](https://edgemu.net/)
-- [Emu Paradise](https://www.emuparadise.me/) - [Utiliez ce script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) pour télécharger.
-- [The Eye](http://the-eye.eu/public/rom/)
-- [TheRomDepot](https://theromdepot.com/)
-- [Romulation](https://www.romulation.net/)
-- [r/ROMS](https://reddit.com/r/roms)
-- [Vimm's Lair](https://vimm.net/?p=vault)
-- [Ziperto](https://www.ziperto.com/) - Site de téléchargement pour ROM PlayStation et Nintendo.
 
 ### Logiciels de Torrents
 
