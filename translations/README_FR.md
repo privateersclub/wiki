@@ -171,31 +171,18 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
-### Services de Debride
-
-Un service de debride va convertir des lien de téléchargements premium/lents en lien de téléchargements plus rapides, juste pour vous.
-
-- [Real Debrid](https://real-debrid.com/)
-- [AllDebrid](https://alldebrid.com/)
-- [Premiumize](https://www.premiumize.me/)
-
 ### Outils
 
-Ces outils sont utiles pour cracker vos propres jeux.
-
-- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) - Emulez Steam.
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Configure automatiquement votre jeux pour fonctionner avec CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Creez des fix pour Steamworks.
-- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) - Emulez Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Débloquez des DLC piratés sur des Jeux Steam légitimes.
-- [GoldBerg Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulez Steam
-- [Lucky Patcher](https://www.luckypatchers.com/) - Patchez des apps Android (meilleur avec root)
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulez Uplay
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Installe automatiquement votre jeux pour CreamAPI.
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Créé automatiquement des fix pour Steamworks.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Débloque des DLCs piraté sur des jeux Steam légitimes.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
+- [Lucky Patcher](https://www.luckypatchers.com/) - Pour patcher des apps Android (fonctionne mieux avec root)
+- [LumaPlay (for UPlay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
-- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Débloquez des DLC piratés sur des jeux Origin légitimes. Testé seulement sur Les Sims 4.
+- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
-- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulez Steam
-- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Enlevez le DRM Steam de fichiers EXE (utilisé avec un emulateur Steam)
+- [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
 ### Logiciels Utiles
 
