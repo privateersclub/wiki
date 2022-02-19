@@ -200,7 +200,7 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 
 ### Extensions de Naviguateur Utiles
 
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 - Trace
