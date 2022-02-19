@@ -186,15 +186,13 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 
 ### Logiciels Utiles
 
-- [7zip File Manager](https://www.7-zip.org/) - Meilleur que WinRAR, open source.
-- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - Visualisez tous les succès sur votre PC même s'il vient de Steam, d'un emulateur Steam et plus encore.
-- [BleachBit](https://www.bleachbit.org/) - Nettoyeur Système, plus sûr que CCleaner.
-- [Bitwarden](https://bitwarden.com/) - Gestionnaire de Mot de passe Open-Source.
-- [Parsec](https://parsec.app/) - Jouez a des jeux multijoueurs locaux partout.
-- [QuickSFV](https://www.quicksfv.org/download.html) - Verifiez des checksums et générez des informations sur des hash.
-- [WinRAR](https://www.rarlab.com/) - Alternative à 7zip.
+- [7-Zip](https://www.7-zip.org/)
+- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/)
+- [Bitwarden](https://bitwarden.com/) - Gestionnaire de mots de passes Open Source.
+- [Parsec](https://parsec.app/) - Jouez a des jeux en multijoueur local de n'importe où.
+- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verifiez des sommes de controles et generez des infos hash.
 - [Tor Browser](https://www.torproject.org/download/)
-- [Vapor Store](https://github.com/CrypticShy/vapor-store) - Un store (similaire a Steam!) où vous pouvez télécharger des jeux crackés!
+- [WinRAR](https://www.rarlab.com/)
 
 **Pour des Produits Microsoft (Windows/Office) vous pouvez utiliser [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) pour les activer.**
 
