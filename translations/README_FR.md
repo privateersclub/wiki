@@ -1,4 +1,4 @@
-**Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/) / [Licence](../LICENSE)
+**Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/)
 ---
 
 ### Composants Necessaires:
@@ -228,6 +228,7 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 - Apunkagames
 - IGG Games / PC Games Torrents - Ils ont doxxé mercs213 (propriétaire de GoodOldDownloads), emballent leur propre GDN (DRM en anglais) sur des jeux indés et vous exploite pour l'argent des pubs.
 - BBRepacks - Faux repacks BlackBox, contient des virus.
+- LoadGames - Clone de IGG Games
 - OceanOfGames - Risque de virus.
 - nosTEAM
 - xGIROx - Les repacks contiennent des mineurs de Bitcoin.
