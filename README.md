@@ -1,4 +1,4 @@
-**Here's the /r/PiratedGames Mega Thread!** - [translations](translations/) / [License](LICENSE)
+**Here's the /r/PiratedGames Mega Thread!** - [translations](translations/)
 ---
 ### Required Components:
 You will need to install all of these before downloading any games (legitimate or pirated!) to stop games crashing due to missing software on your computer:
@@ -219,6 +219,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - Apunkagames
 - IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
 - BBRepacks - Fake BlackBox Repacks, contain malware.
+- LoadGames (clone of IGG games)
 - OceanOfGames - High malware risk.
 - nosTEAM
 - xGIROx - repacks contain bitcoin miners. 
