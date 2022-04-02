@@ -45,7 +45,7 @@ Direct Downloads are any normal download. You download the file from a server th
 - [GOG Games](https://gog-games.com/)
 - [iPhone Cake](https://www.iphonecake.com/) - For cracked iOS apps and games.
 - [Macbed](https://www.macbed.com/)
-- [Mobilism](https://forum.mobilism.org/index.php) - Android apps and games.
+- [Mobilisim](https://forum.mobilism.org/index.php) - Android apps and games.
 - [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
 - [OldGamesDownload](https://oldgamesdownload.com/) - Old games.
 - [Online-Fix](https://online-fix.me) - Online multiplayer games. 
@@ -53,6 +53,7 @@ Direct Downloads are any normal download. You download the file from a server th
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
 - [SKlauncher](https://skmedix.pl/sklauncher) - for Minecraft.
+- [SteamRIP.com](https://steamrip.com/)
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
 ### Trainers (Cheats):
@@ -173,6 +174,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Updater tool for pirated version of The Sims 4
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
 ### Useful Software:
