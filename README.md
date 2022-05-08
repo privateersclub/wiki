@@ -1,5 +1,6 @@
 **Here's the /r/PiratedGames Mega Thread!** - [translations](translations/)
 ---
+
 ### Required Components:
 You will need to install all of these before downloading any games (legitimate or pirated!) to stop games crashing due to missing software on your computer:
 
