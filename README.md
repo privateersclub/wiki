@@ -28,7 +28,6 @@ You will likely need a VPN to download torrents to avoid receiving Copyright not
 - [RuTracker](https://rutracker.org)
 - [Rustorka](http://rustorka.com/)
 - [Tapochek](https://tapochek.net/index.php)
-- [Torrents.csv](https://torrents-csv.ml/)
 
 ### Direct Download Sites:
 Direct Downloads are any normal download. You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. In some cases, you will need a VPN to access blocked filehost sites (e.g. ZippyShare is blocked in some EU countries). It is recommended to use a Download Manager mentioned further down the Mega Thread to help manage your downloads.
