@@ -36,7 +36,6 @@ Você provavelmente irá precisar de um VPN para baixar os Torrents, para impedi
 - [RuTracker](https://rutracker.org)
 - [Rustorka](http://rustorka.com/)
 - [Tapochek](https://tapochek.net/index.php)
-- [Torrents.csv](https://torrents-csv.ml/)
 
 ### Site de Download Direto:
 Downloads diretos são downloads normais. Você baixa o arquivo de um servidor, através de um site. Esse é um modo significantemente mais seguro de baixar e desse jeito, você não precisará de um VPN. Em alguns casos, você precisará de VPN para acessar sites de hosting de arquivos bloqueados (ex.: ZippyShare é bloqueado em alguns países da Europa). É recomendado que use um Download Manager mencionado mais abaixo nessa Mega Thread para ajudar em seus downloads.
@@ -62,6 +61,7 @@ Downloads diretos são downloads normais. Você baixa o arquivo de um servidor, 
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
 - [SKlauncher](https://skmedix.pl/sklauncher) - para Minecraft.
+- [SteamRIP.com](https://steamrip.com/)
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
 ### Trainers (Cheats):
@@ -116,7 +116,7 @@ Tenha em mente que, nenhum desses sites possuem downloads, somente informação 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
 - [Emu Paradise](https://www.emuparadise.me/) - [Use esse script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) para baixar.
-- [The Eye](http://the-eye.eu/public/rom/)
+- [The Eye](https://the-eye.eu/)
 - [TheRomDepot](https://theromdepot.com)
 - [Romulation](https://www.romulation.net/)
 - [r/ROMS](https://reddit.com/r/roms)
@@ -182,6 +182,7 @@ Tenha em mente que, nenhum desses sites possuem downloads, somente informação 
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Ferramenta para atualizar versões de The Sims 4 Pirata.
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
 ### Softwares úteis:
