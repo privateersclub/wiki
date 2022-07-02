@@ -108,6 +108,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
 - [Emu Paradise](https://www.emuparadise.me/) - [Use this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to download.
+- [NXBrew](https://nxbrew.com)
 - [The Eye](https://the-eye.eu/)
 - [TheRomDepot](https://theromdepot.com)
 - [Romulation](https://www.romulation.net/)
