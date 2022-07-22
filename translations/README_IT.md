@@ -233,4 +233,4 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - RepackGames - Rubano rilasci e i giochi sono etichettati male.
 - Pirate Bay - Rischio malware.
 - Kickass Torrents - Rischio malware.
-- Qualsiasi sito con il nome di una Scene nell'URL - **LE SCENE NON HANNO SITO!**
+- Qualsiasi sito con il nome di una Scene nell'URL - **LE SCENE NON HANNO ALCUN SITO!**
