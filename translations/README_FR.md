@@ -20,9 +20,9 @@ Vous allez devoir installer tous ces composants avant de télécharger un jeux (
 
 ### Sites de Torrents
 
-Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et éviter de recevoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus loin de ce thread. Les torrents sont des téléchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
+Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et éviter de recevoir un avis de droits d'auteur (copyright) de votre FAI - Sauf, si votre pays ne se soucie pas du téléchargement illégal. Apprenez-en plus en lisant la section sur les VPN plus bas de ce thread. Les torrents sont des téléchargements P2P (Peer 2 Peer) - Vous téléchargez à partir d'autres personnes qui ont également téléchargé le fichier. Il n'y a aucun serveur impliqué.
 
-- [1337X](https://1337x.to/) - Ne téléchargez pas les torrents soumis par IGG Games
+- [1337X](https://1337x.to/) - Ne téléchargez pas les torrents par IGG Games
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
 - [NXMAC](https://nxmac.com/)
 - [RARBG](https://rarbg.to/)
@@ -30,15 +30,14 @@ Vous allez probablement avoir besoin d'un VPN pour télécharger des torrents et
 - [RuTracker](https://rutracker.org)
 - [Rustorka](http://rustorka.com/)
 - [Tapochek](https://tapochek.net/index.php)
-- [Torrents.csv](https://torrents-csv.ml/)
 
 ### Sites de Téléchargement Direct
 
-Les téléchargements directs sont des téléchargements normaux. Vous téléchargez un fichier à partir d'un serveur en passant par un naviguateur. Il est nettement plus sûr de télécharger de cette facon et vous n'aurez pas besoin de VPN. Dans certains cas, vous aurez besoin d'un VPN pour accéder à des sites d'hébergement de fichiers (e.x. ZippyShare est bloqué dans certains pays d'Europe). Il est recommendé d'utilisé un gestionnaire des téléchargements mentionné plus loin dans le Mega Thread pour vous aider à gérer vos téléchargements.
+Les téléchargements directs sont des téléchargements normaux. Vous téléchargez un fichier à partir d'un serveur en passant par un naviguateur. Il est nettement plus sûr de télécharger de cette facon et vous n'aurez pas besoin de VPN. Dans certains cas, vous aurez besoin d'un VPN pour accéder à des sites d'hébergement de fichiers (e.x. ZippyShare est bloqué dans certains pays d'Europe). Il est recommendé d'utiliser un des gestionnaire de téléchargements mentionnés plus bas dans le Mega Thread pour vous aider à gérer vos téléchargements.
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
 - [CrackHub](https://crackhub.site) - pour les jeux de scène et repacks FitGirl.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - vous emmène directement au upoloads de CrackHub213.
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - vous redirige vers les au uploads de CrackHub213.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
 - [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - use Google Translate.
@@ -116,6 +115,7 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
 - [Emu Paradise](https://www.emuparadise.me/) - [utilisez ce script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) pour télécharger.
+- [NXBrew](https://nxbrew.com)
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com)
 - [Romulation](https://www.romulation.net/)
