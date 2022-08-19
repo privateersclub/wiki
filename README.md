@@ -218,7 +218,7 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - CCleaner - Owned by Avast.
 - Avast - Notorious for collecting and selling user data.
 
-###.Untrusted sites / uploaders:
+### Untrusted sites / uploaders:
 
 - AGFY - scam links
 - Apunkagames
