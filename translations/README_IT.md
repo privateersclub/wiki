@@ -68,6 +68,7 @@ Nota: Non fare uso di trucchi in multigiocatore!
 ### Repack:
 I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda internet lenta/limitata. Una volta scaricati, dovrai decomprimerli sul tuo computer, ciò richiederà molto tempo per via della compressione.
 
+- [-tARA Repacks](https://t4x4.github.io/)
 - [Chovka](https://repack.info/)
 - [CPG Repacks](https://cpgrepacks.site) 
 - [DODI Repacks](https://dodi-repacks.site/)
@@ -75,10 +76,10 @@ I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda 
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [Gnarly Repacks](https://gnarly-repacks.site)
-- [KaosKrew](https://kaoskrew.org/)
+- [KaOs Krew](https://kaoskrew.org/)
 - [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
-- [Masquerade Repacks](https://masquerade.site)
+- [Masquerade Repacks](vedi KaOs Krew)
 - Mr DJ
 - R.G. Catalyst 
 - R.G. Mechanics
@@ -154,6 +155,7 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - [Transmission](https://transmissionbt.com/download/)
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
+- [WebTorrent](https://webtorrent.io/)
 
 ### Software per Download Diretti:
 
@@ -233,4 +235,5 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - RepackGames - Rubano rilasci e i giochi sono etichettati male.
 - Pirate Bay - Rischio malware.
 - Kickass Torrents - Rischio malware.
+- Downloadly - contiene miner di cryptovalute
 - Qualsiasi sito con il nome di una Scene nell'URL - **LE SCENE NON HANNO ALCUN SITO!**
