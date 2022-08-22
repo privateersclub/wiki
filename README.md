@@ -68,6 +68,7 @@ Note: these are not for online games. Do not use cheats in online games!
 ### Repacks:
 Repacks are highly compressed games, designed for people with slow/limited internet bandwidth. Once you download them, you must install them on your computer which can take a long time due to file decompression.
 
+- [-tARA Repacks](https://t4x4.github.io/)
 - [Chovka](https://repack.info/)
 - [CPG Repacks](https://cpgrepacks.site) 
 - [DODI Repacks](https://dodi-repacks.site/)
@@ -75,10 +76,10 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [Gnarly Repacks](https://gnarly-repacks.site)
-- [KaosKrew](https://kaoskrew.org/)
+- [KaOs Krew](https://kaoskrew.org/)
 - [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
-- [Masquerade Repacks](https://masquerade.site)
+- Masquerade Repacks (moved to KaOs Krew)
 - Mr DJ
 - R.G. Catalyst 
 - R.G. Mechanics
@@ -154,11 +155,12 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Transmission](https://transmissionbt.com/download/)
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
+- [WebTorrent](https://webtorrent.io/)
 
 ### Direct Downloading Software:
 
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) 
-- [Internet Download Manager](https://www.internetdownloadmanager.com/download.html).
+- [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 - [JDownloader2](http://jdownloader.org/jdownloader2)
 - [Motrix](https://motrix.app/) 
 - [pyLoad](https://pyload.net/)
@@ -233,4 +235,5 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - RepackGames - mislabel games and steal releases.
 - Pirate Bay - Malware Risk.
 - Kickass Torrents - Malware Risk.
+- Downloadly - contains cryptominers
 - Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
