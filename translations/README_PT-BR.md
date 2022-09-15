@@ -76,6 +76,7 @@ Nota: Isso não é para jogos online. Não use cheats em jogos online!
 ### Repacks:
 Repacks são jogos muito comprimidos, feitos para pessoas com internet lenta/limitada. Quando você baixar, você deverá instalar ele em seu computador, o que poderá demorar um tempo longo, devido a descompressão de arquivos.
 
+- [-tARA Repacks](https://t4x4.github.io/)
 - [Chovka](https://repack.info/)
 - [CPG Repacks](https://cpgrepacks.site) 
 - [DODI Repacks](https://dodi-repacks.site/)
@@ -83,10 +84,10 @@ Repacks são jogos muito comprimidos, feitos para pessoas com internet lenta/lim
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [Gnarly Repacks](https://gnarly-repacks.site)
-- [KaosKrew](https://kaoskrew.org/)
+- [KaOs Krew](https://kaoskrew.org/)
 - [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
-- [Masquerade Repacks](https://masquerade.site)
+- Masquerade Repacks (moved to KaOs Krew)
 - Mr DJ
 - R.G. Catalyst 
 - R.G. Mechanics
@@ -116,6 +117,7 @@ Tenha em mente que, nenhum desses sites possuem downloads, somente informação 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
 - [Emu Paradise](https://www.emuparadise.me/) - [Use esse script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) para baixar.
+- [NXBrew](https://nxbrew.com)
 - [The Eye](https://the-eye.eu/)
 - [TheRomDepot](https://theromdepot.com)
 - [Romulation](https://www.romulation.net/)
@@ -161,6 +163,7 @@ Tenha em mente que, nenhum desses sites possuem downloads, somente informação 
 - [Transmission](https://transmissionbt.com/download/)
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
+- [WebTorrent](https://webtorrent.io/)
 
 ### Software para Download Direto:
 
@@ -240,4 +243,5 @@ Tenha em mente que, nenhum desses sites possuem downloads, somente informação 
 - RepackGames - Rotula inapropriadamente os jogos e rouba lançamentos.
 - Pirate Bay - Risco de Malware.
 - Kickass Torrents - Risco de Malware.
+- Downloadly - contém mineradores de cripto
 - Qualquer site com nome de Scene Group na URL - **SCENE GROUPS NÃO POSSUEM SITES!**
