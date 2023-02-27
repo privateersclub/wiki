@@ -1,4 +1,4 @@
-**Here is the /r/PiratedGames Megathread!** - [translations](translations)
+**Here is the /r/PiratedGames Megathread!** - [Translations](translations)
 ---
 
 ### Needed Components:
@@ -21,7 +21,7 @@ You will need to install all of these before downloading any (legitimate or pira
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [1337x](https://1337x.to) - Do not download torrents uploaded by IGG Games.
+- [1337x](https://1337x.to) - Do not download torrents uploaded by IGGGames.
 - [NMac](https://nmac.to)
 - [RARBG](https://rarbg.to)
 - [RuTor](http://rutor.info)
@@ -30,25 +30,25 @@ You will likely need a VPN to download torrents to avoid receiving copyright not
 - [Tapochek](https://tapochek.net)
 
 ### Direct Download Sites:
-Direct downloads are any normal download: You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, ZippyShare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
+Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, ZippyShare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
 - [AppCake](https://iphonecake.com) - For cracked iOS apps and games.
 - [AppKed](https://www.macbed.com)
 - [Archive.org - Classic PC Games](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - For FitGirl repacks and scene games. 
+- [CrackHub](https://crackhub.site) - For FitGirl repacks and scene games.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For CrackHub213's scene uploads.
 - [CS.RIN.RU](https://cs.rin.ru/forum)
 - [DOS Games Archive](https://www.dosgamesarchive.com)
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
 - [G4U](https://g4u.to)
-- [Game-2U](https://game-2u.com) - For PS4 games (use the [FastForward extension](https://fastforward.team/install) to bypass ad shortlinks).
+- [Game-2U](https://game-2u.com) - For PlayStation 4 games (use the [FastForward](https://fastforward.team/install) browser extension to bypass ad shortlinks).
 - [GamesDrive](https://gamesdrive.net)
 - [GLOAD](https://gload.to)
 - [GOG Games](https://gog-games.com)
 - [Mobilism](https://forum.mobilism.me) - For Android apps and games.
 - [My Abandonware](https://www.myabandonware.com) - For old games.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
-- [Online Fix](https://online-fix.me) - For online multiplayer games. 
+- [Online Fix](https://online-fix.me) - For online multiplayer games.
 - [Ova Games](https://www.ovagames.com)
 - [RLSBB](https://rlsbb.ru)
 - [Scnlog](https://scnlog.me)
@@ -69,7 +69,7 @@ Note: These are not for online games. Do not use cheats in online games!
 Repacks are highly compressed games, designed for people with limited and/or slow internet bandwidth. You must install them on your computer once you download them, which can take a long time due to file decompression.
 
 - [Chovka](https://repack.info)
-- [CPG Repacks](https://cpgrepacks.site) 
+- [CPG Repacks](https://cpgrepacks.site)
 - [DODI Repacks](https://dodi-repacks.site)
 - [Darck Repacks](https://darckrepacks.com)
 - [ElAmigos](https://elamigos.site)
@@ -80,7 +80,7 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
-- R.G. Catalyst 
+- R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site)
@@ -128,7 +128,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Dolphin Emulator](https://dolphin-emu.org) - For Nintendo GameCube and Wii games.
 - [DuckStation](https://www.duckstation.org) - For PlayStation 1 games.
 - [ePSXe](https://epsxe.com) - For PlayStation 1 games.
-- [Kega Fusion](https://www.carpeludum.com/kega-fusion) - For Sega Genesis and Mega Drive games.
+- [Kega Fusion](https://www.carpeludum.com/kega-fusion) - For Sega Genesis/Mega Drive games.
 - [MAME](https://www.mamedev.org) - For arcade games.
 - [MelonDS](https://melonds.kuribo64.net) - For Nintendo DS games.
 - [mGBA](https://mgba.io) - For Game Boy Advance games.
@@ -158,10 +158,10 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Direct Downloading Software:
 
-- [Free Download Manager](https://www.freedownloadmanager.org) 
+- [Free Download Manager](https://www.freedownloadmanager.org)
 - [Internet Download Manager](https://internetdownloadmanager.com)
 - [JDownloader2](https://jdownloader.org/jdownloader2)
-- [Motrix](https://motrix.app) 
+- [Motrix](https://motrix.app)
 - [pyLoad](https://pyload.net)
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 
@@ -219,7 +219,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - cracked-games - Malware risk.
 - CrackingPatching - Malware risk.
 - Downloadly - Contain crypto miners.
-- GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGG Games.
+- GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGGGames.
 - IGGGAMES/PCGamesTorrents - They doxxed mercs213 (Good Old Downloads owner), exploit you for ad revenue and package their own DRM in indie games.
 - NexusGames - Malicious downloads.
 - nosTEAM
