@@ -154,7 +154,6 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [qBittorrent](https://www.qbittorrent.org)
 - [Tixati](https://tixati.com)
 - [Transmission](https://transmissionbt.com)
-- [Vuze](https://www.vuze.com)
 - [WebTorrent](https://webtorrent.io)
 
 ### Direct Downloading Software:
@@ -175,7 +174,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Lucky Patcher](https://www.luckypatchers.com) - Patch Android apps (better with root).
 - [LumaPlay (for Uplay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
-- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Updater tool for pirated The Sims 4 version.
 - [Steamless](https://github.com/atom0s/Steamless)
@@ -218,18 +217,18 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - AGFY - Scam links.
 - ApunKaGames
 - cracked-games - Malware risk.
-- crackingpatching - Malware risk.
+- CrackingPatching - Malware risk.
 - Downloadly - Contain crypto miners.
 - GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGG Games.
-- IGG Games/PC Games Torrents - They doxxed mercs213 (Good Old Downloads owner), exploit you for ad revenue and package their own DRM in indie games.
-- Nexus Games - Malicious downloads.
+- IGGGAMES/PCGamesTorrents - They doxxed mercs213 (Good Old Downloads owner), exploit you for ad revenue and package their own DRM in indie games.
+- NexusGames - Malicious downloads.
 - nosTEAM
 - Ocean of Games - High malware risk.
 - Repack-Games - Mislabel games and steal releases.
 - Seyter - Repacks contain bitcoin miners.
-- steam-repacks - Malicious downloads.
+- Steam-Repacks - Malicious downloads.
 - The Pirate Bay - Malware risk.
 - WIFI4Games - Malicious downloads.
-- WorldOfPCGames - Malicious downloads.
+- Worldofpcgames - Malicious downloads.
 - xGIROx - Repacks contain bitcoin miners.
 - Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
