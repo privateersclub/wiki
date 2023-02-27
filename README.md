@@ -14,8 +14,8 @@ You will need to install all of these before downloading any (legitimate or pira
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [r/Piracy](https://reddit.com/r/Piracy)
-- [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
 ### Torrent Sites:
@@ -24,7 +24,7 @@ You will likely need a VPN to download torrents to avoid receiving copyright not
 - [1337x](https://1337x.to) - Do not download torrents uploaded by IGG Games.
 - [NMac](https://nmac.to)
 - [RARBG](https://rarbg.to)
-- [RuTor](http://www.rutor.info)
+- [RuTor](http://rutor.info)
 - [RuTracker](https://rutracker.org)
 - [Rustorka](https://rustorka.com/forum)
 - [Tapochek](https://tapochek.net)
@@ -32,14 +32,14 @@ You will likely need a VPN to download torrents to avoid receiving copyright not
 ### Direct Download Sites:
 Direct downloads are any normal download: You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, ZippyShare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
-- [AppCake](https://www.iphonecake.com) - For cracked iOS apps and games.
+- [AppCake](https://iphonecake.com) - For cracked iOS apps and games.
 - [AppKed](https://www.macbed.com)
 - [Archive.org - Classic PC Games](https://archive.org/details/classicpcgames)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene games. 
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For CrackHub213's scene uploads.
-- [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum)
+- [CS.RIN.RU](https://cs.rin.ru/forum)
 - [DOS Games Archive](https://www.dosgamesarchive.com)
-- [DownloadHa](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
 - [G4U](https://g4u.to)
 - [Game-2U](https://game-2u.com) - For PS4 games (use the [FastForward extension](https://fastforward.team/install) to bypass ad shortlinks).
 - [GamesDrive](https://gamesdrive.net)
@@ -49,7 +49,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [My Abandonware](https://www.myabandonware.com) - For old games.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Online Fix](https://online-fix.me) - For online multiplayer games. 
-- [Ovagames](https://www.ovagames.com)
+- [Ova Games](https://www.ovagames.com)
 - [RLSBB](https://rlsbb.ru)
 - [Scnlog](https://scnlog.me)
 - [SKlauncher](https://skmedix.pl) - For Minecraft.
@@ -59,8 +59,8 @@ Direct downloads are any normal download: You download the file from a server th
 ### Trainers (Cheats):
 Note: These are not for online games. Do not use cheats in online games!
 
-- [Fearless Revolution](https://fearlessrevolution.com) - Has Cheat Engine tables.
-- [FLiNG Trainers](https://flingtrainer.com)
+- [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
+- [FLiNG Trainer](https://flingtrainer.com)
 - [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
 - [MrAntiFun](https://mrantifun.net)
 - [WeMod](https://www.wemod.com)
@@ -75,10 +75,10 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [Gnarly Repacks](https://gnarly-repacks.site)
-- [KaOs Krew](https://kaoskrew.org)
-- [Kapital Sin](https://www.kapitalsin.com/forum)
+- [KaOsKrew](https://kaoskrew.org)
+- [KAPITALSIN](https://kapitalsin.com/forum)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- Masquerade Repacks (moved to KaOs Krew)
+- Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
 - R.G. Catalyst 
 - R.G. Mechanics
@@ -91,14 +91,14 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 ### Release Networks:
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Looking to see if a game is cracked? Check here!
 
-- [CrackForecast](https://reddit.com/r/CrackForecast) - Joke subreddit to answer "When will X game be cracked?" question.
-- [CrackWatch](https://reddit.com/r/CrackWatch)
+- [CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer "When will X game be cracked?" question.
+- [CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [m2v.ru](https://m2v.ru)
-- [predb.de](https://predb.de)
-- [predb.me](https://predb.me/?cats=games-pc)
-- [predb.org](https://predb.org)
-- [predb.ovh](https://predb.ovh)
-- [predb.pw](https://predb.pw)
+- [PreDB.de](https://predb.de)
+- [PreDB.me](https://predb.me/?cats=games-pc)
+- [PreDB.org](https://predb.org)
+- [PreDB.ovh](https://predb.ovh)
+- [PreDB.pw](https://predb.pw)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
@@ -108,14 +108,14 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 - [CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [Emu Paradise](https://www.emuparadise.me) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
+- [Emuparadise](https://www.emuparadise.me) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com)
 - [The Eye](https://the-eye.eu)
-- [TheRomDepot](https://theromdepot.com)
-- [Romulation](https://www.romulation.net)
-- [r/Roms](https://reddit.com/r/roms)
+- [The ROM Depot](https://theromdepot.com)
+- [RomUlation](https://www.romulation.net)
+- [r/Roms](https://www.reddit.com/r/roms)
 - [r/Roms Megathread](https://r-roms.github.io)
-- [Romspure](https://romspure.cc)
+- [ROMSPURE](https://romspure.cc)
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com)
 
@@ -127,7 +127,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [DeSmuME](https://desmume.org) - For Nintendo DS games.
 - [Dolphin Emulator](https://dolphin-emu.org) - For Nintendo GameCube and Wii games.
 - [DuckStation](https://www.duckstation.org) - For PlayStation 1 games.
-- [ePSXe](https://www.epsxe.com) - For PlayStation 1 games.
+- [ePSXe](https://epsxe.com) - For PlayStation 1 games.
 - [Kega Fusion](https://www.carpeludum.com/kega-fusion) - For Sega Genesis and Mega Drive games.
 - [MAME](https://www.mamedev.org) - For arcade games.
 - [MelonDS](https://melonds.kuribo64.net) - For Nintendo DS games.
@@ -137,13 +137,13 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [PCSX2](https://pcsx2.net) - For PlayStation 2 games.
 - [PPSSPP](https://www.ppsspp.org) - For PlayStation Portable games.
 - [RCPS3](https://rpcs3.net) - For PlayStation 3 games.
-- [RetroArch](https://www.retroarch.com)
+- [RetroArch](https://retroarch.com)
 - [Ryujinx](https://ryujinx.org) - For Nintendo Switch games.
 - [Snes9x](https://www.snes9x.com) - For Super Nintendo Entertainment System games.
 - [Xemu](https://xemu.app) - For original Xbox games.
 - [Xenia](https://xenia.jp) - For Xbox 360 games.
 - [Yuzu](https://yuzu-emu.org) - For Nintendo Switch games.
-- [ZSNES](https://www.zsnes.com) - For Super Nintendo Entertainment System games.
+- [ZSNES](https://zsnes.com) - For Super Nintendo Entertainment System games.
 
 ### Torrent Software:
 
@@ -160,7 +160,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 ### Direct Downloading Software:
 
 - [Free Download Manager](https://www.freedownloadmanager.org) 
-- [Internet Download Manager](https://www.internetdownloadmanager.com)
+- [Internet Download Manager](https://internetdownloadmanager.com)
 - [JDownloader2](https://jdownloader.org/jdownloader2)
 - [Motrix](https://motrix.app) 
 - [pyLoad](https://pyload.net)
@@ -182,11 +182,11 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Useful Software:
 
-- [7-Zip](https://www.7-zip.org)
+- [7-Zip](https://7-zip.org)
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher)
 - [Bitwarden](https://bitwarden.com) - Open source password manager.
 - [Parsec](https://parsec.app) - Play local multiplayer games from anywhere.
-- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verify checksums and generate hash info.
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verify checksums and generate hash info.
 - [Tor Browser](https://www.torproject.org)
 - [WinRAR](https://www.rarlab.com)
 
@@ -200,7 +200,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [uBlock Origin](https://ublockorigin.com)
 
 ### VPNs:
-- [r/VPN](https://reddit.com/r/VPN)
+- [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table)
 
