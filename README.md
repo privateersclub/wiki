@@ -22,9 +22,11 @@ You will need to install all of these before downloading any (legitimate or pira
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
 - [1337x](https://1337x.to) - Do not download torrents uploaded by IGGGames.
+- [Mac Torrents](https://www.torrentmac.net)
+- [Mac Torrent](https://www.mactorrents.is)
 - [NMac](https://nmac.to)
 - [RARBG](https://rarbg.to)
-- [RuTor](http://rutor.info)
+- [Rutor](http://rutor.info)
 - [RuTracker](https://rutracker.org)
 - [Rustorka](https://rustorka.com/forum)
 - [Tapochek](https://tapochek.net)
@@ -91,24 +93,23 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 ### Release Networks:
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Looking to see if a game is cracked? Check here!
 
-- [CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer "When will X game be cracked?" question.
-- [CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer "When will X game be cracked?" question.
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [m2v.ru](https://m2v.ru)
-- [PreDB.de](https://predb.de)
+- [PreDB.de](https://predb.de/section/GAMES)
 - [PreDB.me](https://predb.me/?cats=games-pc)
-- [PreDB.org](https://predb.org)
-- [PreDB.ovh](https://predb.ovh)
+- [PreDB.org](https://predb.org/cats/GAMES)
 - [PreDB.pw](https://predb.pw)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
-- [xREL](https://xrel.to)
+- [xREL](https://www.xrel.to/games-release-list.html)
 
 ### ROM Sites:
 
 - [CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [Emuparadise](https://www.emuparadise.me) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com)
 - [The Eye](https://the-eye.eu)
 - [The ROM Depot](https://theromdepot.com)
@@ -167,8 +168,8 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Tools:
 
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks fixes.
+- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks fixes.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLCs on legitimate Steam games.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
 - [Lucky Patcher](https://www.luckypatchers.com) - Patch Android apps (better with root).
@@ -224,8 +225,8 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - NexusGames - Malicious downloads.
 - nosTEAM
 - Ocean of Games - High malware risk.
+- Qoob/Seyter - Repacks contain bitcoin miners.
 - Repack-Games - Mislabel games and steal releases.
-- Seyter - Repacks contain bitcoin miners.
 - Steam-Repacks - Malicious downloads.
 - The Pirate Bay - Malware risk.
 - WIFI4Games - Malicious downloads.
