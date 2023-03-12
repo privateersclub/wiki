@@ -21,29 +21,30 @@ You will need to install all of these before downloading any (legitimate or pira
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [1337x](https://1337x.to) - Do not download torrents uploaded by IGGGames.
-- [Mac Torrents](https://www.torrentmac.net)
-- [Mac Torrent](https://www.mactorrents.is)
-- [NMac](https://nmac.to)
-- [RARBG](https://rarbg.to)
-- [Rutor](http://rutor.info)
-- [RuTracker](https://rutracker.org)
+- [1337x](https://1337x.to/cat/Games/1) - Do not download torrents uploaded by IGG Games.
+- [Mac Torrents](https://www.torrentmac.net/category/games)
+- [Mac Torrent](https://www.mactorrents.is/macos-games)
+- [NMac](https://nmac.to/category/games)
+- [RARBG](https://rarbgproxied.org/torrents.php?category=2;27;28;29;30;31;53)
+- [Rutor](http://rutor.info/games)
+- [RuTracker](https://rutracker.org/forum/index.php?c=19)
 - [Rustorka](https://rustorka.com/forum)
 - [Tapochek](https://tapochek.net)
 
 ### Direct Download Sites:
 Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, ZippyShare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
-- [AppCake](https://iphonecake.com) - For cracked iOS apps and games.
-- [AppKed](https://www.macbed.com)
+- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For cracked iOS apps and games.
+- [AppKed](https://www.macbed.com/games)
 - [Archive.org - Classic PC Games](https://archive.org/details/classicpcgames)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene games.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - For CrackHub213's scene uploads.
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene uploads.
 - [CS.RIN.RU](https://cs.rin.ru/forum)
 - [DOS Games Archive](https://www.dosgamesarchive.com)
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
 - [G4U](https://g4u.to)
 - [Game-2U](https://game-2u.com) - For PlayStation 4 games (use the [FastForward](https://fastforward.team/install) browser extension to bypass ad shortlinks).
+- [GameDrive](https://gamedrive.org)
 - [GamesDrive](https://gamesdrive.net)
 - [GLOAD](https://gload.to)
 - [GOG Games](https://gog-games.com)
@@ -52,8 +53,9 @@ Direct downloads are any normal download: You download the file from a server th
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Online Fix](https://online-fix.me) - For online multiplayer games.
 - [Ova Games](https://www.ovagames.com)
-- [RLSBB](https://rlsbb.ru)
-- [Scnlog](https://scnlog.me)
+- [ReleaseBB](https://rlsbb.ru/category/games)
+- [Scnlog](https://scnlog.me/games)
+- [Seven Gamers](https://www.seven-gamers.com) - 
 - [SKlauncher](https://skmedix.pl) - For Minecraft.
 - [SteamRIP](https://steamrip.com)
 - [Torrminatorr Forum](https://forum.torrminatorr.com)
@@ -64,6 +66,7 @@ Note: These are not for online games. Do not use cheats in online games!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
 - [FLiNG Trainer](https://flingtrainer.com)
 - [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
+- [MegaGames](https://megagames.com)
 - [MrAntiFun](https://mrantifun.net)
 - [WeMod](https://www.wemod.com)
 
@@ -76,10 +79,13 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [Darck Repacks](https://darckrepacks.com)
 - [ElAmigos](https://elamigos.site)
 - [FitGirl Repacks](https://fitgirl-repacks.site)
+- [FluxyRepacks](https://www.fluxycrack.fr)
 - [Gnarly Repacks](https://gnarly-repacks.site)
 - [KaOsKrew](https://kaoskrew.org)
 - [KAPITALSIN](https://kapitalsin.com/forum)
+- [Leechinghell](http://www.leechinghell.pw)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
+- [MagiPack Games](https://www.magipack.games)
 - Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
 - R.G. Catalyst
@@ -208,27 +214,34 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Unsafe Software:
 
-- μTorrent - Same as Bittorrent: Has ads and trackers and is unsafe.
+- μTorrent - Same as Bittorrent: Has ads and trackers and are unsafe.
 - Avast - Notorious for collecting and selling user data.
-- BitTorrent - Same as μTorrent: Has ads and trackers and is unsafe.
+- Bittorrent - Same as μTorrent: Has ads and trackers and is unsafe.
 - CCleaner - Owned by Avast.
 
 ### Untrusted Sites and Uploaders:
 
 - AGFY - Scam links.
+- AllTorrents
 - ApunKaGames
-- cracked-games - Malware risk.
+- cracked-games/GETGAMEZ - Malware risk.
 - CrackingPatching - Malware risk.
 - Downloadly - Contain crypto miners.
-- GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGGGames.
-- IGGGAMES/PCGamesTorrents - They doxxed mercs213 (Good Old Downloads owner), exploit you for ad revenue and package their own DRM in indie games.
+- FreeTP
+- Game3rb
+- Games Releaser
+- GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGG Games.
+- IGG Games/PCGamesTorrents - They doxed mercs213 (Good Old Downloads owner), exploit you for ad revenue and package their own DRM in indie games.
+- MrPcGames
 - NexusGames - Malicious downloads.
 - nosTEAM
 - Ocean of Games - High malware risk.
 - Qoob/Seyter - Repacks contain bitcoin miners.
 - Repack-Games - Mislabel games and steal releases.
 - Steam-Repacks - Malicious downloads.
+- Steam Cracked
 - The Pirate Bay - Malware risk.
+- Unlocked-Games
 - WIFI4Games - Malicious downloads.
 - Worldofpcgames - Malicious downloads.
 - xGIROx - Repacks contain bitcoin miners.
