@@ -36,7 +36,6 @@ Direct downloads are any normal download: You download the file from a server th
 
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For cracked iOS apps and games.
 - [AppKed](https://www.macbed.com/games)
-- [Archive.org - Classic PC Games](https://archive.org/details/classicpcgames)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene games.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene uploads.
 - [CS.RIN.RU](https://cs.rin.ru/forum)
@@ -48,6 +47,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [GamesDrive](https://gamesdrive.net)
 - [GLOAD](https://gload.to)
 - [GOG Games](https://gog-games.com)
+- [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames)
 - [Mobilism](https://forum.mobilism.me) - For Android apps and games.
 - [My Abandonware](https://www.myabandonware.com) - For old games.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
@@ -55,7 +55,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [Ova Games](https://www.ovagames.com)
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
-- [Seven Gamers](https://www.seven-gamers.com) - 
+- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive (locked behind a password only available for members of their Discord server for at least one day) and torrent links.
 - [SKlauncher](https://skmedix.pl) - For Minecraft.
 - [SteamRIP](https://steamrip.com)
 - [Torrminatorr Forum](https://forum.torrminatorr.com)
