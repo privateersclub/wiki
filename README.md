@@ -50,6 +50,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames)
 - [Mobilism](https://forum.mobilism.me) - For Android apps and games.
 - [My Abandonware](https://www.myabandonware.com) - For old games.
+- [Old-Games.RU](https://www.old-games.ru/catalog) - For old games. Can be switched to English on the bottom right corner.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Online Fix](https://online-fix.me) - For online multiplayer games.
 - [Ova Games](https://www.ovagames.com)
@@ -58,7 +59,9 @@ Direct downloads are any normal download: You download the file from a server th
 - [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive (locked behind a password only available for members of their Discord server for at least one day) and torrent links.
 - [SKlauncher](https://skmedix.pl) - For Minecraft.
 - [SteamRIP](https://steamrip.com)
+- [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
 - [Torrminatorr Forum](https://forum.torrminatorr.com)
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs.
 
 ### Trainers (Cheats):
 Note: These are not for online games. Do not use cheats in online games!
