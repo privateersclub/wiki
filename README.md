@@ -84,7 +84,7 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [FluxyRepacks](https://www.fluxycrack.fr)
 - [Gnarly Repacks](https://gnarly-repacks.site)
-- [KaOsKrew](https://kaoskrew.org)
+- [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [KAPITALSIN](https://kapitalsin.com/forum)
 - [Leechinghell](http://www.leechinghell.pw)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
