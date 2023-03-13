@@ -2,7 +2,7 @@
 ---
 
 ### Needed Components:
-You will need to install all of these before downloading any (legitimate or pirated) games to stop crashing due to missing software on your computer:
+You must install all of these before downloading any (legitimate or pirated) games to stop crashing due to missing software on your computer:
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -18,21 +18,8 @@ You will need to install all of these before downloading any (legitimate or pira
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Torrent Sites:
-You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
-
-- [1337x](https://1337x.to/cat/Games/1) - Do not download torrents uploaded by IGG Games.
-- [Mac Torrents](https://www.torrentmac.net/category/games)
-- [Mac Torrent](https://www.mactorrents.is/macos-games)
-- [NMac](https://nmac.to/category/games)
-- [RARBG](https://rarbgproxied.org/torrents.php?category=2;27;28;29;30;31;53)
-- [Rutor](http://rutor.info/games)
-- [RuTracker](https://rutracker.org/forum/index.php?c=19)
-- [Rustorka](https://rustorka.com/forum)
-- [Tapochek](https://tapochek.net)
-
 ### Direct Download Sites:
-Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, ZippyShare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
+Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, Zippyshare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For cracked iOS apps and games.
 - [AppKed](https://www.macbed.com/games)
@@ -63,15 +50,18 @@ Direct downloads are any normal download: You download the file from a server th
 - [Torrminatorr Forum](https://forum.torrminatorr.com)
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs.
 
-### Trainers (Cheats):
-Note: These are not for online games. Do not use cheats in online games!
+### Torrent Sites:
+You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
-- [FLiNG Trainer](https://flingtrainer.com)
-- [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
-- [MegaGames](https://megagames.com)
-- [MrAntiFun](https://mrantifun.net)
-- [WeMod](https://www.wemod.com)
+- [1337x](https://1337x.to/cat/Games/1) - Do not download torrents uploaded by IGG Games.
+- [Mac Torrents](https://www.torrentmac.net/category/games)
+- [Mac Torrent](https://www.mactorrents.is/macos-games)
+- [NMac](https://nmac.to/category/games)
+- [RARBG](https://rarbgproxied.org/torrents.php?category=2;27;28;29;30;31;53)
+- [Rutor](http://rutor.info/games)
+- [RuTracker](https://rutracker.org/forum/index.php?c=19)
+- [Rustorka](https://rustorka.com/forum)
+- [Tapochek](https://tapochek.net)
 
 ### Repacks:
 Repacks are highly compressed games, designed for people with limited and/or slow internet bandwidth. You must install them on your computer once you download them, which can take a long time due to file decompression.
@@ -99,6 +89,16 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [Xatab](https://byxatab.com)
 - ZAZIX
 
+### Trainers (Cheats):
+Note: These are not for online games. Do not use cheats in online games!
+
+- [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
+- [FLiNG Trainer](https://flingtrainer.com)
+- [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
+- [MegaGames](https://megagames.com)
+- [MrAntiFun](https://mrantifun.net)
+- [WeMod](https://www.wemod.com)
+
 ### Release Networks:
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Looking to see if a game is cracked? Check here!
 
@@ -120,14 +120,48 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Edge Emulation](https://edgeemu.net)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com)
-- [The Eye](https://the-eye.eu)
-- [The ROM Depot](https://theromdepot.com)
 - [RomUlation](https://www.romulation.net)
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/Roms Megathread](https://r-roms.github.io)
 - [ROMSPURE](https://romspure.cc)
+- [The Eye](https://the-eye.eu)
+- [The ROM Depot](https://theromdepot.com)
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com)
+
+### Direct Downloading Software:
+
+- [Free Download Manager](https://www.freedownloadmanager.org)
+- [Internet Download Manager](https://internetdownloadmanager.com)
+- [JDownloader2](https://jdownloader.org/jdownloader2)
+- [Motrix](https://motrix.app)
+- [pyLoad](https://pyload.net)
+- [Xtreme Download Manager](https://xtremedownloadmanager.com)
+
+### Torrent Software:
+
+- [BiglyBT](https://www.biglybt.com)
+- [Deluge](https://dev.deluge-torrent.org)
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
+- [PicoTorrent](https://picotorrent.org)
+- [qBittorrent](https://www.qbittorrent.org)
+- [Tixati](https://tixati.com)
+- [Transmission](https://transmissionbt.com)
+- [WebTorrent](https://webtorrent.io)
+
+### Tools:
+
+- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks fixes.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLCs on legitimate Steam games.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
+- [Lucky Patcher](https://www.luckypatchers.com) - Patch Android apps (better with root).
+- [LumaPlay (for Uplay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
+- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
+- [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Updater tool for pirated The Sims 4 version.
+- [Steamless](https://github.com/atom0s/Steamless)
 
 ### Emulators:
 
@@ -155,40 +189,6 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Yuzu](https://yuzu-emu.org) - For Nintendo Switch games.
 - [ZSNES](https://zsnes.com) - For Super Nintendo Entertainment System games.
 
-### Torrent Software:
-
-- [BiglyBT](https://www.biglybt.com)
-- [Deluge](https://dev.deluge-torrent.org)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
-- [PicoTorrent](https://picotorrent.org)
-- [qBittorrent](https://www.qbittorrent.org)
-- [Tixati](https://tixati.com)
-- [Transmission](https://transmissionbt.com)
-- [WebTorrent](https://webtorrent.io)
-
-### Direct Downloading Software:
-
-- [Free Download Manager](https://www.freedownloadmanager.org)
-- [Internet Download Manager](https://internetdownloadmanager.com)
-- [JDownloader2](https://jdownloader.org/jdownloader2)
-- [Motrix](https://motrix.app)
-- [pyLoad](https://pyload.net)
-- [Xtreme Download Manager](https://xtremedownloadmanager.com)
-
-### Tools:
-
-- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks fixes.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLCs on legitimate Steam games.
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
-- [Lucky Patcher](https://www.luckypatchers.com) - Patch Android apps (better with root).
-- [LumaPlay (for Uplay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
-- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
-- [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Updater tool for pirated The Sims 4 version.
-- [Steamless](https://github.com/atom0s/Steamless)
-
 ### Useful Software:
 
 - [7-Zip](https://7-zip.org)
@@ -199,7 +199,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Tor Browser](https://www.torproject.org)
 - [WinRAR](https://www.rarlab.com)
 
-**You can use [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate Microsoft products (Office and Windows).**
+**Use [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate Microsoft products (Office and Windows).**
 
 **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
@@ -214,13 +214,6 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table)
 
 **Tor is NOT a VPN, it will not protect you when torrenting!**
-
-### Unsafe Software:
-
-- μTorrent - Same as Bittorrent: Has ads and trackers and are unsafe.
-- Avast - Notorious for collecting and selling user data.
-- Bittorrent - Same as μTorrent: Has ads and trackers and is unsafe.
-- CCleaner - Owned by Avast.
 
 ### Untrusted Sites and Uploaders:
 
@@ -249,3 +242,10 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - Worldofpcgames - Malicious downloads.
 - xGIROx - Repacks contain bitcoin miners.
 - Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
+
+### Unsafe Software:
+
+- μTorrent - Same as Bittorrent: Has ads and trackers and are unsafe.
+- Avast - Notorious for collecting and selling user data.
+- Bittorrent - Same as μTorrent: Has ads and trackers and is unsafe.
+- CCleaner - Owned by Avast.
