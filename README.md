@@ -28,7 +28,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
-- [G4U](https://g4u.to)
+- [G4U](https://g4u.to) - Slow downloads for free users.
 - [Game-2U](https://game-2u.com) - For PlayStation 4 games (use the [FastForward](https://fastforward.team/install) browser extension to bypass ad shortlinks).
 - [GameDrive](https://gamedrive.org)
 - [GamesDrive](https://gamesdrive.net)
@@ -68,8 +68,8 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 
 - [Chovka](https://repack.info)
 - [CPG Repacks](https://cpgrepacks.site)
-- [DODI Repacks](https://dodi-repacks.site)
 - [Darck Repacks](https://darckrepacks.com)
+- [DODI Repacks](https://dodi-repacks.site)
 - [ElAmigos](https://elamigos.site) - Slow downloads for free users, download via GLOAD or Ova Games instead.
 - [FitGirl Repacks](https://fitgirl-repacks.site)
 - [FluxyRepacks](https://www.fluxycrack.fr)
@@ -102,13 +102,13 @@ Note: These are not for online games. Do not use cheats in online games!
 ### Release Networks:
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Wanting to see if a game is cracked? Check here!
 
-- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer the "When will X game be cracked?" question.
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [m2v.ru](https://m2v.ru)
 - [PreDB.de](https://predb.de/section/GAMES)
 - [PreDB.me](https://predb.me/?cats=games-pc)
 - [PreDB.org](https://predb.org/cats/GAMES)
 - [PreDB.pw](https://predb.pw)
+- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer the "When will X game be cracked?" question.
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
@@ -120,10 +120,10 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Edge Emulation](https://edgeemu.net)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
-- [RomUlation](https://www.romulation.net)
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/Roms Megathread](https://r-roms.github.io)
 - [ROMSPURE](https://romspure.cc)
+- [RomUlation](https://www.romulation.net)
 - [The Eye](https://the-eye.eu)
 - [The ROM Depot](https://theromdepot.com)
 - [Vimm's Lair](https://vimm.net/?p=vault)
