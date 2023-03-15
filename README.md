@@ -53,7 +53,7 @@ Direct downloads are any normal download: You download the file from a server th
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [1337x](https://1337x.to/cat/Games/1) - Do not download torrents uploaded by IGG Games.
+- [1337x](https://1337x.to/cat/Games/1) - Avoid torrents uploaded by IGG Games.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
 - [NMac](https://nmac.to/category/games) - For macOS apps and games.
@@ -189,7 +189,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 ### Useful Software:
 
 - [7-Zip](https://7-zip.org) - File archiver.
-- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher)
+- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser that provides automatic screenshot, playtime tracking and real-time notification.
 - [Bitwarden](https://bitwarden.com) - Open source password manager.
 - [Parsec](https://parsec.app) - Play local multiplayer games from anywhere.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator.
@@ -201,8 +201,8 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Useful Browser Extensions:
 
-- [FastForward](https://fastforward.team)
-- [uBlock Origin](https://ublockorigin.com)
+- [FastForward](https://fastforward.team) - Link shorteners bypasser.
+- [uBlock Origin](https://ublockorigin.com) - Ad content blocker.
 
 ### VPNs:
 - [r/VPN](https://www.reddit.com/r/VPN)
