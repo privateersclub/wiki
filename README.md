@@ -57,7 +57,7 @@ You will likely need a VPN to download torrents to avoid receiving copyright not
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
 - [NMac](https://nmac.to/category/games) - For macOS apps and games.
-- [RARBG](https://rarbgproxied.org/torrents.php?category=2;27;28;29;30;31;53)
+- [RARBG](https://rarbg.to)
 - [Rutor](http://rutor.info/games)
 - [RuTracker](https://rutracker.org/forum/index.php?c=19)
 - [Rustorka](https://rustorka.com/forum)
