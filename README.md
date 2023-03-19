@@ -78,7 +78,6 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [KAPITALSIN](https://kapitalsin.com/forum)
 - [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- [MagiPack Games](https://www.magipack.games)
 - Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
 - R.G. Catalyst
