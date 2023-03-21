@@ -89,7 +89,7 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - ZAZIX
 
 ### Trainers (Cheats):
-Note: These are not for online games. Do not use cheats in online games!
+Note: These are not for online games. Do not cheat in online games!
 
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
 - [FLiNG Trainer](https://flingtrainer.com)
@@ -152,16 +152,16 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically sets your game up for CreamAPI.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic creator of Steamworks fixes.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - DLC unlocker for legitimate Steam games.
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC unlocker for Epic Games Store and EA clients.
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - DLC unlocker for EA clients.
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator that allows LAN multiplayer without internet connection.
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - DLC unlocker for EA clients, Epic Games Store, Steam and Uplay.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - EA clients and Epic Games Store DLC unlocker.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA clients DLC unlocker.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - EA clients, Epic Games Store, Steam and Uplay DLC unlocker.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - List of Steam tools.
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirate The Sims 4 version updater.
 - [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover.
 
@@ -225,13 +225,13 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - FreeTP
 - Game3rb
 - Games Releaser
-- GOG Unlocked/SteamUnlocked - Malicious redirect ads, slow downloads and uploads stolen from IGG Games and nosTEAM.
+- GOG Unlocked/SteamUnlocked - Games stolen from IGG Games and nosTEAM, malicious redirect ads and slow downloads.
 - IGG Games/PCGamesTorrents - Doxed mercs213 (Good Old Downloads owner), exploits you for ad revenue and puts its own DRM in indie games.
 - MrPcGames
 - NexusGames - Caught with malware.
 - nosTEAM
 - Ocean of Games - Constantly caught with malware.
-- Qoob/Seyter - Caught with bitcoin miners.
+- Qoob/Seyter - Caught with crypto miners.
 - Repack-Games - Mislabels games and steals releases.
 - Steam-Repacks - Caught with malware.
 - Steam Cracked
@@ -239,7 +239,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - Unlocked-Games
 - WIFI4Games - Caught with malware.
 - Worldofpcgames - Caught with malware.
-- xGIROx - Caught with bitcoin miners.
+- xGIROx - Caught with crypto miners.
 - Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
 
 ### Unsafe Software:
