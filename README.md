@@ -53,7 +53,7 @@ Direct downloads are any normal download: You download the file from a server th
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [1337x](https://1337x.to/cat/Games/1) - Avoid torrents uploaded by IGG Games.
+- [1337x](https://1337x.to/cat/Games/1/) - Avoid torrents uploaded by IGG Games.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
 - [NMac](https://nmac.to/category/games) - For macOS apps and games.
@@ -153,12 +153,15 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically sets your game up for CreamAPI.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic creator of Steamworks fixes.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - DLC unlocker for legitimate Steam games.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC unlocker for Epic Games Store and EA clients.
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - DLC unlocker for EA clients.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator that allows LAN multiplayer without internet connection.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - DLC unlocker for EA clients, Epic Games Store, Steam and Uplay.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay DLC unlocker and emulator.
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - List of Steam tools.
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirate The Sims 4 version updater.
 - [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover.
 
@@ -208,38 +211,45 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table)
 
-**Tor is NOT a VPN, it will not protect you when torrenting!**
+**Tor Browser is NOT a VPN, it will not protect you when torrenting!**
 
 ### Untrusted Sites and Uploaders:
 
-- AGFY - Scam links.
+- AGFY - Malicious redirect ads.
+- AimHaven - Malicious redirect ads.
 - AllTorrents
 - ApunKaGames
-- cracked-games/GETGAMEZ - Malware risk.
-- CrackingPatching - Malware risk.
-- Downloadly - Contain crypto miners.
+- cracked-games/GETGAMEZ - Caught with malware.
+- CrackingPatching - Caught with malware.
+- Downloadly - Caught with crypto miners.
 - FreeTP
 - Game3rb
 - Games Releaser
-- GOG Unlocked/SteamUnlocked - Malicious link redirects, slow downloads and uploads stolen from IGG Games.
-- IGG Games/PCGamesTorrents - Has doxed mercs213 (Good Old Downloads owner), exploits you for ad revenue and puts its own DRM in indie games.
+- GOG Unlocked/SteamUnlocked - Malicious redirect ads, slow downloads and uploads stolen from IGG Games and nosTEAM.
+- IGG Games/PCGamesTorrents - Doxed mercs213 (Good Old Downloads owner), exploits you for ad revenue and puts its own DRM in indie games.
 - MrPcGames
-- NexusGames - Malicious downloads.
+- NexusGames - Caught with malware.
 - nosTEAM
-- Ocean of Games - High malware risk.
-- Qoob/Seyter - Repacks contain bitcoin miners.
+- Ocean of Games - Constantly caught with malware.
+- Qoob/Seyter - Caught with bitcoin miners.
 - Repack-Games - Mislabels games and steals releases.
-- Steam-Repacks - Malicious downloads.
+- Steam-Repacks - Caught with malware.
 - Steam Cracked
-- The Pirate Bay - Malware risk.
+- The Pirate Bay - High malware risk.
 - Unlocked-Games
-- WIFI4Games - Malicious downloads.
-- Worldofpcgames - Malicious downloads.
-- xGIROx - Repacks contain bitcoin miners.
+- WIFI4Games - Caught with malware.
+- Worldofpcgames - Caught with malware.
+- xGIROx - Caught with bitcoin miners.
 - Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
 
 ### Unsafe Software:
 
 - μTorrent/Bittorent - Has ads and trackers and is unsafe.
-- Avast - Notorious for collecting and selling user data.
-- CCleaner - Owned by Avast.
+- Avast - Known for selling user data.
+- AVG/CCleaner - Owned by Avast.
+- CyberGhost/ExpressVPN/Private Internet Access/ZenMate - Owned by Kape.
+- GShade - Has code that reboots your computer if you used a third-party app to manage updates.
+- McAfee - Installs bloatware.
+- now.gg - Steals accounts.
+- PolyMC - Owner kicked all members from Discord server and repository.
+- TLauncher - Shady business practices.
