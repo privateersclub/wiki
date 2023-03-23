@@ -25,7 +25,7 @@ Direct downloads are any normal download: You download the file from a server th
 - [AppKed](https://www.macbed.com/games) - For macOS apps and games.
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
-- [CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
 - [G4U](https://g4u.to) - Slow downloads for free users.
@@ -40,12 +40,12 @@ Direct downloads are any normal download: You download the file from a server th
 - [Old-Games.RU](https://www.old-games.ru/catalog) - For old games. Can be switched to English on the bottom right corner.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Online Fix](https://online-fix.me) - For online multiplayer games.
-- [Ova Games](https://www.ovagames.com)
+- [🌟 Ova Games](https://www.ovagames.com)
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
 - [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Requires becoming a member of their Discord server for at least 1 day to unlock Google Drive links.
 - [SKlauncher](https://skmedix.pl) - For Minecraft.
-- [SteamRIP](https://steamrip.com)
+- [🌟 SteamRIP](https://steamrip.com)
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
 - [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Needs registration to access the content. Offline at the moment.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Needs registration to access the content.
@@ -53,40 +53,39 @@ Direct downloads are any normal download: You download the file from a server th
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
-- [1337x](https://1337x.to/cat/Games/1/) - Avoid torrents uploaded by IGG Games.
+- [🌟 1337x](https://1337x.to/cat/Games/1/) - Avoid torrents uploaded by IGG Games.
+- [🌟 RARBG](https://rarbg.to)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Rutor](http://rutor.info/games) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Tapochek](https://tapochek.net/index.php?c=2) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [NMac](https://nmac.to/category/games) - For macOS apps and games.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
-- [NMac](https://nmac.to/category/games) - For macOS apps and games.
-- [RARBG](https://rarbg.to)
-- [Rutor](http://rutor.info/games)
-- [RuTracker](https://rutracker.org/forum/index.php?c=19)
-- [Rustorka](https://rustorka.com/forum)
-- [Tapochek](https://tapochek.net)
 
 ### Repacks:
 Repacks are highly compressed games, designed for people with limited and/or slow internet bandwidth. You must install them on your computer once you download them, which can take a long time due to file decompression.
 
+- [🌟 DODI Repacks](https://dodi-repacks.site)
+- [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [Chovka](https://repack.info)
-- [CPG Repacks](https://cpgrepacks.site)
 - [Darck Repacks](https://darckrepacks.com)
-- [DODI Repacks](https://dodi-repacks.site)
 - [ElAmigos](https://elamigos.site) - Slow downloads for free users, download via GLOAD or Ova Games instead.
-- [FitGirl Repacks](https://fitgirl-repacks.site)
-- [FluxyRepacks](https://www.fluxycrack.fr)
-- [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
+- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [KAPITALSIN](https://kapitalsin.com/forum)
-- [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
-- [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
 - R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
-- [Scooter Repacks](https://scooter-repacks.site)
-- [Tiny Repacks](https://www.tiny-repacks.win)
 - [Xatab](https://byxatab.com)
 - ZAZIX
+- [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
+- [KAPITALSIN](https://kapitalsin.com/forum) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
+- [Tiny Repacks](https://www.tiny-repacks.win) - For indie games.
+- [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
+- [CPG Repacks](https://cpgrepacks.site) - For +18 anime games.
 
 ### Trainers (Cheats):
 Note: These are not for online games. Do not cheat in online games!
@@ -111,41 +110,41 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
-- [xREL](https://www.xrel.to/games-release-list.html)
+- [🌟 xREL](https://www.xrel.to/games-release-list.html)
 
 ### ROM Sites:
 
-- [CDRomance](https://cdromance.com)
-- [Edge Emulation](https://edgeemu.net)
+- [🌟 CDRomance](https://cdromance.com)
+- [🌟 Edge Emulation](https://edgeemu.net)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/Roms Megathread](https://r-roms.github.io)
+- [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [ROMSPURE](https://romspure.cc)
-- [RomUlation](https://www.romulation.net)
 - [The Eye](https://the-eye.eu)
 - [The ROM Depot](https://theromdepot.com)
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com)
 
 ### Direct Downloading Software:
 
 - [Free Download Manager](https://www.freedownloadmanager.org)
-- [Internet Download Manager](https://internetdownloadmanager.com)
-- [JDownloader2](https://jdownloader.org/jdownloader2) - Automatically detects links from most sites.
+- [🌟 Internet Download Manager](https://internetdownloadmanager.com)
+- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Automatically detects links from most sites.
 - [Motrix](https://motrix.app)
 - [pyLoad](https://pyload.net)
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 
 ### Torrent Software:
 
-- [BiglyBT](https://www.biglybt.com)
+- [🌟 qBittorrent](https://www.qbittorrent.org)
+- [🌟 Transmission](https://transmissionbt.com)
 - [Deluge](https://dev.deluge-torrent.org)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
-- [PicoTorrent](https://picotorrent.org)
-- [qBittorrent](https://www.qbittorrent.org)
 - [Tixati](https://tixati.com)
-- [Transmission](https://transmissionbt.com)
+- [Motrix](https://motrix.app)
+- [PicoTorrent](https://picotorrent.org)
+- [BiglyBT](https://www.biglybt.com)
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
 - [WebTorrent](https://webtorrent.io)
 
 ### Tools:
