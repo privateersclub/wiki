@@ -100,6 +100,7 @@ Note: These are not for online games. Do not cheat in online games!
 ### Release Networks:
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Wanting to see if a game is cracked? Check here!
 
+- [🌟 xREL](https://www.xrel.to/games-release-list.html)
 - [m2v.ru](https://m2v.ru)
 - [PreDB.de](https://predb.de/section/GAMES)
 - [PreDB.me](https://predb.me/?cats=games-pc)
@@ -110,20 +111,19 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
-- [🌟 xREL](https://www.xrel.to/games-release-list.html)
 
 ### ROM Sites:
 
+- [🌟 r/Roms Megathread](https://r-roms.github.io)
+- [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [🌟 Edge Emulation](https://edgeemu.net)
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
 - [r/Roms](https://www.reddit.com/r/roms)
-- [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Needs registration to access the content.
-- [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com) - For Nintendo 3DS and Switch games.
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this userscript](https://www.reddit.com/r/Roms/comments/120c0du/how_to_download_emuparadise_isos_and_roms)) to download.
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this userscript](https://www.reddit.com/r/Roms/comments/120c0du/how_to_download_emuparadise_isos_and_roms) to download.
 
 ### Direct Downloading Software:
 
@@ -132,7 +132,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Free Download Manager](https://www.freedownloadmanager.org)
 - [Motrix](https://motrix.app)
 - [pyLoad](https://pyload.net)
-- [Xtreme Download Manager](https://xtremedownloadmanager.com)
+- [Xtreme Download Manager](https://github.com/subhra74/xdm)
 
 ### Torrent Software:
 
@@ -144,7 +144,6 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [PicoTorrent](https://picotorrent.org)
 - [BiglyBT](https://www.biglybt.com)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
-- [WebTorrent](https://webtorrent.io) - Streaming torrent client.
 
 ### Tools:
 
