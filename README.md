@@ -21,11 +21,13 @@ You must install all of these before downloading any (legitimate or pirated) gam
 ### Direct Download Sites:
 Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, Zippyshare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download. Use 
+- [🌟 SteamRIP](https://steamrip.com)
+- [🌟 Ova Games](https://www.ovagames.com)
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For iOS apps and games.
 - [AppKed](https://www.macbed.com/games) - For macOS apps and games.
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
 - [G4U](https://g4u.to) - Slow downloads for free users.
@@ -40,15 +42,13 @@ Direct downloads are any normal download: You download the file from a server th
 - [Old-Games.RU](https://www.old-games.ru/catalog) - For old games. Can be switched to English on the bottom right corner.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Online Fix](https://online-fix.me) - For online multiplayer games.
-- [🌟 Ova Games](https://www.ovagames.com)
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
 - [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Requires becoming a member of their Discord server for at least 1 day to unlock Google Drive links.
-- [SKlauncher](https://skmedix.pl) - For Minecraft.
-- [🌟 SteamRIP](https://steamrip.com)
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
-- [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Needs registration to access the content. Offline at the moment.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Needs registration to access the content.
+- [SKlauncher](https://skmedix.pl) - For Minecraft.
+- [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Needs registration to access the content. Offline at the moment.
 
 ### Torrent Sites:
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
@@ -78,7 +78,7 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
-- [Xatab](https://byxatab.com)
+- [Xatab](https://otxatabs.net)
 - ZAZIX
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
 - [KAPITALSIN](https://kapitalsin.com/forum) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
@@ -116,21 +116,20 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 - [🌟 CDRomance](https://cdromance.com)
 - [🌟 Edge Emulation](https://edgeemu.net)
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms) to download.
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
 - [r/Roms](https://www.reddit.com/r/roms)
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [ROMSPURE](https://romspure.cc)
-- [The Eye](https://the-eye.eu)
-- [The ROM Depot](https://theromdepot.com)
+- [The ROM Depot](https://theromdepot.com) - Needs registration to access the content.
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
-- [Ziperto](https://www.ziperto.com)
+- [Ziperto](https://www.ziperto.com) - For Nintendo 3DS and Switch games.
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this userscript](https://www.reddit.com/r/Roms/comments/120c0du/how_to_download_emuparadise_isos_and_roms)) to download.
 
 ### Direct Downloading Software:
 
-- [Free Download Manager](https://www.freedownloadmanager.org)
-- [🌟 Internet Download Manager](https://internetdownloadmanager.com)
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Automatically detects links from most sites.
+- [🌟 Internet Download Manager](https://internetdownloadmanager.com)
+- [Free Download Manager](https://www.freedownloadmanager.org)
 - [Motrix](https://motrix.app)
 - [pyLoad](https://pyload.net)
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
@@ -145,7 +144,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [PicoTorrent](https://picotorrent.org)
 - [BiglyBT](https://www.biglybt.com)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
-- [WebTorrent](https://webtorrent.io)
+- [WebTorrent](https://webtorrent.io) - Streaming torrent client.
 
 ### Tools:
 
@@ -202,8 +201,9 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 ### Useful Browser Extensions:
 
-- [FastForward](https://fastforward.team) - Link shorteners bypasser.
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker.
+- [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
+- [FastForward](https://fastforward.team) - Link shorteners bypasser.
 
 ### VPNs:
 - [r/VPN](https://www.reddit.com/r/VPN)
