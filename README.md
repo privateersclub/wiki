@@ -21,7 +21,7 @@ You must install all of these before downloading any (legitimate or pirated) gam
 ### Direct Download Sites:
 Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, Zippyshare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download. Use 
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 Ova Games](https://www.ovagames.com)
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For iOS apps and games.
@@ -106,7 +106,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [PreDB.me](https://predb.me/?cats=games-pc)
 - [PreDB.org](https://predb.org/cats/GAMES)
 - [PreDB.pw](https://predb.pw)
-- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer the "When will X game be cracked?" question.
+- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - Joke subreddit to answer the “When will X game be cracked?” question.
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
