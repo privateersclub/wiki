@@ -1,14 +1,13 @@
-**Here is the /r/PiratedGames Megathread!** - [Translations](translations)
----
+## **Here is the /r/PiratedGames Megathread!** - [Translations](translations)
 
-### Needed Components:
+### Needed Components
 You must install all of these before downloading any (legitimate or pirated) games to stop crashing due to missing software on your computer:
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Related Subreddits:
+### Related Subreddits
 
 - [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
@@ -18,39 +17,39 @@ You must install all of these before downloading any (legitimate or pirated) gam
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Direct Download Sites:
+### Direct Download Sites
 Direct downloads are any normal download: You download the file from a server through a browser. It is significantly safer to download this way and you will not need a VPN. You will need a VPN to access blocked filehost sites (for example, Zippyshare is blocked in some EU countries) in some cases. It is recommended to use a download manager mentioned further down the megathread to help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
-- [🌟 Ova Games](https://www.ovagames.com)
-- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For iOS apps and games.
-- [AppKed](https://www.macbed.com/games) - For macOS apps and games.
+- [🌟 GamesDrive](https://gamesdrive.net)
+- [🌟 GOG Games](https://gog-games.com) - For GOG games.
+- [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use Google Translate.
-- [G4U](https://g4u.to) - Slow downloads for free users.
-- [Game-2U](https://game-2u.com) - For PlayStation 4 games (use the [FastForward](https://fastforward.team/install) browser extension to bypass ad shortlinks).
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [G4U](https://g4u.to) - Slow downloads for free users. Password: ``404``.
+- [Game-2U](https://game-2u.com) - For PlayStation 4 games.
 - [GameDrive](https://gamedrive.org)
-- [GamesDrive](https://gamesdrive.net)
 - [GLOAD](https://gload.to) - For scene releases.
-- [GOG Games](https://gog-games.com) - For GOG games.
-- [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
+- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Requires becoming a member of their Discord server for at least 1 day to unlock Google Drive links.
+- [ReleaseBB](https://rlsbb.ru/category/games)
+- [Scnlog](https://scnlog.me/games)
+- [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
+- [AppKed](https://www.macbed.com/games) - For macOS apps and games.
 - [Mobilism](https://forum.mobilism.me) - For Android apps and games.
+- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For iOS apps and games.
+- [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
 - [My Abandonware](https://www.myabandonware.com) - For old games.
 - [Old-Games.RU](https://www.old-games.ru/catalog) - For old games. Can be switched to English on the bottom right corner.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
-- [Online Fix](https://online-fix.me) - For online multiplayer games.
-- [ReleaseBB](https://rlsbb.ru/category/games)
-- [Scnlog](https://scnlog.me/games)
-- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Requires becoming a member of their Discord server for at least 1 day to unlock Google Drive links.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Needs registration to access the content.
-- [SKlauncher](https://skmedix.pl) - For Minecraft.
+- [PollyMC](https://github.com/fn2006/PollyMC) - For Minecraft.
 - [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Needs registration to access the content. Offline at the moment.
 
-### Torrent Sites:
+### Torrent Sites
 You will likely need a VPN to download torrents to avoid receiving copyright notices from your ISP, unless your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads: You download from other people who have downloaded the file. No servers are involved.
 
 - [🌟 1337x](https://1337x.to/cat/Games/1/) - Avoid torrents uploaded by IGG Games.
@@ -63,7 +62,7 @@ You will likely need a VPN to download torrents to avoid receiving copyright not
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
 
-### Repacks:
+### Repacks
 Repacks are highly compressed games, designed for people with limited and/or slow internet bandwidth. You must install them on your computer once you download them, which can take a long time due to file decompression.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
@@ -73,21 +72,20 @@ Repacks are highly compressed games, designed for people with limited and/or slo
 - [ElAmigos](https://elamigos.site) - Slow downloads for free users, download via GLOAD or Ova Games instead.
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [Xatab](https://otxatabs.net)
 - Masquerade Repacks (moved to KaOsKrew)
 - Mr DJ
 - R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
-- [Xatab](https://otxatabs.net)
 - ZAZIX
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
 - [KAPITALSIN](https://kapitalsin.com/forum) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
 - [Tiny Repacks](https://www.tiny-repacks.win) - For indie games.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [CPG Repacks](https://cpgrepacks.site) - For +18 anime games.
 
-### Trainers (Cheats):
+### Trainers (Cheats)
 Note: These are not for online games. Do not cheat in online games!
 
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
@@ -97,7 +95,7 @@ Note: These are not for online games. Do not cheat in online games!
 - [MrAntiFun](https://mrantifun.net)
 - [WeMod](https://www.wemod.com)
 
-### Release Networks:
+### Release Networks
 Note: None of these sites provide downloads, only information on P2P and/or scene releases. Wanting to see if a game is cracked? Check here!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html)
@@ -112,29 +110,29 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 - [srrDB](https://www.srrdb.com)
 
-### ROM Sites:
+### ROM Sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
-- [🌟 Edge Emulation](https://edgeemu.net)
-- [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
+- [Edge Emulation](https://edgeemu.net)
 - [r/Roms](https://www.reddit.com/r/roms)
 - [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Needs registration to access the content.
 - [Ziperto](https://www.ziperto.com) - For Nintendo 3DS and Switch games.
+- [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this userscript](https://www.reddit.com/r/Roms/comments/120c0du/how_to_download_emuparadise_isos_and_roms) to download.
 
-### Direct Downloading Software:
+### Direct Downloading Software
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Automatically detects links from most sites.
-- [🌟 Internet Download Manager](https://internetdownloadmanager.com)
-- [Free Download Manager](https://www.freedownloadmanager.org)
 - [Motrix](https://motrix.app)
-- [pyLoad](https://pyload.net)
+- [Free Download Manager](https://www.freedownloadmanager.org)
+- [Internet Download Manager](https://internetdownloadmanager.com) - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended. Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use it forever.
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
+- [pyLoad](https://pyload.net)
 
-### Torrent Software:
+### Torrent Software
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
 - [🌟 Transmission](https://transmissionbt.com)
@@ -145,24 +143,24 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [BiglyBT](https://www.biglybt.com)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - For Android devices.
 
-### Tools:
+### Tools
 
-- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically sets your game up for CreamAPI.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic creator of Steamworks fixes.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
+- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker. Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - EA clients and Epic Games Store DLC unlocker.
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA clients DLC unlocker.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator.
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - EA clients, Epic Games Store, Steam and Uplay DLC unlocker.
-- [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - List of Steam tools.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam tools list.
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker.
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirate The Sims 4 version updater.
 - [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover.
+- [Online Fix](https://online-fix.me) - For online multiplayer games.
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version updater.
+- [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
 
-### Emulators:
+### Emulators
 
 - [Bsnes](https://github.com/bsnes-emu/bsnes) - For Super Nintendo Entertainment System games.
 - [Cemu](https://cemu.info) - For Nintendo Wii U games.
@@ -185,7 +183,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - [Xenia](https://xenia.jp) - For Xbox 360 games.
 - [Yuzu](https://yuzu-emu.org) - For Nintendo Switch games.
 
-### Useful Software:
+### Useful Software
 
 - [7-Zip](https://7-zip.org) - File archiver.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser that provides automatic screenshot, playtime tracking and real-time notification.
@@ -198,20 +196,20 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 
 **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
-### Useful Browser Extensions:
+### Useful Browser Extensions
 
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker.
 - [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 - [FastForward](https://fastforward.team) - Link shorteners bypasser.
 
-### VPNs:
+### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table)
 
 **Tor Browser is NOT a VPN, it will not protect you when torrenting!**
 
-### Untrusted Sites and Uploaders:
+### Untrusted Sites and Uploaders
 
 - AGFY - Malicious redirect ads.
 - AimHaven - Malicious redirect ads.
@@ -240,7 +238,7 @@ Note: None of these sites provide downloads, only information on P2P and/or scen
 - xGIROx - Caught with crypto miners.
 - Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
 
-### Unsafe Software:
+### Unsafe Software
 
 - μTorrent/Bittorent - Has ads and trackers and is unsafe.
 - Avast - Known for selling user data.
