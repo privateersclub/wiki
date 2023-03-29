@@ -1,6 +1,6 @@
 ## **Here is the /r/PiratedGames Megathread!** - [Translations](translations)
 
-### Needed Components
+### Required Components
 Install all before downloading games (legitimate or pirated) to prevent crashes from missing software on your computer.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
@@ -20,7 +20,7 @@ Install all before downloading games (legitimate or pirated) to prevent crashes 
 ### Direct Download Sites
 Direct downloads are safer and do not need a VPN. You may need a VPN to access blocked filehost sites (for example, Rapidgator in some EU countries). Check the download manager section below for help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Needs registration to download. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](https://gog-games.com) - For GOG games.
@@ -40,11 +40,11 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [AppKed](https://www.macbed.com/games) - For macOS apps and games.
 - [Mobilism](https://forum.mobilism.me) - For Android apps and games.
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - For iOS apps and games.
-- [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
 - [My Abandonware](https://www.myabandonware.com) - For old games.
-- [Old-Games.RU](https://www.old-games.ru/catalog) - For old games. Can be switched to English on the bottom right corner.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
+- [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
+- [Old-Games.RU](https://www.old-games.ru/catalog/) - For old games. Can be switched to English on the bottom right corner.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Registration required.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
 - [PollyMC](https://github.com/fn2006/PollyMC) - For Minecraft.
@@ -81,9 +81,10 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - R.G. Revenants
 - ZAZIX
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
-- [KAPITALSIN](https://kapitalsin.com/forum) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [KAPITALSIN](https://kapitalsin.com/forum) - For lossy (lower quality and/or removed files). Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Tiny Repacks](https://www.tiny-repacks.win) - For indie games.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
+- [MagiPack Games](https://www.magipack.games) - For old games.
 - [CPG Repacks](https://cpgrepacks.site) - For +18 anime games.
 
 ### Trainers (Cheats)
@@ -117,16 +118,16 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [r/Roms](https://www.reddit.com/r/roms)
 - [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Registration required.
 - [Ziperto](https://www.ziperto.com) - For Nintendo 3DS and Switch games.
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Use [this userscript](https://www.reddit.com/120c0du) to download.
+- [r/Roms](https://www.reddit.com/r/roms)
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Follow [this guide](https://www.reddit.com/120c0du) to download.
 
 ### Direct Downloading Software
 
-- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide]() to clean its UI up. Use [Offline Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) to avoid more CAPTCHAs. See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
+- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md#configuration) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org) - Use [Elephant] to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com) - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended. Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use it forever.
@@ -135,7 +136,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 
 ### Torrent Software
 
-- [🌟 qBittorrent](https://www.qbittorrent.org)
+- [🌟 qBittorrent](https://www.qbittorrent.org) - [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) is recommended. See [this](https://draculatheme.com/qbittorrent) for a dark theme.
 - [🌟 Transmission](https://transmissionbt.com)
 - [Deluge](https://dev.deluge-torrent.org)
 - [Tixati](https://tixati.com)
@@ -151,10 +152,10 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - EA clients and Epic Games Store DLC unlocker.
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA clients DLC unlocker.
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker.
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator. Use [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) for managing it with a UI.
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover.
+- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover. Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
 - [Online Fix](https://online-fix.me) - Allows playing pirated games online with other pirated copies. Password: ``online-fix.me``.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version updater.
@@ -199,7 +200,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 
 ### Useful Browser Extensions
 
-- [uBlock Origin](https://ublockorigin.com) - Ad content blocker. Following [Privacy Guides' suggestions](https://www.privacyguides.org/en/desktop-browsers/#ublock-origin) is recommended.
+- [uBlock Origin](https://ublockorigin.com) - Ad content blocker. Following [Privacy Guides' recommendations](https://www.privacyguides.org/en/desktop-browsers/#ublock-origin) is recommended.
 - [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 - [FastForward](https://fastforward.team) - Link shorteners bypasser.
 
@@ -211,15 +212,16 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 **"Tor Browser ≠ VPN, no protection for torrenting!"**
 
 ### Untrusted Sites and Uploaders
-You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block all sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
+You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
 
 - AGFY - Malicious redirect ads.
 - AimHaven - Malicious redirect ads.
 - AllTorrents
 - ApunKaGames
-- cracked-games/GETGAMEZ - Caught with [malware](https://www.reddit.com/qy6z3c).
+- cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://reddit.com/qy6z3c).
 - Downloadly - Caught with crypto miners.
+- Free GOG PC Games - Modified DLLs with IGG Ads.
 - FreeTP
 - Game3rb
 - Games Releaser
@@ -229,7 +231,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - NexusGames - Caught with malware.
 - nosTEAM
 - Ocean of Games - Constantly caught with malware.
-- Qoob/Seyter - Caught with crypto miners and [tried to switch names afterwards](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
+- Qoob/Seyter - Caught with crypto miners and [tried to switch names](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
 - Repack-Games - Mislabels games and steals releases.
 - Steam-Repacks - Caught with malware.
 - Steam Cracked
