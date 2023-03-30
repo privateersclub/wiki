@@ -118,7 +118,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md#configuration) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
 - [Motrix](https://motrix.app)
-- [Free Download Manager](https://www.freedownloadmanager.org) - Use [Elephant] to download videos.
+- [Free Download Manager](https://www.freedownloadmanager.org) - Use [Elephant](https://github.com/meowcateatrat/elephant) to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com) - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended. Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use it forever.
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
@@ -220,7 +220,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://reddit.com/qy6z3c).
 - Downloadly - Caught with crypto miners.
-- Free GOG PC Games - Modified DLLs with IGG Ads.
+- Free GOG PC Games - Modified DLLs with IGG ads.
 - FreeTP
 - Game3rb
 - Games Releaser
