@@ -196,6 +196,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator.
 
 > :memo: **Use [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate Microsoft products (Office and Windows).**
+
 > :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
 ### Useful Browser Extensions
