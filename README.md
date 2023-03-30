@@ -13,7 +13,7 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - For GOG games. Requires the [TOR Browser](https://www.torproject.org/download/) to visit.
+- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download/) to visit.
 - [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
@@ -153,7 +153,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 
 ### Emulators
 
-> :exclamation: **See [gametechwiki's Emulation](https://emulation.gametechwiki.com/index.php/Main_Page) page for more.**
+> :exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
 
 - [Bsnes](https://github.com/bsnes-emu/bsnes) - For Super Nintendo Entertainment System games.
 - [Cemu](https://cemu.info) - For Nintendo Wii U games.
@@ -200,7 +200,7 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
 
-> :warning: **"Tor Browser ≠ VPN, no protection for torrenting!"**
+> :warning: **Tor Browser ≠ VPN, no protection for torrenting!**
 
 ### Related Subreddits
 
