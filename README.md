@@ -7,16 +7,6 @@ Install all before downloading games (legitimate or pirated) to prevent crashes 
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Related Subreddits
-
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
-- [r/Piracy](https://www.reddit.com/r/Piracy)
-- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
-- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
-
 ### Direct Download Sites
 Direct downloads are safer and do not need a VPN. You may need a VPN to access blocked filehost sites (for example, Rapidgator in some EU countries). Check the download manager section below for help managing your downloads.
 
@@ -211,6 +201,16 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
 
 > :warning: **"Tor Browser ≠ VPN, no protection for torrenting!"**
+
+### Related Subreddits
+
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
 ### Untrusted Sites and Uploaders
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
