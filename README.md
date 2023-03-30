@@ -23,7 +23,7 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](https://gog-games.com) - For GOG games.
+- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - For GOG games. Requires the [TOR Browser](https://www.torproject.org/download/) to visit.
 - [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
