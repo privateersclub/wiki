@@ -7,16 +7,6 @@ Install all before downloading games (legitimate or pirated) to prevent crashes 
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Related Subreddits
-
-- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
-- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [r/Piracy](https://www.reddit.com/r/Piracy)
-- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
-- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
-
 ### Direct Download Sites
 Direct downloads are safer and do not need a VPN. You may need a VPN to access blocked filehost sites (for example, Rapidgator in some EU countries). Check the download manager section below for help managing your downloads.
 
@@ -53,8 +43,8 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 ### Torrent Sites
 You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the VPN section below for more info. Torrents are P2P downloads from other users, without servers.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games.
-- [🌟 RARBG](https://rarbg.to)
+- [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
+- [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rutor](http://rutor.info/games) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
@@ -100,7 +90,7 @@ Not for online games. No cheating in online games!
 ### Release Networks
 No downloads provided. Sites offer P2P/scene release info. Check here to see if a game is cracked!
 
-- [🌟 xREL](https://www.xrel.to/games-release-list.html)
+- [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru)
 - [PreDB.de](https://predb.de/section/GAMES)
 - [PreDB.me](https://predb.me/?cats=games-pc)
@@ -110,7 +100,6 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 - [srrDB](https://www.srrdb.com)
-- [r/CrackForecast](https://www.reddit.com/r/CrackForecast) - A subreddit for jokingly answering “When will X game be cracked?”
 
 ### ROM Sites
 
@@ -210,6 +199,16 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
 
 **"Tor Browser ≠ VPN, no protection for torrenting!"**
+
+### Related Subreddits
+
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
 ### Untrusted Sites and Uploaders
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
