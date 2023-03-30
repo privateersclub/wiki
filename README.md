@@ -7,6 +7,16 @@ Install all before downloading games (legitimate or pirated) to prevent crashes 
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
+### Related Subreddits
+
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
+
 ### Direct Download Sites
 Direct downloads are safer and do not need a VPN. You may need a VPN to access blocked filehost sites (for example, Rapidgator in some EU countries). Check the download manager section below for help managing your downloads.
 
@@ -43,8 +53,8 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 ### Torrent Sites
 You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the VPN section below for more info. Torrents are P2P downloads from other users, without servers.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
 - [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
+- [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rutor](http://rutor.info/games) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
@@ -80,9 +90,9 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 ### Trainers (Cheats)
 Not for online games. No cheating in online games!
 
+- [🌟 FLiNG Trainer](https://flingtrainer.com)
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
 - [WeMod](https://www.wemod.com)
-- [FLiNG Trainer](https://flingtrainer.com)
-- [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
 - [MrAntiFun](https://mrantifun.net)
@@ -137,21 +147,23 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 ### Tools
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker. Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator. Use [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) for managing it with a UI.
+- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover. Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam tools list.
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - EA clients, Epic Games Store, Steam and Uplay DLC unlocker.
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - EA clients and Epic Games Store DLC unlocker.
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA clients DLC unlocker.
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker.
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator. Use [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) for managing it with a UI.
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover. Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
 - [Online Fix](https://online-fix.me) - Allows playing pirated games online with other pirated copies. Password: ``online-fix.me``.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version updater.
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam tools list.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
 
 ### Emulators
+
+> :exclamation: **See [gametechwiki's Emulation](https://emulation.gametechwiki.com/index.php/Main_Page) page for more.**
 
 - [Bsnes](https://github.com/bsnes-emu/bsnes) - For Super Nintendo Entertainment System games.
 - [Cemu](https://cemu.info) - For Nintendo Wii U games.
@@ -177,41 +189,32 @@ No downloads provided. Sites offer P2P/scene release info. Check here to see if 
 ### Useful Software
 
 - [7-Zip](https://7-zip.org) - File archiver.
-- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Parser for achievement files with auto-screenshot, playtime tracking, and real-time notification.
 - [Bitwarden](https://bitwarden.com) - Open source password manager.
+- [Tor Browser](https://www.torproject.org) - The most private browser.
+- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Parser for achievement files with auto-screenshot, playtime tracking, and real-time notification.
 - [Parsec](https://parsec.app) - Play local multiplayer games from anywhere.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator.
-- [Tor Browser](https://www.torproject.org) - The most private browser.
 
-**Use [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate Microsoft products (Office and Windows).**
-
-**Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
+> :memo: **Use [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) to activate Microsoft products (Office and Windows).**
+> :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
 ### Useful Browser Extensions
 
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker. Following [Privacy Guides' recommendations](https://www.privacyguides.org/en/desktop-browsers/#ublock-origin) is recommended.
-- [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 - [FastForward](https://fastforward.team) - Link shorteners bypasser.
+- [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 
 ### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
 
-**"Tor Browser ≠ VPN, no protection for torrenting!"**
-
-### Related Subreddits
-
-- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
-- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [r/Piracy](https://www.reddit.com/r/Piracy)
-- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
-- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
+> :warning: **"Tor Browser ≠ VPN, no protection for torrenting!"**
 
 ### Untrusted Sites and Uploaders
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
+
+> :warning: **SCENE GROUPS DO NOT HAVE SITES! Any site with a scene group name in the URL is fake.**
 
 - AGFY - Malicious redirect ads.
 - AimHaven - Malicious redirect ads.
@@ -239,7 +242,6 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - WIFI4Games - Caught with malware.
 - Worldofpcgames - Caught with malware.
 - xGIROx - Caught with crypto miners.
-- Any site with a scene group name in the URL - **SCENE GROUPS DO NOT HAVE SITES!**
 
 ### Unsafe Software
 
