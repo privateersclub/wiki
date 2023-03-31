@@ -8,7 +8,7 @@ Install all before downloading games (legitimate or pirated) to prevent crashes 
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
 ### Direct Download Sites
-Direct downloads are safer and do not need a VPN. You may need a VPN to access blocked filehost sites (for example, Rapidgator in some EU countries). Check the download manager section below for help managing your downloads.
+Direct downloads are safer and do not require a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the download manager section down below for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
@@ -22,7 +22,7 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [Game-2U](https://game-2u.com) - For PlayStation 4 games.
 - [GameDrive](https://gamedrive.org)
 - [GLOAD](https://gload.to) - For scene releases.
-- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join their Discord server for a day to access Google Drive links.
+- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join their Discord server for 1 day to access Google Drive links.
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
 - [Gamdie](https://gamdie.com) - For indie games.
@@ -34,14 +34,14 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
-- [Old-Games.RU](https://www.old-games.ru/catalog/) - For old games. Can be switched to English on the bottom right corner.
+- [Old-Games.RU](https://www.old-games.ru/catalog/) - For old games. Can be switched to English on the top right corner.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Registration required.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
 - [PollyMC](https://github.com/fn2006/PollyMC) - For Minecraft.
 - [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Registration required. Offline currently.
 
 ### Torrent Sites
-You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the VPN section below for more info. Torrents are P2P downloads from other users, without servers.
+You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the VPN section down below for more info. Torrents are P2P downloads from other users, without servers.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
 - [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
@@ -60,7 +60,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [Chovka](https://repack.info)
 - [Darck Repacks](https://darckrepacks.com)
-- [ElAmigos](https://elamigos.site) - Free users experience slow downloads. Use GLOAD's or Ova Games' mirrors instead.
+- [ElAmigos](https://elamigos.site) - Slow downloads for free users. Use GLOAD's or Ova Games' mirrors instead.
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://otxatabs.net)
@@ -71,7 +71,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - R.G. Revenants
 - ZAZIX
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
-- [KAPITALSIN](https://kapitalsin.com/forum) - For lossy (lower quality and/or removed files). Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [KAPITALSIN](https://kapitalsin.com/forum) - For lossy (lower quality and/or removed files) repacks. Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Tiny Repacks](https://www.tiny-repacks.win) - For indie games.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - For old games.
@@ -88,7 +88,7 @@ Not for online games. No cheating in online games!
 - [MrAntiFun](https://mrantifun.net)
 
 ### Release Trackers
-No downloads provided. Sites offer P2P/scene release info. Check here to see if a game is cracked!
+No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -223,7 +223,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://reddit.com/qy6z3c).
 - Downloadly - Caught with crypto miners.
-- Free GOG PC Games - Modified DLLs with IGG ads.
+- Free GOG PC Games - Modified DLLs with [IGG Games ads](https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
 - FreeTP
 - Game3rb
 - Games Releaser
@@ -245,15 +245,15 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 
 ### Unsafe Software
 
-- μTorrent - Has [ads and trackers and is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
+- μTorrent - Has ads and trackers and is [unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Known for selling user data.
 - AVG/CCleaner - Owned by Avast.
 - BitComet/Bittorent - Adware.
 - BitLord - Adware.
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Owned](https://rentry.co/i8dwr) by [Kape](https://reddit.com/q3lepv).
 - FrostWire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd).
-- GShade - [Reboots your computer when third-party update apps are used](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt).
+- GShade - [Reboots](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) your computer when third-party update apps are used.
 - McAfee - Installs bloatware.
-- now.gg - Steals accounts.
+- now.gg - [Steals](https://reddit.com/qu3j5q) accounts.
 - PolyMC - Owner [kicked all members](https://reddit.com/y6lt6s) from Discord server and repository.
 - TLauncher - [Shady](https://reddit.com/zmzzrt) business practices.
