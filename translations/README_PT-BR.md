@@ -254,5 +254,5 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - GShade - [Reinicia](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
 - McAfee - Instala bloatware.
 - now.gg - [Rouba](https://reddit.com/qu3j5q) contas.
-- PolyMC - Dono [expulsou tooos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
+- PolyMC - Dono [expulsou todos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
 - TLauncher - Práticas comerciais [questionáveis](https://reddit.com/zmzzrt).
