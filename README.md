@@ -13,7 +13,7 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended. Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links. Password: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download/) to visit.
+- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download) to visit.
 - [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
@@ -43,8 +43,8 @@ Direct downloads are safer and do not need a VPN. You may need a VPN to access b
 ### Torrent Sites
 You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the VPN section below for more info. Torrents are P2P downloads from other users, without servers.
 
-- [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
+- [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rutor](http://rutor.info/games) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
@@ -87,19 +87,18 @@ Not for online games. No cheating in online games!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Has Cheat Engine tables.
 - [MrAntiFun](https://mrantifun.net)
 
-### Release Networks
+### Release Trackers
 No downloads provided. Sites offer P2P/scene release info. Check here to see if a game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
-- [m2v.ru](https://m2v.ru)
-- [PreDB.de](https://predb.de/section/GAMES)
-- [PreDB.me](https://predb.me/?cats=games-pc)
+- [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/cats/GAMES)
+- [PreDB.de](https://predb.de/section/GAMES)
+- [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
-- [srrDB](https://www.srrdb.com)
 
 ### ROM Sites
 
