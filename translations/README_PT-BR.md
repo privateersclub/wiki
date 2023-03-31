@@ -244,15 +244,15 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 
 ### Programas Inseguros
 
-- μTorrent - Tem [anúncios e tastreadores e é inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
+- μTorrent - Tem anúncios e rastreadores e é [inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Conhecida por venser dados dos usuários.
 - AVG/CCleaner - Propriedade da Avast.
 - BitComet/Bittorent - Adware.
 - BitLord - Adware.
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Propriedade](https://rentry.co/i8dwr) da [Kape](https://reddit.com/q3lepv).
 - FrostWire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd).
-- GShade - [Reinicia seu computador ao usar aplicativos de atualização de terceiros](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt).
+- GShade - [Reinicia](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
 - McAfee - Instala bloatware.
-- now.gg - Rouba contas.
-- PolyMC - Owner [kicked all members](https://reddit.com/y6lt6s) from Discord server and repository.
+- now.gg - [Rouba](https://reddit.com/qu3j5q) contas.
+- PolyMC - Dono [expulsou tooos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
 - TLauncher - Práticas comerciais [questionáveis](https://reddit.com/zmzzrt).
