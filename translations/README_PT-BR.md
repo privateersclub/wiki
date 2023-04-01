@@ -7,18 +7,18 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Sites de Transferência Direta
-Transferências diretas são mais seguras e não requerem uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a seção de gerenciadores de transferências mais abaixo para ajuda no gerenciamento de suas transferências.
+### Sites de Transferências Diretas
+Transferências diretas são mais seguras e não requerem uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registro requerido. [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado. Use o [Baidu Bypass](https://baidu.crackhub.site) para links do Baidu. Senha: ``cs.rin.ru``.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registro requerido. O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado. Use o [Baidu Bypass](https://baidu.crackhub.site) para links do Baidu. Senha: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - Para jogos da GOG. Requer o [Tor Browser](https://www.torproject.org/download) para visitar.
 - [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - Para repacks da FitGirl e lançamentos da cena.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - Para lançamentos da cena do crackhub213's.
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - Para lançamentos da cena do crackhub213.
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [G4U](https://g4u.to) - Transferências lentas para usuários gratuitos. Senha: ``404``.
+- [G4U](https://g4u.to) - Transferências lentas para usuários grátis. Senha: ``404``.
 - [Game-2U](https://game-2u.com) - Para jogos de PlayStation 4.
 - [GameDrive](https://gamedrive.org)
 - [GLOAD](https://gload.to) - Para lançamentos da cena.
@@ -27,9 +27,9 @@ Transferências diretas são mais seguras e não requerem uma VPN. Você deve pr
 - [Scnlog](https://scnlog.me/games)
 - [Gamdie](https://gamdie.com) - Para jogos indie.
 - [Leechinghell](http://www.leechinghell.pw) - Para jogos multijogador LAN.
-- [AppKed](https://www.macbed.com/games) - Para aplicativos e jogos de macOS.
-- [Mobilism](https://forum.mobilism.me) - Para aplicativos e jogos de Android.
-- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Para aplicativos e jogos de iOS.
+- [AppKed](https://www.macbed.com/games) - Para jogos e aplicativos de macOS.
+- [Mobilism](https://forum.mobilism.me) - Para jogos e aplicativos de Android.
+- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Para jogos e aplicativos de iOS.
 - [My Abandonware](https://www.myabandonware.com) - Para jogos antigos.
 - [Old Games Download](https://oldgamesdownload.com) - Para jogos antigos.
 - [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - Para jogos antigos.
@@ -40,8 +40,8 @@ Transferências diretas são mais seguras e não requerem uma VPN. Você deve pr
 - [PollyMC](https://github.com/fn2006/PollyMC) - Para Minecraft.
 - [Torrminatorr Forum](https://forum.torrminatorr.com) - Para jogos da GOG e de Linux e lançamentos da cena. Registro requerido. Fora do ar atualmente.
 
-### Sites de Torrent
-Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a seção de VPN mais abaixo para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
+### Sites de Torrents
+Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Evite torrents enviados pela IGG Games. Os scripts [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format) e [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) são recomendados.
 - [🌟 RARBG](https://rarbg.to) - Os scripts [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks) e [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) são recomendados.
@@ -108,12 +108,12 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [Edge Emulation](https://edgeemu.net)
 - [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Registro requerido.
-- [Ziperto](https://www.ziperto.com) - Para jogos de Nintendo 3DS e Switch.
+- [Ziperto](https://www.ziperto.com) - Para jogos de Nintendo Switch e 3DS.
 - [NXBrew](https://nxbrew.com) - Para jogos de Nintendo Switch.
 - [r/Roms](https://www.reddit.com/r/roms)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Siga [este guia](https://www.reddit.com/120c0du) para baixar.
 
-### Programas de Transferência Direta
+### Gerenciadores de Transferências
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detecta links da maioria dos hospedeiros de arquivos. Siga [este guia](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md#configuration) para o melhorar. Evite mais CAPTCHAs com o [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). Veja [isto](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) para um tema escuro.
 - [Motrix](https://motrix.app)
@@ -122,7 +122,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
 
-### Programas de Torrent
+### Clientes de Torrents
 
 - [🌟 qBittorrent](https://www.qbittorrent.org) - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado. Veja [isto](https://draculatheme.com/qbittorrent) para um tema escuro.
 - [🌟 Transmission](https://transmissionbt.com)
@@ -135,17 +135,17 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 ### Ferramentas
 
-- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos legítimos. Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação automática.
+- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos legítimos da Steam. Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação automática.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA e da Uplay.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam. Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com uma IU.
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM SteamStub. Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de correções para o Steamworks.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Lista de ferramentas da Steam.
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay.
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs dos clientes da EA e da Epic Games Store, Steam e Uplay.
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueadores de DLCs dos clientes da EA e da Epic Games Store.
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos clientes da EA.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic Games Store e dos clientes da EA.
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos clientes da EA.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do Epic Online Services.
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay.
 - [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outras cópias pirateadas. Senha: ``online-fix.me``.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão pirata de The Sims 4.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com root).
@@ -154,26 +154,26 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 > :exclamation: **Veja a [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) para nais.**
 
-- [Bsnes](https://github.com/bsnes-emu/bsnes) - Para jogos de Super Nintendo Entertainment System.
+- [RetroArch](https://retroarch.com) - Para jogos de vários consoles.
+- [Ryujinx](https://ryujinx.org) - Para jogos de Nintendo Switch.
+- [yuzu](https://yuzu-emu.org) - Para jogos de Nintendo Switch.
 - [Cemu](https://cemu.info) - Para jogos de Nintendo Wii U.
 - [Citra](https://citra-emu.org) - Para jogos de Nintendo 3DS.
-- [DeSmuME](https://desmume.org) - Para jogos de Nintendo DS.
-- [Dolphin Emulator](https://dolphin-emu.org) - Para jogos de Nintendo GameCube e Wii.
-- [DuckStation](https://www.duckstation.org) - Para jogos de PlayStation 1.
-- [MAME](https://www.mamedev.org) - Para jogos de arcade.
-- [MelonDS](https://melonds.kuribo64.net) - Para jogos de Nintendo DS.
-- [mGBA](https://mgba.io) - Para jogos de Game Boy Advance.
-- [No$GBA](https://www.nogba.com) - Para jogos de Game Boy Advance e Nintendo DS.
-- [PCSX2](https://pcsx2.net) - Para jogos de PlayStation 2.
-- [PPSSPP](https://www.ppsspp.org) - Para jogos de PlayStation Portable.
+- [Dolphin Emulator](https://dolphin-emu.org) - Para jogos de Nintendo Wii e GameCube.
 - [RCPS3](https://rpcs3.net) - Para jogos de PlayStation 3.
-- [RetroArch](https://retroarch.com) - Para jogos de vários consoles.
+- [xenia](https://xenia.jp) - Para jogos de Xbox 360.
+- [MAME](https://www.mamedev.org) - Para jogos de arcade.
+- [PPSSPP](https://www.ppsspp.org) - Para jogos de PlayStation Portable.
+- [melonDS](https://melonds.kuribo64.net) - Para jogos de Nintendo DS.
+- [DeSmuME](https://desmume.org) - Para jogos de Nintendo DS.
+- [No$GBA](https://www.nogba.com) - Para jogos de Nintendo DS e Game Boy Advance.
+- [xemu](https://xemu.app) - Para jogos de Xbox original.
+- [mGBA](https://mgba.io) - Para jogos de Game Boy Advance.
+- [PCSX2](https://pcsx2.net) - Para jogos de PlayStation 2.
 - [RMG](https://github.com/Rosalie241/RMG) - Para jogos de Nintendo 64.
-- [Ryujinx](https://ryujinx.org) - Para jogos de Nintendo Switch.
+- [DuckStation](https://www.duckstation.org) - Para jogos de PlayStation 1.
+- [bsnes](https://github.com/bsnes-emu/bsnes) - Para jogos de Super Nintendo Entertainment System.
 - [Snes9x](https://www.snes9x.com) - Para jogos de Super Nintendo Entertainment System.
-- [Xemu](https://xemu.app) - Para jogos de Xbox original.
-- [Xenia](https://xenia.jp) - Para jogos de Xbox 360.
-- [Yuzu](https://yuzu-emu.org) - Para jogos de Nintendo Switch.
 
 ### Programas Úteis
 
@@ -196,7 +196,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 ### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
-- [Recomendações do Privacy Guides de VPN](https://www.privacyguides.org/vpn)
+- [Recomendações do Privacy Guides de VPNs](https://www.privacyguides.org/vpn)
 - [Tabela de Comparação de VPNs](https://www.reddit.com/m736zt)
 
 > :warning: **Tor Browser ≠ VPN, sem proteção ao torrentear!**
@@ -211,8 +211,8 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Sites e Enviadores Não Confi
-Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquar a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
+### Sites e Enviadores Não Confiáveis
+Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
 
 > :warning: **GRUPOS DA CENA NÃO TÊM SITES! Todo site com o nome dum grupo da cena na URL é falso.**
 - AGFY - Anúncios de redirecionamento maliciosos.
@@ -227,12 +227,12 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - Game3rb
 - Games Releaser
 - GOG Unlocked/SteamUnlocked - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências lentas.
-- IGG Games/PCGamesTorrents - Fz doxing com o mercs213 (dono do Good Old Downloads), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
+- IGG Games/PCGamesTorrents - Fez doxing com o mercs213 (dono do Good Old Downloads), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
 - MrPcGames
 - NexusGames - Pego com malware.
 - nosTEAM
 - Ocean of Games - Constantemente pego com malware.
-- Qoob/Seyter - Pego com mineradores de criptomodas e [tentou trocar de mome](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
+- Qoob/Seyter - Pego com mineradores de criptomoedas e [tentou trocar de nome](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
 - Repack-Games - Rouba lançamentos e rotula os jogos errado.
 - Steam-Repacks - Pego com malware.
 - Steam Cracked
@@ -244,8 +244,8 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 
 ### Programas Inseguros
 
-- μTorrent - Tem anúncios e rastreadores e é [inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
-- Avast - Conhecida por venser dados dos usuários.
+- μTorrent - Tem anúncios e rastreadores e [é inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
+- Avast - Conhecida por vender dados dos usuários.
 - AVG/CCleaner - Propriedade da Avast.
 - BitComet/Bittorent - Adware.
 - BitLord - Adware.
@@ -253,6 +253,5 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - FrostWire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd).
 - GShade - [Reinicia](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
 - McAfee - Instala bloatware.
-- now.gg - [Rouba](https://reddit.com/qu3j5q) contas.
-- PolyMC - Dono [expulsou todos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
+- PolyMC - O dono [expulsou todos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
 - TLauncher - Práticas comerciais [questionáveis](https://reddit.com/zmzzrt).
