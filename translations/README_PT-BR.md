@@ -8,7 +8,7 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
 ### Sites de Transferências Diretas
-Transferências diretas são mais seguras e não requerem uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
+Transferências diretas são transferências normais por um servidor, sendo mais seguras e não requerindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registro requerido. O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado. Use o [Baidu Bypass](https://baidu.crackhub.site) para links do Baidu. Senha: ``cs.rin.ru``.
 - [🌟 SteamRIP](https://steamrip.com)
@@ -17,12 +17,12 @@ Transferências diretas são mais seguras e não requerem uma VPN. Você deve pr
 - [Ova Games](https://www.ovagames.com)
 - [CrackHub](https://crackhub.site) - Para repacks da FitGirl e lançamentos da cena.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - Para lançamentos da cena do crackhub213.
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [G4U](https://g4u.to) - Transferências lentas para usuários grátis. Senha: ``404``.
 - [Game-2U](https://game-2u.com) - Para jogos de PlayStation 4.
 - [GameDrive](https://gamedrive.org)
 - [GLOAD](https://gload.to) - Para lançamentos da cena.
-- [Seven Gamers](https://www.seven-gamers.com) - Tem links do Google Drive e torrent. Entre no servidor do Discord deles por 1 dia para acessar os links do Google Drive.
+- [Seven Gamers](https://www.seven-gamers.com) - Tem links do Google Drive e torrent. Entre no [servidor do Discord deles](https://discord.com/invite/bzJkrxXXR2) por 1 dia para acessar os links do Google Drive.
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
 - [Gamdie](https://gamdie.com) - Para jogos indie.
@@ -98,7 +98,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [PreDB.pw](https://predb.pw)
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Só para repacks.
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só para repacks. Subreddit irmão do [r/PiratedGames](https://www.reddit.com/r/PiratedGames)'.
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só para repacks. Subreddit irmão do [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 
 ### Sites de ROMs
 
