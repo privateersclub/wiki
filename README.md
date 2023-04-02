@@ -1,7 +1,7 @@
 ## **Here is the /r/PiratedGames Megathread!** - [Translations](translations)
 
 ### Required Components
-Install all before downloading games (legitimate or pirated) to prevent crashes from missing software on your computer.
+Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -22,7 +22,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Game-2U](https://game-2u.com) - For PlayStation 4 games.
 - [GameDrive](https://gamedrive.org)
 - [GLOAD](https://gload.to) - For scene releases.
-- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join their Discord server for 1 day to access Google Drive links.
+- [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join [their Discord server](https://discord.com/invite/bzJkrxXXR2) for 1 day to access Google Drive links.
 - [ReleaseBB](https://rlsbb.ru/category/games)
 - [Scnlog](https://scnlog.me/games)
 - [Gamdie](https://gamdie.com) - For indie games.
@@ -228,7 +228,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - Game3rb
 - Games Releaser
 - GOG Unlocked/SteamUnlocked - Games stolen from IGG Games and nosTEAM, malicious redirect ads, and slow downloads.
-- IGG Games/PCGamesTorrents - Doxed mercs213 (Good Old Downloads owner), exploits you for ad revenue, and puts its own DRM in indie games.
+- IGG Games/PCGamesTorrents - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and puts its own DRM in indie games.
 - MrPcGames
 - NexusGames - Caught with malware.
 - nosTEAM
