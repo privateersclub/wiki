@@ -115,7 +115,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 ### Download Managers
 
-- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md#configuration) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
+- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://www.reddit.com/r/PiratedGames/comments/12axfj3/how_to_enhance_jdownloader2) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org) - Use [Elephant](https://github.com/meowcateatrat/elephant) to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com) - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended. Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use it forever.
@@ -136,7 +136,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 ### Tools
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker. Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games Store, EA clients and Uplay DLC unlocker.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games Store, EA clients, and Uplay DLC unlocker.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator. Use [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) for managing it with a UI.
 - [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover. Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
@@ -221,7 +221,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - AllTorrents
 - ApunKaGames
 - cracked-games/GETGAMEZ - Caught with malware.
-- CrackingPatching - Caught with [malware](https://reddit.com/qy6z3c).
+- CrackingPatching - Caught with [malware](https://www.reddit.com/qy6z3c).
 - Downloadly - Caught with crypto miners.
 - Free GOG PC Games - Modified DLLs with [IGG Games ads](https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
 - FreeTP
@@ -233,7 +233,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - NexusGames - Caught with malware.
 - nosTEAM
 - Ocean of Games - Constantly caught with malware.
-- Qoob/Seyter - Caught with crypto miners and [tried to switch names](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
+- Qoob/Seyter - Caught with crypto miners and [tried to switch names](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
 - Repack-Games - Mislabels games and steals releases.
 - Steam-Repacks - Caught with malware.
 - Steam Cracked
@@ -249,10 +249,10 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - Avast - Known for selling user data.
 - AVG/CCleaner - Owned by Avast.
 - BitComet/Bittorent - Adware.
-- BitLord - Adware.
-- CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Owned](https://rentry.co/i8dwr) by [Kape](https://reddit.com/q3lepv).
-- FrostWire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd).
-- GShade - [Reboots](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) your computer when third-party update apps are used.
+- BitLord - [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0).
+- CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/q3lepv).
+- FrostWire - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection).
+- GShade - [Reboots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) your computer when third-party update apps are used.
 - McAfee - Installs bloatware.
-- PolyMC - Owner [kicked all members](https://reddit.com/y6lt6s) from Discord server and repository.
-- TLauncher - [Shady](https://reddit.com/zmzzrt) business practices.
+- PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from Discord server and repository.
+- TLauncher - [Shady](https://www.reddit.com/zmzzrt) business practices.
