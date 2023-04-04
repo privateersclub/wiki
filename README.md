@@ -14,7 +14,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download) to visit.
-- [Ova Games](https://www.ovagames.com)
+- [Ova Games](https://www.ovagames.com) - Files password: ``www.ovagames.com``.
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - For scene and P2P releases.
 - [GLOAD](https://gload.to) - For scene and P2P releases.
 - [Game-2U](https://game-2u.com/Category/game/pc)
@@ -47,7 +47,7 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rutor](http://rutor.info/games) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [Tapochek](https://tapochek.net/index.php?c=2) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Tapochek](https://tapochek.net/index.php?c=2) - Registration required. Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [NMac](https://nmac.to/category/games) - For macOS apps and games.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - For macOS apps and games.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - For macOS apps and games.
@@ -115,7 +115,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 ### Download Managers
 
-- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://www.reddit.com/r/PiratedGames/comments/12axfj3/how_to_enhance_jdownloader2) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
+- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detects links from most file hosts. Follow [this guide](https://www.reddit.com/12axfj3) to enhance it. Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). See [this](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) for a dark theme.
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org) - Use [Elephant](https://github.com/meowcateatrat/elephant) to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com) - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended. Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use it forever.
@@ -190,7 +190,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 ### Useful Browser Extensions
 
-- [uBlock Origin](https://ublockorigin.com) - Ad content blocker. Following [Privacy Guides' recommendations](https://www.privacyguides.org/en/desktop-browsers/#ublock-origin) is recommended.
+- [uBlock Origin](https://ublockorigin.com) - Ad content blocker. Following [Privacy Guides' recommendations](https://www.privacyguides.org/desktop-browsers/#ublock-origin) is recommended.
 - [FastForward](https://fastforward.team) - Link shorteners bypasser.
 - [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 
