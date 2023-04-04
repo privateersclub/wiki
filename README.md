@@ -106,12 +106,12 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Registration required.
-- [Ziperto](https://www.ziperto.com) - For Nintendo 3DS and Switch games.
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Follow [this guide](https://www.reddit.com/120c0du) to download.
+- [NoPayStation](https://nopaystation.com) - For PlayStation 3, Portable, and Vita games.
+- [Ziperto](https://www.ziperto.com) - For Nintendo Switch and 3DS games.
 - [NXBrew](https://nxbrew.com) - For Nintendo Switch games.
 - [r/Roms](https://www.reddit.com/r/roms)
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Follow [this guide](https://www.reddit.com/120c0du) to download.
 
 ### Download Managers
 
@@ -157,9 +157,9 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [RetroArch](https://retroarch.com) - For multiple consoles games.
 - [Ryujinx](https://ryujinx.org) - For Nintendo Switch games.
 - [yzu](https://yuzu-emu.org) - For Nintendo Switch games.
-- [Cemu](https://cemu.info) - For Nintendo Wii U games.
+- [Cemu](https://cemu.info) - For Wii U games.
 - [Citra](https://citra-emu.org) - For Nintendo 3DS games.
-- [Dolphin Emulator](https://dolphin-emu.org) - For Nintendo Wii and GameCube games.
+- [Dolphin Emulator](https://dolphin-emu.org) - For Wii and GameCube games.
 - [RCPS3](https://rpcs3.net) - For PlayStation 3 games.
 - [xenia](https://xenia.jp) - For Xbox 360 games.
 - [MAME](https://www.mamedev.org) - For arcade games.
