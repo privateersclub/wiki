@@ -15,16 +15,16 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download) to visit.
 - [Ova Games](https://www.ovagames.com)
-- [CrackHub](https://crackhub.site) - For FitGirl repacks and scene releases.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - For crackhub213's scene releases.
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [G4U](https://g4u.to) - Slow downloads for free users. Password: ``404``.
-- [Game-2U](https://game-2u.com) - For PlayStation 4 games.
-- [GameDrive](https://gamedrive.org)
-- [GLOAD](https://gload.to) - For scene releases.
+- [ReleaseBB](https://rlsbb.ru/category/games/pc) - For scene and P2P releases.
+- [GLOAD](https://gload.to) - For scene and P2P releases.
+- [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join [their Discord server](https://discord.com/invite/bzJkrxXXR2) for 1 day to access Google Drive links.
-- [ReleaseBB](https://rlsbb.ru/category/games)
-- [Scnlog](https://scnlog.me/games)
+- [GameDrive](https://gamedrive.org)
+- [G4U](https://g4u.to) - Slow downloads for free users. Password: ``404``.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Slow downloads. Password: ``www.downloadha.com``. Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Scnlog](https://scnlog.me/games) - For scene releases.
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - For scene releases.
+- [CrackHub](https://crackhub.site) - For scene and P2P releases.
 - [Gamdie](https://gamdie.com) - For indie games.
 - [Leechinghell](http://www.leechinghell.pw) - For LAN multiplayer games.
 - [AppKed](https://www.macbed.com/games) - For macOS games and apps.
