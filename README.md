@@ -33,7 +33,6 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [My Abandonware](https://www.myabandonware.com) - For old games.
 - [Old Games Download](https://oldgamesdownload.com) - For old games.
 - [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - For old games.
-- [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games, enhanced to run on modern systems.
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - For old games. Can be switched to English on the top right corner.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - For HOGs. Registration required.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - For MS-DOS games.
@@ -41,7 +40,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Torrminatorr Forum](https://forum.torrminatorr.com) - For GOG and Linux games and scene releases. Registration required. Offline currently.
 
 ### Torrent Sites
-Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#vpns) for more info.
+Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](https://github.com/r-piratedgames/megathread#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid torrents uploaded by IGG Games. The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
 - [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
@@ -58,23 +57,24 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [Chovka](https://repack.info)
-- [Darck Repacks](https://darckrepacks.com)
-- [ElAmigos](https://elamigos.site) - Slow downloads for free users. Use GLOAD's or Ova Games' mirrors instead.
+- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users. Use GLOAD's or Ova Games' mirrors instead.
+- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- RG Mechanics
 - [Xatab](https://otxatabs.net)
+- [Darck Repacks](https://darckrepacks.com)
+- [Chovka](https://repack.info)
 - Masquerade Repacks (moved to KaOsKrew)
-- Mr DJ
-- R.G. Catalyst
-- R.G. Mechanics
-- R.G. Revenants
-- ZAZIX
+- [Tiny Repacks](https://www.tiny-repacks.win)
+- [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
 - [KAPITALSIN](https://kapitalsin.com/forum) - For lossy (lower quality and/or removed files) repacks. Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- [Tiny Repacks](https://www.tiny-repacks.win) - For indie games.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
+- R.G. Catalyst
+- R.G. Revenants
+- Mr DJ
 - [MagiPack Games](https://www.magipack.games) - For old games.
+- [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games.
 - [CPG Repacks](https://cpgrepacks.site) - For +18 anime games.
 
 ### Trainers (Cheats)
