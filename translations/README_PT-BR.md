@@ -14,17 +14,17 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - Para jogos da GOG. Requer o [Tor Browser](https://www.torproject.org/download) para visitar.
-- [Ova Games](https://www.ovagames.com)
-- [CrackHub](https://crackhub.site) - Para repacks da FitGirl e lançamentos da cena.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - Para lançamentos da cena do crackhub213.
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
-- [G4U](https://g4u.to) - Transferências lentas para usuários grátis. Senha: ``404``.
-- [Game-2U](https://game-2u.com) - Para jogos de PlayStation 4.
-- [GameDrive](https://gamedrive.org)
-- [GLOAD](https://gload.to) - Para lançamentos da cena.
+- [Ova Games](https://www.ovagames.com) - Senha dos arquivos: ``www.ovagames.com``.
+- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Para lançamentos P2P e da cena.
+- [GLOAD](https://gload.to) - Para lançamentos P2P e da cena.
+- [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com) - Tem links do Google Drive e torrent. Entre no [servidor do Discord deles](https://discord.com/invite/bzJkrxXXR2) por 1 dia para acessar os links do Google Drive.
-- [ReleaseBB](https://rlsbb.ru/category/games)
-- [Scnlog](https://scnlog.me/games)
+- [GameDrive](https://gamedrive.org)
+- [G4U](https://g4u.to) - Transferências lentas para usuários grátis. Senha: ``404``.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Transferências lentas. Senha: ``www.downloadha.com``. Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Scnlog](https://scnlog.me/games) - Para lançamentos da cena.
+- [CrackHub [Jogos da Cena]](https://scene.crackhub.site) - Para lançamentos da cena.
+- [CrackHub](https://crackhub.site) - Para lançamentos P2P e da cena.
 - [Gamdie](https://gamdie.com) - Para jogos indie.
 - [Leechinghell](http://www.leechinghell.pw) - Para jogos multijogador LAN.
 - [AppKed](https://www.macbed.com/games) - Para jogos e aplicativos de macOS.
@@ -33,7 +33,6 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [My Abandonware](https://www.myabandonware.com) - Para jogos antigos.
 - [Old Games Download](https://oldgamesdownload.com) - Para jogos antigos.
 - [Internet Archive - Classic PC Games](https://archive.org/details/classicpcgames) - Para jogos antigos.
-- [The Collection Chamber](https://collectionchamber.blogspot.com) - Para jogos antigos, melhorados para funcionar em sistemas modernos.
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Para jogos antigos. Pode ser trocado para inglês no canto superior direito.
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - Para HOGs. Registro requerido.
 - [DOS Games Archive](https://www.dosgamesarchive.com) - Para jogos de MS-DOS.
@@ -48,7 +47,7 @@ Você precisará duma VPN para torrentear com segurança e evitar avisos de copy
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rutor](http://rutor.info/games) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
-- [Tapochek](https://tapochek.net/index.php?c=2) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
+- [Tapochek](https://tapochek.net/index.php?c=2) - Registro requerido Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [NMac](https://nmac.to/category/games) - Para aplicativos e jogos de macOS.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Para aplicativos e jogos de macOS.
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - Para aplicativos e jogos de macOS.
@@ -58,23 +57,24 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [Chovka](https://repack.info)
-- [Darck Repacks](https://darckrepacks.com)
-- [ElAmigos](https://elamigos.site) - Transferências lentas para usuários grátis. Use os espelhos do GLOAD ou Ova Games em vez disso.
+- [🌟 ElAmigos](https://elamigos.site) - Transferências lentas para usyários grátis. Use os espelhos do GLOAD ou Ova Games em vez disso.
+- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
-- [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- RG Mechanics
 - [Xatab](https://otxatabs.net)
+- [Darck Repacks](https://darckrepacks.com)
+- [Chovka](https://repack.info)
 - Masquerade Repacks (mudou-se para o KaOsKrew)
-- Mr DJ
-- R.G. Catalyst
-- R.G. Mechanics
-- R.G. Revenants
-- ZAZIX
+- [Tiny Repacks](https://www.tiny-repacks.win)
+- [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Para jogos de console emulados.
-- [KAPITALSIN](https://kapitalsin.com/forum) - Para repacks com perdas (com arquivos de menor qualidade e/ou removidos). Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
-- [Tiny Repacks](https://www.tiny-repacks.win) - Para jogos indie.
+- [KAPITALSIN](https://kapitalsin.com/forum) - Para repacks com perdas (de menor qualidade e/ou com arquivos removidos). Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
+- R.G. Catalyst
+- R.G. Revenants
+- Mr DJ
 - [MagiPack Games](https://www.magipack.games) - Para jogos antigos.
+- [The Collection Chamber](https://collectionchamber.blogspot.com) - Para jogos antigos.
 - [CPG Repacks](https://cpgrepacks.site) - Para jogos de anime +18.
 
 ### Trainers (Trapaças)
@@ -106,16 +106,16 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [ROMSPURE](https://romspure.cc)
 - [The ROM Depot](https://theromdepot.com) - Registro requerido.
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Siga [este guia](https://www.reddit.com/120c0du) para baixar.
+- [NoPayStation](https://nopaystation.com) - Para jogos de PlayStation 3, Portable e Vita.
 - [Ziperto](https://www.ziperto.com) - Para jogos de Nintendo Switch e 3DS.
 - [NXBrew](https://nxbrew.com) - Para jogos de Nintendo Switch.
 - [r/Roms](https://www.reddit.com/r/roms)
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - Siga [este guia](https://www.reddit.com/120c0du) para baixar.
 
 ### Gerenciadores de Transferências
 
-- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detecta links da maioria dos hospedeiros de arquivos. Siga [este guia](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md#configuration) para o melhorar. Evite mais CAPTCHAs com o [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). Veja [isto](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) para um tema escuro.
+- [🌟 JDownloader2](https://jdownloader.org/jdownloader2) - Detecta links da maioria dos hospedeiros de arquivos. Siga [este guia](https://www.reddit.com/r/PiratedGames/comments/12axfj3/how_to_enhance_jdownloader2) para o melhorar. Evite mais CAPTCHAs com o [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver). Veja [isto](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme) para um tema escuro.
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org) - Use o [Elephant](https://github.com/meowcateatrat/elephant) para baixar vídeos.
 - [Internet Download Manager](https://internetdownloadmanager.com) -  O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado. Use o [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) para o usar para sempre.
@@ -157,9 +157,9 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [RetroArch](https://retroarch.com) - Para jogos de vários consoles.
 - [Ryujinx](https://ryujinx.org) - Para jogos de Nintendo Switch.
 - [yuzu](https://yuzu-emu.org) - Para jogos de Nintendo Switch.
-- [Cemu](https://cemu.info) - Para jogos de Nintendo Wii U.
+- [Cemu](https://cemu.info) - Para jogos de Wii U.
 - [Citra](https://citra-emu.org) - Para jogos de Nintendo 3DS.
-- [Dolphin Emulator](https://dolphin-emu.org) - Para jogos de Nintendo Wii e GameCube.
+- [Dolphin Emulator](https://dolphin-emu.org) - Para jogos de Wii e GameCube.
 - [RCPS3](https://rpcs3.net) - Para jogos de PlayStation 3.
 - [xenia](https://xenia.jp) - Para jogos de Xbox 360.
 - [MAME](https://www.mamedev.org) - Para jogos de arcade.
@@ -190,7 +190,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 ### Extensões de Navegador Úteis
 
-- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio. Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/en/desktop-browsers/#ublock-origin) é recomendado.
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio. Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado.
 - [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
 - [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que também ofusca os dados de navegação.
 
@@ -215,6 +215,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
 
 > :warning: **GRUPOS DA CENA NÃO TÊM SITES! Todo site com o nome dum grupo da cena na URL é falso.**
+
 - AGFY - Anúncios de redirecionamento maliciosos.
 - AimHaven - Anúncios de redirecionamento maliciosos.
 - AllTorrents
@@ -227,7 +228,7 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - Game3rb
 - Games Releaser
 - GOG Unlocked/SteamUnlocked - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências lentas.
-- IGG Games/PCGamesTorrents - Fez doxing com o mercs213 (dono do Good Old Downloads), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
+- IGG Games/PCGamesTorrents - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
 - MrPcGames
 - NexusGames - Pego com malware.
 - nosTEAM
@@ -248,10 +249,10 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - Avast - Conhecida por vender dados dos usuários.
 - AVG/CCleaner - Propriedade da Avast.
 - BitComet/Bittorent - Adware.
-- BitLord - Adware.
+- BitLord - [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Propriedade](https://rentry.co/i8dwr) da [Kape](https://reddit.com/q3lepv).
-- FrostWire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd).
-- GShade - [Reinicia](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
+- FrostWire - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection).
+- GShade - [Reinicia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
 - McAfee - Instala bloatware.
-- PolyMC - O dono [expulsou todos os membros](https://reddit.com/y6lt6s) do servidor do Discord e repositório.
-- TLauncher - Práticas comerciais [questionáveis](https://reddit.com/zmzzrt).
+- PolyMC - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord e repositório.
+- TLauncher - Práticas comerciais [questionáveis](https://www.reddit.com/zmzzrt).
