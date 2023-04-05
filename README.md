@@ -16,7 +16,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - For GOG games. Requires the [Tor Browser](https://www.torproject.org/download) to visit.
 - [Ova Games](https://www.ovagames.com) - Files password: ``www.ovagames.com``.
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - For scene and P2P releases.
-- [GLOAD](https://gload.to) - For scene and P2P releases.
+- [GLOAD](https://gload.to/pc) - For scene and P2P releases.
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com) - Has Google Drive and torrent links. Join [their Discord server](https://discord.com/invite/bzJkrxXXR2) for 1 day to access Google Drive links.
 - [GameDrive](https://gamedrive.org)
@@ -59,20 +59,17 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users. Use GLOAD's or Ova Games' mirrors instead.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [Chovka](http://rutor.info/browse/0/8/1642915/0) - Can also be found at [Repack.info](https://repack.info).
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -  For his repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
-- RG Mechanics
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
-- [Chovka](https://repack.info)
-- Masquerade Repacks (moved to KaOsKrew)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - For emulated console games.
 - [KAPITALSIN](https://kapitalsin.com/forum) - For lossy (lower quality and/or removed files) repacks. Use [a translator](https://github.com/FilipePS/Traduzir-paginas-web).
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- R.G. Catalyst
-- R.G. Revenants
-- Mr DJ
 - [MagiPack Games](https://www.magipack.games) - For old games.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - For old games.
 - [CPG Repacks](https://cpgrepacks.site) - For +18 anime games.
