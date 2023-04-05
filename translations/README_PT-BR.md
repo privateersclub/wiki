@@ -16,7 +16,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion) - Para jogos da GOG. Requer o [Tor Browser](https://www.torproject.org/download) para visitar.
 - [Ova Games](https://www.ovagames.com) - Senha dos arquivos: ``www.ovagames.com``.
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Para lançamentos P2P e da cena.
-- [GLOAD](https://gload.to) - Para lançamentos P2P e da cena.
+- [GLOAD](https://gload.to/pc) - Para lançamentos P2P e da cena.
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com) - Tem links do Google Drive e torrent. Entre no [servidor do Discord deles](https://discord.com/invite/bzJkrxXXR2) por 1 dia para acessar os links do Google Drive.
 - [GameDrive](https://gamedrive.org)
@@ -59,20 +59,17 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Transferências lentas para usyários grátis. Use os espelhos do GLOAD ou Ova Games em vez disso.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [Chovka](http://rutor.info/browse/0/8/1642915/0) - Também pode ser achado no [Repack.info](https://repack.info).
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -  Para seus repacks de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
-- RG Mechanics
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
-- [Chovka](https://repack.info)
-- Masquerade Repacks (mudou-se para o KaOsKrew)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Para jogos de console emulados.
 - [KAPITALSIN](https://kapitalsin.com/forum) - Para repacks com perdas (de menor qualidade e/ou com arquivos removidos). Use [um tradutor](https://github.com/FilipePS/Traduzir-paginas-web).
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- R.G. Catalyst
-- R.G. Revenants
-- Mr DJ
 - [MagiPack Games](https://www.magipack.games) - Para jogos antigos.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Para jogos antigos.
 - [CPG Repacks](https://cpgrepacks.site) - Para jogos de anime +18.
@@ -81,7 +78,7 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
 Não são para jogos online. Sem trapaças em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só os cracks e correções de NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tem tabelas do Cheat Engine.
