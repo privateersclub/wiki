@@ -1,4 +1,4 @@
-## **Here is the /r/PiratedGames Megathread!** - [Translations](translations)
+## **Here is the /r/PiratedGames Megathread!** - [Translations](./translations/)
 
 ### Required Components
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
@@ -13,15 +13,14 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
   - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
-  - Password: ``cs.rin.ru``
+  - Password: `cs.rin.ru`
   - Registration required.
 - [🌟 SteamRIP](https://steamrip.com)
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion)
-  - GOG games
-  - Use [Tor Browser](https://www.torproject.org/download) to visit.
+  - This is a onion route you can't visit normally, use the [Tor Browser](https://www.torproject.org/download) to visit.
 - [Ova Games](https://www.ovagames.com)
-  - Files password: ``www.ovagames.com``
+  - Files password: `www.ovagames.com`
 - [ReleaseBB](https://rlsbb.ru/category/games/pc)
   - Scene and P2P releases
 - [GLOAD](https://gload.to/pc)
@@ -33,11 +32,11 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [GameDrive](https://gamedrive.org)
 - [G4U](https://g4u.to)
   - Slow downloads for free users.
-  - Password: ``404``
+  - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game)
   - Slow downloads.
   - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-  - Password: ``www.downloadha.com``
+  - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games)
   - Scene releases
 - [Scene CrackHub](https://scene.crackhub.site)
@@ -233,7 +232,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Uplay emulator.
 - [Online Fix](https://online-fix.me)
   - Allows playing pirated games online with other pirated copies.
-  - Password: ``online-fix.me``
+  - Password: `online-fix.me`
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519)
   - Pirated The Sims 4 version updater.
 - [Lucky Patcher](https://www.luckypatchers.com)
@@ -312,6 +311,8 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Link shorteners bypasser.
 - [AdNauseam](https://adnauseam.io)
   - uBlock Origin-based ad content blocker that also obfuscates browsing data.
+- [ViolentMonkey](https://violentmonkey.github.io/)
+  - An open source userscript manager that supports a lot of browsers
 
 ### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
