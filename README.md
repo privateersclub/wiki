@@ -35,7 +35,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game)
   - Slow downloads.
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
   - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games)
   - Scene releases
@@ -80,13 +80,13 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [🌟 RARBG](https://rarbg.to)
   - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19)
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
 - [Rutor](http://rutor.info/games)
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6)
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
 - [Tapochek](https://tapochek.net/index.php?c=2)
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
   - Registration required.
 - [NMac](https://nmac.to/category/games)
   - macOS games and apps
@@ -109,7 +109,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site)
   - Repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
 - [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html)
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
 - [Tiny Repacks](https://www.tiny-repacks.win)
@@ -118,7 +118,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
   - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum)
   - Lossy (lower quality and/or removed files) repacks
-  - [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
+  - [Translator](#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games)
   - Old games
@@ -313,8 +313,14 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 - [ViolentMonkey](https://violentmonkey.github.io/)
   - An open source userscript manager that supports a lot of browsers.
-- [TWP - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
-  - Translate your page in real time using Google or Yandex.
+<ul>
+  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">TWP - Translate Web Pages</a>
+    <ul>
+      <li>Translate your page in real time using Google or Yandex.</li>
+    </ul>
+  </li>
+</ul>
+
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
   - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 
