@@ -76,8 +76,8 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](https://github.com/r-piratedgames/megathread#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
-  - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended
   - Avoid IGG Games' torrents.
+  - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
 - [🌟 RARBG](https://rarbg.to)
   - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19)
@@ -167,7 +167,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php)
   - [Download workaround guide](https://www.reddit.com/120c0du)
 - [NoPayStation](https://nopaystation.com)
-  - PlayStation 3, Portable, and Vita games.
+  - PlayStation 3, Portable, and Vita games
 - [Ziperto](https://www.ziperto.com)
   - Nintendo Switch and 3DS games
 - [NXBrew](https://nxbrew.com)
@@ -243,7 +243,8 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 > :exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
 > 
-- [RetroArch](https://retroarch.com) - Multiple consoles games
+- [RetroArch](https://retroarch.com)
+  - Multiple consoles games
 - [Ryujinx](https://ryujinx.org)
   - Nintendo Switch games
 - [yzu](https://yuzu-emu.org)
@@ -340,7 +341,8 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
   - Malicious redirect ads.
 - AllTorrents
 - ApunKaGames
-- cracked-games/GETGAMEZ - Caught with malware.
+- cracked-games/GETGAMEZ
+  - Caught with malware.
 - CrackingPatching
   - Caught with [malware](https://www.reddit.com/qy6z3c).
 - Downloadly
