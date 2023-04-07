@@ -212,7 +212,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Steam, Epic Games Store, EA clients, and Uplay DLC unlocker.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
   - Steam emulator.
-  - Use [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) to manage it with a UI.
+  - Use [GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) to manage it with a UI.
 - [Steamless](https://github.com/atom0s/Steamless)
   - SteamStub DRM remover.
   - Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
@@ -312,7 +312,11 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [AdNauseam](https://adnauseam.io)
   - uBlock Origin-based ad content blocker that also obfuscates browsing data.
 - [ViolentMonkey](https://violentmonkey.github.io/)
-  - An open source userscript manager that supports a lot of browsers
+  - An open source userscript manager that supports a lot of browsers.
+- [TWP - Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
+  - Translate your page in real time using Google or Yandex.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
+  - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 
 ### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
