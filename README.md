@@ -246,7 +246,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Multiple consoles games
 - [Ryujinx](https://ryujinx.org)
   - Nintendo Switch games
-- [yzu](https://yuzu-emu.org)
+- [yuzu](https://yuzu-emu.org)
   - Nintendo Switch games
 - [Cemu](https://cemu.info)
   - Wii U games
