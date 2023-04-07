@@ -8,7 +8,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
 ### Direct Download Sites
-Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](https://github.com/r-piratedgames/megathread#download-managers) for help managing your downloads.
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
   - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
@@ -72,7 +72,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Registration required.
 
 ### Torrent Sites
-Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](https://github.com/r-piratedgames/megathread#vpns) for more info.
+Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
   - Avoid IGG Games' torrents.
