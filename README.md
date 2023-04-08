@@ -16,9 +16,10 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Password: `cs.rin.ru`
   - Registration required.
 - [🌟 SteamRIP](https://steamrip.com)
+  - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion)
-  - This is a onion route you can't visit normally, use the [Tor Browser](https://www.torproject.org/download) to visit.
+  - Use [Tor Browser](https://www.torproject.org/download) to visit this normally inaccessible onion site.
 - [Ova Games](https://www.ovagames.com)
   - Files password: `www.ovagames.com`
 - [ReleaseBB](https://rlsbb.ru/category/games/pc)
@@ -28,7 +29,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com)
   - Google Drive and torrent
-  - Join [their Discord server](https://discord.com/invite/bzJkrxXXR2) for 1 day to unlock Google Drive links.
+  - 1+ day on [their Discord server](https://discord.com/invite/bzJkrxXXR2) unlocks Google Drive links.
 - [GameDrive](https://gamedrive.org)
 - [G4U](https://g4u.to)
   - Slow downloads for free users.
@@ -47,6 +48,9 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Indie games
 - [Leechinghell](http://www.leechinghell.pw)
   - LAN multiplayer games
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum)
+  - HOGs
+  - Registration required.
 - [AppKed](https://www.macbed.com/games)
   - macOS games and apps
 - [Mobilism](https://forum.mobilism.me)
@@ -59,10 +63,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/)
   - Old games
-  - Switch to English on the top right corner.
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum)
-  - HOGs
-  - Registration required.
+  - Switch to English on the top-right corner.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22)
   - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC)
@@ -169,7 +170,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - PlayStation 3, Portable, and Vita games
 - [Ziperto](https://www.ziperto.com)
   - Nintendo Switch and 3DS games
-- [NXBrew](https://nxbrew.com)
+- [nsw2u](https://nsw2u.com)
   - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
@@ -292,9 +293,9 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Tor Browser](https://www.torproject.org)
   - The most private browser.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher)
-  - Parser for achievement files with auto-screenshot, playtime tracking, and real-time notification.
+  - Achievement file parser with auto-screenshot, playtime tracking, and real-time notification.
 - [Parsec](https://parsec.app)
-  - Play local multiplayer games from anywhere.
+  - Low-latency game streaming software.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode)
   - Checksum verifier and hash info generator.
 
@@ -311,18 +312,21 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Link shorteners bypasser.
 - [AdNauseam](https://adnauseam.io)
   - uBlock Origin-based ad content blocker that also obfuscates browsing data.
-- [ViolentMonkey](https://violentmonkey.github.io/)
-  - An open source userscript manager that supports a lot of browsers.
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey)
+  - Open source userscript manager for Firefox.
+- [Tampermonkey](https://www.tampermonkey.net)
+  - Proprietary userscript manager for most browsers.
+- [ViolentMonkey](https://violentmonkey.github.io)
+  - Open source userscript manager for many browsers.
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">TWP - Translate Web Pages</a>
     <ul>
-      <li>Translate your page in real time using Google or Yandex.</li>
+      <li>Real-time page translation via Google or Yandex.</li>
     </ul>
   </li>
 </ul>
-
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
-  - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+  - Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies are containerized, allowing simultaneous use of multiple identities or accounts.
 
 ### VPNs
 - [r/VPN](https://www.reddit.com/r/VPN)
