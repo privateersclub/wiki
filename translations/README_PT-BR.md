@@ -8,7 +8,7 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
 ### Sites de Transferências Diretas
-Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
+Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
   - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
@@ -73,7 +73,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Registro requerido.
 
 ### Sites de Torrents
-Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](https://github.com/r-piratedgames/megathread/blob/master/translations/README_PT-BR.md#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
+Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
   - Evite torrents da IGG Games.
