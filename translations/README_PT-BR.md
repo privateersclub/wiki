@@ -18,8 +18,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [🌟 SteamRIP](https://steamrip.com)
   - Jogos da Steam
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion)
-  - Use o [Tor Browser](https://www.torproject.org/download) para visitar este site onion normalmente inacessível.
+- [🌟 GOG Games](https://gog-games.to)
 - [Ova Games](https://www.ovagames.com)
   - Senha dos arquivos: `www.ovagames.com`
 - [ReleaseBB](https://rlsbb.ru/category/games/pc)
