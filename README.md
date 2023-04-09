@@ -319,12 +319,13 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [ViolentMonkey](https://violentmonkey.github.io)
   - Open source userscript manager for many browsers.
 <ul>
-  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">TWP - Translate Web Pages</a>
+  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
     <ul>
       <li>Real-time page translation via Google or Yandex.</li>
     </ul>
   </li>
 </ul>
+
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
   - Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies are containerized, allowing simultaneous use of multiple identities or accounts.
 
@@ -348,7 +349,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 ### Untrusted Sites and Uploaders
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
 
-> :warning: **SCENE GROUPS DO NOT HAVE SITES! Any site with a scene group name in the URL is fake.**
+> :warning: **SCENE GROUPS HAVE NO SITES! Sites with a scene group name in the URL are fake.**
 
 - AGFY
   - Malicious redirect ads.
