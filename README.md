@@ -18,8 +18,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 SteamRIP](https://steamrip.com)
   - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion)
-  - Use [Tor Browser](https://www.torproject.org/download) to visit this normally inaccessible onion site.
+- [🌟 GOG Games](https://gog-games.to)
 - [Ova Games](https://www.ovagames.com)
   - Files password: `www.ovagames.com`
 - [ReleaseBB](https://rlsbb.ru/category/games/pc)
