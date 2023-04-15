@@ -1,4 +1,4 @@
-## **Aqui Está a Megathread do /r/PiratedGames** - [Traduções](./translations/)
+## **Aqui Está a Megathread do /r/PiratedGames!** - [Traduções](./translations/)
 
 ### Componentes Requeridos
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
