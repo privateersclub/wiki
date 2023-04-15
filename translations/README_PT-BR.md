@@ -1,4 +1,4 @@
-## **Aqui Está a Megathread do /r/PiratedGames** - [Traduções](./translations/)
+## **Aqui Está a Megathread do /r/PiratedGames!** - [Traduções](./translations/)
 
 ### Componentes Requeridos
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
@@ -30,7 +30,10 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Google Drive e torrent
   - 1+ dia no [servidor do Discord deles](https://discord.com/invite/bzJkrxXXR2) desbloqueia os links do Google Drive.
 - [GameDrive](https://gamedrive.org)
-- [G4U](https://g4u.to)
+- [Torrminatorr](https://forum.torrminatorr.com)
+  - Jogos de GOG e Linux e lançamentos da Cena
+  - Registro requerido.
+- [Games 4 You](https://g4u.to)
   - Transferências lentas para usuários grátis.
   - Senha: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game)
@@ -67,9 +70,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Jogos de MS-DOS
 - [PollyMC](https://github.com/fn2006/PollyMC)
   - Minecraft
-- [Torrminatorr Forum [Offline Atualmente]](https://forum.torrminatorr.com)
-  - Jogos de GOG e Linux e lançamentos da Cena
-  - Registro requerido.
+
 
 ### Sites de Torrents
 Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
