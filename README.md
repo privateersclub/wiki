@@ -30,7 +30,10 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Google Drive and torrent
   - 1+ day on [their Discord server](https://discord.com/invite/bzJkrxXXR2) unlocks Google Drive links.
 - [GameDrive](https://gamedrive.org)
-- [G4U](https://g4u.to)
+- [Torrminatorr](https://forum.torrminatorr.com)
+  - GOG, Linux games and scene releases
+  - Registration required.
+- [Games 4 You](https://g4u.to)
   - Slow downloads for free users.
   - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game)
@@ -67,9 +70,6 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC)
   - Minecraft
-- [Torrminatorr Forum [Offline Currently]](https://forum.torrminatorr.com)
-  - GOG, Linux games and scene releases
-  - Registration required.
 
 ### Torrent Sites
 Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
