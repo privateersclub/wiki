@@ -28,7 +28,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com)
   - Google Drive and torrent
-  - 1+ day on [their Discord server](https://discord.com/invite/bzJkrxXXR2) unlocks Google Drive links.
+  - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google Drive links.
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com)
   - GOG, Linux games and scene releases
