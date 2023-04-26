@@ -61,8 +61,6 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - iOS games and apps
 - [My Abandonware](https://www.myabandonware.com)
   - Old games
-- [Old-Games.com](https://www.old-games.com)
-  - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/)
   - Old games
   - Switch to English on the top-right corner.
