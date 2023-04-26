@@ -61,11 +61,12 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - iOS games and apps
 - [My Abandonware](https://www.myabandonware.com)
   - Old games
-- [Old-Games.com](https://www.old-games.com)
-  - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/)
   - Old games
   - Switch to English on the top-right corner.
+- [Old-Games.com](https://www.old-games.com)
+  - Old games
+  - Slow downloads for free users.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22)
   - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC)
