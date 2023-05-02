@@ -5,6 +5,8 @@ export default defineConfig({
   description: "TBD",
   base: process.env.BASE_URL || "/",
   ignoreDeadLinks: true,
+  lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     nav: [
       {
@@ -23,8 +25,13 @@ export default defineConfig({
         locales: {},
       },
     },
+    editLink: {
+      pattern:
+        "https://github.com/r-piratedgames/megathread/edit/master/docs/:path",
+      text: "Edit this page on GitHub",
+    },
     socialLinks: [
-      { icon: "github", link: "https://github.com/r-piratedgames/wiki" },
+      { icon: "github", link: "https://github.com/r-piratedgames/megathread" },
     ],
   },
 });
