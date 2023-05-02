@@ -1,0 +1,24 @@
+{
+  "name": "megathread",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:serve": "vitepress serve docs",
+    "docs:preview": "vitepress preview"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "prettier": "^2.8.8",
+    "vitepress": "1.0.0-alpha.75"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
+}
