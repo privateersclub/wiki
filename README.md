@@ -1,13 +1,13 @@
 ## **Here is the /r/PiratedGames Megathread!** - [Translations](./translations/)
 
-### Required Components
+### Required components
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Direct Download Sites
+### Direct download sites
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
@@ -69,7 +69,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [PollyMC](https://github.com/fn2006/PollyMC)
   - Minecraft
 
-### Torrent Sites
+### Torrent sites
 Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
@@ -125,7 +125,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [CPG Repacks](https://cpgrepacks.site)
   - +18 anime games
 
-### Trainers (Cheats)
+### Trainers (cheats)
 Not for online games. No cheating in online games!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
@@ -137,7 +137,7 @@ Not for online games. No cheating in online games!
   - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
-### Release Trackers
+### Release trackers
 No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
@@ -153,7 +153,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Repacks only
   - [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 
-### ROM Sites
+### ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
@@ -171,7 +171,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
-### Download Managers
+### Download managers
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detects links from most file hosts.
@@ -281,7 +281,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Snes9x](https://www.snes9x.com)
   - Super Nintendo Entertainment System games
 
-### Useful Software
+### Useful software
 
 - [7-Zip](https://7-zip.org)
   - File archiver.
@@ -300,7 +300,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 > :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
-### Useful Browser Extensions
+### Useful browser extensions
 
 - [uBlock Origin](https://ublockorigin.com)
   - Ad content blocker.
@@ -333,7 +333,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 > :warning: **Tor Browser ≠ VPN, no protection for torrenting!**
 
-### Related Subreddits
+### Related subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
@@ -343,7 +343,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Untrusted Sites and Uploaders
+### Untrusted sites and uploaders
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
 
 > :warning: **SCENE GROUPS HAVE NO SITES! Sites with a scene group name in the URL are fake.**
@@ -364,8 +364,10 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
   - Modified DLLs with [IGG Games ads](https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
 - FreeTP
 - Game3rb
+- GameFabrique
+  - Games stolen from IGG Games and [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - Games Releaser
-- GOG Unlocked/SteamUnlocked
+- GOG Unlocked/RomsUnlocked/SteamUnlocked
   - Games stolen from IGG Games and nosTEAM, malicious redirect ads, and slow downloads.
 - IGG Games/PCGamesTorrents
   - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and puts its own DRM in indie games.
@@ -392,7 +394,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - xGIROx
   - Caught with crypto miners.
 
-### Unsafe Software
+### Unsafe software
 
 - μTorrent
   - Has ads and trackers and [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
