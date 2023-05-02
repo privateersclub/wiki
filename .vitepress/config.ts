@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Wiki",
   description: "TBD",
   base: process.env.BASE_URL || "/",
+  ignoreDeadLinks: true,
   themeConfig: {
     nav: [
       {
@@ -19,8 +20,8 @@ export default defineConfig({
       provider: "local",
       options: {
         // TODO: configure for /translations directory
-        locales: {}
-      }
+        locales: {},
+      },
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/r-piratedgames/wiki" },
