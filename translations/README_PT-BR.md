@@ -1,13 +1,13 @@
 ## **Aqui Está a Megathread do /r/PiratedGames!** - [Traduções](./translations/)
 
-### Componentes Requeridos
+### Componentes requeridos
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Sites de Transferências Diretas
+### Sites de transferências diretas
 Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
@@ -28,7 +28,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com)
   - Google Drive e torrent
-  - 1+ dia no [servidor do Discord deles](https://discord.com/invite/bzJkrxXXR2) desbloqueia os links do Google Drive.
+  - 1+ dia no [servidor do Discord deles](https://discord.com/invite/ND6TBDwyjU) desbloqueia os links do Google Drive.
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com)
   - Jogos de GOG e Linux e lançamentos da Cena
@@ -61,8 +61,6 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Jogos e aplicativos de iOS
 - [My Abandonware](https://www.myabandonware.com)
   - Jogos antigos
-- [Old-Games.com](https://www.old-games.com)
-  - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/)
   - Jogos antigos
   - Mude para inglês no canto superior direito.
@@ -72,7 +70,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Minecraft
 
 
-### Sites de Torrents
+### Sites de torrents
 Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
@@ -128,7 +126,7 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
 - [CPG Repacks](https://cpgrepacks.site)
   - Jogos de anime +18
 
-### Trainers (Trapaças)
+### Trainers (trapaças)
 Não são para jogos online. Sem trapaças em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
@@ -140,7 +138,7 @@ Não são para jogos online. Sem trapaças em jogos online!
   - Tabelas do Cheat Engine
 - [MrAntiFun](https://mrantifun.net)
 
-### Rastreadores de Lançamentos
+### Rastreadores de lançamentos
 Sem transferências fornecidas. Os sites têm informações de lançamentos da cena/P2P. Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
@@ -173,7 +171,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
   - Jogos de Nintendo Switch
 - [r/Roms](https://www.reddit.com/r/roms)
 
-### Gerenciadores de Transferências
+### Gerenciadores de transferências
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
@@ -189,7 +187,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
 
-### Clientes de Torrents
+### Clientes de torrents
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
   - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
@@ -283,7 +281,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [Snes9x](https://www.snes9x.com)
   - Jogos de Super Nintendo Entertainment System
 
-### Programas Úteis
+### Programas úteis
 
 - [7-Zip](https://7-zip.org)
   - Arquivador de arquivos.
@@ -302,7 +300,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 > :memo: **Visite o [m0nkrus](https://w14.monkrus.ws) para produtos da Adobe.**
 
-### Extensões de Navegador Úteis
+### Extensões de navegador úteis
 
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio. Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado.
 - [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
@@ -330,7 +328,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 > :warning: **Tor Browser ≠ VPN, sem proteção ao torrentear!**
 
-### Subreddits Relacionados
+### Subreddits relacionados
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
@@ -340,7 +338,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Sites e Enviadores Não Confiáveis
+### Sites e enviadores não confiáveis
 Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
 
 > :warning: **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome dum grupo da cena na URL são falsos.**
@@ -361,8 +359,10 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
   - Modifica as DLLs com [anúncios da IGG Games](https://reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
 - FreeTP
 - Game3rb
+- GameFabrique
+  - Jogos roubados do IGG Games e [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - Games Releaser
-- GOG Unlocked/SteamUnlocked
+- GOG Unlocked/RomsUnlocked/SteamUnlocked
   - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências lentas.
 - IGG Games/PCGamesTorrents
   - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
@@ -389,7 +389,7 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - xGIROx
   - Pego com mineradores de criptomoedas.
 
-### Programas Inseguros
+### Programas inseguros
 
 - μTorrent
   - Tem anúncios e rastreadores e [é inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
