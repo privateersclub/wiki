@@ -1,20 +1,19 @@
 ---
-
 layout: home
 title: Home
 
 hero:
   name: Wiki
-  tagline: Welcome to the coolest wiki thing on earth idk TBD
+  tagline: Welcome to the coolest game piracy wiki on the internet.
   actions: 
     - text: Get Started
       link: /README
 
 features:
-  - icon: 🛠️
+  - icon: ✏️
     title: Actively Updated
     details: Our wiki is actively maintained by our participating community members.
-  - icon: ✏️
+  - icon: 🌐
     title: Translations
     details: The wiki is beautifully translated into multiple languages, so you can sail the seas in your own comfort!
   - icon: 🌟

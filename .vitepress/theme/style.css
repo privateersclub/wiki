@@ -1,18 +1,11 @@
 :root {
-  --vp-c-brand: #646cff;
-  --vp-c-brand-light: #747bff;
-  --vp-c-brand-lighter: #9499ff;
-  --vp-c-brand-lightest: #bcc0ff;
-  --vp-c-brand-dark: #535bf2;
-  --vp-c-brand-darker: #454ce1;
-  --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
-}
-
-/**
- * Component: Button
- * -------------------------------------------------------------------------- */
-
-:root {
+  --vp-c-brand: #7bc5e4;
+  --vp-c-brand-light: #a4d5ec;
+  --vp-c-brand-lighter: #c4e2f2;
+  --vp-c-brand-lightest: #e1f0f8;
+  --vp-c-brand-dark: #4882a7;
+  --vp-c-brand-darker: #36678c;
+  --vp-c-brand-dimm: rgba(123, 197, 228, 0.08);
   --vp-button-brand-border: var(--vp-c-brand-light);
   --vp-button-brand-text: var(--vp-c-white);
   --vp-button-brand-bg: var(--vp-c-brand);
@@ -22,19 +15,9 @@
   --vp-button-brand-active-border: var(--vp-c-brand-light);
   --vp-button-brand-active-text: var(--vp-c-white);
   --vp-button-brand-active-bg: var(--vp-button-brand-bg);
-}
-
-/**
- * Component: Custom Block
- * -------------------------------------------------------------------------- */
-
-:root {
   --vp-custom-block-tip-border: var(--vp-c-brand);
   --vp-custom-block-tip-text: var(--vp-c-brand-darker);
   --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
-}
-
-.dark {
   --vp-custom-block-tip-border: var(--vp-c-brand);
   --vp-custom-block-tip-text: var(--vp-c-brand-lightest);
   --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);

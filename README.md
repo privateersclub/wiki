@@ -1,4 +1,4 @@
-## **Here is the /r/PiratedGames Megathread!** - [Translations](./translations/)
+## Welcome to the coolest game piracy wiki on the internet. - [Translations](./translations/)
 
 ## Required components
 
