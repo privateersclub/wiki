@@ -1,13 +1,15 @@
 ## **Here is the /r/PiratedGames Megathread!** - [Translations](./translations/)
 
-### Required components
+## Required components
+
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-### Direct download sites
+## Direct download sites
+
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
@@ -69,7 +71,8 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [PollyMC](https://github.com/fn2006/PollyMC)
   - Minecraft
 
-### Torrent sites
+## Torrent sites
+
 Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
@@ -93,7 +96,8 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [Mac Torrent](https://www.mactorrents.is/macos-games)
   - macOS games and apps
 
-### Repacks
+## Repacks
+
 Repacks are compressed games for low-bandwidth users, but installing them takes time due to file decompression.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
@@ -125,7 +129,8 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [CPG Repacks](https://cpgrepacks.site)
   - +18 anime games
 
-### Trainers (cheats)
+## Trainers (cheats)
+
 Not for online games. No cheating in online games!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
@@ -137,7 +142,8 @@ Not for online games. No cheating in online games!
   - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
-### Release trackers
+## Release trackers
+
 No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
@@ -153,7 +159,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Repacks only
   - [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 
-### ROM sites
+## ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
@@ -171,7 +177,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
   - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
-### Download managers
+## Download managers
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detects links from most file hosts.
@@ -187,7 +193,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
 
-### Torrent Clients
+## Torrent Clients
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
   - [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) is recommended.
@@ -201,7 +207,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
   - Android devices
 
-### Tools
+## Tools
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576)
   - Legitimate Steam game DLC unlocker.
@@ -236,10 +242,10 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Lucky Patcher](https://www.luckypatchers.com)
   - Android apps patcher (better with root).
 
-### Emulators
+## Emulators
 
 > :exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
-> 
+
 - [RetroArch](https://retroarch.com)
   - Multiple consoles games
 - [Ryujinx](https://ryujinx.org)
@@ -281,7 +287,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Snes9x](https://www.snes9x.com)
   - Super Nintendo Entertainment System games
 
-### Useful software
+## Useful software
 
 - [7-Zip](https://7-zip.org)
   - File archiver.
@@ -300,7 +306,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 
 > :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
-### Useful browser extensions
+## Useful browser extensions
 
 - [uBlock Origin](https://ublockorigin.com)
   - Ad content blocker.
@@ -314,26 +320,28 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [Tampermonkey](https://www.tampermonkey.net)
   - Proprietary userscript manager for most browsers.
 - [ViolentMonkey](https://violentmonkey.github.io)
+
   - Open source userscript manager for many browsers.
-<ul>
-  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
-    <ul>
-      <li>Real-time page translation via Google or Yandex.</li>
-    </ul>
-  </li>
-</ul>
+  <ul>
+    <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
+      <ul>
+        <li>Real-time page translation via Google or Yandex.</li>
+      </ul>
+    </li>
+  </ul>
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
   - Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies are containerized, allowing simultaneous use of multiple identities or accounts.
 
-### VPNs
+## VPNs
+
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
 - [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
 
 > :warning: **Tor Browser ≠ VPN, no protection for torrenting!**
 
-### Related subreddits
+## Related subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
@@ -343,7 +351,8 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
-### Untrusted sites and uploaders
+## Untrusted sites and uploaders
+
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
 
 > :warning: **SCENE GROUPS HAVE NO SITES! Sites with a scene group name in the URL are fake.**
@@ -394,7 +403,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - xGIROx
   - Caught with crypto miners.
 
-### Unsafe software
+## Unsafe software
 
 - μTorrent
   - Has ads and trackers and [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
