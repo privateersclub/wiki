@@ -1,4 +1,4 @@
-## Welcome to the coolest game piracy wiki on the internet. - [Translations](./translations/)
+### Welcome to the coolest game piracy wiki on the internet. - [Translations](./translations/)
 
 ## Required components
 

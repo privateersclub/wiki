@@ -1,14 +1,15 @@
 import { defineConfig } from "vitepress";
-
+import sidebar from "../sidebar";
 export default defineConfig({
   title: "Wiki",
-  description: "TBD",
+  description: "Welcome to the coolest game piracy wiki on the internet.",
   base: process.env.BASE_URL || "/",
   ignoreDeadLinks: true,
   lastUpdated: true,
   cleanUrls: true,
   themeConfig: {
-    nav: translations(),
+    nav: navbar(),
+    sidebar: sidebar,
     search: {
       provider: "local",
       options: {
@@ -17,7 +18,8 @@ export default defineConfig({
       },
     },
     editLink: {
-      pattern: "https://github.com/r-piratedgames/megathread/edit/master/:path",
+      pattern:
+        "https://github.com/r-piratedgames/megathread/edit/master/README.md",
       text: "Edit this page on GitHub",
     },
     socialLinks: [
@@ -26,13 +28,13 @@ export default defineConfig({
   },
 });
 
-function translations() {
+function navbar() {
   return [
     {
       text: "Home",
       link: "/",
     },
-    { text: "Wiki", link: "/README" },
+    { text: "Wiki", link: "/wiki/start" },
     {
       text: "Translations",
       items: [

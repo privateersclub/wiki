@@ -1,0 +1,62 @@
+## Direct download sites
+
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
+
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
+  - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
+  - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
+  - Password: `cs.rin.ru`
+  - Registration required.
+- [🌟 SteamRIP](https://steamrip.com)
+  - Steam games
+- [🌟 GamesDrive](https://gamesdrive.net)
+- [🌟 GOG Games](https://gog-games.to)
+- [Ova Games](https://www.ovagames.com)
+  - Files password: `www.ovagames.com`
+- [ReleaseBB](https://rlsbb.ru/category/games/pc)
+  - Scene and P2P releases
+- [GLOAD](https://gload.to/pc)
+  - Scene and P2P releases
+- [Game-2U](https://game-2u.com/Category/game/pc)
+- [Seven Gamers](https://www.seven-gamers.com)
+  - Google Drive and torrent
+  - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google Drive links.
+- [GameDrive](https://gamedrive.org)
+- [Torrminatorr](https://forum.torrminatorr.com)
+  - GOG, Linux games and scene releases
+  - Registration required.
+- [Games 4 You](https://g4u.to)
+  - Slow downloads for free users.
+  - Password: `404`
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game)
+  - Slow downloads.
+  - [Translator](#translator)
+  - Password: `www.downloadha.com`
+- [Scnlog](https://scnlog.me/games)
+  - Scene releases
+- [Scene CrackHub](https://scene.crackhub.site)
+  - Scene releases
+- [CrackHub](https://crackhub.site)
+  - Scene and P2P releases
+- [Gamdie](https://gamdie.com)
+  - Indie games
+- [Leechinghell](http://www.leechinghell.pw)
+  - LAN multiplayer games
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum)
+  - HOGs
+  - Registration required.
+- [AppKed](https://www.macbed.com/games)
+  - macOS games and apps
+- [Mobilism](https://forum.mobilism.me)
+  - Android games and apps
+- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8)
+  - iOS games and apps
+- [My Abandonware](https://www.myabandonware.com)
+  - Old games
+- [Old-Games.RU](https://www.old-games.ru/catalog/)
+  - Old games
+  - Switch to English on the top-right corner.
+- [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22)
+  - MS-DOS games
+- [PollyMC](https://github.com/fn2006/PollyMC)
+  - Minecraft

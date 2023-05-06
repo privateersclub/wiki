@@ -1,0 +1,34 @@
+## Tools
+
+- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576)
+  - Legitimate Steam game DLC unlocker.
+  - Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon)
+  - Steam, Epic Games Store, EA clients, and Uplay DLC unlocker.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
+  - Steam emulator.
+  - Use [GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) to manage it with a UI.
+- [Steamless](https://github.com/atom0s/Steamless)
+  - SteamStub DRM remover.
+  - Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112)
+  - Automatic Steamworks fix creator.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
+  - Steam tools list.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520)
+  - Epic Games Store and EA clients DLC unlocker.
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI)
+  - Epic Games Store DLC unlocker.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
+  - EA clients DLC unlocker.
+- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
+  - Epic Online Services emulator.
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
+  - Uplay emulator.
+- [Online Fix](https://online-fix.me)
+  - Allows playing pirated games online with other pirated copies.
+  - Password: `online-fix.me`
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519)
+  - Pirated The Sims 4 version updater.
+- [Lucky Patcher](https://www.luckypatchers.com)
+  - Android apps patcher (better with root).

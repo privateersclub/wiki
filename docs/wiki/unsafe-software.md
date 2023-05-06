@@ -1,0 +1,24 @@
+## Unsafe software
+
+- μTorrent
+  - Has ads and trackers and [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
+- Avast
+  - Sells user data.
+- AVG/CCleaner
+  - Owned by Avast.
+- BitComet/Bittorent
+  - Adware
+- BitLord
+  - [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0)
+- CyberGhost/ExpressVPN/Private Internet Access/ZenMate
+  - [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/q3lepv).
+- FrostWire
+  - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
+- GShade
+  - [Reboots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) your computer when third-party update apps are used.
+- McAfee
+  - Installs bloatware.
+- PolyMC
+  - Owner [kicked all members](https://www.reddit.com/y6lt6s) from Discord server and repository.
+- TLauncher
+  - [Shady](https://www.reddit.com/zmzzrt) business practices.

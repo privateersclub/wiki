@@ -7,7 +7,7 @@ hero:
   tagline: Welcome to the coolest game piracy wiki on the internet.
   actions: 
     - text: Get Started
-      link: /README
+      link: /wiki/start
 
 features:
   - icon: ✏️
