@@ -8,16 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   themeConfig: {
-    nav: [
-      {
-        text: "Home",
-        link: "/",
-      },
-      {
-        text: "Translations",
-        link: "/translations",
-      },
-    ],
+    nav: translations(),
     search: {
       provider: "local",
       options: {
@@ -26,8 +17,7 @@ export default defineConfig({
       },
     },
     editLink: {
-      pattern:
-        "https://github.com/r-piratedgames/megathread/edit/master/docs/:path",
+      pattern: "https://github.com/r-piratedgames/megathread/edit/master/:path",
       text: "Edit this page on GitHub",
     },
     socialLinks: [
@@ -35,3 +25,22 @@ export default defineConfig({
     ],
   },
 });
+
+function translations() {
+  return [
+    {
+      text: "Home",
+      link: "/",
+    },
+    { text: "Wiki", link: "/README" },
+    {
+      text: "Translations",
+      items: [
+        // TODO:
+        { text: "Index", link: "/config/" },
+        { text: "Three", link: "/config/three" },
+        { text: "Four", link: "/config/four" },
+      ],
+    },
+  ];
+}
