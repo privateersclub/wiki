@@ -1,3 +1,7 @@
+---
+title: Software
+---
+
 ## Download managers
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)

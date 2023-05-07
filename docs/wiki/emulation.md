@@ -1,3 +1,7 @@
+---
+title: Emulation
+---
+
 ## ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)

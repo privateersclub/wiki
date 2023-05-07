@@ -1,3 +1,7 @@
+---
+title: Useful
+---
+
 ## Required components
 
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.

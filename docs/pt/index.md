@@ -8,6 +8,8 @@ hero:
   actions:
     - text: Get Started
       link: /start
+    - text: Contribute
+      link: /contribute
 
 features:
   - icon: ✏️
