@@ -25,10 +25,10 @@ function buildTOC() {
 const toc = buildTOC();
 console.log(toc);
 
-let tocHTML = "# Begin your journey:\n<ul>";
+let tocHTML = "# Begin your journey\n<ul>\n";
 
 toc.forEach((item) => {
-  tocHTML += `<li><a href="${item.link}">${item.text}</a></li>`;
+  tocHTML += `<li><a href="${item.link}">${item.text}</a></li>\n`;
 });
 
 tocHTML += "</ul>";

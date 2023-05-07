@@ -1,0 +1,2 @@
+# Begin your journey
+<ul><li><a href="/wiki/download">Direct download sites</a></li><li><a href="/wiki/emulation">ROM sites</a></li><li><a href="/wiki/software">Download managers</a></li><li><a href="/wiki/unsafe">Untrusted sites and uploaders</a></li><li><a href="/wiki/useful">Required components</a></li></ul>
