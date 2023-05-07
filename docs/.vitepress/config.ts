@@ -9,6 +9,8 @@ export default defineConfig({
   ignoreDeadLinks: true,
   lastUpdated: true,
   cleanUrls: true,
+
+  titleTemplate: ":title • Wiki",
   locales: {
     root: {
       label: "English",
@@ -20,7 +22,10 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    nav: [{ text: "Get started", link: "/start" }],
+    nav: [
+      { text: "Get started", link: "/start" },
+      { text: "Contribute", link: "/contribute" },
+    ],
     sidebar: sidebar,
     search: {
       provider: "local",

@@ -5,7 +5,7 @@ title: Home
 hero:
   name: Wiki
   tagline: Welcome to the coolest game piracy wiki on the internet.
-  actions: 
+  actions:
     - text: Get Started
       link: /start
 
@@ -19,3 +19,4 @@ features:
   - icon: 🌟
     title: Favorite Picks
     details: We regularly pick the best sites for you and highlight them, so you can rest assured.
+---
