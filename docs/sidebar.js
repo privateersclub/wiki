@@ -1,70 +1,22 @@
 module.exports = [
   {
-    "text": "Required components",
-    "link": "/wiki/required-components"
-  },
-  {
     "text": "Direct download sites",
-    "link": "/wiki/direct-download-sites"
-  },
-  {
-    "text": "Torrent sites",
-    "link": "/wiki/torrent-sites"
-  },
-  {
-    "text": "Repacks",
-    "link": "/wiki/repacks"
-  },
-  {
-    "text": "Trainers (cheats)",
-    "link": "/wiki/trainers-cheats-"
-  },
-  {
-    "text": "Release trackers",
-    "link": "/wiki/release-trackers"
+    "link": "/wiki/download"
   },
   {
     "text": "ROM sites",
-    "link": "/wiki/rom-sites"
+    "link": "/wiki/emulation"
   },
   {
     "text": "Download managers",
-    "link": "/wiki/download-managers"
-  },
-  {
-    "text": "Torrent Clients",
-    "link": "/wiki/torrent-clients"
-  },
-  {
-    "text": "Tools",
-    "link": "/wiki/tools"
-  },
-  {
-    "text": "Emulators",
-    "link": "/wiki/emulators"
-  },
-  {
-    "text": "Useful software",
-    "link": "/wiki/useful-software"
-  },
-  {
-    "text": "Useful browser extensions",
-    "link": "/wiki/useful-browser-extensions"
-  },
-  {
-    "text": "VPNs",
-    "link": "/wiki/vpns"
-  },
-  {
-    "text": "Related subreddits",
-    "link": "/wiki/related-subreddits"
+    "link": "/wiki/software"
   },
   {
     "text": "Untrusted sites and uploaders",
-    "link": "/wiki/untrusted-sites-and-uploaders"
+    "link": "/wiki/unsafe"
   },
   {
-    "text": "Unsafe software",
-    "link": "/wiki/unsafe-software"
+    "text": "Required components",
+    "link": "/wiki/useful"
   }
 ]

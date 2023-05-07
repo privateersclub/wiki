@@ -13,3 +13,24 @@
   - Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) for infinite use.
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
+
+## Torrent Clients
+
+- [🌟 qBittorrent](https://www.qbittorrent.org)
+  - [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) is recommended.
+  - [Dark theme](https://draculatheme.com/qbittorrent)
+- [🌟 Transmission](https://transmissionbt.com)
+- [Deluge](https://dev.deluge-torrent.org)
+- [Tixati](https://tixati.com)
+- [Motrix](https://motrix.app)
+- [PicoTorrent](https://picotorrent.org)
+- [BiglyBT](https://www.biglybt.com)
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Android devices
+
+## VPNs
+
+- [r/VPN](https://www.reddit.com/r/VPN)
+- [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
+- [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
+
+> :warning: **Tor Browser ≠ VPN, no protection for torrenting!**
