@@ -25,7 +25,7 @@ function buildTOC() {
 const toc = buildTOC();
 console.log(toc);
 
-let tocHTML = "# Begin your journey\n<ul>\n";
+let tocHTML = "# Get Started \n<ul>\n";
 
 toc.forEach((item) => {
   tocHTML += `<li><a href="${item.link}">${item.text}</a></li>\n`;
@@ -34,8 +34,3 @@ toc.forEach((item) => {
 tocHTML += "</ul>";
 
 fs.writeFileSync("docs/start.md", tocHTML, "utf-8");
-fs.writeFileSync(
-  "docs/sidebar.js",
-  `module.exports = ${JSON.stringify(toc, null, 2)}`,
-  "utf-8"
-);

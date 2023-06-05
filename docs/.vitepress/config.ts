@@ -1,12 +1,11 @@
 import { defineConfig } from "vitepress";
-import sidebar from "../sidebar";
+import { sidebar } from "../sidebar";
 
 export default defineConfig({
   title: "Wiki",
   description: "Welcome to the coolest game piracy wiki on the internet.",
   base: process.env.BASE_URL || "/",
   lang: "en-US",
-  ignoreDeadLinks: true,
   lastUpdated: true,
   cleanUrls: true,
 

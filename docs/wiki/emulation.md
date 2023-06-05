@@ -2,7 +2,7 @@
 title: Emulation
 ---
 
-## ROM sites
+# ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
@@ -15,7 +15,7 @@ title: Emulation
 - [nsw2u](https://nsw2u.com) - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
-## Emulators
+# Emulators
 
 > :exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
 

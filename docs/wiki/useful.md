@@ -2,7 +2,7 @@
 title: Useful
 ---
 
-## Required components
+# Required components
 
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
 
@@ -10,7 +10,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-## Tools
+# Tools
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker.
   - Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
@@ -31,7 +31,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version updater.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
 
-## Useful software
+# Useful software
 
 - [7-Zip](https://7-zip.org) - File archiver.
 - [Bitwarden](https://bitwarden.com) - Open source password manager.
@@ -44,7 +44,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 
 > :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
 
-## Useful browser extensions
+# Useful browser extensions
 
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker.
   - Following [Privacy Guides' recommendations](https://www.privacyguides.org/desktop-browsers/#ublock-origin) is recommended.
@@ -63,7 +63,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies are containerized, allowing simultaneous use of multiple identities or accounts.
 
-## Trainers (cheats)
+# Trainers (cheats)
 
 Not for online games. No cheating in online games!
 
@@ -74,7 +74,7 @@ Not for online games. No cheating in online games!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
-## Release trackers
+# Release trackers
 
 No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
 
@@ -89,7 +89,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only
   - [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 
-## Related subreddits
+# Related subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)

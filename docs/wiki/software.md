@@ -2,7 +2,7 @@
 title: Software
 ---
 
-## Download managers
+# Download managers
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detects links from most file hosts.
@@ -18,7 +18,7 @@ title: Software
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
 - [pyLoad](https://pyload.net)
 
-## Torrent Clients
+# Torrent Clients
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
   - [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) is recommended.
@@ -31,7 +31,7 @@ title: Software
 - [BiglyBT](https://www.biglybt.com)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Android devices
 
-## VPNs
+# VPNs
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)

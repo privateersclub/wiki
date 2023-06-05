@@ -2,7 +2,7 @@
 title: Unsafe
 ---
 
-## Untrusted sites and uploaders
+# Untrusted sites and uploaders
 
 You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://www.reddit.com/125a5xb) to add the custom filter to uBlock Origin.
 
@@ -36,7 +36,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - Worldofpcgames - Caught with malware.
 - xGIROx - Caught with crypto miners.
 
-## Unsafe software
+# Unsafe software
 
 - μTorrent - Has ads and trackers and [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Sells user data.

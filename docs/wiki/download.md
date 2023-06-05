@@ -1,8 +1,7 @@
 ---
 title: Download
 ---
-
-## Direct download sites
+# Direct download sites
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
 
@@ -43,13 +42,12 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
 
-## Torrent sites
+# Torrent sites
 
 Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid IGG Games' torrents.
   - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
-- [🌟 RARBG](https://rarbg.to) - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](/wiki/useful#translator)
 - [Rutor](http://rutor.info/games) - [Translator](/wiki/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](/wiki/useful#translator)
@@ -58,7 +56,7 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 
-## Repacks
+# Repacks
 
 Repacks are compressed games for low-bandwidth users, but installing them takes time due to file decompression.
 
