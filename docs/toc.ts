@@ -1,13 +1,12 @@
 import fs from "fs";
 import path from "path"
 import matter from "gray-matter";
-import { buildTOC } from "./toc";
 
 const dir = path.join(__dirname, "/wiki/")
 
-function getSidebar(dir: string) {
-  const sidebar = []
-  buildTOC()
+export function buildTOC() {
+  const toc = [];
+  let tocHTML = "# Get Started \n<ul>\n";
   fs.readdirSync(dir).forEach((file) => {
     const filePath = path.join(dir, file);
     const stat = fs.statSync(filePath);
@@ -16,10 +15,14 @@ function getSidebar(dir: string) {
       const frontmatter = matter(contents);
       const data = { text: frontmatter.data.title, link: `/wiki/${file.replace(/\.md$/, "")}` }
       // @ts-ignore
-      sidebar.push(data)
+      toc.push(data)
     }
   });
-  return sidebar
-}
+  toc.forEach((item: any) => {
+    tocHTML += `<li><a href="${item.link}">${item.text}</a></li>\n`;
+  });
 
-export const sidebar = getSidebar(dir)
+  tocHTML += "</ul>";
+
+  fs.writeFileSync(path.join(__dirname, "/start.md"), tocHTML, "utf-8");
+}

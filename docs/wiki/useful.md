@@ -40,9 +40,10 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 - [Parsec](https://parsec.app) - Low-latency game streaming software.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator.
 
-> :memo: **Activate Microsoft products (Office and Windows) with [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-
-> :memo: **Visit [m0nkrus](https://w14.monkrus.ws) for Adobe products.**
+:::info
+Activate Microsoft products (Office and Windows) with **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
+:::
 
 # Useful browser extensions
 
