@@ -6,7 +6,7 @@ const dir = path.join(__dirname, "/wiki/")
 
 export function buildTOC() {
   const toc = [];
-  let tocHTML = "# Get Started \n<ul>\n";
+  let tocHTML = "\n<ul>\n";
   fs.readdirSync(dir).forEach((file) => {
     const filePath = path.join(dir, file);
     const stat = fs.statSync(filePath);
@@ -24,5 +24,5 @@ export function buildTOC() {
 
   tocHTML += "</ul>";
 
-  fs.writeFileSync(path.join(__dirname, "/start.md"), tocHTML, "utf-8");
+  fs.writeFileSync(path.join(__dirname, "/toc.md"), tocHTML, "utf-8");
 }
