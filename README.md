@@ -78,8 +78,6 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [🌟 1337x](https://1337x.to/sub/10/0/)
   - Avoid IGG Games' torrents.
   - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
-- [🌟 RARBG](https://rarbg.to)
-  - The [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks), and [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) userscripts are recommended.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19)
   - [Translator](#translator)
 - [Rutor](http://rutor.info/games)
