@@ -108,7 +108,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site)
   - Repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
-- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html)
+- [FluxyRepacks](https://www.fluxyrepacks.site/)
   - [Translator](#translator)
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
