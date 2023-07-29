@@ -36,8 +36,8 @@ export default defineConfig({
     },
     editLink: {
       pattern:
-        "https://github.com/privateersclub/wiki/edit/master/README.md",
-      text: "Edit this page on GitHub",
+        "https://github.com/privateersclub/wiki/edit/master/:path",
+      text: "Suggest changes",
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/privateersclub/wiki" },
