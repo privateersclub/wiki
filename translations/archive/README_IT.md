@@ -1,7 +1,7 @@
-**Ecco il Mega Thread di /r/PiratedGames!** - [altre traduzioni](translations/)
----
+## **Ecco il Mega Thread di /r/PiratedGames!** - [altre traduzioni](translations/)
 
 ### Componenti Necessari:
+
 Dovrai installare i seguenti software prima di poter eseguire qualsiasi gioco (sia ottenuto legittimamente che piratato), ciò evita crash causati da software mancanti:
 
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
@@ -18,6 +18,7 @@ Dovrai installare i seguenti software prima di poter eseguire qualsiasi gioco (s
 - [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
 
 ### Siti Torrent:
+
 Probabilmente sarà necessaria una VPN per scaricare torrent, onde evitare segnalazioni di Copyright da parte del proprio ISP - naturalmente la VPN non è necessaria se la nazione in cui ti trovi non persegue legalmente la pirateria. Ulteriori informazioni si possono trovare nella sezione VPN di questo thread. I torrent si basano sul download P2P (Peer-to-Peer) - i download sono presi direttamente da altri utenti che hanno già scaricato il file, senza effettuare interazioni con un server.
 
 - [1337X](https://1337x.to/) - Non usare torrent caricati da IGG games.
@@ -30,10 +31,11 @@ Probabilmente sarà necessaria una VPN per scaricare torrent, onde evitare segna
 - [Tapochek](https://tapochek.net/index.php)
 
 ### Siti Direct Download:
+
 I Direct Download (Download Diretti) sono dei normali download ottenuti da un qualsiasi server tramite un browser web. Questo tipo di download è molto più sicuro e non necessita di una VPN, tuttavia alcuni siti di filehosting sono bloccati (per esempio ZippyShare in alcune nazioni UE), per cui anche in questo caso serve una VPN. È consigliato utilizzare uno dei Download Manager presenti nella sezione apposita di questo thread. Nota: i "Scene Games" sono giochi crackati da una particolare "Scene", cioè un gruppo di cracker anonimi.
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - Scene Games e repack di FitGirl. 
+- [CrackHub](https://crackhub.site) - Scene Games e repack di FitGirl.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - Scene Games esclusivi a CrackHub.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
@@ -48,7 +50,7 @@ I Direct Download (Download Diretti) sono dei normali download ottenuti da un qu
 - [Mobilisim](https://forum.mobilism.org/index.php) - App e giochi android.
 - [MyAbandonware](https://www.myabandonware.com/) - Giochi retro / abbandonati.
 - [OldGamesDownload](https://oldgamesdownload.com/) - Giochi vecchi.
-- [Online-Fix](https://online-fix.me) - Giochi multigiocatore online. 
+- [Online-Fix](https://online-fix.me) - Giochi multigiocatore online.
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
@@ -57,6 +59,7 @@ I Direct Download (Download Diretti) sono dei normali download ottenuti da un qu
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
 ### Trainer (Trucchi):
+
 Nota: Non fare uso di trucchi in multigiocatore!
 
 - [Fearless Revolution](https://fearlessrevolution.com/) - Forum di trucchi su Cheat Engine.
@@ -66,11 +69,12 @@ Nota: Non fare uso di trucchi in multigiocatore!
 - [GameCopyWorld](https://gamecopyworld.com/games/index.php) - Utile anche per crack e fix NoCD.
 
 ### Repack:
+
 I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda internet lenta/limitata. Una volta scaricati, dovrai decomprimerli sul tuo computer, ciò richiederà molto tempo per via della compressione.
 
 - [-tARA Repacks](https://t4x4.github.io/)
 - [Chovka](https://repack.info/)
-- [CPG Repacks](https://cpgrepacks.site) 
+- [CPG Repacks](https://cpgrepacks.site)
 - [DODI Repacks](https://dodi-repacks.site/)
 - [Darck Repacks](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site)
@@ -81,7 +85,7 @@ I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda 
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
 - [Masquerade Repacks](vedi KaOs Krew)
 - Mr DJ
-- R.G. Catalyst 
+- R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site)
@@ -89,6 +93,7 @@ I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda 
 - ZAZIX
 
 ### Annunci di Rilascio:
+
 Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni su rilasci P2P/Scene. Ti serve sapere se un gioco è stato crackato? Qui sei nel posto giusto!
 
 - [CrackWatch](https://reddit.com/r/CrackWatch)
@@ -159,10 +164,10 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 
 ### Software per Download Diretti:
 
-- [FreeDownloadManager](https://www.freedownloadmanager.org/) 
+- [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 - [JDownloader2](http://jdownloader.org/jdownloader2)
-- [Motrix](https://motrix.app/) 
+- [Motrix](https://motrix.app/)
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
@@ -205,6 +210,7 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - [Ublock Origin](https://ublockorigin.com/)
 
 ### VPN:
+
 - [r/VPN](https://reddit.com/r/VPN)
 - [VPN consigliati da Privacy Tools](https://www.privacytools.io/providers/vpn/)
 - [Grafico di confronto tra VPN su r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
@@ -227,10 +233,10 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - LoadGames (clone di IGG games)
 - OceanOfGames - Rischio malware.
 - nosTEAM
-- xGIROx - Miner di bitcoin nei repack. 
+- xGIROx - Miner di bitcoin nei repack.
 - Seyter - Miner di bitcoin nei repack.
 - SteamUnlocked / GOG Unlocked - Download lenti, redirect a link pericolosi e upload rubati da IGG games.
-- cracked-games  - Rischio malware.
+- cracked-games - Rischio malware.
 - crackingpatching - Rischio malware.
 - RepackGames - Rubano rilasci e i giochi sono etichettati male.
 - Pirate Bay - Rischio malware.

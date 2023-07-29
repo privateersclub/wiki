@@ -1,0 +1,28 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --log-level=warn --write .",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "prettier": "^3.0.0",
+    "vitepress": "1.0.0-beta.6"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}

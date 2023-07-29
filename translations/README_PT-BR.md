@@ -1,6 +1,7 @@
 ## **Aqui Está a Megathread do /r/PiratedGames!** - [Traduções](./translations/)
 
 ### Componentes requeridos
+
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
@@ -8,6 +9,7 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
 ### Sites de transferências diretas
+
 Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
@@ -69,15 +71,13 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [PollyMC](https://github.com/fn2006/PollyMC)
   - Minecraft
 
-
 ### Sites de torrents
+
 Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
   - Evite torrents da IGG Games.
   - Os userscripts [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format) e [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) são recomendados.
-- [🌟 RARBG](https://rarbg.to)
-  - Os userscripts [Advanced Filters](https://greasyfork.org/scripts/29661-rarbg-advanced-filters), [Various Tweaks](https://greasyfork.org/scripts/367358-rarbg-various-tweaks) e [Torrent and Magnet Links](https://greasyfork.org/scripts/23493-rarbg-torrent-and-magnet-links) são recomendados.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19)
   - [Tradutor](#translator)
 - [Rutor](http://rutor.info/games)
@@ -95,6 +95,7 @@ Você precisará duma VPN para torrentear com segurança e evitar avisos de copy
   - Jogos e aplicativos de macOS
 
 ### Repacks
+
 Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
@@ -127,6 +128,7 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
   - Jogos de anime +18
 
 ### Trainers (trapaças)
+
 Não são para jogos online. Sem trapaças em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
@@ -139,6 +141,7 @@ Não são para jogos online. Sem trapaças em jogos online!
 - [MrAntiFun](https://mrantifun.net)
 
 ### Rastreadores de lançamentos
+
 Sem transferências fornecidas. Os sites têm informações de lançamentos da cena/P2P. Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
@@ -311,17 +314,18 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
   - Gerenciador de userscripts de código aberto para a maioria dos navegadores.
 - [ViolentMonkey](https://violentmonkey.github.io)
   - Gerenciador de userscripts de código aberto para vários navegadores.
-<ul>
-  <li id="tradutor"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
-    <ul>
-      <li>Tradução em tempo real via Google ou Yandex.</li>
-    </ul>
-  </li>
-</ul>
+  <ul>
+    <li id="tradutor"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
+      <ul>
+        <li>Tradução em tempo real via Google ou Yandex.</li>
+      </ul>
+    </li>
+  </ul>
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
   - Abas com cores distintas nesta ferramenta mantém sua vida online separada, preservando sua privacidade. Os cookies são isolados em contêineres, permitindo o uso simultâneo de várias identidades ou contas.
 
 ### VPNs
+
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Recomendações do Privacy Guides de VPNs](https://www.privacyguides.org/vpn)
 - [Tabela de Comparação de VPNs](https://www.reddit.com/m736zt)
@@ -339,6 +343,7 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
 
 ### Sites e enviadores não confiáveis
+
 Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
 
 > :warning: **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome dum grupo da cena na URL são falsos.**
@@ -346,7 +351,7 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - AGFY
   - Anúncios de redirecionamento maliciosos.
 - AimHaven
-   - Anúncios de redirecionamento maliciosos.
+  - Anúncios de redirecionamento maliciosos.
 - AllTorrents
 - ApunKaGames
 - cracked-games/GETGAMEZ
