@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 import { sidebar } from "../sidebar";
 
 export default defineConfig({
-  title: "Wiki",
-  description: "Welcome to the coolest game piracy wiki on the internet.",
+  title: "privateersclub/wiki",
+  description: "Welcome to the most comprehensive game piracy wiki on the internet.",
   base: process.env.BASE_URL || "/",
   lang: "en-US",
   lastUpdated: true,
@@ -36,11 +36,11 @@ export default defineConfig({
     },
     editLink: {
       pattern:
-        "https://github.com/r-piratedgames/megathread/edit/master/README.md",
+        "https://github.com/privateersclub/wiki/edit/master/README.md",
       text: "Edit this page on GitHub",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/r-piratedgames/megathread" },
+      { icon: "github", link: "https://github.com/privateersclub/wiki" },
     ],
   },
 });
