@@ -17,7 +17,9 @@ title: Emulation
 
 # Emulators
 
-> :exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
+:::info
+:exclamation: **See the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) for more.**
+:::
 
 - [RetroArch](https://retroarch.com) - Multiple consoles games
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games

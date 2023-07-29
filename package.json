@@ -1,8 +1,9 @@
 {
-  "name": "megathread",
+  "name": "wiki",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --log-level=warn --write .",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
@@ -10,9 +11,9 @@
   },
   "license": "Unlicense",
   "devDependencies": {
-    "@types/node": "^18.16.3",
-    "prettier": "^2.8.8",
-    "vitepress": "1.0.0-alpha.75"
+    "@types/node": "^20.4.5",
+    "prettier": "^3.0.0",
+    "vitepress": "1.0.0-beta.6"
   },
   "pnpm": {
     "peerDependencyRules": {

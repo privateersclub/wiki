@@ -15,10 +15,10 @@ export default defineConfig({
       label: "English",
       lang: "en",
     },
-    pt: {
-      label: "Brazilian Portuguese",
-      lang: "pt-br",
-    },
+    // pt: {
+    //   label: "Brazilian Portuguese",
+    //   lang: "pt-br",
+    // },
   },
   themeConfig: {
     nav: [
@@ -28,11 +28,11 @@ export default defineConfig({
     sidebar: sidebar,
     search: {
       provider: "local",
-      options: {
-        locales: {
-          pt: {}, // TODO: complete translation
-        },
-      },
+      // options: {
+      //   locales: {
+      //     pt: {}, // TODO: complete translation
+      //   },
+      // },
     },
     editLink: {
       pattern:

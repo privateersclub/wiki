@@ -1,6 +1,7 @@
 ---
 title: Download
 ---
+
 # Direct download sites
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
