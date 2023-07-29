@@ -4,7 +4,7 @@ title: Emulation
 
 # ROM sites
 
-- [🌟 r/Roms Megathread](https://r-roms.github.io)
+- [🌟 /r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
@@ -13,7 +13,7 @@ title: Emulation
 - [NoPayStation](https://nopaystation.com) - PlayStation 3, Portable, and Vita games
 - [Ziperto](https://www.ziperto.com) - Nintendo Switch and 3DS games
 - [nsw2u](https://nsw2u.com) - Nintendo Switch games
-- [r/Roms](https://www.reddit.com/r/roms)
+- [/r/Roms](https://www.reddit.com/r/roms)
 
 # Emulators
 
@@ -41,3 +41,15 @@ title: Emulation
 - [DuckStation](https://www.duckstation.org) - PlayStation 1 games
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo Entertainment System games
 - [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
+
+# Related Subreddits
+- [/r/3dshacks](https://www.reddit.com/r/3dshacks) 
+- [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/)
+- [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
+- [/r/vitahacks](https://www.reddit.com/r/vitahacks/)
+- [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
+- [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
+- [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
+- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/)
+- [/r/NewYuzuPiracy](https://www.reddit.com/r/NewYuzuPiracy)
+- [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/)
