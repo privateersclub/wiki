@@ -1,5 +1,4 @@
-**Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/)
----
+## **Voici le Mega Thread de r/PiratedGames!** - [traductions](translations/)
 
 ### Composants Necessaires:
 
@@ -234,7 +233,7 @@ Veuillez noter que ces sites ne fournissent pas de téléchargements, seulement 
 - xGIROx - Les repacks contiennent des mineurs de Bitcoin.
 - Seyter - Les repacks contiennent des mineurs de Bitcoin.
 - SteamUnlocked / GOG Unlocked - Téléchargements lents, liens malicieux qui redirigent vers des uploads volé d'IGG Games.
-- cracked-games  - Risque de virus.
+- cracked-games - Risque de virus.
 - crackingpatching - Risque de virus.
 - RepackGames - Volent des jeux.
 - Pirate Bay - Risque de virus.

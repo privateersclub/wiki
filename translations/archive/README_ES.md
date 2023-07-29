@@ -3,14 +3,17 @@
 Traducido por AndresciK. En caso de que haya algún error no dudes en hablarme por PM para poder comunicarme lo antes posible contigo. ¡Mis redes están aquí abajo!
 | Plataforma | Enlace |
 | -------- | -------- |
-|**Instagram** |[@_andresick](https://www.instagram.com/_andresick/) | 
+|**Instagram** |[@\_andresick](https://www.instagram.com/_andresick/) |
 |**Twitter** | [@Andresi1cK](https://twitter.com/Andresi1cK) |
 |**Email** | anaribca404@gmail.com |
-|**Discord** | AndresicK#6145 |  
+|**Discord** | AndresicK#6145 |
 
 ---
+
 ### Componentes necesarios:
+
 Necesitarás descargar los siguientes programas antes de descargar cualquier juego (Comprado o pirata). Esto con el fin de evitar que los juegos crasheen debido a la ausencia de software en tu PC:
+
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
@@ -25,7 +28,9 @@ Necesitarás descargar los siguientes programas antes de descargar cualquier jue
 - [r/QuestPiracy](https://reddit.com/r/QuestPiracy)
 
 ### Páginas de torrents:
+
 Necesitarás de una VPN para descargar los torrents, esto, con el fin de evitar recibir avisos de Copyright provenientes de tu ISP - A menos que, a tu país no le importe la piratería. Infórmese en la sección de VPN en este mismo hilo para más información. Los torrents son descargas P2P - Descargas los archivos de otras personas que han descargado el archivo. No hay servidores involucrados.
+
 - [1337X](https://1337x.to/) - No descargar torrents subidos por IGG Games.
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
 - [NXMAC](https://nxmac.com/)
@@ -37,9 +42,11 @@ Necesitarás de una VPN para descargar los torrents, esto, con el fin de evitar 
 - [Torrents.csv](https://torrents-csv.ml/)
 
 ### Páginas de descarga directa:
-Las descargas directas son cualquier descarga normal. Descargas del servidor desde un servidor a través de un navegador. Es muchísimo más seguro a la hora de descargar archivos y no requerirás de una VPN. En algunos casos, necesitarás una VPN para acceder a sitios de alojamiento de archivos bloqueados (Ej. ZippyShare está bloqueado en algunos países de Europa). Se recomienda el uso de un gestor de descargas mencionado más abajo en este mismo hilo para ayudarte a gestionar tus descargas. 
+
+Las descargas directas son cualquier descarga normal. Descargas del servidor desde un servidor a través de un navegador. Es muchísimo más seguro a la hora de descargar archivos y no requerirás de una VPN. En algunos casos, necesitarás una VPN para acceder a sitios de alojamiento de archivos bloqueados (Ej. ZippyShare está bloqueado en algunos países de Europa). Se recomienda el uso de un gestor de descargas mencionado más abajo en este mismo hilo para ayudarte a gestionar tus descargas.
+
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - Para juegos de la scene y repacks de FitGirl. 
+- [CrackHub](https://crackhub.site) - Para juegos de la scene y repacks de FitGirl.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - Te lleva directamente a la seccion de juegos subidos por la scene en CrackHub213.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
@@ -54,7 +61,7 @@ Las descargas directas son cualquier descarga normal. Descargas del servidor des
 - [Mobilisim](https://forum.mobilism.org/index.php) - Juegos y apps de Android.
 - [MyAbandonware](https://www.myabandonware.com/) - Juegos retro/viejos.
 - [OldGamesDownload](https://oldgamesdownload.com/) - Juegos viejos.
-- [Online-Fix](https://online-fix.me) - Juegos multijugador en línea. 
+- [Online-Fix](https://online-fix.me) - Juegos multijugador en línea.
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
@@ -63,7 +70,9 @@ Las descargas directas son cualquier descarga normal. Descargas del servidor des
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
 ### Trainers (Trampas):
+
 Nota: Estas trampas no son para juegos en línea. ¡No los uses en ningún juego en línea!
+
 - [Fearless Revolution](https://fearlessrevolution.com/) - Contiene tablas de Cheat Engine.
 - [FLiNG Trainers](https://flingtrainer.com/)
 - [WeMod](https://www.wemod.com/)
@@ -71,9 +80,11 @@ Nota: Estas trampas no son para juegos en línea. ¡No los uses en ningún juego
 - [GameCopyWorld](https://gamecopyworld.com/games/index.php) - También tienen crack only/NOCD fixes.
 
 ### Repacks:
+
 Los repacks son juegos altamente comprimidos, diseñados para personas con una banda ancha lenta/limitada. Una vez que los descargues, deberás intalarlos en tu computadora esto podría tomar mucho tiempo debido a la descompresión de archivos.
+
 - [Chovka](https://repack.info/)
-- [CPG Repacks](https://cpgrepacks.site) 
+- [CPG Repacks](https://cpgrepacks.site)
 - [DODI Repacks](https://dodi-repacks.site/)
 - [Darck Repacks](https://darckrepacks.com/)
 - [ElAmigos](https://elamigos.site)
@@ -84,7 +95,7 @@ Los repacks son juegos altamente comprimidos, diseñados para personas con una b
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
 - [Masquerade Repacks](https://masquerade.site)
 - Mr DJ
-- R.G. Catalyst 
+- R.G. Catalyst
 - R.G. Mechanics
 - R.G. Revenants
 - [Scooter Repacks](https://scooter-repacks.site)
@@ -92,7 +103,9 @@ Los repacks son juegos altamente comprimidos, diseñados para personas con una b
 - ZAZIX
 
 ### Redes de lanzamientos:
+
 Por favor tened en cuenta que ninguno de estos sitios proveen enlaces de descarga. Solo son informativos sobre lanzamientos P2P o de la Scene. ¿Quieres saber si un juego fue crackeado? ¡Revisa aquí!
+
 - [CrackWatch](https://reddit.com/r/CrackWatch)
 - [CrackForecast](https://reddit.com/r/CrackForecast) - subreddit de broma, hecho para responder a típica pregunta: "¿Cuándo X juego estará crackeado?"
 - [m2v.ru](http://m2v.ru/)
@@ -159,10 +172,10 @@ Por favor tened en cuenta que ninguno de estos sitios proveen enlaces de descarg
 
 ### Gestores de descarga para descargas directas:
 
-- [FreeDownloadManager](https://www.freedownloadmanager.org/) 
+- [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html).
 - [JDownloader2](http://jdownloader.org/jdownloader2)
-- [Motrix](https://motrix.app/) 
+- [Motrix](https://motrix.app/)
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
@@ -204,6 +217,7 @@ Por favor tened en cuenta que ninguno de estos sitios proveen enlaces de descarg
 - [Ublock Origin](https://ublockorigin.com/)
 
 ### VPNs:
+
 - [r/VPN](https://reddit.com/r/VPN)
 - [Recomendaciones de VPN cortesía de Privacy Tools](https://www.privacytools.io/providers/vpn/)
 - [Tabla comparativa entre VPN's en r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
@@ -223,13 +237,13 @@ Por favor tened en cuenta que ninguno de estos sitios proveen enlaces de descarg
 - Apunkagames
 - IGG Games / PC Games Torrents - Doxxearon a mercs213 (dueño de GoodOldDownloads), empaquetaban su propio DRM en juegos indie y te exploiteaban para obtener ingresos publicitarios.
 - BBRepacks - Repacks de BlackBox falsificados, contienen malware.
-- LoadGames  (Clon de IGG Games)
+- LoadGames (Clon de IGG Games)
 - OceanOfGames - (Alto riesgo de contener malware)
 - nosTEAM
 - xGIROx - los repacks contienen mineros de bitcoin.
 - Seyter - los repacks contienen mineros de bitcoin.
 - SteamUnlocked / GOG Unlocked - Descargas lentas, redirecciones maliciosas y juegos subidos robados de IGG Games.
-- cracked-games  - Riesgo de malware.
+- cracked-games - Riesgo de malware.
 - crackingpatching - Riesgo de malware.
 - RepackGames - Juegos mal etiquetados y roban lanzamientos de otras páginas.
 - Pirate Bay - Riesgo de malware.
