@@ -6,14 +6,17 @@ You can contribute to the project in various ways:
 - Translations
 
 ### Generation
+
 For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js environment installed. Refer to its documentation for making changes to Vitepress itself.
 
 The root directory is `docs/`.
 
 ### Content
+
 All content resides in the `docs/wiki/` folder of the repository. Edit them as you would with normal markdown files.
 
 ### Translations
+
 :::warning
 This is still a work in progress.
 :::

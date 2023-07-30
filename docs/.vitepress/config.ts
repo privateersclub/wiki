@@ -9,12 +9,12 @@ export default defineConfig({
     root: {
       label: "English",
       lang: "en",
-      ...enLocale
+      ...enLocale,
     },
     pt: {
       label: "Brazilian Portuguese",
       lang: "pt-br",
-      ...brLocale
+      ...brLocale,
     },
   },
 });

@@ -43,7 +43,8 @@ title: Emulation
 - [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 
 # Related Subreddits
-- [/r/3dshacks](https://www.reddit.com/r/3dshacks) 
+
+- [/r/3dshacks](https://www.reddit.com/r/3dshacks)
 - [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/)
 - [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
 - [/r/vitahacks](https://www.reddit.com/r/vitahacks/)
