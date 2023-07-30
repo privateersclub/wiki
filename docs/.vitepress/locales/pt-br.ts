@@ -2,18 +2,18 @@
 
 import { DefaultTheme, LocaleSpecificConfig } from "vitepress";
 
-const sidebar: DefaultTheme.NavItem[] = [
+const navbar: DefaultTheme.NavItem[] = [
   { text: "Get started", link: "/start" },
   { text: "Contribute", link: "/contribute" },
-]
+];
 
 export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
-  ...sidebar,
+  ...navbar,
   themeConfig: {
     editLink: {
       pattern:
         "https://github.com/privateersclub/wiki/edit/master/docs/wiki/:path",
       text: "Suggest changes",
-    }
-  }
-}
+    },
+  },
+};
