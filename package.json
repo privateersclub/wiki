@@ -1,6 +1,7 @@
 {
   "name": "wiki",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "format": "prettier --log-level=warn --write .",
@@ -23,6 +24,9 @@
     }
   },
   "dependencies": {
-    "gray-matter": "^4.0.3"
+    "gray-matter": "^4.0.3",
+    "mdast-util-toc": "^7.0.0",
+    "remark": "^14.0.3",
+    "unist-util-visit": "^5.0.0"
   }
 }
