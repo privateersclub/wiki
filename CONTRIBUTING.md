@@ -1,4 +1,4 @@
-ontributing
+# Contributing
 
 You can contribute to the project in various ways:
 
