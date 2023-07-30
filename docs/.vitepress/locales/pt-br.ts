@@ -12,7 +12,7 @@ export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
   themeConfig: {
     editLink: {
       pattern:
-        "https://github.com/privateersclub/wiki/edit/master/docs/wiki/:path",
+        "https://github.com/privateersclub/wiki/edit/master/docs/:path",
       text: "Suggest changes",
     },
   },
