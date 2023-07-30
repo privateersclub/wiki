@@ -1,3 +1,1 @@
-# Get Started
-
-<!--@include: ./toc.md -->
+<!--@include: ../../start.md -->
