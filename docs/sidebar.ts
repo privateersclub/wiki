@@ -17,7 +17,11 @@ async function getMetadata(
 
 export function generateSidebar(locale: string): any[] {
   let localePath = "";
-  let items: { text: string; items: { text: string; link: string }[] }[] = [];
+  let items: {
+    text: string;
+    link: string;
+    items: { text: string; link: string }[];
+  }[] = [];
 
   buildTOC();
 
@@ -40,6 +44,7 @@ export function generateSidebar(locale: string): any[] {
       }));
       items.push({
         text: title,
+        link: `/wiki/${file.replace(/\.md$/, "")}`,
         items: tocItems!,
       });
     }
