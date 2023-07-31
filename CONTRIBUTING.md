@@ -21,6 +21,8 @@ All content resides in the `docs/wiki/` folder of the repository. Edit them as y
 This is still a work in progress.
 :::
 
+See https://vitepress.dev/guide/i18n.
+
 There are two things to translate: content and strings used in Vitepress (Sidebar, nav, etc).
 
 Start by creating a folder in `docs/<locale>` and write your content in the exact same format.
