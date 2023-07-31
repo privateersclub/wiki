@@ -15,7 +15,7 @@ title: Software
 - [Internet Download Manager](https://internetdownloadmanager.com)
   - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended.
   - Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) for infinite use.
-- [Xtreme Download Manager](https://github.com/subhra74/xdm)
+- [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
 
 # Torrent Clients
