@@ -10,7 +10,9 @@ export const sharedConfig = defineConfig({
   cleanUrls: true,
   appearance: "dark",
   titleTemplate: ":title • Wiki",
-
+  sitemap: {
+    hostname: "https://megathread.pages.dev"
+  },
   themeConfig: {
     search: {
       provider: "local",

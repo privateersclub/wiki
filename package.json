@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/node": "^20.4.5",
     "prettier": "^3.0.0",
-    "vitepress": "1.0.0-beta.6"
+    "vitepress": "1.0.0-beta.7"
   },
   "pnpm": {
     "peerDependencyRules": {
