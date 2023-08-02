@@ -11,9 +11,9 @@ export default defineConfig({
       lang: "en",
       ...enLocale,
     },
-    pt: {
+    br: {
       label: "Brazilian Portuguese",
-      lang: "pt-br",
+      lang: "br",
       ...brLocale,
     },
   },

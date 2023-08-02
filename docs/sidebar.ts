@@ -26,9 +26,9 @@ export function generateSidebar(locale: string): any[] {
   buildTOC();
 
   if (locale !== "en-us") {
-    localePath = `${dir}/${locale}/wiki`;
+    localePath = path.join(__dirname, `/${locale}/wiki/`);
   } else {
-    localePath = `${dir}`;
+    localePath = dir;
   }
 
   fs.readdirSync(localePath).forEach(async (file) => {
