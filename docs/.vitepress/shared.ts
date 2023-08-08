@@ -11,13 +11,16 @@ export const sharedConfig = defineConfig({
   appearance: "dark",
   titleTemplate: ":title • Wiki",
   head: [
+    ['meta', { name: 'theme-color', content: '#7bc5e4' }],
+    ['meta', { name: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:locale', content: 'en' }],
     [
       'script',
       {
         src: 'https://a.bignutty.xyz/js/script.js',
         async: '',
         defer: '',
-        'data-domain': 'meegathread.pages.dev',
+        'data-domain': 'megathread.pages.dev',
       },
     ],
   ],
