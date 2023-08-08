@@ -10,6 +10,17 @@ export const sharedConfig = defineConfig({
   cleanUrls: true,
   appearance: "dark",
   titleTemplate: ":title • Wiki",
+  head: [
+    [
+      'script',
+      {
+        src: 'https://a.bignutty.xyz/js/script.js',
+        async: '',
+        defer: '',
+        'data-domain': 'meegathread.pages.dev',
+      },
+    ],
+  ],
 
   themeConfig: {
     search: {
