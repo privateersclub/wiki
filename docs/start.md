@@ -6,4 +6,4 @@ editLink: false
 
 <!--@include: ./toc.md -->
 
-Think you can improve the wiki? Come [contribute](/contribute) on github!
+Think you can improve the wiki? Come [contribute](/contribute) on GitHub!
