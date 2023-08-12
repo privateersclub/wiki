@@ -43,7 +43,7 @@ title: Emulation
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo Entertainment System games
 - [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 
-# Related Subreddits
+# Related subreddits
 
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
