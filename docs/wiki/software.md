@@ -18,7 +18,7 @@ title: Software
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
 
-# Torrent Clients
+# Torrent clients
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
   - [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) is recommended.
