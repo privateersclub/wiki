@@ -2,7 +2,7 @@
 editLink: false
 ---
 
-# Get Started
+# Get started
 
 <!--@include: ./toc.md -->
 
