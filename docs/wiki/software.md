@@ -6,7 +6,7 @@ title: Software
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detects links from most file hosts.
-  - [Enhancement guide](https://www.reddit.com/12axfj3)
+  - [Enhancement guide](https://lemmy.world/post/3098414)
   - Avoid more CAPTCHAs with [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver).
   - [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [Motrix](https://motrix.app)
