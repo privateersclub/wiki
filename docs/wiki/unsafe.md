@@ -10,32 +10,32 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 **SCENE GROUPS HAVE NO SITES! Sites with a scene group name in the URL are fake.**
 :::
 
-- AGFY - Malicious redirect ads.
+- AGFY - Scam links.
 - AimHaven - Malicious redirect ads.
 - AllTorrents
 - ApunKaGames
+- Corepack - Stolen releases and has been caught with malware.
+- CracksHash
+- Crohasit - Is affiliated with owners of SteamUnlocked.
 - cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://www.reddit.com/qy6z3c).
 - Downloadly - Caught with crypto miners.
-- Free GOG PC Games - Modified DLLs with [IGG Games ads](https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
-- FreeTP
-- Game3rb
+- Game3rb - Malicious fake download links on the page.
 - GameFabrique - Games stolen from IGG Games and [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
-- Games Releaser
 - GOG Unlocked/RomsUnlocked/SteamUnlocked - Games stolen from IGG Games and nosTEAM, malicious redirect ads, and slow downloads.
+- haxNode
 - IGG Games/PCGamesTorrents - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and puts its own DRM in indie games.
-- MrPcGames
-- NexusGames - Caught with malware.
-- nosTEAM
+- IGI30
+- NexusGames, Steam-Repacks, Unlocked-Games, World of PC Games - Caught with malware.
+- nosTEAM - Caught with crypto miners and has malware risk.
 - Ocean of Games - Constantly caught with malware.
 - Qoob/Seyter - Caught with crypto miners and [tried to switch names](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
 - Repack-Games - Mislabels games and steals releases.
-- Steam-Repacks - Caught with malware.
-- Steam Cracked
+- SadeemAPK
+- SadeemPC
 - The Pirate Bay - High malware risk due to no moderation.
-- Unlocked-Games
+- VitaminX - Caught with crypto miners.
 - WIFI4Games - Caught with malware.
-- Worldofpcgames - Caught with malware.
 - xGIROx - Caught with crypto miners.
 
 # Unsafe software
@@ -48,6 +48,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/q3lepv).
 - FrostWire - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
 - GShade - [Reboots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) your computer when third-party update apps are used.
+- KLauncher - Contains malware.
 - McAfee - Installs bloatware.
 - PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from Discord server and repository.
 - TLauncher - [Shady](https://www.reddit.com/zmzzrt) business practices.
