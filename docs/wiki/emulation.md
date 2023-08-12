@@ -47,7 +47,7 @@ title: Emulation
 
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1))
+- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1)
 - [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
 - [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
 - [/r/3dshacks](https://www.reddit.com/r/3dshacks)
