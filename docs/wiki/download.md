@@ -24,8 +24,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Registration required.
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Slow downloads.
-  - [Translator](/wiki/useful#translator)
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](/wiki/useful#translator) - Slow downloads.
   - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Scene CrackHub](https://scene.crackhub.site) - Scene releases
@@ -74,8 +73,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks
-  - [Translator](/wiki/useful#translator)
+- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](/wiki/useful#translator) - Lossy (lower quality and/or removed files) repacks
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
