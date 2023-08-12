@@ -12,7 +12,7 @@ title: Emulation
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Download workaround guide](https://www.reddit.com/120c0du)
 - [NoPayStation](https://nopaystation.com) - PlayStation 3, Portable, and Vita games
 - [Ziperto](https://www.ziperto.com) - Nintendo Switch and 3DS games
-- [nsw2u](https://nsw2u.com) - Nintendo Switch games
+- [NSW2u](https://nsw2u.com) - Nintendo Switch games
 - [/r/Roms](https://www.reddit.com/r/roms)
 
 # Emulators
@@ -25,6 +25,7 @@ title: Emulation
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games
 - [yuzu](https://yuzu-emu.org) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
+- [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Citra](https://citra-emu.org) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
 - [RCPS3](https://rpcs3.net) - PlayStation 3 games
@@ -44,13 +45,13 @@ title: Emulation
 
 # Related Subreddits
 
-- [/r/3dshacks](https://www.reddit.com/r/3dshacks)
-- [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/)
-- [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
-- [/r/vitahacks](https://www.reddit.com/r/vitahacks/)
-- [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
-- [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
-- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/)
-- [/r/NewYuzuPiracy](https://www.reddit.com/r/NewYuzuPiracy)
-- [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/)
+- [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
+- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1))
+- [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
+- [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
+- [/r/3dshacks](https://www.reddit.com/r/3dshacks)
+- [/r/vitahacks](https://www.reddit.com/r/vitahacks)
+- [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy)
+- [/r/WiiHacks](https://www.reddit.com/r/WiiHacks)
+- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew)
