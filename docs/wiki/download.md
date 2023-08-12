@@ -56,7 +56,8 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](/wiki/useful#translator)
 - [Rutor](http://rutor.info/games) - [Translator](/wiki/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](/wiki/useful#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](/wiki/useful#translator) - Registration required.
+- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](/wiki/useful#translator)
+- Registration required.
 - [Zamunda](https://zamunda.net/bananas) - Registration required. - Linux games
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
