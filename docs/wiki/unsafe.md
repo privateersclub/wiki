@@ -12,7 +12,6 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 
 - AGFY - Scam links.
 - AimHaven - Malicious redirect ads.
-- AllTorrents
 - ApunKaGames
 - Corepack - Stolen releases and has been caught with malware.
 - CracksHash
@@ -43,7 +42,7 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - μTorrent - Has ads and trackers and [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Sells user data.
 - AVG/CCleaner - Owned by Avast.
-- BitComet/Bittorent - Adware
+- BitComet/Bittorent - Adware.
 - BitLord - [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0)
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/q3lepv).
 - FrostWire - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
