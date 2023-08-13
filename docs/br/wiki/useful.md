@@ -4,8 +4,7 @@ title: Useful
 
 # Componentes obrigatórios
 
-Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas
-faltando no seu computador.
+Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -13,69 +12,47 @@ faltando no seu computador.
 
 # Ferramentas
 
-- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
-  legítimos da Steam.
-  - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração
-    automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação
-    automática.
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic
-  Games Store, dos clientes da EA e da Uplay.
+- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos legítimos da Steam.
+  - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação automática.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA e da Uplay.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam.
-  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com
-    uma IU.
+  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com uma IU.
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM SteamStub.
-  - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para
-    crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
-  correções para o Steamworks.
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Lista de ferramentas da
-  Steam.
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic
-  Games Store e dos clientes da EA.
+  - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de correções para o Steamworks.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Lista de ferramentas da Steam.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic Games Store e dos clientes da EA.
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store.
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos
-  clientes da EA.
-- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do
-  Epic Online Services.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos clientes da EA.
+- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do Epic Online Services.
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay.
-- [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outras cópias
-  pirateadas.
+- [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outras cópias pirateadas.
   - Senha: `online-fix.me`
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
-  pirateada de The Sims 4.
-- [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
-  root).
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão pirateada de The Sims 4.
+- [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com root).
 
 # Programas úteis
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos.
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto.
 - [Tor Browser](https://www.torproject.org) - O navegador mais privado.
-- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de
-  conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo
-  real.
+- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo real.
 - [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa.
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
-  gerador de informações de hash.
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e gerador de informações de hash.
 
-:::tip Ative produtos da Microsoft (Office e Windows) com o
-**[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe. :::
+:::tip
+Ative produtos da Microsoft (Office e Windows) com o **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
+:::
 
 # Extensões úteis de navegador
 
-- [uBlock Origin](https://ublockorigin.com) - Seguir as
-  [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é
-  recomendado. - Bloqueador de conteúdo de anúncio.
+- [uBlock Origin](https://ublockorigin.com) - Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado. - Bloqueador de conteúdo de anúncio.
 - [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
-- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que
-  também ofusca os dados de navegação.
-- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de
-  código aberto para o Firefox.
-- [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a
-  maioria dos navegadores.
-- [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto
-para vários navegadores.
+- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que também ofusca os dados de navegação.
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de código aberto para o Firefox.
+- [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a maioria dos navegadores.
+- [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto para vários navegadores.
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
     <ul>
@@ -84,9 +61,7 @@ para vários navegadores.
   </li>
 </ul>
 
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias
-  coloridas mantêm sua vida online separada para preservar a privacidade. Cookies são isolados,
-  permitindo uso simultâneo de várias identidades ou contas.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias coloridas mantêm sua vida online separada para preservar a privacidade. Cookies são isolados, permitindo uso simultâneo de várias identidades ou contas.
 
 # Trainers (trapaças)
 
@@ -101,8 +76,7 @@ Não são para jogos online. Sem trapaças em jogos online!
 
 # Rastreadores de lançamentos
 
-Sem transferências fornecidas. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um
-jogo foi crackeado!
+Sem transferências fornecidas. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)

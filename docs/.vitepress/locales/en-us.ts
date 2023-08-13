@@ -11,7 +11,8 @@ export const enLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
   themeConfig: {
     sidebar: generateSidebar("en-us"),
     editLink: {
-      pattern: "https://github.com/privateersclub/wiki/edit/master/docs/:path",
+      pattern:
+        "https://github.com/privateersclub/wiki/edit/master/docs/:path",
       text: "Suggest changes",
     },
   },
