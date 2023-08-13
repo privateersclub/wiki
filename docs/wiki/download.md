@@ -4,7 +4,7 @@ title: Download
 
 # Direct download sites
 
-Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](#download-managers) for help managing your downloads.
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
