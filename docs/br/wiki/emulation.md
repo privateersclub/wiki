@@ -9,7 +9,8 @@ title: Emulation
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) - Registro obrigatório
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Guia de transferência alternativa](https://lemmy.world/post/3061617)
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) -
+  [Guia de transferência alternativa](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jogos de PlayStation Vita, 3 e Portable
 - [Ziperto](https://www.ziperto.com) - Jogos de Nintendo Switch e 3DS
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
@@ -17,9 +18,9 @@ title: Emulation
 
 # Emuladores
 
-:::tip
-:exclamation: Veja a **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** para mais.
-:::
+:::tip :exclamation: Veja a
+**[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** para
+mais. :::
 
 - [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles
 - [Ryujinx](https://ryujinx.org) - Jogos de Nintendo Switch

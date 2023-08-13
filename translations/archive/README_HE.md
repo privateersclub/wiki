@@ -2,10 +2,8 @@
 
 **הנה המגה-שרשור של r/PiratedGames!**
 
-תורגם על ידי אורי, במידה ונעשתה טעות אנא צרו איתי קשר באחת מהכתובות הבאות:
-| שירות | כתובת |
-| --------| --------|
-| **Discord** | [@Ori#4448](https://discord.gg/enMG8bXUbn) |
+תורגם על ידי אורי, במידה ונעשתה טעות אנא צרו איתי קשר באחת מהכתובות הבאות: | שירות | כתובת | |
+--------| --------| | **Discord** | [@Ori#4448](https://discord.gg/enMG8bXUbn) |
 
 ## **:אתרי טורנט**
 
@@ -22,16 +20,19 @@
 - [Tapochek](https://tapochek.net/index.php) - טראקר טורנטים רוסי.
 - [Torrents.csv](https://torrents-csv.ml/) - מנוע חיפוש לטורנטים קל לתפעול.
 
-**אנחנו לא ממליצים על מפרץ הפיראטים (The Pirate Bay) ועל קיק אס טורנטס (Kickass Torrents) מכוון -זה מאוד קל לקבל משם תוכנה זדונית.**
+**אנחנו לא ממליצים על מפרץ הפיראטים (The Pirate Bay) ועל קיק אס טורנטס (Kickass Torrents) מכוון -זה
+מאוד קל לקבל משם תוכנה זדונית.**
 
 ## **:אתרי הורדות ישירות**
 
-- **בחירת הצוות: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - המקום הכי טוב לכל משחק, הוא צריך להיות המקום הראשון כאשר אתם מחפשים משחק. לא מאשרים שחרורי סצינה.
+- **בחירת הצוות: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - המקום הכי
+  טוב לכל משחק, הוא צריך להיות המקום הראשון כאשר אתם מחפשים משחק. לא מאשרים שחרורי סצינה.
 
 **:עוד אזכורים הראויים לציון**
 
 - [CrackHub](https://crackhub.site/) - הורדות ישירות לשחרורים של הסצינה וריפאקס של FitGirl
-- [CrackHub [Scene Games]](https://scene.crackhub.site/) - מעביר אותך ישירות לקטגוריית שחרורי הסצינה באתר של CrackHub.
+- [CrackHub [Scene Games]](https://scene.crackhub.site/) - מעביר אותך ישירות לקטגוריית שחרורי הסצינה
+  באתר של CrackHub.
 - [GLOAD](https://gload.cc/) - אתר גרמני להורדות ישירות.
 - [Gamesdrive.net](https://gamesdrive.net/) - הורדות לריפאקס ושחרורי סצינה.
 - [GOG Games](https://gog-games.com/) - משחקי GOG.
@@ -42,15 +43,21 @@
 - [RLSBB](https://rlsbb.ru/) - אתר להורדות ישירות של שחרורי הסצינה.
 - [SCNLOG.ME](https://scnlog.me/) - אתר להורדות ישירות של שחרורי הסצינה.
 - [SteamUnlocked](https://steamunlocked.net/)
-- [Torrminatorr Forum](https://forum.torrminatorr.com/) - הורדות ישירות למשחקים - שחרורי סצינה ומשחקי GOG.
+- [Torrminatorr Forum](https://forum.torrminatorr.com/) - הורדות ישירות למשחקים - שחרורי סצינה
+  ומשחקי GOG.
 
-משתמשי אוקולוס קווסט (Oculus Quest) יכולים להוריד [מהפוסט הזה](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) בפורום [CS.RIN.RU](http://cs.rin.ru/). [הפוסט הזה](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) גם יכול לעזור.
+משתמשי אוקולוס קווסט (Oculus Quest) יכולים להוריד
+[מהפוסט הזה](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) בפורום
+[CS.RIN.RU](http://cs.rin.ru/).
+[הפוסט הזה](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) גם יכול לעזור.
 
-**לתוכן רק פריצות, תיקוני נו-סי די ומאמנים, לכו ל: [GameCopyWorld](https://gamecopyworld.com/games/index.php).**
+**לתוכן רק פריצות, תיקוני נו-סי די ומאמנים, לכו ל:
+[GameCopyWorld](https://gamecopyworld.com/games/index.php).**
 
 ## **:ריפאקס**
 
-ריפאקס הם משחקים מקווצים ברמה גבוהה, נוצרו לאנשים עם מהירות אינטרנט איטית/מוגבלת. כולם ברשימה למטה הם ריפאקרים בטוחים ללא תוכנה-זדונית.
+ריפאקס הם משחקים מקווצים ברמה גבוהה, נוצרו לאנשים עם מהירות אינטרנט איטית/מוגבלת. כולם ברשימה למטה
+הם ריפאקרים בטוחים ללא תוכנה-זדונית.
 
 - [BlackBox](http://www.blackboxrepack.com/)
 - [Chovka](https://repack.info/)
@@ -92,7 +99,9 @@ P2P/שימו לב, לאף אחד מההבאים אין הורדות ישירות
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgemu.net/)
-- [Emu Paradise](https://www.emuparadise.me/) - [השתמשו בסקריפט הזה](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) על מנת להוריד.
+- [Emu Paradise](https://www.emuparadise.me/) -
+  [השתמשו בסקריפט הזה](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/)
+  על מנת להוריד.
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com/)
 - [Romulation](https://www.romulation.net/)
@@ -139,31 +148,41 @@ P2P/שימו לב, לאף אחד מההבאים אין הורדות ישירות
 
 **:הכלים האלה מאוד טובים על מנת שתפרצו את המשחק בעצמכם**
 
-- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) - אמולטור של סטים
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - אוטומטי יסדר את המשחק שלך ל CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - אוטומטי מסדר פריצת סטים-וורקס.
-- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) - אמולטור של סטים
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - תשיג DLCs פרוצים במשחק אמיתי שרכשת בסטים.
+- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) -
+  אמולטור של סטים
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - אוטומטי יסדר את המשחק
+  שלך ל CreamAPI.
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - אוטומטי מסדר
+  פריצת סטים-וורקס.
+- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) -
+  אמולטור של סטים
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - תשיג DLCs פרוצים במשחק אמיתי
+  שרכשת בסטים.
 - [GoldBerg Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - אמולטור של סטים
 - [Lucky Patcher](https://www.luckypatchers.com/) - פריצת אפליקציות אנדרואיד (יותר טוב עם רוט)
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - אמולטור של יופלי
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
-- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - תשיג DLCs פרוצים במשחק אמיתי שרכשת באוריגין.
+- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - תשיג DLCs פרוצים
+  במשחק אמיתי שרכשת באוריגין.
 - [RIN SteamInternals - הרבה כלים לפריצת סטים](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - אמולטור של סטים
-- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - מחיקת DRM מקובץ הEXE של המשחק, יש להשתמש גם באמולטור של סטים.
+- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - מחיקת DRM מקובץ הEXE של המשחק,
+  יש להשתמש גם באמולטור של סטים.
 
 ## **:תוכנות מועילות**
 
 - [7-zip File Manager](https://www.7-zip.org/) - טוב יותר מ WinRAR, קוד פתוח.
-- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - View every achievement earned on your PC whether it's coming from Steam, a Steam emulator, and more.
+- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - View every achievement
+  earned on your PC whether it's coming from Steam, a Steam emulator, and more.
 - [BleachBit](https://www.bleachbit.org/) - מנקה מערכות, יותר טוב מ CCleaner.
 - [Bitwarden](https://bitwarden.com/) - שומר סיסמאות בעל קוד פתוח.
 - [QuickSFV](https://www.quicksfv.org/download.html) - מוודא קובץ ומייצר לו הש.
 - [WinRAR](https://www.rarlab.com/) - אלטרנטיבה של 7-zip.
-- [Vapor Store](https://github.com/CrypticShy/vapor-store) - חנות (דומה לסטים) שניתן להוריד בה משחקים פרוצים!
+- [Vapor Store](https://github.com/CrypticShy/vapor-store) - חנות (דומה לסטים) שניתן להוריד בה
+  משחקים פרוצים!
 
-**על מנת להפעיל מוצרי מיקרוסופט כמו ווינדוס ואופיס ניתן להשתמש ב [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases).**
+**על מנת להפעיל מוצרי מיקרוסופט כמו ווינדוס ואופיס ניתן להשתמש ב
+[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases).**
 
 **למוצרי אדובי, בקרו אצל [monkrus](http://monkrus.ws/).**
 
@@ -203,7 +222,8 @@ P2P/שימו לב, לאף אחד מההבאים אין הורדות ישירות
 
 ## **:אתרים לא בטוחים**
 
-- IGG Games / PC Games Torrents - הם הדליפו פרטים אישיים של mercs213 (בעל האתר GoodOldDownloads), ומשתילים את הDRM האישי שלהם למשחקי אינדי ומנצלים אותך להכנסות מפרסומות.
+- IGG Games / PC Games Torrents - הם הדליפו פרטים אישיים של mercs213 (בעל האתר GoodOldDownloads),
+  ומשתילים את הDRM האישי שלהם למשחקי אינדי ומנצלים אותך להכנסות מפרסומות.
 - BBRepacks - ריפאקים מזוייפים של בלאקבוקס, עם תוכנה-זדונית.
 - OceanOfGames - סיכון גבוה לתוכנה-זדונית.
 - nosTEAM
@@ -215,7 +235,8 @@ P2P/שימו לב, לאף אחד מההבאים אין הורדות ישירות
 - Kickass Torrents - סיכון לתוכנה-זדונית.
 - כל אתר עם שם קבוצת סצינה בכתובת האינטרנט - **לקבוצות סצינה אין אתרים רשמיים!**
 
-כל מי שנתפסק שולח קישור לאתר שנראה זדוני על ידי הצוות, תגובתם תימחק על מנת לשמור על אנשים בטוחים בסאברדיט הזה!
+כל מי שנתפסק שולח קישור לאתר שנראה זדוני על ידי הצוות, תגובתם תימחק על מנת לשמור על אנשים בטוחים
+בסאברדיט הזה!
 
 **נמשיך לעדכן את השרשור, אז תבואו לבקר מדי פעם!**
 
@@ -223,4 +244,5 @@ P2P/שימו לב, לאף אחד מההבאים אין הורדות ישירות
 
 ## **:תרגומים**
 
-ראו **[תרגומים](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
+ראו
+**[תרגומים](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.

@@ -17,13 +17,17 @@
 - [Tapochek](https://tapochek.net/index.php) - Русский торрент-трекер.
 - [Torrents.csv](https://torrents-csv.ml/) - Удобная поисковая система торрентов.
 
-**Мы не рекомендуем The Pirate Bay или Kickass Torrents из-за того, что там легко подцепить вредоносное ПО.**.
+**Мы не рекомендуем The Pirate Bay или Kickass Torrents из-за того, что там легко подцепить
+вредоносное ПО.**.
 
-**Пометка от переводчика: А также не скачивайте первую попавшуюся игру с поисковика, чтоб не было вирусов**.
+**Пометка от переводчика: А также не скачивайте первую попавшуюся игру с поисковика, чтоб не было
+вирусов**.
 
 ## **Сайты прямой загрузки (DDL):**
 
-- **Выбор модератора: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Лучшее место для любой игры, это должно быть первое место, которое вы проверяете. Не разрешает релизы сцены.
+- **Выбор модератора: [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)** - Лучшее
+  место для любой игры, это должно быть первое место, которое вы проверяете. Не разрешает релизы
+  сцены.
 
 **Другие заслуживающие внимания упоминания:**
 
@@ -40,13 +44,19 @@
 - [SteamUnlocked](https://steamunlocked.net/) - предустановленные игры.
 - [Torrminatorr Forum](https://forum.torrminatorr.com/) - DDL игры - сценовские игры и GOG релизы.
 
-Пользователи Oculus Quest могут скачать игры из [этой темы](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) на форуме [CS.RIN.RU](http://cs.rin.ru/) [Это сообщение](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) также полезно.
+Пользователи Oculus Quest могут скачать игры из
+[этой темы](https://cs.rin.ru/forum/viewtopic.php?f=38&t=103122) на форуме
+[CS.RIN.RU](http://cs.rin.ru/)
+[Это сообщение](https://cs.rin.ru/forum/viewtopic.php?p=2077062#p2077062) также полезно.
 
-**Для получения таблеток, исправлений, NoCD и трейнеров, посетите [GameCopyWorld](https://gamecopyworld.com/games/index.php).**.
+**Для получения таблеток, исправлений, NoCD и трейнеров, посетите
+[GameCopyWorld](https://gamecopyworld.com/games/index.php).**.
 
 ## **Репаки:**
 
-Репаки - это сильно сжатые загрузки игр, предназначенные для людей с медленной/ограниченной пропускной способностью интернета. Все перечисленные ниже репаки являются надежными и не содержат вредоносных программ.
+Репаки - это сильно сжатые загрузки игр, предназначенные для людей с медленной/ограниченной
+пропускной способностью интернета. Все перечисленные ниже репаки являются надежными и не содержат
+вредоносных программ.
 
 - [BlackBox](http://www.blackboxrepack.com/)
 - [Chovka](https://repack.info/)
@@ -70,7 +80,8 @@
 
 ## **Информация о релизах**
 
-Обратите внимание, ни один из этих сайтов не предоставляет скачивание, только информацию о Scene/P2P релизах.
+Обратите внимание, ни один из этих сайтов не предоставляет скачивание, только информацию о Scene/P2P
+релизах.
 
 - **Выбор модераторов: [r/CrackWatch](https://reddit.com/r/crackwatch)** - самое то для видеоигр.
 
@@ -81,13 +92,16 @@
 - [predb.pw](https://predb.pw/)
 - [xREL](https://xrel.to/)
 
-Пожалуйста, обратите внимание, что сайт "crackwatch" не рекомендуется, поскольку он не является официальным.
+Пожалуйста, обратите внимание, что сайт "crackwatch" не рекомендуется, поскольку он не является
+официальным.
 
 ## **Сайты с образами игр:**
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgemu.net/)
-- [Emu Paradise](https://www.emuparadise.me/) - [Используйте этот скрипт](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) для загрузки.
+- [Emu Paradise](https://www.emuparadise.me/) -
+  [Используйте этот скрипт](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/)
+  для загрузки.
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com/)
 - [Romulation](https://www.romulation.net/)
@@ -124,7 +138,8 @@
 
 ## **Дебрид-сервис:**
 
-Дебрид сервисы преобразует ссылки премиум / медленные ссылки файловых хостов в ссылки более быстрой загрузки, специально для вас.
+Дебрид сервисы преобразует ссылки премиум / медленные ссылки файловых хостов в ссылки более быстрой
+загрузки, специально для вас.
 
 - [Real Debrid](https://real-debrid.com/)
 - [AllDebrid](https://alldebrid.com/)
@@ -134,37 +149,49 @@
 
 Эти инструменты помогут вам при взломе ваших собственных игр.
 
-- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) - эмуляция Steam
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - автоматическая настройка вашей игры для CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Автоматическое создание фиксов Steamworks.
-- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) - Эмуляция Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Разблокировка пиратских DLC в купленных играх Steam.
+- [ALi213 Steam Emulator](https://mega.nz/file/0lYGhDBb#4-x-4oPliA4ZR-mw4yAE3FzM5kzV-4xSVvK3JAYOFkQ) -
+  эмуляция Steam
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - автоматическая
+  настройка вашей игры для CreamAPI.
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Автоматическое
+  создание фиксов Steamworks.
+- [CODEX Steam Emulator](https://mega.nz/file/coQwTLLT#xx9gNuah5LQ1pkIeEf3UiQTCksaK7694fdXODmZgCZ0) -
+  Эмуляция Steam.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Разблокировка пиратских DLC в
+  купленных играх Steam.
 - [GoldBerg Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Эмуляция Steam.
 - [Lucky Patcher](https://www.luckypatchers.com/) - Патчи для приложений/игр Android (лучше с root).
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - эмуляция Uplay
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
-- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Разблокировка пиратских DLC в купленных играх Origin. Работа программы подтверждена только для The Sims 4.
+- [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Разблокировка
+  пиратских DLC в купленных играх Origin. Работа программы подтверждена только для The Sims 4.
 - [RIN SteamInternals - Широкая коллекция инструментов Steam](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - эмуляция Steam.
-- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Удаление защиты Steam'а из EXE-файлов (для использования с эмулятором Steam)
+- [Steamless](https://cs.rin.ru/forum/viewtopic.php?f=29&t=88528) - Удаление защиты Steam'а из
+  EXE-файлов (для использования с эмулятором Steam)
 
 ## **Полезные программы:**
 
 - [7zip File Manager](https://www.7-zip.org/) - лучше, чем WinRAR, с открытым исходным кодом.
-- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - просмотр всех достижений, полученных на вашем ПК, независимо от того, получены ли они из Steam, эмулятора Steam и т.д.
+- [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/) - просмотр всех достижений,
+  полученных на вашем ПК, независимо от того, получены ли они из Steam, эмулятора Steam и т.д.
 - [BleachBit](https://www.bleachbit.org/) - Очиститель системы, более безопасный, чем CCLeaner.
 - [Bitwarden](https://bitwarden.com/) - Решение для управления паролями с открытым исходным кодом.
-- [QuickSFV](https://www.quicksfv.org/download.html) - Проверка контрольных сумм и генерация хэш-сумм.
+- [QuickSFV](https://www.quicksfv.org/download.html) - Проверка контрольных сумм и генерация
+  хэш-сумм.
 - [WinRAR](https://www.rarlab.com/) - Альтернатива 7zip.
-- [Vapor Store](https://github.com/CrypticShy/vapor-store) - Магазин (аналогичный Steam!), где можно скачать взломанные игры!
+- [Vapor Store](https://github.com/CrypticShy/vapor-store) - Магазин (аналогичный Steam!), где можно
+  скачать взломанные игры!
 
-**Для продуктов Microsoft (Windows/Office) вы можете использовать [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) для их активации.**.
+**Для продуктов Microsoft (Windows/Office) вы можете использовать
+[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) для их активации.**.
 
 **Для продуктов Adobe, посетите [monkrus](http://monkrus.ws/).**.
 
 ## **Полезные расширения браузера:**.
 
-Эти расширения не сильно помогают в борьбе с пиратством в Интернете, но сделают ваш просмотр сайтов более приватным и безопасным.
+Эти расширения не сильно помогают в борьбе с пиратством в Интернете, но сделают ваш просмотр сайтов
+более приватным и безопасным.
 
 - [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)/[LocalCDN](https://www.localcdn.org/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
@@ -175,7 +202,8 @@
 
 ## **DNS:**
 
-Использование DNS, ориентированного на конфиденциальность, может ускорить работу в Интернете, а также сделать ваш сетевой трафик более безопасным (НЕ является заменой VPN):
+Использование DNS, ориентированного на конфиденциальность, может ускорить работу в Интернете, а
+также сделать ваш сетевой трафик более безопасным (НЕ является заменой VPN):
 
 - **Выбор модераторов: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html)**.
 
@@ -183,7 +211,8 @@
 
 ## **VPN:**.
 
-- Рекомендовать VPN-сервис очень сложно, поэтому мы хотели бы направить ваши вопросы, связанные с VPN, на [r/VPN](http://reddit.com/r/vpn).
+- Рекомендовать VPN-сервис очень сложно, поэтому мы хотели бы направить ваши вопросы, связанные с
+  VPN, на [r/VPN](http://reddit.com/r/vpn).
 - [Рекомендации VPN от Privacy Tools](https://www.privacytools.io/providers/vpn/)
 - [Сравнительная таблица VPN](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
@@ -198,7 +227,9 @@
 
 ## **Недоверенные сайты:**.
 
-- IGG Games / PC Games Torrents - они слили персональные данные mercs213 (владельца GoodOldDownloads), упаковывают свою защиту в инди-игры и эксплуатируют вас для получения дохода от рекламы.
+- IGG Games / PC Games Torrents - они слили персональные данные mercs213 (владельца
+  GoodOldDownloads), упаковывают свою защиту в инди-игры и эксплуатируют вас для получения дохода от
+  рекламы.
 - BBRepacks - поддельные репаки BlackBox, содержат вредоносное ПО.
 - OceanOfGames - высокий риск заражения вредоносным ПО.
 - nosTEAM
@@ -210,12 +241,15 @@
 - Kickass Torrents - опасность вредоносного ПО
 - Любой сайт с названием группы из сцены в URL - **У ГРУПП ИЗ СЦЕНЫ НЕТУ НИКАКИХ САЙТОВ!**.
 
-Любой, кто будет пойман за ссылку на сайт, который модераторы посчитают небезопасным, будет удалять свои комментарии, чтобы обеспечить безопасность людей на сабреддите!
+Любой, кто будет пойман за ссылку на сайт, который модераторы посчитают небезопасным, будет удалять
+свои комментарии, чтобы обеспечить безопасность людей на сабреддите!
 
 **Мы будем обновлять эту тему, так что заглядывайте сюда время от времени!**
 
-**Если у вас есть какие-либо рекомендации для мега-треда, пожалуйста, комментируйте ниже! Небезопасные сайты будут удалены модераторами**.
+**Если у вас есть какие-либо рекомендации для мега-треда, пожалуйста, комментируйте ниже!
+Небезопасные сайты будут удалены модераторами**.
 
 ## **Другие переводы:**
 
-См. **[переводы](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
+См.
+**[переводы](https://github.com/taskylizard/piratedgames-megathread/blob/main/translations/translations.md)**.
