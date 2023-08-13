@@ -6,10 +6,9 @@ title: Download
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
   - Password: `cs.rin.ru`
-  - Registration required.
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](https://gog-games.to)
@@ -20,8 +19,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Seven Gamers](https://www.seven-gamers.com) - Google Drive and torrent
   - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google Drive links.
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and scene releases
-  - Registration required.
+- [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and scene releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
@@ -31,8 +29,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [CrackHub](https://crackhub.site) - Scene and P2P releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs
-  - Registration required.
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - Registration required - HOGs
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - macOS and iOS games and apps
 - [NMac](https://nmac.to/category/games) - macOS games and apps
 - [AppKed](https://www.macbed.com/games) - macOS games and apps
@@ -42,8 +39,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
   - Switch to English on the top-right corner.
-- [F95zone](https://f95zone.to) - NSFW games
-  - Registration required.
+- [F95zone](https://f95zone.to) - Registration required - NSFW games
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
@@ -57,10 +53,8 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful.md#translator)
 - [Rutor](http://rutor.info/games) - [Translator](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful.md#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful.md#translator)
-  - Registration required.
-- [Zamunda](https://zamunda.net/bananas) - Linux games
-  - Registration required.
+- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful.md#translator) - Registration required
+- [Zamunda](https://zamunda.net/bananas) - Registration required - Linux games
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 
