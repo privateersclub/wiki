@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import matter, { type GrayMatterFile } from "gray-matter";
-import { buildTOC } from "./toc";
 import { getTableOfContents, Items } from "../shared";
 
 const dir = path.join(__dirname, "/wiki/");
@@ -17,17 +16,20 @@ async function getMetadata(
 
 export function generateSidebar(locale: string): any[] {
   let localePath = "";
-  let items: {
+  let localeUri = "";
+  const items: {
     text: string;
     link: string;
+    base: string;
     items: { text: string; link: string }[];
   }[] = [];
 
-  buildTOC();
-
   if (locale !== "en-us") {
-    localePath = path.join(__dirname, `/${locale}/wiki/`);
+    localeUri = `/${locale}/wiki/`;
+    localePath = path.join(__dirname, localeUri);
   } else {
+    // default directory for en-us
+    localeUri = '/wiki/'
     localePath = dir;
   }
 
@@ -40,14 +42,16 @@ export function generateSidebar(locale: string): any[] {
       if (!title) throw new Error("Cannot find title in metadata: " + filePath);
       const tocItems = toc.items?.map((item) => ({
         text: item.title,
-        link: `/wiki/${file.replace(/\.md$/, "")}${item.url}`,
+        link: `${file.replace(/\.md$/, "")}${item.url}`,
       }));
       items.push({
         text: title,
-        link: `/wiki/${file.replace(/\.md$/, "")}`,
+        link: `${file.replace(/\.md$/, "")}`,
+        base: `${localeUri}`,
         items: tocItems!,
       });
     }
   });
-  return items;
+  const sidebar = [{ items: items }]
+  return sidebar;
 }
