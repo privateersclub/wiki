@@ -1,4 +1,3 @@
-<!--@include: ../../start.md -->
 ---
 editLink: false
 ---
