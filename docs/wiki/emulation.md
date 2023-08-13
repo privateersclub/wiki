@@ -8,7 +8,7 @@ title: Emulation
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) - Registration required.
+- [The ROM Depot](https://theromdepot.com) - Registration required
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation Vita, 3, and Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo Switch and 3DS games
