@@ -4,7 +4,7 @@ title: Download
 
 # Direct download sites
 
-Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software#download-managers) for help managing your downloads.
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
@@ -24,7 +24,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Registration required.
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](/wiki/useful#translator) - Slow downloads.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
   - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Scene CrackHub](https://scene.crackhub.site) - Scene releases
@@ -49,14 +49,14 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 
 # Torrent sites
 
-Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](software#vpns) for more info.
+Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](software.md#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid IGG Games' torrents.
   - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful#translator)
-- [Rutor](http://rutor.info/games) - [Translator](useful#translator)
-- [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful#translator)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful.md#translator)
+- [Rutor](http://rutor.info/games) - [Translator](useful.md#translator)
+- [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful.md#translator)
+- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful.md#translator)
   - Registration required.
 - [Zamunda](https://zamunda.net/bananas) - Linux games
   - Registration required.
@@ -74,13 +74,13 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
-- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - [Translator](useful#translator)
+- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - [Translator](useful.md#translator)
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful#translator) - Lossy (lower quality and/or removed files) repacks
+- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful.md#translator) - Lossy (lower quality and/or removed files) repacks
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
