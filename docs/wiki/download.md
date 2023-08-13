@@ -4,7 +4,7 @@ title: Download
 
 # Direct download sites
 
-Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
@@ -32,17 +32,18 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Gamdie](https://gamdie.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs
-- Registration required.
+  - Registration required.
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - macOS and iOS games and apps
 - [NMac](https://nmac.to/category/games) - macOS games and apps
 - [AppKed](https://www.macbed.com/games) - macOS games and apps
 - [Cmacked](https://cmacked.com) - macOS games and apps
 - [Mobilism](https://forum.mobilism.me) - Android games and apps
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) - PCVR games
-- [F95zone](https://f95zone.to) - NSFW games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
   - Switch to English on the top-right corner.
+- [F95zone](https://f95zone.to) - NSFW games
+  - Registration required.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) - MS-DOS games
 - [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
@@ -84,4 +85,4 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
-- [CPG Repacks](https://cpgrepacks.site) - +18 anime games
+- [CPG Repacks](https://cpgrepacks.site) - NSFW anime games
