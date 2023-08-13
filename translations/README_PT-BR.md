@@ -2,7 +2,8 @@
 
 ### Componentes requeridos
 
-Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
+Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas
+faltando no seu computador.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -10,7 +11,11 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 
 ### Sites de transferências diretas
 
-Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo, Rapidgator nalguns países da UE). Veja a [seção de gerenciadores de transferências](#gerenciadores-de-transferências) para ajuda no gerenciamento de suas transferências.
+Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo
+uma VPN. Você deve precisar duma VPN para acessar sites de hospedagem de arquivos (por exemplo,
+Rapidgator nalguns países da UE). Veja a
+[seção de gerenciadores de transferências](#gerenciadores-de-transferências) para ajuda no
+gerenciamento de suas transferências.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum)
   - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
@@ -30,7 +35,8 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com)
   - Google Drive e torrent
-  - 1+ dia no [servidor do Discord deles](https://discord.com/invite/ND6TBDwyjU) desbloqueia os links do Google Drive.
+  - 1+ dia no [servidor do Discord deles](https://discord.com/invite/ND6TBDwyjU) desbloqueia os
+    links do Google Drive.
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com)
   - Jogos de GOG e Linux e lançamentos da Cena
@@ -73,11 +79,19 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 
 ### Sites de torrents
 
-Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents são transferências P2P doutros usuários, sem servidores.
+Você precisará duma VPN para torrentear com segurança e evitar avisos de copyright do seu provedor,
+a menos que seu país tolere pirataria. Veja a [seção de VPNs](#vpns) para mais informações. Torrents
+são transferências P2P doutros usuários, sem servidores.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/)
   - Evite torrents da IGG Games.
-  - Os userscripts [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format) e [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) são recomendados.
+  - Os userscripts
+    [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements),
+    [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links),
+    [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+    e
+    [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+    são recomendados.
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19)
   - [Tradutor](#translator)
 - [Rutor](http://rutor.info/games)
@@ -96,12 +110,14 @@ Você precisará duma VPN para torrentear com segurança e evitar avisos de copy
 
 ### Repacks
 
-Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais devido à descompressão de arquivos.
+Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais
+devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site)
-  - Transferências lentas para usuários grátis, use os espelhos do GLOAD ou do Ova Games em vez disso.
+  - Transferências lentas para usuários grátis, use os espelhos do GLOAD ou do Ova Games em vez
+    disso.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0)
   - Também achado no [Repack.info](https://repack.info).
@@ -142,7 +158,8 @@ Não são para jogos online. Sem trapaças em jogos online!
 
 ### Rastreadores de lançamentos
 
-Sem transferências fornecidas. Os sites têm informações de lançamentos da cena/P2P. Veja aqui se um jogo foi crackeado!
+Sem transferências fornecidas. Os sites têm informações de lançamentos da cena/P2P. Veja aqui se um
+jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -179,7 +196,8 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
   - [Guia de melhoramento](https://www.reddit.com/12axfj3)
-  - Evite mais CAPTCHAs com o [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver).
+  - Evite mais CAPTCHAs com o
+    [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver).
   - [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org)
@@ -208,15 +226,19 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576)
   - Desbloqueador de DLCs de jogos legítimos da Steam.
-  - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação automática.
+  - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração
+    automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação
+    automática.
 - [Koalageddon](https://github.com/acidicoala/Koalageddon)
   - Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA e da Uplay.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
   - Emulador da Steam.
-  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com uma IU.
+  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com
+    uma IU.
 - [Steamless](https://github.com/atom0s/Steamless)
   - Removedor da DRM SteamStub.
-  - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
+  - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para
+    crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112)
   - Criador automático de correções para o Steamworks.
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
@@ -241,7 +263,9 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 ### Emuladores
 
-> :exclamation: **Veja a [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) para nais.**
+> :exclamation: **Veja a
+> [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators) para
+> nais.**
 
 - [RetroArch](https://retroarch.com)
   - Jogos de múltiplos consoles
@@ -293,21 +317,26 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 - [Tor Browser](https://www.torproject.org)
   - O navegador mais privado.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher)
-  - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo real.
+  - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de
+    jogo e notificações em tempo real.
 - [Parsec](https://parsec.app)
   - Programa de transmissão de jogos de latência baixa.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode)
   - Verificador de soma de verificação e gerador de informações de hash.
 
-> :memo: **Ative produtos da Microsoft (Office e Windows) com o [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+> :memo: **Ative produtos da Microsoft (Office e Windows) com o
+> [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
 
 > :memo: **Visite o [m0nkrus](https://w14.monkrus.ws) para produtos da Adobe.**
 
 ### Extensões de navegador úteis
 
-- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio. Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado.
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio. Seguir as
+  [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é
+  recomendado.
 - [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
-- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que também ofusca os dados de navegação.
+- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que
+  também ofusca os dados de navegação.
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey)
   - Gerenciador de userscripts de código aberto para o Firefox.
 - [Tampermonkey](https://www.tampermonkey.net)
@@ -322,7 +351,9 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
     </li>
   </ul>
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers)
-  - Abas com cores distintas nesta ferramenta mantém sua vida online separada, preservando sua privacidade. Os cookies são isolados em contêineres, permitindo o uso simultâneo de várias identidades ou contas.
+  - Abas com cores distintas nesta ferramenta mantém sua vida online separada, preservando sua
+    privacidade. Os cookies são isolados em contêineres, permitindo o uso simultâneo de várias
+    identidades ou contas.
 
 ### VPNs
 
@@ -344,7 +375,10 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da c
 
 ### Sites e enviadores não confiáveis
 
-Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
+Vocẽ pode só usar o filtro de bloqueador de anúncios
+[FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)
+para bloquear a maioria dos sites mencionados aqui e mais. Siga
+[este guia](https://www.reddit.com/125a5xb) para adicionar o filtro customizado ao uBlock Origin.
 
 > :warning: **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome dum grupo da cena na URL são falsos.**
 
@@ -361,16 +395,20 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - Downloadly
   - Pego com mineradores de criptomoedas.
 - Free GOG PC Games
-  - Modifica as DLLs com [anúncios da IGG Games](https://reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
+  - Modifica as DLLs com
+    [anúncios da IGG Games](https://reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/j5c9ikd).
 - FreeTP
 - Game3rb
 - GameFabrique
-  - Jogos roubados do IGG Games e [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
+  - Jogos roubados do IGG Games e
+    [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - Games Releaser
 - GOG Unlocked/RomsUnlocked/SteamUnlocked
-  - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências lentas.
+  - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências
+    lentas.
 - IGG Games/PCGamesTorrents
-  - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
+  - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita de anúncios e põe a
+    própria DRM em jogos indie.
 - MrPcGames
 - NexusGames
   - Pego com malware.
@@ -378,7 +416,8 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - Ocean of Games
   - Constantemente pego com malware.
 - Qoob/Seyter
-  - Pego com mineradores de criptomoedas e [tentou trocar de nome](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
+  - Pego com mineradores de criptomoedas e
+    [tentou trocar de nome](https://reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j4d2dld).
 - Repack-Games
   - Rouba lançamentos e rotula os jogos errado.
 - Steam-Repacks
@@ -397,7 +436,8 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 ### Programas inseguros
 
 - μTorrent
-  - Tem anúncios e rastreadores e [é inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
+  - Tem anúncios e rastreadores e
+    [é inseguro](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast
   - Conhecida por vender dados dos usuários.
 - AVG/CCleaner
@@ -411,10 +451,12 @@ Vocẽ pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Soft
 - FrostWire
   - [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
 - GShade
-  - [Reinicia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt) seu computador ao usar aplicativos de atualização de terceiros.
+  - [Reinicia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/j7vx9vt)
+    seu computador ao usar aplicativos de atualização de terceiros.
 - McAfee
   - Instala bloatware.
 - PolyMC
-  - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord e repositório.
+  - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord e
+    repositório.
 - TLauncher
   - Práticas comerciais [questionáveis](https://www.reddit.com/zmzzrt).
