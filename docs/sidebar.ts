@@ -29,7 +29,7 @@ export function generateSidebar(locale: string): any[] {
     localePath = path.join(__dirname, localeUri);
   } else {
     // default directory for en-us
-    localeUri = "/wiki/";
+    localeUri = '/wiki/'
     localePath = dir;
   }
 
@@ -52,6 +52,6 @@ export function generateSidebar(locale: string): any[] {
       });
     }
   });
-  const sidebar = [{ items: items }];
+  const sidebar = [{ items: items }]
   return sidebar;
 }
