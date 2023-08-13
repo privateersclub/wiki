@@ -1,4 +1,3 @@
-<!--@include: ../../index.md -->
 ---
 layout: home
 title: Home
