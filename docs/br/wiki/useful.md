@@ -2,82 +2,81 @@
 title: Useful
 ---
 
-# Required components
+# Componentes obrigatórios
 
-Install all before downloading games (legitimate or pirated) to avoid crashes from missing software on your computer.
+Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas faltando no seu computador.
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-# Tools
+# Ferramentas
 
-- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC unlocker.
-  - Use [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) for automatic setup or [CreamInstaller](https://github.com/pointfeev/CreamInstaller) for automatic installation.
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games Store, EA clients, and Uplay DLC unlocker.
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator.
-  - Use [GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) to manage it with a UI.
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover.
-  - Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for auto-crack with Goldberg Steam Emulator and Steamless.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks fix creator.
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam tools list.
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Epic Games Store and EA clients DLC unlocker.
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC unlocker.
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA clients DLC unlocker.
-- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Services emulator.
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay emulator.
-- [Online Fix](https://online-fix.me) - Allows playing pirated games online with other pirated copies.
-  - Password: `online-fix.me`
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version updater.
-- [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root).
+- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos legítimos da Steam.
+  - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação automática.
+- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA e da Uplay.
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam.
+  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com uma IU.
+- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM SteamStub.
+  - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
+- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de correções para o Steamworks.
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Lista de ferramentas da Steam.
+- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic Games Store e dos clientes da EA.
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos clientes da EA.
+- [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do Epic Online Services.
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay.
+- [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outras cópias pirateadas.
+  - Senha: `online-fix.me`
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão pirateada de The Sims 4.
+- [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com root).
 
-# Useful software
+# Programas úteis
 
-- [7-Zip](https://7-zip.org) - File archiver.
-- [Bitwarden](https://bitwarden.com) - Open source password manager.
-- [Tor Browser](https://www.torproject.org) - The most private browser.
-- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser with auto-screenshot, playtime tracking, and real-time notification.
-- [Parsec](https://parsec.app) - Low-latency game streaming software.
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator.
+- [7-Zip](https://7-zip.org) - Arquivador de arquivos.
+- [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto.
+- [Tor Browser](https://www.torproject.org) - O navegador mais privado.
+- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo real.
+- [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa.
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e gerador de informações de hash.
 
 :::tip
-Activate Microsoft products (Office and Windows) with **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
+Ative produtos da Microsoft (Office e Windows) com o **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
 :::
 
-# Useful browser extensions
+# Extensões úteis de navegador
 
-- [uBlock Origin](https://ublockorigin.com) - Ad content blocker.
-  - Following [Privacy Guides' recommendations](https://www.privacyguides.org/desktop-browsers/#ublock-origin) is recommended.
-- [FastForward](https://fastforward.team) - Link shorteners bypasser.
-- [AdNauseam](https://adnauseam.io) - uBlock Origin-based ad content blocker that also obfuscates browsing data.
-- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open source userscript manager for Firefox.
-- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers.
-- [ViolentMonkey](https://violentmonkey.github.io) - Open source userscript manager for many browsers.
+- [uBlock Origin](https://ublockorigin.com) - Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado. - Bloqueador de conteúdo de anúncio.
+- [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
+- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que também ofusca os dados de navegação.
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de código aberto para o Firefox.
+- [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a maioria dos navegadores.
+- [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto para vários navegadores.
 <ul>
-  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
+  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
     <ul>
-      <li>Real-time page translation via Google or Yandex.</li>
+      <li>Tradução em tempo real via Google ou Yandex.</li>
     </ul>
   </li>
 </ul>
 
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies are containerized, allowing simultaneous use of multiple identities or accounts.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias coloridas mantêm sua vida online separada para preservar a privacidade. Cookies são isolados, permitindo uso simultâneo de várias identidades ou contas.
 
-# Trainers (cheats)
+# Trainers (trapaças)
 
-Not for online games. No cheating in online games!
+Não são para jogos online. Sem trapaças em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack only and NoCD fixes.
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
-- [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
+- [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
 - [MrAntiFun](https://mrantifun.net)
 
-# Release trackers
+# Rastreadores de lançamentos
 
-No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
+Sem transferências fornecidas. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -86,11 +85,11 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
 - [/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [/r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Repacks only
-- [/r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only
-  - [/r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
+- [/r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Só repacks
+- [/r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks
+  - Subreddit irmão do [/r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 
-# Related subreddits
+# Subreddits relacionados
 
 - [/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [/r/Piracy](https://www.reddit.com/r/Piracy)
