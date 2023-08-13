@@ -17,9 +17,9 @@ export const sharedConfig = defineConfig({
     [
       'script',
       {
-        src: 'https://a.bignutty.xyz/js/script.js',
+        src: 'https://i-totally-love-easylist.swmg.top/vue.min.js',
+        'data-api': "https://i-totally-love-easylist.swmg.top/vue.min.js",
         async: '',
-        defer: '',
         'data-domain': 'megathread.pages.dev',
       },
     ],

@@ -1,4 +1,4 @@
-// TODO:  complete this translation, change only stringss!
+// TODO:  complete this translation, change only strings!
 
 import { DefaultTheme, LocaleSpecificConfig } from "vitepress";
 import { generateSidebar } from "../../sidebar";
