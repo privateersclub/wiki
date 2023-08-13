@@ -6,10 +6,9 @@ title: Download
 
 Transferências diretas são transferências normais por um servidor, sendo mais seguras e não exigindo uma VPN. Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em alguns países da UE). Veja a [seção de gerenciadores de transferências](software.md#gerenciadores-de-transferências) para obter ajuda no gerenciamento de suas transferências.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registro obrigatório - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
   - Use o [Baidu Bypass](https://baidu.crackhub.site) para links do Baidu.
   - Senha: `cs.rin.ru`
-  - Registro obrigatório.
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](https://gog-games.to)
@@ -20,8 +19,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [Seven Gamers](https://www.seven-gamers.com) - Google Drive e torrent
   - 1+ dia no [servidor do Discord deles](https://discord.com/invite/ND6TBDwyjU) desbloqueia os links do Google Drive.
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Jogos da GOG e Linux e lançamentos da Cena
-  - Registro obrigatório.
+- [Torrminatorr](https://forum.torrminatorr.com) - Registro obrigatório - Jogos da GOG e Linux e lançamentos da Cena
 - [Games 4 You](https://g4u.to) - Transferências lentas para usuários grátis.
   - Senha: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Tradutor](useful.md#translator) - Transferências lentas.
@@ -31,8 +29,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [CrackHub](https://crackhub.site) - Lançamentos da Cena e P2P
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Leechinghell](http://www.leechinghell.pw) - Jogos multijogador LAN
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs
-  - Registro obrigatório.
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - Registro obrigatório - HOGs
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Jogos e aplicativos de macOS e iOS
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
@@ -42,8 +39,7 @@ Transferências diretas são transferências normais por um servidor, sendo mais
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos
   - Mude para inglês no canto superior direito.
-- [F95zone](https://f95zone.to) - Jogos NSFW
-  - Registro obrigatório.
+- [F95zone](https://f95zone.to) - Registro obrigatório - Jogos NSFW
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) - Jogos de MS-DOS
 - [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
