@@ -4,7 +4,7 @@ title: Download
 
 # Direct download sites
 
-Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
+Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (for example, Rapidgator in some EU countries). Check the [download managers section](software#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
@@ -49,16 +49,17 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 
 # Torrent sites
 
-Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](#vpns) for more info.
+Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](software#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid IGG Games' torrents.
   - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](/wiki/useful#translator)
-- [Rutor](http://rutor.info/games) - [Translator](/wiki/useful#translator)
-- [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](/wiki/useful#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](/wiki/useful#translator)
-- Registration required.
-- [Zamunda](https://zamunda.net/bananas) - Registration required. - Linux games
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful#translator)
+- [Rutor](http://rutor.info/games) - [Translator](useful#translator)
+- [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful#translator)
+- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful#translator)
+  - Registration required.
+- [Zamunda](https://zamunda.net/bananas) - Linux games
+  - Registration required.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 
@@ -73,13 +74,13 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
-- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - [Translator](/wiki/useful#translator)
+- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - [Translator](useful#translator)
 - [Xatab](https://otxatabs.net)
 - [Darck Repacks](https://darckrepacks.com)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](/wiki/useful#translator) - Lossy (lower quality and/or removed files) repacks
+- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful#translator) - Lossy (lower quality and/or removed files) repacks
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
