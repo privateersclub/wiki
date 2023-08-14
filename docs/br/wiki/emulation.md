@@ -1,5 +1,5 @@
 ---
-title: Emulation
+title: Emulação
 ---
 
 # Sites de ROMs
