@@ -1,5 +1,5 @@
 ---
-title: Inseguro
+title: Unsafe
 ---
 
 # Untrusted sites and uploaders
