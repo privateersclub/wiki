@@ -11,10 +11,9 @@ const navbar: DefaultTheme.NavItem[] = [
 export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
   ...navbar,
   themeConfig: {
-    sidebar: generateSidebar('br'),
+    sidebar: generateSidebar("br"),
     editLink: {
-      pattern:
-        "https://github.com/privateersclub/wiki/edit/master/docs/:path",
+      pattern: "https://github.com/privateersclub/wiki/edit/master/docs/:path",
       text: "Suggest changes",
     },
   },
