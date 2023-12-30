@@ -3,13 +3,11 @@ layout: home
 title: Home
 
 hero:
-  name: privateersclub/wiki
-  tagline: Welcome to the most comprehensive game piracy wiki on the internet.
+  name: Megathread feita com Vitepress
+  tagline: Bem-vindo a essa linda Megathread
   actions:
     - text: Get Started
-      link: /wiki/glossary
-    - text: Contribute
-      link: /contribute
+      link: /wiki/main-page
 
 features:
   - icon: ✏️

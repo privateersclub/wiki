@@ -1,9 +1,9 @@
 import { defineConfig } from "vitepress";
 
 export const sharedConfig = defineConfig({
-  title: "privateersclub/wiki",
+  title: "Megathread feita com Vitepress",
   description:
-    "Welcome to the most comprehensive game piracy wiki on the internet.",
+    "A Megathread mais linda",
   base: process.env.BASE_URL || "/",
   lang: "en-US",
   lastUpdated: true,
@@ -20,7 +20,7 @@ export const sharedConfig = defineConfig({
         src: 'https://i-totally-love-easylist.swmg.top/vue.min.js',
         'data-api': "https://i-totally-love-easylist.swmg.top/pong",
         async: '',
-        'data-domain': 'megathread.pages.dev',
+        'data-domain': 'heus-sueh.github.io',
       },
     ],
   ],
