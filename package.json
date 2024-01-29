@@ -12,9 +12,9 @@
   },
   "license": "Unlicense",
   "devDependencies": {
-    "@types/node": "^20.4.10",
-    "prettier": "^3.0.1",
-    "vitepress": "1.0.0-rc.25"
+    "@types/node": "^20.11.10",
+    "prettier": "^3.2.4",
+    "vitepress": "1.0.0-rc.40"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -26,9 +26,9 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "mdast-util-toc": "^7.0.0",
-    "remark": "^14.0.3",
-    "remark-parse": "^10.0.2",
-    "unified": "^10.1.2",
+    "remark": "^15.0.1",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.4",
     "unist-util-visit": "^5.0.0"
   }
 }
