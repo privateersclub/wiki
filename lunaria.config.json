@@ -1,0 +1,25 @@
+{
+  "$schema": "./node_modules/@lunariajs/core/config.schema.json",
+  "repository": {
+    "name": "privateersclub/wiki",
+    "rootDir": "docs"
+  },
+  "files": [
+    {
+      "location": "**/*.md",
+      "pattern": "@lang/@path",
+      "type": "universal"
+    }
+  ],
+  "defaultLocale": {
+    "label": "English",
+    "lang": "en"
+  },
+  "locales": [
+    {
+      "label": "Português",
+      "lang": "pt-br"
+    }
+  ],
+  "outDir": ".vitepress/dist/_translations"
+}

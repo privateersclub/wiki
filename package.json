@@ -8,13 +8,17 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "lunaria:build": "lunaria build",
+    "lunaria:preview": "lunaria preview",
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "license": "Unlicense",
   "devDependencies": {
-    "@types/node": "^20.11.10",
-    "prettier": "^3.2.4",
-    "vitepress": "1.0.0-rc.40"
+    "@types/node": "^20.11.17",
+    "@types/nprogress": "^0.2.3",
+    "prettier": "^3.2.5",
+    "vitepress": "1.0.0-rc.42"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -24,11 +28,18 @@
     }
   },
   "dependencies": {
+    "@lunariajs/core": "^0.0.28",
+    "@resvg/resvg-js": "^2.6.0",
     "gray-matter": "^4.0.3",
     "mdast-util-toc": "^7.0.0",
+    "nprogress": "^0.2.0",
+    "pathe": "^1.1.2",
     "remark": "^15.0.1",
     "remark-parse": "^11.0.0",
     "unified": "^11.0.4",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "unocss": "^0.58.5",
+    "vue": "^3.4.18",
+    "x-satori": "^0.1.5"
   }
 }

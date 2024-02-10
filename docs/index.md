@@ -7,7 +7,7 @@ hero:
   tagline: Welcome to the most comprehensive game piracy wiki on the internet.
   actions:
     - text: Get Started
-      link: /wiki/glossary
+      link: /glossary
     - text: Contribute
       link: /contribute
 
