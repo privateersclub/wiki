@@ -7,7 +7,7 @@ description: Everything linux piracy.
 
 ## Direct Download Sites:
 * 🌟 [Torrminatorr](https://torrminatorr.com/) - Linux Games
-* 🌟 [Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0) - Linux Games, *[Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)*
+* 🌟 [Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0) - Linux Games, [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * 🌟 [cs.rin.ru](https://cs.rin.ru/forum/) - Steam files
 
 ## Torrent Sites:
@@ -32,7 +32,8 @@ description: Everything linux piracy.
 # Guides
 * 🌟 [Linux Gaming Wiki](https://www.reddit.com/r/linux_gaming/wiki/index/), [Wiki](https://linux-gaming.kwindu.eu/index.php)
 * 🌟 [Installing games with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/) / [Archive link](https://web.archive.org/web/20230221101846/https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/), [For Fitgirl Repacks](https://www.reddit.com/r/LinuxCrackSupport/wiki/index#wiki_playing_fitgirl_repacks_using_lutris_and_proton)
-::: info It is recommended to get games from DODI rather than Fitgirl :::
+::: info It is recommended to get games from DODI rather than Fitgirl.
+:::
 
 # Related Resources:
 * [/r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport/)
