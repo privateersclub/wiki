@@ -12,14 +12,10 @@ Here are a few ways you can get involved:
 - **Questions:** If you have questions or need assistance, join our [Discord](https://discord.gg/jz8dUnnD6Q) or [Divolt](https://privateer.divolt.xyz) server.
 - **Suggestions:** Have ideas? We'd love to hear them! Join our server to share your suggestions.
 
+
 ## Follow us
 
 <p valign="center">
-  <a href="https://discord.gg/jz8dUnnD6Q">
-        <img width="20px" src="./.github/assets/discord.svg" alt="Discord">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/privateersclub">
-        <img width="20px" src="./.github/assets/github.svg" alt="GitHub">
-    </a>
+  <a href="https://discord.gg/jz8dUnnD6Q"><img width="20px" src="./.github/assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/privateersclub"><img width="20px" src="./.github/assets/github.svg" alt="GitHub"></a>
 </p>
+
