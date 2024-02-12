@@ -23,8 +23,8 @@ description: Everything linux piracy.
 * [Bottles](https://usebottles.com/) - Manage & Run windows software/Games
 
 ## Tools:
-::: info All the tools are good whether starred or not. :::
-
+::: info All the tools are good whether starred or not. 
+:::
 * [MangoHUD](https://github.com/flightlessmango/MangoHud) - overlay for monitoring FPS, and other metrics, [GUI](https://github.com/benjamimgois/goverlay)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Install, Manage Proton-GE
 * [Winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes & tweaks
