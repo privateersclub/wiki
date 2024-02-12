@@ -10,6 +10,7 @@ const sidebar: DefaultTheme.Sidebar = [
   { text: "Software", link: "/software" },
   { text: "Download", link: "/download" },
   { text: "Emulation", link: "/emulation" },
+  { text: "Linux", link: "/linux" },
   { text: "Useful", link: "/useful" },
   { text: "Unsafe", link: "/unsafe" },
 ];
