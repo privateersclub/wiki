@@ -7,7 +7,6 @@ title: Download
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
-  - Use [Baidu Bypass](https://baidu.crackhub.site) for Baidu links.
   - Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
@@ -16,8 +15,6 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [Game-2U](https://game-2u.com/Category/game/pc)
-- [Seven Gamers](https://www.seven-gamers.com) - Google Drive and torrent
-  - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google Drive links.
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and scene releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
@@ -25,19 +22,17 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
   - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
-- [Scene CrackHub](https://scene.crackhub.site) - Scene releases
-- [CrackHub](https://crackhub.site) - Scene and P2P releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - Registration required - HOGs
-- [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - macOS and iOS games and apps
+- [Wendy's Forum](https://wendysforum.net/index.php) - Registration required - HOGs
+- [AppCake](https://www.iphonecake.com) - macOS and iOS games and apps
 - [NMac](https://nmac.to/category/games) - macOS games and apps
 - [AppKed](https://www.macbed.com/games) - macOS games and apps
 - [Cmacked](https://cmacked.com) - macOS games and apps
 - [Mobilism](https://forum.mobilism.me) - Android games and apps
-- [4PDA](https://4pda.to/forum/) - [Translator](useful.md#translator) - Registration required - Android games and apps
-- [Sbenny](https://forum.sbenny.com/) - Registration required - Android games and apps
-- [Androeed](https://androeed.store/) - Android games and apps
+- [4PDA](https://4pda.to/forum) - [Translator](useful.md#translator) - Registration required - Android games and apps
+- [Sbenny](https://forum.sbenny.com) - Registration required - Android games and apps
+- [Androeed](https://androeed.store) - Android games and apps
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
@@ -71,10 +66,9 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [Xatab](https://byxatab.org)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks from up to May, 2022. Moved to KaOsKrew in June, 2022.
-- [FluxyRepacks](https://www.fluxycrack.fr/cracks%20jeux%201.html) - [Translator](useful.md#translator)
-- [Xatab](https://otxatabs.net)
-- [Darck Repacks](https://darckrepacks.com)
+- [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
