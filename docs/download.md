@@ -62,7 +62,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users, use GLOAD's or Ova Games' mirrors instead.
+- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users, use GameDrive's, GLOAD's or Ova Games' mirrors instead.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
