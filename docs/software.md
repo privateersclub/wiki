@@ -13,8 +13,7 @@ title: Software
 - [Free Download Manager](https://www.freedownloadmanager.org)
   - Use [Elephant](https://github.com/meowcateatrat/elephant) to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com)
-  - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended.
-  - Use [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) for infinite use.
+  - [IAS](https://github.com/lstprjct/IDM-Activation-Script) or [IDMHelper](https://github.com/unamer/IDMHelper) or [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) are recommended.
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
 
