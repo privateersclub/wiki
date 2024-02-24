@@ -7,12 +7,12 @@ description: Everything regarding piracy on Linux.
 
 ## Direct Download Sites
 * 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) - Linux games
-* 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) - Linux games
-* 🌟 [cs.rin.ru](https://cs.rin.ru/forum) - Steam files
+* 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful.md#translator) - Linux games
+* 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Steam files
 
 ## Torrent Sites
 * 🌟 [johncena141](https://1337x.to/user/johncena141/) - Linux Games
-* 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) - Linux Games
+* 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - [Translator](useful.md#translator) - Linux Games
 
 # Software
 
@@ -33,8 +33,8 @@ description: Everything regarding piracy on Linux.
 # Guides
 * 🌟 [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
 * 🌟 [Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
-  * [Fix for DLL errors](https://safereddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
-::: info It is recommended to get games from DODI over FitGirl.
+  * [Fix for DLL errors](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
+::: info It's recommended to get games from DODI over FitGirl.
 :::
 
 # Related Resources

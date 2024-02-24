@@ -16,7 +16,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and scene releases
+- [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and Scene releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
@@ -44,7 +44,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 
 # Torrent sites
 
-Torrents are P2P downloads from other users, without servers. You will need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](software.md#vpns) for more info.
+Torrents are P2P downloads from other users, without servers. You'll need a VPN to torrent safely and avoid ISP copyright notices, unless your country tolerates piracy. Check the [VPNs section](software.md#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid IGG Games' torrents.
   - The [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements), [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links), [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format), and [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) userscripts are recommended.

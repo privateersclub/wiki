@@ -34,7 +34,7 @@ title: Software
 # VPNs
 
 :::danger
-**Tor Browser is not a VPN, no protection for torrenting!**
+**Tor Browser isn't a VPN, no protection for torrenting!**
 :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
