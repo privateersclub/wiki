@@ -10,27 +10,27 @@ This page helps summarise over some basic topics on the piracy scene. This also 
 ::: tip What is the Scene? And P2P?
 The Scene is an underground community of people who crack and share copyrighted material. They have strict rules that all scene members have to abide. P2P are independent crackers who don't follow the scene rules.
 
-The Scene rules: https://scenerules.org/
+The Scene rules: https://scenerules.org
 :::
 
 ::: tip What are NFOs?
-NFO's are like a readme.txt that scene makes on release. It gives you instructions, a general description of the game and some additional information.
+NFOs are like a readme.txt that scene makes on release. It gives you instructions, a general description of the game and some additional information.
 :::
 
 ::: tip Why does X site have so many ads?
-**Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. If you want ad-free experiece you can do take these steps.
+**Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. You can take these steps if you want an ad-free experiece:
 
 ### Android
 
-Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/en-US/android/addon/ublock-origin/). This should be more than enough. If you want system-wide support, try [**Adguard**](https://adguard.com/en/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io/). You can watch [**this video**](https://youtu.be/WUG57ynLb8I), if you need guidance.
+Install [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and add [**uBlock Origin**](https://addons.mozilla.org/android/addon/ublock-origin). This should be more than enough. If you want system-wide support, try [**AdGuard**](https://adguard.com/adguard-android/overview.html) or [**NextDNS**](https://nextdns.io). You can watch [**this video**](https://youtu.be/WUG57ynLb8I) if you need guidance.
 
 ### PC
 
-Install [**uBlock Origin**](https://ublockorigin.com/) in your browser and you're done! If you want system-wide solution, you _can_ use [**NextDNS**](https://nextdns.io/) but it won't be as effective as uBlock Origin. You can also use [FastForward](https://fastforward.team/) or [Bypass.city](https://bypass.city/) to _bypass_ redirects.
+Install [**uBlock Origin**](https://ublockorigin.com) in your browser and you're done! If you want a system-wide solution, you _can_ use [**NextDNS**](https://nextdns.io) but it won't be as effective as uBlock Origin. You can also use [FastForward](https://fastforward.team) or [Bypass.city](https://bypass.city) to _bypass_ redirects.
 
 ### iOS
 
-[**NextDNS**](https://nextdns.io/) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com/).
+[**NextDNS**](https://nextdns.io) should cover everything for system-wide ads & trackers. You can also try [**AhaDNS**](https://ahadns.com).
 :::
 
 ::: tip Do I need to use VPN while downloading?
