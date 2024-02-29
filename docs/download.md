@@ -11,12 +11,12 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [🌟 GOG Games](https://gog-games.to)
-- [Ova Games](https://www.ovagames.com) - Files password: `www.ovagames.com`
-- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
-- [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [Game-2U](https://game-2u.com/Category/game/pc)
+- [Ova Games](https://www.ovagames.com) - Files password: `www.ovagames.com`
+- [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and Scene releases
+- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
