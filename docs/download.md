@@ -30,9 +30,11 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [AppKed](https://www.macbed.com/games) - macOS games and apps
 - [Cmacked](https://cmacked.com) - macOS games and apps
 - [Mobilism](https://forum.mobilism.me) - Android games and apps
-- [4PDA](https://4pda.to/forum) - [Translator](useful.md#translator) - Registration required - Android games and apps
-- [Sbenny](https://forum.sbenny.com) - Registration required - Android games and apps
+- [ApkVision](https://apkvision.org) - Android games and apps
 - [Androeed](https://androeed.store) - Android games and apps
+- [PDALIFE](https://pdalife.com) - Android games and apps
+- [APKHome](https://apkhome.io) - Android games and apps
+- [MODYOLO](https://modyolo.com) - Modded Android games and apps
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
