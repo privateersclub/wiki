@@ -34,9 +34,9 @@ Install [**uBlock Origin**](https://ublockorigin.com) in your browser and you're
 :::
 
 ::: tip Do I need to use VPN while downloading?
-The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the consequences are lenient, you might opt to forgo using a VPN altogether. We have recommended some in [**quick start**](/qs.md#essentials).
+The necessity of using a VPN depends on the method of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the consequences are lenient, you might opt to forgo using a VPN altogether.
 :::
 
 ::: tip Why is my download so slow?
-Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed the recommended ones for [**pc**](/addons.md#downloader) and [**android**](/addons.md#phone).
+Use a download manager. Some websites impose file transfer limits for a single thread, thereby restricting download speeds. Download managers overcome this limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We have listed some recommended ones [here](/useful).
 :::
