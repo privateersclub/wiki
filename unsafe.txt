@@ -40,6 +40,8 @@ download.cnet.com
 *.softonic.$document
 ftuapps.dev
 filecr.com
+happy-mod.com
+elamigos-games.com
 
 # Torrent sites
 *thepiratebay.$document
@@ -62,6 +64,8 @@ www.privateinternetaccess.com
 tlauncher.org
 polymc.org
 limewire.com
+apkgod.net
+rearpc.com
 
 # fake Z-Library domains (source: https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
 zlib.is
@@ -71,6 +75,24 @@ zlibrary.is
 z-lib.is
 z-lib.to
 
+# fake streaming sites
+agentfilm.club
+alltube-tv.pl
+digiomg.com
+cartoonhd.pw
+cb01.care
+cb01.boo
+cb01.rsvp
+cb01.mx
+cineblog01.sh
+cineblog01.boo
+cineblog01.rest
+fastmovies.org
+streamlikers.com
+naijaprey.com
+
+# SEO spam
+apkhouse.com
 
 # ---------------
 # EXTRA
