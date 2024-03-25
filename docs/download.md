@@ -10,7 +10,6 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](https://gog-games.to)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) - Files password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases

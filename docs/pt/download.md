@@ -11,7 +11,6 @@ Transferências diretas são transferências normais por um servidor, sendo mais
   - Senha: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
 - [🌟 GamesDrive](https://gamesdrive.net)
-- [🌟 GOG Games](https://gog-games.to)
 - [Ova Games](https://www.ovagames.com) - Senha dos arquivos: `www.ovagames.com`
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P

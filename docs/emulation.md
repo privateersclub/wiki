@@ -24,10 +24,8 @@ title: Emulation
 
 - [RetroArch](https://retroarch.com) - Multiple consoles games
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games
-- [yuzu](https://yuzu-emu.org) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Citra](https://citra-emu.org) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
 - [RCPS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
