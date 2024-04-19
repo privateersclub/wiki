@@ -1,10 +1,10 @@
 ---
-title: Unsafe
+title: Não Seguro
 ---
 
-# Sites e enviadores não confiáveis
+# Sites e uploaders não seguros
 
-Você pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://lemmy.world/post/3098030) para adicionar o filtro customizado ao uBlock Origin.
+Você pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](unsafe_uBlock.txt) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://lemmy.world/post/3098030) para adicionar o filtro customizado ao uBlock Origin.
 
 :::danger
 **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome de um grupo da Cena na URL são falsos.**
@@ -21,7 +21,7 @@ Você pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Softw
 - Downloadly - Pego com mineradores de criptomoedas.
 - Game3rb - Links de download falsos e maliciosos na página.
 - GameFabrique - Jogos roubados do IGG Games e [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
-- GOG Unlocked/RomsUnlocked/SteamUnlocked -Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e transferências lentas.
+- GOG Unlocked/RomsUnlocked/SteamUnlocked - Jogos roubados da IGG Games e nosTEAM, anúncios de redirecionamento maliciosos e downloads lentos.
 - haxNode
 - IGG Games/PCGamesTorrents - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita de anúncios e põe a própria DRM em jogos indie.
 - IGI30

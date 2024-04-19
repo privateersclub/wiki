@@ -4,16 +4,17 @@ title: Emulação
 
 # Sites de ROMs
 
-- [🌟 /r/Roms Megathread](https://r-roms.github.io)
+- [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
+- [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) - Registro obrigatório
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Guia de transferência alternativa](https://lemmy.world/post/3061617)
-- [NoPayStation](https://nopaystation.com) - Jogos de PlayStation Vita, 3 e Portable
-- [Ziperto](https://www.ziperto.com) - Jogos de Nintendo Switch e 3DS
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Guia de download alternativo](https://lemmy.world/post/3061617)
+- [NoPayStation](https://nopaystation.com) - Jogos de PlayStation 1, Vita, 3 e Portable
+- [Ziperto](https://www.ziperto.com) - Jogos da Nintendo
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
-- [/r/Roms](https://www.reddit.com/r/roms)
+- [r/Roms](https://www.reddit.com/r/roms)
 
 # Emuladores
 
@@ -23,9 +24,11 @@ title: Emulação
 
 - [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles
 - [Ryujinx](https://ryujinx.org) - Jogos de Nintendo Switch
+- [Sudachi](https://github.com/sudachi-emu/sudachi) - Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
 - [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
-- [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii and GameCube
+- [Citra PabloMK7](https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)) - Jogos de Nintendo 3DS
+- [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
 - [RCPS3](https://rpcs3.net) - Jogos de PlayStation 3
 - [xenia](https://xenia.jp) - Jogos de Xbox 360
 - [MAME](https://www.mamedev.org) - Jogos de arcade
@@ -43,13 +46,13 @@ title: Emulação
 
 # Subreddits relacionados
 
-- [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
-- [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1)
-- [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
-- [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
-- [/r/3dshacks](https://www.reddit.com/r/3dshacks)
-- [/r/vitahacks](https://www.reddit.com/r/vitahacks)
-- [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy)
-- [/r/WiiHacks](https://www.reddit.com/r/WiiHacks)
-- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew)
+- [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
+- [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
+- [r/128bitbay](https://www.reddit.com/r/128bitbay)
+- [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
+- [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
+- [r/3dshacks](https://www.reddit.com/r/3dshacks)
+- [r/vitahacks](https://www.reddit.com/r/vitahacks)
+- [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy)
+- [r/WiiHacks](https://www.reddit.com/r/WiiHacks)
+- [r/ps3homebrew](https://www.reddit.com/r/ps3homebrew)

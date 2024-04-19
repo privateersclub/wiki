@@ -50,9 +50,9 @@ Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker
   - Following [Privacy Guides' recommendations](https://www.privacyguides.org/desktop-browsers/#ublock-origin) is recommended.
 - [FastForward](https://fastforward.team) - Link shorteners bypasser
-- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open source userscript manager for Firefox
-- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers
-- [ViolentMonkey](https://violentmonkey.github.io) - Open source userscript manager for many browsers
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open-source userscript manager for Firefox.
+- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers.
+- [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript manager for many browsers.
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
     <ul>
