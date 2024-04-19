@@ -4,7 +4,7 @@ title: Home
 
 hero:
   name: privateersclub/wiki
-  tagline: Welcome to the most comprehensive game piracy wiki on the internet.
+  tagline: Welcome to the most comprehensive game piracy wiki on the Internet.
   actions:
     - text: Get Started
       link: /glossary

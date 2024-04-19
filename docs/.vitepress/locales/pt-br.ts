@@ -1,10 +1,18 @@
-// TODO:  complete this translation, change only strings!
-
 import { DefaultTheme, LocaleSpecificConfig } from "vitepress";
 
 const navbar: DefaultTheme.NavItem[] = [
-  { text: "Get started", link: "/start" },
+  { text: "Get Started", link: "/start" },
   { text: "Contribute", link: "/contribute" },
+];
+
+const sidebar: DefaultTheme.Sidebar = [
+  { text: "Glossary", link: "/glossary" },
+  { text: "Software", link: "/software" },
+  { text: "Download", link: "/download" },
+  { text: "Emulation", link: "/emulation" },
+  { text: "Linux", link: "/linux" },
+  { text: "Useful", link: "/useful" },
+  { text: "Unsafe", link: "/unsafe" },
 ];
 
 export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
@@ -13,7 +21,7 @@ export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
     sidebar: [{}],
     editLink: {
       pattern: "https://github.com/privateersclub/wiki/edit/master/docs/:path",
-      text: "Suggest changes",
+      text: "Suggest Changes",
     },
   },
 };
