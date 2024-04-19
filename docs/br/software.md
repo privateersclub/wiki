@@ -1,8 +1,8 @@
 ---
-title: Programa
+title: Programas
 ---
 
-# Gerenciadores de transferências
+# Gerenciadores de downloads
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
@@ -12,14 +12,16 @@ title: Programa
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org)
   - Use o [Elephant](https://github.com/meowcateatrat/elephant) para baixar vídeos.
-- [Internet Download Manager](https://internetdownloadmanager.com) - O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado.
-  - Use o [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) para uso infinito.
+- [Internet Download Manager](https://internetdownloadmanager.com)
+  - Use o [IAS](https://github.com/lstprjct/IDM-Activation-Script) ou o [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) para usar o IDM para sempre.
+  - O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado.
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
 
 # Clientes de torrents
 
-- [🌟 qBittorrent](https://www.qbittorrent.org) - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
+- [🌟 qBittorrent](https://www.qbittorrent.org)
+  - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
   - [Tema escuro](https://draculatheme.com/qbittorrent)
 - [🌟 Transmission](https://transmissionbt.com)
 - [Deluge](https://dev.deluge-torrent.org)
@@ -32,7 +34,7 @@ title: Programa
 # VPNs
 
 :::danger
-**Tor Browser ≠ VPN, sem proteção ao torrentear!**
+**Tor Browser não é uma VPN, sem proteção ao torrentear!**
 :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)

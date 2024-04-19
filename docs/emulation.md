@@ -4,7 +4,7 @@ title: Emulation
 
 # ROM sites
 
-- [🌟 /r/Roms Megathread](https://r-roms.github.io)
+- [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
@@ -14,7 +14,7 @@ title: Emulation
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, and Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
-- [/r/Roms](https://www.reddit.com/r/roms)
+- [r/Roms](https://www.reddit.com/r/roms)
 
 # Emulators
 
@@ -24,8 +24,10 @@ title: Emulation
 
 - [RetroArch](https://retroarch.com) - Multiple consoles games
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games
+- [Sudachi](https://github.com/sudachi-emu/sudachi) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
+- [Citra PabloMK7](https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
 - [RCPS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
@@ -44,13 +46,13 @@ title: Emulation
 
 # Related subreddits
 
-- [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
-- [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1)
-- [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
-- [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
-- [/r/3dshacks](https://www.reddit.com/r/3dshacks)
-- [/r/vitahacks](https://www.reddit.com/r/vitahacks)
-- [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy)
-- [/r/WiiHacks](https://www.reddit.com/r/WiiHacks)
-- [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew)
+- [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
+- [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
+- [r/128bitbay](https://www.reddit.com/r/128bitbay)
+- [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
+- [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
+- [r/3dshacks](https://www.reddit.com/r/3dshacks)
+- [r/vitahacks](https://www.reddit.com/r/vitahacks)
+- [r/VitaPiracy](https://www.reddit.com/r/VitaPiracy)
+- [r/WiiHacks](https://www.reddit.com/r/WiiHacks)
+- [r/ps3homebrew](https://www.reddit.com/r/ps3homebrew)

@@ -2,16 +2,18 @@
 title: Download
 ---
 
-# Direct download sites
+# Sites de downloads diretos
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the [download managers section](software.md#download-managers) for help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required
+  - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
-- [Ova Games](https://www.ovagames.com) - Files password: `www.ovagames.com`
+- [Ova Games](https://www.ovagames.com)
+  - Files password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and Scene releases

@@ -1,5 +1,5 @@
 ---
-title: Useful
+title: Útil
 ---
 
 # Componentes obrigatórios
@@ -47,9 +47,9 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
 
 # Extensões úteis de navegador
 
-- [uBlock Origin](https://ublockorigin.com) - Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado. - Bloqueador de conteúdo de anúncio.
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio.
+  - Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado.
 - [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
-- [AdNauseam](https://adnauseam.io) - Bloqueador de conteúdo de anúncio baseado no uBlock Origin que também ofusca os dados de navegação.
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de código aberto para o Firefox.
 - [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a maioria dos navegadores.
 - [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto para vários navegadores.
@@ -61,11 +61,11 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
   </li>
 </ul>
 
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias coloridas mantêm sua vida online separada para preservar a privacidade. Cookies são isolados, permitindo uso simultâneo de várias identidades ou contas.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias coloridas nesta ferramenta mantêm a sua vida online separada para preservar a privacidade. Cookies são isolados, permitindo uso simultâneo de várias identidades ou contas.
 
 # Trainers (trapaças)
 
-Não são para jogos online. Sem trapaças em jogos online!
+Não são para jogos online. Não trapaceie em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
 - [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
@@ -84,17 +84,17 @@ Sem transferências fornecidas. Os sites têm informações de lançamentos da C
 - [PreDB.de](https://predb.de/section/GAMES)
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
-- [/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [/r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Só repacks
-- [/r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks
-  - Subreddit irmão do [/r/PiratedGames](https://www.reddit.com/r/PiratedGames).
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Só repacks
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks
+  - Subreddit irmão do [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 
 # Subreddits relacionados
 
-- [/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
-- [/r/Piracy](https://www.reddit.com/r/Piracy)
-- [/r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [/r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
-- [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
