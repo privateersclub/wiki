@@ -84,17 +84,17 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [PreDB.de](https://predb.de/section/GAMES)
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
-- [/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [/r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Repacks only
-- [/r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only
-  - [/r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Repacks only
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only
+  - [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 
 # Related subreddits
 
-- [/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
-- [/r/Piracy](https://www.reddit.com/r/Piracy)
-- [/r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [/r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [/r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-- [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
-- [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
+- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)

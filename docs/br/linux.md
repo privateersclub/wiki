@@ -6,37 +6,37 @@ description: Tudo sobre pirataria no Linux.
 # Downloads
 
 ## Sites de downloads diretos
-* 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) - Linux games
-* 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful.md#translator) - Linux games
-* 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Steam files
+- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) - Jogos de Linux
+- 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux - [Tradutor](useful.md#translator)
+- 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Arquivos da Steam
 
 ## Sites de torrents
-* 🌟 [johncena141](https://1337x.to/user/johncena141/) - Linux Games
-* 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - [Translator](useful.md#translator) - Linux Games
+- 🌟 [johncena141](https://1337x.to/user/johncena141/) - Jogos de Linux
+- 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux - [Tradutor](useful.md#translator)
 
-# Software
+# Programas
 
 ## Launchers
-* 🌟 [Lutris](https://lutris.net) - Game launcher
-* 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG and Amazon Prime Games launcher
-* [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG Client
-* [Bottles](https://usebottles.com) - Windows software manager
+- 🌟 [Lutris](https://lutris.net) - Launcher de jogos
+- 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher da Epic, GOG e Amazon Prime Games
+- [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Cliente da GOG
+- [Bottles](https://usebottles.com) - Gerenciador de programas do Windows
 
-## Tools
-::: info All the tools are good whether starred or not. 
+## Ferramentas
+::: info Todas as ferramentas são boas, destacadas com uma estrela ou não. 
 :::
-* [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring FPS, temperature, and more.
-  * [GUI](https://github.com/benjamimgois/goverlay)
-* [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - GE-Proton manager
-* [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para monitoração de FPS, temperatura e mais.
+  - [GUI](https://github.com/benjamimgois/goverlay)
+- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Gerenciador do Proton-GE
+- [Winetricks](https://github.com/Winetricks/winetricks) - Correções e ajustes do Wine
 
-# Guides
-* 🌟 [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-* 🌟 [Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
-  * [Fix for DLL errors](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
-::: info It's recommended to get games from DODI over FitGirl.
+# Guias
+- 🌟 [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
+- 🌟 [Instalar repacks com o Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+  - [Correção para erros de DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
+::: info É recomendado adquirir jogos pelo DODI em vez da FitGirl.
 :::
 
-# Related Resources
-* [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
-* [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+# Subreddits Relacionados
+- [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
+- [r/linux_gaming](https://www.reddit.com/r/linux_gaming)

@@ -20,12 +20,12 @@ Downloads diretos são downloads normais por um servidor, sendo mais seguras e n
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis.
   - Senha: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Tradutor](useful.md#translator) - Downloads lentos.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Downloads lentos. - [Tradutor](useful.md#translator)
   - Senha: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Leechinghell](http://www.leechinghell.pw) - Jogos multijogador LAN
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - Registro obrigatório - HOGs
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs - Registro obrigatório
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Jogos e aplicativos de macOS e iOS
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
@@ -40,7 +40,7 @@ Downloads diretos são downloads normais por um servidor, sendo mais seguras e n
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos
   - Mude para inglês no canto superior direito.
-- [F95zone](https://f95zone.to) - Registro obrigatório - Jogos NSFW
+- [F95zone](https://f95zone.to) - Jogos NSFW - Registro obrigatório
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) - Jogos de MS-DOS
 - [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
@@ -54,8 +54,8 @@ Torrents são downloads P2P de outros usuários, sem servidores. Você precisar�
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Tradutor](useful.md#translator)
 - [Rutor](http://rutor.info/games) - [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Tradutor](useful.md#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Tradutor](useful.md#translator) - Registro obrigatório
-- [Zamunda](https://zamunda.net/bananas) - Registro obrigatório - Jogos de Linux
+- [Tapochek](https://tapochek.net/index.php?c=2) - Registro obrigatório - [Tradutor](useful.md#translator)
+- [Zamunda](https://zamunda.net/bananas) - Jogos de Linux - Registro obrigatório
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - Jogos e aplicativos de macOS
 
@@ -75,7 +75,7 @@ Repacks são jogos compactados para usuários com pouca largura de banda, mas os
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Jogos de console emulados
-- [KAPITALSIN](https://kapitalsin.com/forum) - [Tradutor](useful.md#translator) - Repacks com perdas (qualidade mais baixa e/ou arquivos removidos)
+- [KAPITALSIN](https://kapitalsin.com/forum) - Repacks com perdas (qualidade mais baixa e/ou arquivos removidos) - [Tradutor](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jogos antigos
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jogos antigos

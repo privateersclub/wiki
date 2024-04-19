@@ -16,16 +16,16 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - Files password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Registration required - GOG, Linux games and Scene releases
+- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene releases - Registration required
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
   - Password: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - [Translator](useful.md#translator) - Slow downloads.
+- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) - Slow downloads. - [Translator](useful.md#translator)
   - Password: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
-- [Wendy's Forum](https://wendysforum.net/index.php) - Registration required - HOGs
+- [Wendy's Forum](https://wendysforum.net/index.php) - HOGs - Registration required
 - [AppCake](https://www.iphonecake.com) - macOS and iOS games and apps
 - [NMac](https://nmac.to/category/games) - macOS games and apps
 - [AppKed](https://www.macbed.com/games) - macOS games and apps
@@ -54,8 +54,8 @@ Torrents are P2P downloads from other users, without servers. You'll need a VPN 
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful.md#translator)
 - [Rutor](http://rutor.info/games) - [Translator](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful.md#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - [Translator](useful.md#translator) - Registration required
-- [Zamunda](https://zamunda.net/bananas) - Registration required - Linux games
+- [Tapochek](https://tapochek.net/index.php?c=2) - Registration required - [Translator](useful.md#translator)
+- [Zamunda](https://zamunda.net/bananas) - Linux games - Registration required
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 
@@ -75,7 +75,7 @@ Repacks are compressed games for low-bandwidth users, but installing them takes 
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - [Translator](useful.md#translator) - Lossy (lower quality and/or removed files) repacks
+- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks - [Translator](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games

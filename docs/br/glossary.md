@@ -18,7 +18,7 @@ NFOs são como um leiame.txt que a Cena faz nos lançamentos. Ele te dá instru�
 :::
 
 ::: tip Por que o site X tem tantos anúncios?
-**Use um Bloqueador de anúncios**. Anúncios mantêm os sites funcionando, mas às vezes o anúncio arruina a experiência ou até mesmo pode conter malware. Você pode seguir estes passos se deseja uma experiência sem anúncios:
+**Use um bloqueador de anúncios**. Anúncios mantêm os sites funcionando, mas às vezes o anúncio arruina a experiência ou até mesmo pode conter malware. Você pode seguir estes passos se deseja uma experiência sem anúncios:
 
 ### Android
 
@@ -38,5 +38,5 @@ The necessity of using a VPN depends on the method of downloading. For direct do
 :::
 
 ::: tip Por que o meu download é tão lento?
-Use um gerenciador de downloads. Alguns sites impõem limites de transferência de arquivos para um único thread, restringindo assim as velocidades de download. Gerenciadores de download superam essa limitação aproveitando vários threads para o download, resultando em velocidades de download mais rápidas. Temos algumas recomendações [aqui](/useful).
+Use um gerenciador de downloads. Alguns sites impõem limites de transferência de arquivos para um único thread, restringindo assim as velocidades de download. Gerenciadores de download superam essa limitação aproveitando vários threads para o download, resultando em velocidades de download mais rápidas. Temos algumas recomendações [aqui](/br/useful).
 :::

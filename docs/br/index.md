@@ -4,10 +4,10 @@ title: Início
 
 hero:
   name: privateersclub/wiki
-  tagline: Bem-vindo(a) ao wiki de pirataria de jogos mais abrangente da internet.
+  tagline: Bem-vindo(a) ao wiki de pirataria de jogos mais abrangente da Internet.
   actions:
     - text: Começar
-      link: /br/wiki/glossary
+      link: /br/glossary
     - text: Contribuir
       link: /contribute
 

@@ -18,7 +18,7 @@ NFOs are like a readme.txt that Scene makes on release. It gives you instruction
 :::
 
 ::: tip Why does X site have so many ads?
-**Use an Adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. You can take these steps if you want an ad-free experience:
+**Use an adblocker**. Ads keep the websites running, but sometimes the ad ruin the experience or even link malware. You can take these steps if you want an ad-free experience:
 
 ### Android
 
