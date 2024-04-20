@@ -10,6 +10,7 @@ Direct downloads are normal downloads from a server, being safer and not requiri
   - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
+- [🌟 GOG Games](https://gog-games.to) - GOG Games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com)

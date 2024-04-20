@@ -34,7 +34,7 @@ Install all before downloading games (legitimate or pirated) to avoid crashes fr
 # Useful software
 
 - [7-Zip](https://7-zip.org) - File archiver
-- [Bitwarden](https://bitwarden.com) - Open source password manager
+- [Bitwarden](https://bitwarden.com) - Open-source password manager
 - [Tor Browser](https://www.torproject.org) - The most private browser.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser with auto-screenshot, playtime tracking, and real-time notification
 - [Parsec](https://parsec.app) - Low-latency game streaming software
@@ -48,11 +48,12 @@ Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 # Useful browser extensions
 
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker
-  - Following [Privacy Guides' recommendations](https://www.privacyguides.org/desktop-browsers/#ublock-origin) is recommended.
-- [FastForward](https://fastforward.team) - Link shorteners bypasser
-- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open-source userscript manager for Firefox.
-- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers.
-- [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript manager for many browsers.
+  - Following [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin) is recommended.
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
+- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) - Link shorterners bypasser userscript - Needs one of the 3 extensions below.
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open-source userscript manager for Firefox
+- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers
+- [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript manager for many browsers
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
     <ul>
