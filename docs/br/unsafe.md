@@ -4,7 +4,7 @@ title: Não Seguro
 
 # Sites e uploaders não seguros
 
-Você pode só usar o filtro de bloqueador de anúncios [FMHY Unsafe Sites/Software](unsafe_uBlock.txt) para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://lemmy.world/post/3098030) para adicionar o filtro customizado ao uBlock Origin.
+Você pode só usar o filtro de bloqueador de anúncios FMHY Unsafe Sites/Software no uBlacklist (mais eficiente) ou uBlock Origin para bloquear a maioria dos sites mencionados aqui e mais. Siga [este guia](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) para adicionar o filtro customizado ao uBlacklist (ponha [este link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt) em "URL") e [este guia](https://github.com/yokoffing/filterlists?tab=readme-ov-file#how-to-add-custom-filters) para o adicionar ao uBlock Origin (use [isto](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) em "Importar…").
 
 :::danger
 **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome de um grupo da Cena na URL são falsos.**

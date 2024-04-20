@@ -33,12 +33,12 @@ Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas
 
 # Programas úteis
 
-- [7-Zip](https://7-zip.org) - Arquivador de arquivos.
-- [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto.
+- [7-Zip](https://7-zip.org) - Arquivador de arquivos
+- [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
 - [Tor Browser](https://www.torproject.org) - O navegador mais privado.
-- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo real.
-- [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa.
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e gerador de informações de hash.
+- [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo real
+- [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e gerador de informações de hash
 
 :::tip
 Ative produtos da Microsoft (Office e Windows) com o **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
@@ -47,12 +47,13 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
 
 # Extensões úteis de navegador
 
-- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio.
-  - Seguir as [recomendações do Privacy Guides](https://www.privacyguides.org/desktop-browsers/#ublock-origin) é recomendado.
-- [FastForward](https://fastforward.team) - Contornador de encurtadores de links.
-- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de código aberto para o Firefox.
-- [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a maioria dos navegadores.
-- [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto para vários navegadores.
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio
+  - Seguir as [recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin) é recomendado.
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrador de pesquisas
+- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) - Userscript contornador de encurtadores de links - Precisa de uma das 3 extensẽs abaixo.
+- [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de código aberto para o Firefox
+- [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a maioria dos navegadores
+- [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto para vários navegadores
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
     <ul>
@@ -76,7 +77,7 @@ Não são para jogos online. Não trapaceie em jogos online!
 
 # Rastreadores de lançamentos
 
-Sem transferências fornecidas. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo foi crackeado!
+Sem downloads fornecidos. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)

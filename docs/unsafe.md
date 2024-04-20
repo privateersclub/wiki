@@ -4,7 +4,7 @@ title: Unsafe
 
 # Untrusted sites and uploaders
 
-You can just use the [FMHY Unsafe Sites/Software](unsafe_uBlock.txt) adblock filter to block most of the sites mentioned here and more. Follow [this guide](https://lemmy.world/post/8364380) to add the custom filter to uBlock Origin.
+You can just use the FMHY Unsafe Sites/Software adblock filter on uBlacklist (more efficient) and uBlock Origin to block most of the sites mentioned here and more. Follow [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) to add the custom filter to uBlacklist (put [this link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt) under "URL") and [this guide](https://github.com/yokoffing/filterlists?tab=readme-ov-file#how-to-add-custom-filters) to add it to uBlock Origin (use [this](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) under "Import…").
 
 :::danger
 **SCENE GROUPS HAVE NO SITES! Sites with a Scene group name in the URL are fake.**

@@ -10,6 +10,7 @@ Downloads diretos são downloads normais por um servidor, sendo mais seguras e n
   - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
   - Senha: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
+- [🌟 GOG Games](https://gog-games.to) - Jogos da GOG
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com)
