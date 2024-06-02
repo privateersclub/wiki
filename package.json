@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --log-level=warn --write .",
+    "build": "pnpm docs:build && pnpm lunaria:build",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs && pnpm lunaria:build",
+    "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "docs:preview": "vitepress preview docs",
     "lunaria:build": "lunaria build",
