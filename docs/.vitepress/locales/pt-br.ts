@@ -18,7 +18,7 @@ const sidebar: DefaultTheme.Sidebar = [
 export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
   ...navbar,
   themeConfig: {
-    sidebar: [{}],
+    sidebar: sidebar,
     editLink: {
       pattern: "https://github.com/privateersclub/wiki/edit/master/docs/:path",
       text: "Sugerir Mudanças",

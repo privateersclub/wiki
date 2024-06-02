@@ -6,8 +6,8 @@
   },
   "files": [
     {
-      "location": "**/*.md",
-      "pattern": "@lang/@path",
+      "location": "docs/**/*.md",
+      "pattern": "docs/@lang/@path",
       "type": "universal"
     }
   ],
@@ -18,8 +18,8 @@
   "locales": [
     {
       "label": "Português",
-      "lang": "pt-br"
+      "lang": "br"
     }
   ],
-  "outDir": ".vitepress/dist/_translations"
+  "outDir": "docs/.vitepress/dist/_translations"
 }
