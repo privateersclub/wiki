@@ -18,21 +18,14 @@
     "@types/node": "^20.13.0",
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.0",
-    "vitepress": "1.2.2"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search"
-      ]
-    }
+    "vitepress": "npm:@taskylizard/vitepress@1.1.1"
   },
   "dependencies": {
     "@lunariajs/core": "^0.1.0",
-    "@resvg/resvg-js": "^2.6.2",
+    "@resvg/resvg-js": "^2.6.0",
     "nprogress": "^0.2.0",
-    "unocss": "^0.60.4",
-    "vue": "^3.4.27",
+    "unocss": "^0.58.5",
+    "vue": "^3.4.18",
     "x-satori": "^0.1.5"
   }
 }

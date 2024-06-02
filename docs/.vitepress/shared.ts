@@ -18,11 +18,11 @@ export const sharedConfig = defineConfig({
     ["meta", { name: "og:locale", content: "en" }],
   ],
   vite: { plugins: [UnoCSS()] },
-  transformHead: async (context) =>
-    generateMeta(context, "https://megathread.pages.dev"),
-  buildEnd(siteConfig) {
-    generateImages(siteConfig);
-  },
+  // transformHead: async (context) =>
+  //   generateMeta(context, "https://megathread.pages.dev"),
+  // buildEnd(siteConfig) {
+  //   generateImages(siteConfig);
+  // },
   themeConfig: {
     search: {
       provider: "local",
