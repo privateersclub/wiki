@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --log-level=warn --write .",
-    "build": "pnpm run \"/.*:build$/\"",
+    "build": "pnpm run docs:build && pnpm run i18n:build",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
