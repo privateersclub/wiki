@@ -2,7 +2,8 @@
 
 ### Componenti Necessari:
 
-Dovrai installare i seguenti software prima di poter eseguire qualsiasi gioco (sia ottenuto legittimamente che piratato), ciò evita crash causati da software mancanti:
+Dovrai installare i seguenti software prima di poter eseguire qualsiasi gioco (sia ottenuto
+legittimamente che piratato), ciò evita crash causati da software mancanti:
 
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -19,7 +20,12 @@ Dovrai installare i seguenti software prima di poter eseguire qualsiasi gioco (s
 
 ### Siti Torrent:
 
-Probabilmente sarà necessaria una VPN per scaricare torrent, onde evitare segnalazioni di Copyright da parte del proprio ISP - naturalmente la VPN non è necessaria se la nazione in cui ti trovi non persegue legalmente la pirateria. Ulteriori informazioni si possono trovare nella sezione VPN di questo thread. I torrent si basano sul download P2P (Peer-to-Peer) - i download sono presi direttamente da altri utenti che hanno già scaricato il file, senza effettuare interazioni con un server.
+Probabilmente sarà necessaria una VPN per scaricare torrent, onde evitare segnalazioni di Copyright
+da parte del proprio ISP - naturalmente la VPN non è necessaria se la nazione in cui ti trovi non
+persegue legalmente la pirateria. Ulteriori informazioni si possono trovare nella sezione VPN di
+questo thread. I torrent si basano sul download P2P (Peer-to-Peer) - i download sono presi
+direttamente da altri utenti che hanno già scaricato il file, senza effettuare interazioni con un
+server.
 
 - [1337X](https://1337x.to/) - Non usare torrent caricati da IGG games.
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
@@ -32,16 +38,23 @@ Probabilmente sarà necessaria una VPN per scaricare torrent, onde evitare segna
 
 ### Siti Direct Download:
 
-I Direct Download (Download Diretti) sono dei normali download ottenuti da un qualsiasi server tramite un browser web. Questo tipo di download è molto più sicuro e non necessita di una VPN, tuttavia alcuni siti di filehosting sono bloccati (per esempio ZippyShare in alcune nazioni UE), per cui anche in questo caso serve una VPN. È consigliato utilizzare uno dei Download Manager presenti nella sezione apposita di questo thread. Nota: i "Scene Games" sono giochi crackati da una particolare "Scene", cioè un gruppo di cracker anonimi.
+I Direct Download (Download Diretti) sono dei normali download ottenuti da un qualsiasi server
+tramite un browser web. Questo tipo di download è molto più sicuro e non necessita di una VPN,
+tuttavia alcuni siti di filehosting sono bloccati (per esempio ZippyShare in alcune nazioni UE), per
+cui anche in questo caso serve una VPN. È consigliato utilizzare uno dei Download Manager presenti
+nella sezione apposita di questo thread. Nota: i "Scene Games" sono giochi crackati da una
+particolare "Scene", cioè un gruppo di cracker anonimi.
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
 - [CrackHub](https://crackhub.site) - Scene Games e repack di FitGirl.
 - [CrackHub [Scene Games]](https://scene.crackhub.site) - Scene Games esclusivi a CrackHub.
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
-- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - Usa Google Traduttore.
+- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) -
+  Usa Google Traduttore.
 - [G4U](https://g4u.to/)
-- [Game-2U](https://game-2u.com) - Giochi PS4 (usa l'estensione [FastForward](https://fastforward.team/install) per bypassare shortlink con ad)
+- [Game-2U](https://game-2u.com) - Giochi PS4 (usa l'estensione
+  [FastForward](https://fastforward.team/install) per bypassare shortlink con ad)
 - [GLOAD](https://gload.cc/)
 - [Gamesdrive](https://gamesdrive.net)
 - [GOG Games](https://gog-games.com/)
@@ -70,7 +83,9 @@ Nota: Non fare uso di trucchi in multigiocatore!
 
 ### Repack:
 
-I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda internet lenta/limitata. Una volta scaricati, dovrai decomprimerli sul tuo computer, ciò richiederà molto tempo per via della compressione.
+I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda internet
+lenta/limitata. Una volta scaricati, dovrai decomprimerli sul tuo computer, ciò richiederà molto
+tempo per via della compressione.
 
 - [-tARA Repacks](https://t4x4.github.io/)
 - [Chovka](https://repack.info/)
@@ -94,10 +109,12 @@ I repack sono giochi pesantemente compressi, fatti apposta per utenti con banda 
 
 ### Annunci di Rilascio:
 
-Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni su rilasci P2P/Scene. Ti serve sapere se un gioco è stato crackato? Qui sei nel posto giusto!
+Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni su rilasci
+P2P/Scene. Ti serve sapere se un gioco è stato crackato? Qui sei nel posto giusto!
 
 - [CrackWatch](https://reddit.com/r/CrackWatch)
-- [CrackForecast](https://reddit.com/r/CrackForecast) - Subreddit meme che risponde alla classica domanda "Quando verrà crackato X?".
+- [CrackForecast](https://reddit.com/r/CrackForecast) - Subreddit meme che risponde alla classica
+  domanda "Quando verrà crackato X?".
 - [m2v.ru](http://m2v.ru/)
 - [predb.de](https://predb.de/)
 - [predb.me](https://predb.me/?cats=games-pc)
@@ -105,7 +122,8 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Solo repack.
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Solo repack. Subreddit sorella di [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Solo repack. Subreddit sorella di
+  [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
 - [srrDB](https://www.srrdb.com/)
 - [xREL](https://xrel.to)
 
@@ -113,7 +131,9 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
-- [Emu Paradise](https://www.emuparadise.me/) - [Usa questo script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) per scaricare.
+- [Emu Paradise](https://www.emuparadise.me/) -
+  [Usa questo script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/)
+  per scaricare.
 - [NXBrew](https://nxbrew.com)
 - [The Eye](https://the-eye.eu/)
 - [TheRomDepot](https://theromdepot.com)
@@ -154,7 +174,8 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 
 - [BiglyBT](https://www.biglybt.com/download/)
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - per dispositivi Android.
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - per dispositivi
+  Android.
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Qbittorrent](https://www.qbittorrent.org/download.php)
 - [Transmission](https://transmissionbt.com/download/)
@@ -173,16 +194,22 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 
 ### Strumenti:
 
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Imposta automaticamente un gioco con CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Crea automaticamente fix per Steamworks.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Sblocca DLC piratati su giochi Steam ottenuti legittimamente.
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Imposta
+  automaticamente un gioco con CreamAPI.
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Crea
+  automaticamente fix per Steamworks.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Sblocca DLC piratati su giochi
+  Steam ottenuti legittimamente.
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
-- [Lucky Patcher](https://www.luckypatchers.com/) - Strumento di patching per App Android (funziona al meglio con root)
+- [Lucky Patcher](https://www.luckypatchers.com/) - Strumento di patching per App Android (funziona
+  al meglio con root)
 - [LumaPlay (per UPlay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
-- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Ampia collezione di strumenti per Steam
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Installa aggiornamenti sulla versione piratata di The Sims 4
+- [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Ampia collezione di
+  strumenti per Steam
+- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Installa aggiornamenti
+  sulla versione piratata di The Sims 4
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
 ### Software Utili:
@@ -191,11 +218,13 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/)
 - [Bitwarden](https://bitwarden.com/) - Manager di password open source.
 - [Parsec](https://parsec.app/) - Permette la modalità multigiocatore locale da remoto.
-- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verifica checksum e genera informazioni sull'hash.
+- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verifica checksum e genera informazioni
+  sull'hash.
 - [Tor Browser](https://www.torproject.org/download/)
 - [WinRAR](https://www.rarlab.com/)
 
-**Per i prodotti Microsoft (Windows/Office) puoi utilizzare [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) per attivarli.**
+**Per i prodotti Microsoft (Windows/Office) puoi utilizzare
+[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) per attivarli.**
 
 **Per i prodotti Adobe, visita [monkrus.ws](http://monkrus.ws).**
 
@@ -228,14 +257,16 @@ Attenzione, nessuno di questi siti offre download, provvede solo ad informazioni
 
 - AGFY - Link falsi (scam)
 - Apunkagames
-- IGG Games / PC Games Torrents - Hanno doxxato mercs213 (proprietario di GoodOldDownloads), inseriscono DRM nei giochi indie e sfruttano gli utenti per guadagno monetario tramite ad.
+- IGG Games / PC Games Torrents - Hanno doxxato mercs213 (proprietario di GoodOldDownloads),
+  inseriscono DRM nei giochi indie e sfruttano gli utenti per guadagno monetario tramite ad.
 - BBRepacks - Repack di BlackBox fasulli, contengono malware.
 - LoadGames (clone di IGG games)
 - OceanOfGames - Rischio malware.
 - nosTEAM
 - xGIROx - Miner di bitcoin nei repack.
 - Seyter - Miner di bitcoin nei repack.
-- SteamUnlocked / GOG Unlocked - Download lenti, redirect a link pericolosi e upload rubati da IGG games.
+- SteamUnlocked / GOG Unlocked - Download lenti, redirect a link pericolosi e upload rubati da IGG
+  games.
 - cracked-games - Rischio malware.
 - crackingpatching - Rischio malware.
 - RepackGames - Rubano rilasci e i giochi sono etichettati male.

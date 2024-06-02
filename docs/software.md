@@ -13,7 +13,8 @@ title: Software
 - [Free Download Manager](https://www.freedownloadmanager.org)
   - Use [Elephant](https://github.com/meowcateatrat/elephant) to download videos.
 - [Internet Download Manager](https://internetdownloadmanager.com)
-  - Use [IAS](https://github.com/lstprjct/IDM-Activation-Script) or [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use IDM forever.
+  - Use [IAS](https://github.com/lstprjct/IDM-Activation-Script) or
+    [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) to use IDM forever.
   - [IDMHelper](https://github.com/unamer/IDMHelper) is recommended.
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
@@ -33,9 +34,7 @@ title: Software
 
 # VPNs
 
-:::danger
-**Tor Browser isn't a VPN, no protection for torrenting!**
-:::
+:::danger **Tor Browser isn't a VPN, no protection for torrenting!** :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/vpn)
