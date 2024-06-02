@@ -12,6 +12,10 @@ jobs:
         node-version: [20]
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Necessary for Lunaria to work properly
+          # Makes the action clone the entire git history
+          fetch-depth: 0
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
