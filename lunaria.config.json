@@ -2,7 +2,6 @@
   "$schema": "./node_modules/@lunariajs/core/config.schema.json",
   "repository": {
     "name": "privateersclub/wiki",
-    "rootDir": "docs",
     "branch": "master",
     "hosting": "github"
   },
