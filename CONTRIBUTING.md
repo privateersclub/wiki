@@ -17,14 +17,14 @@ The root directory is `docs/`.
 
 ### Content
 
-All content resides in the `docs/wiki/` folder of the repository. Edit them as you would with normal
+All content resides in the `docs/` folder of the repository. Edit them as you would with normal
 markdown files.
 
 ### Translations
 
 :::warning This is still a work in progress. :::
 
-See https://vitepress.dev/guide/i18n.
+See https://vitepress.dev/guide/i18n and [our tracker](https://megathread.pages.dev/_translations).
 
 There are two things to translate: content and strings used in Vitepress (Sidebar, nav, etc).
 
