@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --log-level=warn --write .",
-    "build": "pnpm docs:build && pnpm lunaria:build",
+    "build": "pnpm docs:build && pnpm i18n:build",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "docs:preview": "vitepress preview docs",
-    "lunaria:build": "lunaria build",
-    "lunaria:preview": "lunaria preview",
+    "i18n:build": "lunaria build",
+    "i18n:preview": "lunaria preview",
     "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "license": "Unlicense",

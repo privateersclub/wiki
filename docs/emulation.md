@@ -10,7 +10,8 @@ title: Emulation
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) - Registration required
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) - [Download workaround guide](https://lemmy.world/post/3061617)
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) -
+  [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, and Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
@@ -18,16 +19,17 @@ title: Emulation
 
 # Emulators
 
-:::tip
-:exclamation: See the **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** for more.
-:::
+:::tip :exclamation: See the
+**[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** for
+more. :::
 
 - [RetroArch](https://retroarch.com) - Multiple consoles games
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games
 - [Sudachi](https://github.com/sudachi-emu/sudachi) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Citra PabloMK7](https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)) - Nintendo 3DS games
+- [Citra PabloMK7](<https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)>) - Nintendo
+  3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
 - [RCPS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games

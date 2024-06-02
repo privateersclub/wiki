@@ -7,13 +7,15 @@ title: Programas
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
   - [Guia de aprimoramento](https://www.reddit.com/12axfj3)
-  - Evite mais CAPTCHAs com o [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver).
+  - Evite mais CAPTCHAs com o
+    [Offline CAPTCHA Solver](https://github.com/cracker0dks/CaptchaSolver).
   - [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [Motrix](https://motrix.app)
 - [Free Download Manager](https://www.freedownloadmanager.org)
   - Use o [Elephant](https://github.com/meowcateatrat/elephant) para baixar vídeos.
 - [Internet Download Manager](https://internetdownloadmanager.com)
-  - Use o [IAS](https://github.com/lstprjct/IDM-Activation-Script) ou o [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) para usar o IDM para sempre.
+  - Use o [IAS](https://github.com/lstprjct/IDM-Activation-Script) ou o
+    [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset) para usar o IDM para sempre.
   - O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado.
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
@@ -33,9 +35,7 @@ title: Programas
 
 # VPNs
 
-:::danger
-**Tor Browser não é uma VPN, sem proteção ao torrentear!**
-:::
+:::danger **Tor Browser não é uma VPN, sem proteção ao torrentear!** :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Recomendações de VPNs do Privacy Guides](https://www.privacyguides.org/vpn)
