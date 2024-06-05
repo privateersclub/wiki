@@ -25,10 +25,10 @@ more. :::
 
 - [RetroArch](https://retroarch.com) - Multiple consoles games
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch games
-- [Sudachi](https://github.com/sudachi-emu/sudachi) - Nintendo Switch games
+- [Torzu](https://github.com/litucks/torzu) / [Android](https://github.com/sudachi-emu/sudachi) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Citra PabloMK7](<https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)>) - Nintendo
+- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo
   3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
 - [RCPS3](https://rpcs3.net) - PlayStation 3 games
