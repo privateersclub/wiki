@@ -58,9 +58,11 @@ faltando no seu computador.
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
   gerador de informações de hash
 
-:::tip Ative produtos da Microsoft (Office e Windows) com o
+:::tip
+Ative produtos da Microsoft (Office e Windows) com o
 **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe. :::
+Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
+:::
 
 # Extensões úteis de navegador
 

@@ -33,6 +33,13 @@
       "statusByFile.heading": "Translation status by file"
     }
   },
-  "ignoreKeywords": ["lunaria-ignore", "typo", "en-only", "broken link", "i18nReady", "i18nIgnore"],
+  "ignoreKeywords": [
+    "lunaria-ignore",
+    "typo",
+    "en-only",
+    "broken link",
+    "i18nReady",
+    "i18nIgnore"
+  ],
   "renderer": "./lunaria/renderer.config.ts"
 }

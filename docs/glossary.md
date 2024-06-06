@@ -8,16 +8,21 @@ referential material to gloss over quickly.
 
 ## Terms
 
-::: tip What is the Scene? And P2P? The Scene is an underground community of people who crack and
+::: tip What is the Scene? And P2P?
+The Scene is an underground community of people who crack and
 share copyrighted material. They have strict rules that all scene members have to abide. P2P are
 independent crackers who don't follow the Scene rules.
 
-The Scene rules: https://scenerules.org :::
+The Scene rules: https://scenerules.org
+:::
 
-::: tip What are NFOs? NFOs are like a readme.txt that Scene makes on release. It gives you
-instructions, a general description of the game and some additional information. :::
+::: tip What are NFOs?
+NFOs are like a readme.txt that Scene makes on release. It gives you
+instructions, a general description of the game and some additional information.
+:::
 
-::: tip Why does X site have so many ads? **Use an adblocker**. Ads keep the websites running, but
+::: tip Why does X site have so many ads?
+**Use an adblocker**. Ads keep the websites running, but
 sometimes the ad ruin the experience or even link malware. You can take these steps if you want an
 ad-free experience:
 
@@ -40,15 +45,20 @@ as uBlock Origin. You can also use [FastForward](https://fastforward.team) or
 ### iOS
 
 [**NextDNS**](https://nextdns.io) should cover everything for system-wide ads & trackers. You can
-also try [**AhaDNS**](https://ahadns.com). :::
+also try [**AhaDNS**](https://ahadns.com).
+:::
 
-::: tip Do I need to use VPN while downloading? The necessity of using a VPN depends on the method
+::: tip Do I need to use VPN while downloading?
+The necessity of using a VPN depends on the method
 of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in
 peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced
 security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the
-consequences are lenient, you might opt to forgo using a VPN altogether. :::
+consequences are lenient, you might opt to forgo using a VPN altogether.
+:::
 
-::: tip Why is my download so slow? Use a download manager. Some websites impose file transfer
+::: tip Why is my download so slow?
+Use a download manager. Some websites impose file transfer
 limits for a single thread, thereby restricting download speeds. Download managers overcome this
 limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We
-have listed some recommended ones [here](/useful). :::
+have listed some recommended ones [here](/useful).
+:::

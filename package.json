@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --log-level=warn --write .",
+    "format": "prettier --log-level=warn --write docs/",
     "build": "pnpm run docs:build && pnpm run i18n:build",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -16,17 +16,17 @@
   },
   "license": "Unlicense",
   "devDependencies": {
-    "@types/node": "^20.13.0",
+    "@types/node": "^20.14.2",
     "@types/nprogress": "^0.2.3",
-    "prettier": "^3.3.0",
+    "prettier": "^3.3.1",
     "vitepress": "npm:@taskylizard/vitepress@1.1.1"
   },
   "dependencies": {
     "@lunariajs/core": "^0.1.0",
-    "@resvg/resvg-js": "^2.6.0",
+    "@resvg/resvg-js": "^2.6.2",
     "nprogress": "^0.2.0",
-    "unocss": "^0.58.5",
-    "vue": "^3.4.18",
+    "unocss": "^0.60.4",
+    "vue": "^3.4.27",
     "x-satori": "^0.1.5"
   }
 }

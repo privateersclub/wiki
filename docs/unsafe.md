@@ -4,6 +4,7 @@ title: Unsafe
 
 # Untrusted sites and uploaders
 
+::: tip
 You can just use the FMHY Unsafe Sites/Software adblock filter on uBlacklist (more efficient) and
 uBlock Origin to block most of the sites mentioned here and more. Follow
 [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) to add the
@@ -14,8 +15,11 @@ under "URL") and
 to add it to uBlock Origin (use
 [this](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) under
 "Import…").
+:::
 
-:::danger **SCENE GROUPS HAVE NO SITES! Sites with a Scene group name in the URL are fake.** :::
+:::danger
+**SCENE GROUPS HAVE NO SITES! Sites with a Scene group name in the URL are fake.**
+:::
 
 - AGFY - Scam links.
 - AimHaven - Malicious redirect ads.
