@@ -7,8 +7,7 @@ description: Tudo sobre pirataria no Linux.
 
 ## Sites de downloads diretos
 
-- 🌟
-  [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
+- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
   Jogos de Linux
 - 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux - [Tradutor](useful.md#translator)
 - 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Arquivos da Steam
@@ -31,7 +30,9 @@ description: Tudo sobre pirataria no Linux.
 
 ## Ferramentas
 
-::: info Todas as ferramentas são boas, destacadas com uma estrela ou não. :::
+::: info
+Todas as ferramentas são boas, destacadas com uma estrela ou não.
+:::
 
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para monitoração de FPS,
   temperatura e mais.
@@ -45,7 +46,10 @@ description: Tudo sobre pirataria no Linux.
 - 🌟
   [Instalar repacks com o Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   - [Correção para erros de DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
-    ::: info É recomendado adquirir jogos pelo DODI em vez da FitGirl. :::
+
+::: info
+É recomendado adquirir jogos pelo DODI em vez da FitGirl.
+:::
 
 # Subreddits Relacionados
 

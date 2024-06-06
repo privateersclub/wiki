@@ -35,7 +35,9 @@ title: Programas
 
 # VPNs
 
-:::danger **Tor Browser não é uma VPN, sem proteção ao torrentear!** :::
+::: danger
+**Tor Browser não é uma VPN, sem proteção ao torrentear!**
+:::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Recomendações de VPNs do Privacy Guides](https://www.privacyguides.org/vpn)

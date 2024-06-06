@@ -19,9 +19,11 @@ title: Emulação
 
 # Emuladores
 
-:::tip :exclamation: Veja a
+:::tip
+:exclamation: Veja a
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** para
-mais. :::
+mais.
+:::
 
 - [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles
 - [Ryujinx](https://ryujinx.org) - Jogos de Nintendo Switch

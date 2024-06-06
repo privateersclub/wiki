@@ -15,7 +15,8 @@ para o adicionar ao uBlock Origin (use
 [isto](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) em
 "Importar…").
 
-:::danger **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome de um grupo da Cena na URL são falsos.**
+:::danger
+**GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome de um grupo da Cena na URL são falsos.**
 :::
 
 - AGFY - Links de golpes.

@@ -51,9 +51,11 @@ on your computer.
 - [Parsec](https://parsec.app) - Low-latency game streaming software
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier and hash info generator
 
-:::tip Activate Microsoft products (Office and Windows) with
+::: tip
+Activate Microsoft products (Office and Windows) with
 **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products. :::
+Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
+:::
 
 # Useful browser extensions
 
