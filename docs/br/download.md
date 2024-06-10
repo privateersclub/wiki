@@ -2,7 +2,7 @@
 title: Downloads
 ---
 
-# Sites de downloads diretos
+## Sites de downloads diretos
 
 Downloads diretos são downloads normais por um servidor, sendo mais seguras e não exigindo uma VPN.
 Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em
@@ -21,8 +21,8 @@ gerenciamento de seus downloads.
   - Senha dos arquivos: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Registro obrigatório - Jogos da GOG e Linux e
-  lançamentos da Cena
+- [Torrminatorr](https://forum.torrminatorr.com) - Jogos da GOG e Linux e
+  lançamentos da Cena - Registro obrigatório
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis.
   - Senha: `404`
@@ -37,12 +37,13 @@ gerenciamento de seus downloads.
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
 - [Cmacked](https://cmacked.com) - Jogos e aplicativos de macOS
-- [ApkVision](https://apkvision.org) - Jogos e aplicativos de Android
+- [ApkVision](https://apkvision.org) - Jogos de Android
 - [Mobilism](https://forum.mobilism.me) - Jogos e aplicativos de Android
-- [PDALIFE](https://pdalife.com) - Jogos e aplicativos de Android
-- [Androeed](https://androeed.store) - Jogos e aplicativos de Android
-- [APKHome](https://apkhome.io) - Jogos e aplicativos de Android
-- [MODYOLO](https://modyolo.com) - Jogos e aplicativos modificados de Android
+- [PDALIFE](https://pdalife.com) - Jogos de Android
+- [Androeed](https://androeed.store) - Jogos de Android
+- [APKHome](https://apkhome.io) - Jogos de Android
+- [LITEAPKS](https://liteapks.com) - Jogos e aplicativos modificados de Android
+- [RB Mods](https://www.rockmods.net) - Aplicativos de Android
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) - Jogos de PCVR
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos
@@ -50,10 +51,11 @@ gerenciamento de seus downloads.
 - [F95zone](https://f95zone.to) - Jogos NSFW - Registro obrigatório
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
-- [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
+- [Prism Launcher](https://prismlauncher.org) - Minecraft
+  - Use o [contorno offline](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) para jogar sem uma conta legítima.
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
-# Sites de torrents
+## Sites de torrents
 
 Torrents são downloads P2P de outros usuários, sem servidores. Você precisará de uma VPN para
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
@@ -76,15 +78,15 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - Jogos e aplicativos de macOS
 
-# Repacks
+## Repacks
 
 Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais
 devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Downloads lentos para usuários grátis, use os mirrors do
-  GLOAD ou do Ova Games em vez disso.
+- [🌟 ElAmigos](https://elamigos.site) - Downloads lentos para usuários gratuitos; use os espelhos do
+  GameDrive, GLOAD ou do Ova Games em vez disso.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Também achado no
   [Repack.info](https://repack.info).

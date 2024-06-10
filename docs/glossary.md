@@ -13,7 +13,7 @@ The Scene is an underground community of people who crack and
 share copyrighted material. They have strict rules that all scene members have to abide. P2P are
 independent crackers who don't follow the Scene rules.
 
-The Scene rules: https://scenerules.org
+The Scene rules: <https://scenerules.org>
 :::
 
 ::: tip What are NFOs?
@@ -39,7 +39,7 @@ you need guidance.
 
 Install [**uBlock Origin**](https://ublockorigin.com) in your browser and you're done! If you want a
 system-wide solution, you _can_ use [**NextDNS**](https://nextdns.io), but it won't be as effective
-as uBlock Origin. You can also use [FastForward](https://fastforward.team) or
+as uBlock Origin. You can also use [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) or
 [Bypass.city](https://bypass.city) to _bypass_ redirects.
 
 ### iOS

@@ -2,7 +2,7 @@
 title: Emulação
 ---
 
-# Sites de ROMs
+## Sites de ROMs
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
@@ -17,7 +17,7 @@ title: Emulação
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
 - [r/Roms](https://www.reddit.com/r/roms)
 
-# Emuladores
+## Emuladores
 
 :::tip
 :exclamation: Veja a
@@ -27,13 +27,13 @@ mais.
 
 - [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles
 - [Ryujinx](https://ryujinx.org) - Jogos de Nintendo Switch
-- [Sudachi](https://github.com/sudachi-emu/sudachi) - Jogos de Nintendo Switch
+- [Torzu](https://github.com/litucks/torzu) / [Android](https://github.com/sudachi-emu/sudachi) - Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
 - [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
-- [Citra PabloMK7](<https://emulation.gametechwiki.com/index.php/Citra_(PabloMK7_fork)>) - Jogos de
+- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de
   Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
-- [RCPS3](https://rpcs3.net) - Jogos de PlayStation 3
+- [RPCS3](https://rpcs3.net) - Jogos de PlayStation 3
 - [xenia](https://xenia.jp) - Jogos de Xbox 360
 - [MAME](https://www.mamedev.org) - Jogos de arcade
 - [PPSSPP](https://www.ppsspp.org) - Jogos de PlayStation Portable
@@ -48,7 +48,7 @@ mais.
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Jogos de Super Nintendo Entertainment System
 - [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment System
 
-# Subreddits relacionados
+## Subreddits relacionados
 
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)

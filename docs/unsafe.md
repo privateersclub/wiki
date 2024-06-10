@@ -2,7 +2,7 @@
 title: Unsafe
 ---
 
-# Untrusted sites and uploaders
+## Untrusted sites and uploaders
 
 ::: tip
 You can just use the FMHY Unsafe Sites/Software adblock filter on uBlacklist (more efficient) and
@@ -52,7 +52,7 @@ to add it to uBlock Origin (use
 - WIFI4Games - Caught with malware.
 - xGIROx - Caught with crypto miners.
 
-# Unsafe software
+## Unsafe software
 
 - μTorrent - Has ads and trackers and
   [is unsafe](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).

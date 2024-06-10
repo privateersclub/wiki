@@ -2,10 +2,10 @@
 
 You can contribute to the project in various ways:
 
-- Submissions (Software, sites, useful content)
+- Submissions (software, sites, useful content)
 - Translations
 
-### Generation
+## Generation
 
 For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js
 environment installed. Refer to its documentation for making changes to Vitepress itself.
@@ -15,18 +15,18 @@ improving internals.
 
 The root directory is `docs/`.
 
-### Content
+## Content
 
 All content resides in the `docs/` folder of the repository. Edit them as you would with normal
-markdown files.
+Markdown files.
 
-### Translations
+## Translations
 
 :::warning This is still a work in progress. :::
 
-See https://vitepress.dev/guide/i18n and [our tracker](https://megathread.pages.dev/_translations).
+See <https://vitepress.dev/guide/i18n> and [our tracker](https://megathread.pages.dev/_translations).
 
-There are two things to translate: content and strings used in Vitepress (Sidebar, nav, etc).
+There are two things to translate: content and strings used in Vitepress (sidebar, nav, etc).
 
 Start by creating a folder in `docs/<locale>` and write your content in the exact same format.
 

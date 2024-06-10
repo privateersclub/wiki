@@ -2,7 +2,7 @@
 title: Useful
 ---
 
-# Required components
+## Required components
 
 Install all before downloading games (legitimate or pirated) to avoid crashes from missing software
 on your computer.
@@ -11,7 +11,7 @@ on your computer.
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-# Tools
+## Tools
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC
   unlocker
@@ -41,7 +41,7 @@ on your computer.
   updater
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root)
 
-# Useful software
+## Useful software
 
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
@@ -57,7 +57,7 @@ Activate Microsoft products (Office and Windows) with
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 :::
 
-# Useful browser extensions
+## Useful browser extensions
 
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker
   - Following
@@ -71,6 +71,7 @@ Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 - [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers
 - [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript manager for many
 browsers
+
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
     <ul>
@@ -83,7 +84,7 @@ browsers
   Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies
   are containerized, allowing simultaneous use of multiple identities or accounts.
 
-# Trainers (cheats)
+## Trainers (cheats)
 
 Not for online games. No cheating in online games!
 
@@ -94,7 +95,7 @@ Not for online games. No cheating in online games!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
-# Release trackers
+## Release trackers
 
 No downloads provided. Sites have P2P/scene release info. Check here to see if a game is cracked!
 
@@ -109,7 +110,7 @@ No downloads provided. Sites have P2P/scene release info. Check here to see if a
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only
   - [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit.
 
-# Related subreddits
+## Related subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
