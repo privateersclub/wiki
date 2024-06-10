@@ -2,7 +2,7 @@
 title: Programas
 ---
 
-# Gerenciadores de downloads
+## Gerenciadores de downloads
 
 - [🌟 JDownloader2](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
@@ -20,7 +20,7 @@ title: Programas
 - [Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [pyLoad](https://pyload.net)
 
-# Clientes de torrents
+## Clientes de torrents
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
   - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
@@ -33,7 +33,7 @@ title: Programas
 - [BiglyBT](https://www.biglybt.com)
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Dispositivos Android
 
-# VPNs
+## VPNs
 
 ::: danger
 **Tor Browser não é uma VPN, sem proteção ao torrentear!**

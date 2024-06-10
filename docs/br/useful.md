@@ -2,7 +2,7 @@
 title: Útil
 ---
 
-# Componentes obrigatórios
+## Componentes obrigatórios
 
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas
 faltando no seu computador.
@@ -11,7 +11,7 @@ faltando no seu computador.
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-# Ferramentas
+## Ferramentas
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
   legítimos da Steam.
@@ -46,7 +46,7 @@ faltando no seu computador.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
   root).
 
-# Programas úteis
+## Programas úteis
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
@@ -64,7 +64,7 @@ Ative produtos da Microsoft (Office e Windows) com o
 Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
 :::
 
-# Extensões úteis de navegador
+## Extensões úteis de navegador
 
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio
   - Seguir as
@@ -79,6 +79,7 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
   maioria dos navegadores
 - [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto
 para vários navegadores
+
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
     <ul>
@@ -91,7 +92,7 @@ para vários navegadores
   coloridas nesta ferramenta mantêm a sua vida online separada para preservar a privacidade. Cookies
   são isolados, permitindo uso simultâneo de várias identidades ou contas.
 
-# Trainers (trapaças)
+## Trainers (trapaças)
 
 Não são para jogos online. Não trapaceie em jogos online!
 
@@ -102,7 +103,7 @@ Não são para jogos online. Não trapaceie em jogos online!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
 - [MrAntiFun](https://mrantifun.net)
 
-# Rastreadores de lançamentos
+## Rastreadores de lançamentos
 
 Sem downloads fornecidos. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo
 foi crackeado!
@@ -118,7 +119,7 @@ foi crackeado!
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks
   - Subreddit irmão do [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
 
-# Subreddits relacionados
+## Subreddits relacionados
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)

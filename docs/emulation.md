@@ -2,7 +2,7 @@
 title: Emulation
 ---
 
-# ROM sites
+## ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
@@ -17,7 +17,7 @@ title: Emulation
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
-# Emulators
+## Emulators
 
 :::tip
 :exclamation: See the
@@ -33,7 +33,7 @@ more.
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo
   3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
-- [RCPS3](https://rpcs3.net) - PlayStation 3 games
+- [RPCS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
 - [MAME](https://www.mamedev.org) - Arcade games
 - [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
@@ -48,7 +48,7 @@ more.
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo Entertainment System games
 - [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 
-# Related subreddits
+## Related subreddits
 
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)

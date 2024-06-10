@@ -3,24 +3,24 @@ title: Linux
 description: Everything regarding piracy on Linux.
 ---
 
-# Downloading
+## Downloading
 
-## Direct download sites
+### Direct download sites
 
 - 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
   Linux games
 - 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Linux games - [Translator](useful.md#translator)
 - 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Steam files
 
-## Torrent sites
+### Torrent sites
 
 - 🌟 [johncena141](https://1337x.to/user/johncena141/) - Linux Games
 - 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games -
   [Translator](useful.md#translator)
 
-# Software
+## Software
 
-## Launchers
+### Launchers
 
 - 🌟 [Lutris](https://lutris.net) - Game launcher
 - 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, and Amazon Prime Games
@@ -28,7 +28,7 @@ description: Everything regarding piracy on Linux.
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG Client
 - [Bottles](https://usebottles.com) - Windows software manager
 
-## Tools
+### Tools
 
 ::: info
 All the tools are good whether starred or not.
@@ -40,7 +40,7 @@ All the tools are good whether starred or not.
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Proton-GE manager
 - [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
 
-# Guides
+## Guides
 
 - 🌟 [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
 - 🌟
@@ -51,7 +51,7 @@ All the tools are good whether starred or not.
 It's recommended to get games from DODI over FitGirl.
 :::
 
-# Related Subreddits
+## Related Subreddits
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)

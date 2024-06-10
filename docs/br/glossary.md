@@ -13,7 +13,7 @@ A Cena é uma comunidade underground de pessoas que crackeiam e
 compartilham material protegido por direitos autorais. Eles têm regras estritas que todos os membros
 da cena devem seguir. Os P2P são crackers independentes que não seguem as regras da Cena.
 
-As regras da Cena: https://scenerules.org
+As regras da Cena: <https://scenerules.org>
 :::
 
 ::: tip O que são NFOs?

@@ -1,7 +1,7 @@
 # privateersclub/wiki
 
 Welcome to the most comprehensive game piracy wiki on the Internet. View it on
-https://megathread.pages.dev.
+<https://megathread.pages.dev>.
 
 ## Contribute
 

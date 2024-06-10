@@ -2,7 +2,7 @@
 title: Download
 ---
 
-# Direct Download Sites
+## Direct Download Sites
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may
 need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the
@@ -46,13 +46,14 @@ need a VPN to access blocked file hosts (like Rapidgator in some EU countries). 
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
   - Switch to English on the top-right corner.
-- [F95zone](https://f95zone.to) - Registration required - NSFW games
+- [F95zone](https://f95zone.to) - NSFW games - Registration required
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
-- [PollyMC](https://github.com/fn2006/PollyMC) - Minecraft
+- [Prism Launcher](https://prismlauncher.org) - Minecraft
+  - Use the [offline bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) to play without a legit account.
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
-# Torrent sites
+## Torrent sites
 
 Torrents are P2P downloads from other users, without servers. You'll need a VPN to torrent safely
 and avoid ISP copyright notices, unless your country tolerates piracy. Check the
@@ -75,14 +76,14 @@ and avoid ISP copyright notices, unless your country tolerates piracy. Check the
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 
-# Repacks
+## Repacks
 
 Repacks are compressed games for low-bandwidth users, but installing them takes time due to file
 decompression.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users, use GameDrive's, GLOAD's or
+- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users; use GameDrive's, GLOAD's or
   Ova Games' mirrors instead.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on
