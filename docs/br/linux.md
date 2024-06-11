@@ -3,24 +3,24 @@ title: Linux
 description: Tudo sobre pirataria no Linux.
 ---
 
-# Downloads
+## Downloads
 
-## Sites de downloads diretos
+### Sites de downloads diretos
 
 - 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
   Jogos de Linux
 - 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux - [Tradutor](useful.md#translator)
 - 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Arquivos da Steam
 
-## Sites de torrents
+### Sites de torrents
 
 - 🌟 [johncena141](https://1337x.to/user/johncena141/) - Jogos de Linux
 - 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux -
   [Tradutor](useful.md#translator)
 
-# Programas
+## Programas
 
-## Launchers
+### Launchers
 
 - 🌟 [Lutris](https://lutris.net) - Launcher de jogos
 - 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher da Epic, GOG e Amazon Prime
@@ -28,7 +28,7 @@ description: Tudo sobre pirataria no Linux.
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Cliente da GOG
 - [Bottles](https://usebottles.com) - Gerenciador de programas do Windows
 
-## Ferramentas
+### Ferramentas
 
 ::: info
 Todas as ferramentas são boas, destacadas com uma estrela ou não.
@@ -40,7 +40,7 @@ Todas as ferramentas são boas, destacadas com uma estrela ou não.
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Gerenciador do Proton-GE
 - [Winetricks](https://github.com/Winetricks/winetricks) - Correções e ajustes do Wine
 
-# Guias
+## Guias
 
 - 🌟 [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
 - 🌟
@@ -51,7 +51,7 @@ Todas as ferramentas são boas, destacadas com uma estrela ou não.
 É recomendado adquirir jogos pelo DODI em vez da FitGirl.
 :::
 
-# Subreddits Relacionados
+## Subreddits Relacionados
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)

@@ -60,5 +60,5 @@ consequences are lenient, you might opt to forgo using a VPN altogether.
 Use a download manager. Some websites impose file transfer
 limits for a single thread, thereby restricting download speeds. Download managers overcome this
 limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We
-have listed some recommended ones [here](/useful).
+have listed some recommended ones [here](useful.md).
 :::
