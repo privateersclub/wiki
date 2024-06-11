@@ -31,7 +31,7 @@ description: Everything regarding piracy on Linux.
 ### Tools
 
 ::: info
-All the tools are good whether starred or not.
+All the tools are good, whether starred or not.
 :::
 
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay for monitoring FPS, temperature,

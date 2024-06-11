@@ -4,7 +4,7 @@ title: Downloads
 
 ## Sites de downloads diretos
 
-Downloads diretos são downloads normais por um servidor, sendo mais seguras e não exigindo uma VPN.
+Downloads diretos são downloads normais por um servidor, sendo mais seguros e não exigindo uma VPN.
 Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em
 alguns países da UE). Veja a
 [seção de gerenciadores de downloads](software.md#gerenciadores-de-downloads) para obter ajuda no
