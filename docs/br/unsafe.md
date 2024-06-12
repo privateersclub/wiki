@@ -42,7 +42,7 @@ para o adicionar ao uBlock Origin (use
 - GOG Unlocked/RomsUnlocked/SteamUnlocked - Uploads [do IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) e nosTEAM, anúncios de
   redirecionamento maliciosos e downloads lentos.
 - haxNode - Pego com [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784).
-- IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Fez doxing com o mercs213 (dono do GOG Games), explora-lhe por receita
+- IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Fez doxing com o mercs213 (dono do Good Old DOwnloads), explora-lhe por receita
   de anúncios e põe a própria DRM, minerador de criptomoedas e malware nos jogos.
 - IGI30 - Pego com malware.
 - KaranPC - Constantemente pego com malware.
