@@ -83,7 +83,7 @@ browsers
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) -
   Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies
   are containerized, allowing simultaneous use of multiple identities or accounts.
-
+- [LocalCDN](https://www.localcdn.org/) A browser extension mimicking Content Delivery Networks to enhance online privacy
 ## Trainers (cheats)
 
 Not for online games. No cheating in online games!
