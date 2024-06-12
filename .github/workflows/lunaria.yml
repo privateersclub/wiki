@@ -16,7 +16,6 @@ jobs:
   lunaria-overview:
     name: Generate Lunaria Overview
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,6 +23,10 @@ jobs:
           # Necessary for Lunaria to work properly
           # Makes the action clone the entire git history
           fetch-depth: 0
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 9.1.0
 
       - name: Setup Node
         uses: actions/setup-node@v4
