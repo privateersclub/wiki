@@ -14,12 +14,12 @@ faltando no seu computador.
 ## Ferramentas
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
-  legítimos da Steam.
+  legítimos da Steam
   - Use o [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) para configuração
     automática ou o [CreamInstaller](https://github.com/pointfeev/CreamInstaller) para instalação
     automática.
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic
-  Games Store, dos clientes da EA e da Uplay.
+  Games Store, dos clientes da EA e da Uplay
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam.
   - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com
     uma IU.
@@ -27,24 +27,25 @@ faltando no seu computador.
   - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para
     crackear automaticamente com o Goldberg Steam Emulator e o Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
-  correções para o Steamworks.
+  correções para o Steamworks
 - [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Lista de ferramentas da
-  Steam.
+  Steam
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic
-  Games Store e dos clientes da EA.
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store.
+  Games Store e dos clientes da EA
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos
-  clientes da EA.
+  clientes da EA
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do
-  Epic Online Services.
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay.
+  Epic Online Services
+- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay
 - [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outras cópias
   pirateadas.
   - Senha: `online-fix.me`
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
-  pirateada de The Sims 4.
+  pirateada de The Sims 4
+- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções extendidas
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
-  root).
+  root)
 
 ## Programas úteis
 

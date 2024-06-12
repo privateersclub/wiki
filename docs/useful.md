@@ -21,7 +21,7 @@ on your computer.
   and Uplay DLC unlocker
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator
   - Use [GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) to manage it with a UI.
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remove
+- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover
   - Use [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) for
     auto-crack with Goldberg Steam Emulator and Steamless.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks
@@ -39,7 +39,7 @@ on your computer.
   - Password: `online-fix.me`
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version
   updater
-- [Plutonium](https://plutonium.pw/) - Dedicated Call of Duty servers, with mod support and extended features
+- [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod support and extended features
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root)
 
 ## Useful software

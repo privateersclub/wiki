@@ -6,6 +6,8 @@ title: Programas
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com)
   - [Crack](https://cracksurl.com/internet-download-manager) e [instruções](https://rentry.org/installidm).
+  - [IDM Activation Script](https://github.com/lstprjct/IDM-Activation-Script)
+  - [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
   - O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado.
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2)
   - Detecta links da maioria dos hospedeiros de arquivos.
