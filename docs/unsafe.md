@@ -40,7 +40,7 @@ to add it to uBlock Origin (use
 - GameFabrique - IGG Games uploads and
   [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - GetIntoMac/GetIntoPC - Constantly caught with malware.
-- GOG Unlocked/RomsUnlocked/SteamUnlocked - [IGG Games](ttps://i.ibb.co/VgW2ymY/YUnRNpN.png) uploads and nosTEAM, malicious
+- GOG Unlocked/RomsUnlocked/SteamUnlocked - [IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) uploads and nosTEAM, malicious
   redirect ads, and slow downloads.
 - haxNode
 - IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and
