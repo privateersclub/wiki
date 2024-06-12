@@ -1,8 +1,6 @@
 name: Lunaria
 
 on:
-  # Trigger the workflow every time a pull request is opened or synchronized at the target `main` branch
-  # Using a different branch name? Replace `main` with your branch’s name
   pull_request_target:
     types: [opened, synchronize]
     branches: [master]
@@ -16,7 +14,9 @@ jobs:
   lunaria-overview:
     name: Generate Lunaria Overview
     runs-on: ubuntu-latest
-
+    strategy:
+      matrix:
+        node-version: [20]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,16 +25,19 @@ jobs:
           # Makes the action clone the entire git history
           fetch-depth: 0
 
-      - name: Setup Node
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: pnpm
+          node-version: ${{ matrix.node-version }}
+          cache: 'pnpm'
 
-      - name: Setup PNPM
-        uses: pnpm/action-setup@v3
-
-      - run: pnpm install
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Generate Lunaria Overview
         uses: yanthomasdev/lunaria-action@v0.1.0

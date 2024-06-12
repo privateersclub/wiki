@@ -39,6 +39,7 @@ on your computer.
   - Password: `online-fix.me`
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version
   updater
+- [Plutonium](https://plutonium.pw/) - Dedicated Call of Duty servers, with mod support and extended features
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root)
 
 ## Useful software
