@@ -40,7 +40,7 @@ on your computer.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version
   updater
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root)
-
+- [Plutonium](https://plutonium.pw/) - Dedicated Call of Duty servers, with mod support
 ## Useful software
 
 - [7-Zip](https://7-zip.org) - File archiver
