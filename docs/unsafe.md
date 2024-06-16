@@ -47,7 +47,7 @@ to add it to uBlock Origin (use
   puts its own DRM, crypto miner, and malware in games.
 - IGI30 - Caught with malware.
 - KaranPC - Constantly caught with malware.
-- KickassTorrents - Long-dead, what's left are sketchy copycats.
+- KickassTorrents - Long-dead, what is left are sketchy copycats.
 - MainRepo/MRepo (unrelated to the Magisk module MRepo) - Caught with [malware](https://rentry.co/zu3i6).
 - NexusGames, Steam-Repacks, Unlocked-Games, World of PC Games - Caught with malware.
 - nosTEAM - Caught with crypto miners and has malware risk.
@@ -76,7 +76,7 @@ to add it to uBlock Origin (use
   [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Sells user data.
 - AVG/CCleaner/Gen Digital/Norton - Owned by Avast.
-- BitComet/Bittorent - Adware.
+- BitComet/BitTorrent - Adware.
 - BitLord -
   [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0).
 - Bluecord/BlueKik - History of [spam](https://redd.it/12h2v6n) and [spying](https://rentry.co/tvrnw).

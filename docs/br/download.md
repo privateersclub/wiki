@@ -10,7 +10,7 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](software.md#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registro obrigatório
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de arquivos da Steam - Registro obrigatório
   - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
   - Senha: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
@@ -18,10 +18,10 @@ gerenciamento de seus downloads.
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com)
-  - Senha dos arquivos: `www.ovagames.com`
+  - Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Jogos da GOG e Linux e
+- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG e Linux e
   lançamentos da Cena - Registro obrigatório
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis.
@@ -74,7 +74,7 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Tradutor](useful.md#translator)
 - [Tapochek](https://tapochek.net/index.php?c=2) - Registro obrigatório -
   [Tradutor](useful.md#translator)
-- [Zamunda](https://zamunda.net/bananas) - Jogos de Linux - Registro obrigatório
+- [Zamunda](https://zamunda.net/bananas) - Fórum de jogos de Linux - Registro obrigatório
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - Jogos e aplicativos de macOS
 
@@ -92,13 +92,14 @@ devido à descompressão de arquivos.
   [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
+- [ScOOt3r Repacks](https://game-repack.site/scooter)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
 - [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Jogos de console emulados
-- [KAPITALSIN](https://kapitalsin.com/forum) - Repacks com perdas (qualidade mais baixa e/ou
+- [KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks com perdas (qualidade mais baixa e/ou
   arquivos removidos) - [Tradutor](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jogos antigos
