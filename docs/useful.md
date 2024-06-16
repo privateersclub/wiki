@@ -66,7 +66,7 @@ Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
     is recommended.
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Link shorterners bypasser userscript - Needs one of the 3 extensions below.
+  Link shorterners bypasser userscript - Needs one of the three extensions below.
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Open-source userscript manager
   for Firefox
 - [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers

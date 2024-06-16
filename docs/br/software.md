@@ -5,7 +5,7 @@ title: Programas
 ## Gerenciadores de downloads
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com)
-  - [Crack](https://cracksurl.com/internet-download-manager) e [instruções](https://rentry.org/installidm).
+  - [Crack](https://cracksurl.com/internet-download-manager) e [instruções](https://rentry.org/installidm)
   - [IDM Activation Script](https://github.com/lstprjct/IDM-Activation-Script)
   - [IDM Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
   - O [IDMHelper](https://github.com/unamer/IDMHelper) é recomendado.
@@ -17,9 +17,9 @@ title: Programas
   - [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com)
-  - [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories).
+  - [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [Motrix](https://motrix.app)
-- [Aria2] - Gerenciador de downloads pelo terminal.
+- [Aria2](https://aria2.github.io) - Gerenciador de downloads pelo terminal.
   - Use o [Persepolis](https://persepolisdm.github.io) para uma interface gráfica.
   - Use o [WebUI-Aria2](https://github.com/ziahamza/webui-aria2) para uma interface web.
 - [Free Download Manager](https://www.freedownloadmanager.org)
@@ -28,7 +28,7 @@ title: Programas
 ## Clientes de torrents
 
 - [🌟 qBittorrent](https://www.qbittorrent.org)
-  - O [qBittorent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
+  - O [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) é recomendado.
   - [Tema escuro](https://draculatheme.com/qbittorrent)
 - [🌟 Deluge](https://dev.deluge-torrent.org)
 - [🌟 Transmission](https://transmissionbt.com)

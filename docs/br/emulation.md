@@ -25,9 +25,9 @@ title: Emulação
 mais.
 :::
 
-- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles
-- [Ryujinx](https://ryujinx.org) - Jogos de Nintendo Switch
-- [Torzu](https://github.com/litucks/torzu) / [Android](https://github.com/sudachi-emu/sudachi) - Jogos de Nintendo Switch
+- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles - Evite os núcleos do melonDS, PPSSPP, Dolphin e Citra.
+- [Ares](https://ares-emu.net) - Jogos de múltiplos consoles - Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy Advance.
+- [Ryujinx](https://ryujinx.org) / [Torzu](https://github.com/litucks/torzu) ([Android](https://github.com/sudachi-emu/sudachi)) - Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
 - [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de
@@ -35,18 +35,16 @@ mais.
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
 - [RPCS3](https://rpcs3.net) - Jogos de PlayStation 3
 - [xenia](https://xenia.jp) - Jogos de Xbox 360
-- [MAME](https://www.mamedev.org) - Jogos de arcade
+- [MAME](https://www.mamedev.org) - Jogos de fliperama
 - [PPSSPP](https://www.ppsspp.org) - Jogos de PlayStation Portable
-- [melonDS](https://melonds.kuribo64.net) - Jogos de Nintendo DS
-- [DeSmuME](https://desmume.org) - Jogos de Nintendo DS
+- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) - Jogos de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Jogos de Nintendo DS e Game Boy Advance
 - [xemu](https://xemu.app) - Jogos de Xbox original
 - [mGBA](https://mgba.io) - Jogos de Game Boy Advance
 - [PCSX2](https://pcsx2.net) - Jogos de PlayStation 2
-- [RMG](https://github.com/Rosalie241/RMG) - Jogos de Nintendo 64
+- [Parallel Launcher](https://parallel-launcher.ca) - Jogos de Nintendo 64
 - [DuckStation](https://www.duckstation.org) - Jogos de PlayStation 1
-- [bsnes](https://github.com/bsnes-emu/bsnes) - Jogos de Super Nintendo Entertainment System
-- [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment System
+- [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment System
 
 ## Subreddits relacionados
 

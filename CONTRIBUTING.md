@@ -10,7 +10,7 @@ You can contribute to the project in various ways:
 For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js
 environment installed. Refer to its documentation for making changes to Vitepress itself.
 
-You will also need some hands on experience with TypeScript, if you're going to contribute for
+You will also need some hands-on experience with TypeScript if you're going to contribute to 
 improving internals.
 
 The root directory is `docs/`.
@@ -26,7 +26,7 @@ Markdown files.
 
 See <https://vitepress.dev/guide/i18n> and [our tracker](https://megathread.pages.dev/_translations).
 
-There are two things to translate: content and strings used in Vitepress (sidebar, nav, etc).
+There are two things to translate: content and strings used in Vitepress (sidebar, nav, etc.).
 
 Start by creating a folder in `docs/<locale>` and write your content in the exact same format.
 

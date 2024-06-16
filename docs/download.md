@@ -2,13 +2,13 @@
 title: Download
 ---
 
-## Direct Download Sites
+## Direct download sites
 
 Direct downloads are normal downloads from a server, being safer and not requiring a VPN. You may
 need a VPN to access blocked file hosts (like Rapidgator in some EU countries). Check the
 [download managers section](software.md#download-managers) for help managing your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Registration required
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Steam files forum - Registration required
   - [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) is recommended.
   - Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
@@ -16,10 +16,10 @@ need a VPN to access blocked file hosts (like Rapidgator in some EU countries). 
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com)
-  - Files password: `www.ovagames.com`
+  - Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene and P2P releases
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene releases -
+- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene releases forum -
   Registration required
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users.
@@ -45,7 +45,7 @@ need a VPN to access blocked file hosts (like Rapidgator in some EU countries). 
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games
-  - Switch to English on the top-right corner.
+  - Switch to English in the top-right corner.
 - [F95zone](https://f95zone.to) - NSFW games - Registration required
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
@@ -90,13 +90,15 @@ decompression.
   [Repack.info](https://repack.info).
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
+- [ScOOt3r Repacks](https://game-repack.site/scooter)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
-  from up to May, 2022. Moved to KaOsKrew in June, 2022.
+  from up to May 2022.
+  Moved to KaOsKrew in June 2022.
 - [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks -
+- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks forum -
   [Translator](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games

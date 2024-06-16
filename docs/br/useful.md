@@ -21,7 +21,7 @@ faltando no seu computador.
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic
   Games Store, dos clientes da EA e da Uplay
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam.
-  - Use o [GolgbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com
+  - Use o [GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) para o gerenciar com
     uma IU.
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM SteamStub.
   - Use o [Steam Game Automatic Cracker](https://github.com/oureveryday/Steam-auto-crack) para
@@ -73,7 +73,7 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
     é recomendado.
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrador de pesquisas
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Userscript contornador de encurtadores de links - Precisa de uma das 3 extensẽs abaixo.
+  Userscript contornador de encurtadores de links - Precisa de uma das 3 extensões abaixo.
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de
   código aberto para o Firefox
 - [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a

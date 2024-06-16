@@ -3,7 +3,8 @@ title: Glossary
 description: Answers to some of the most commonly asked questions.
 ---
 
-This page helps summarise over some basic topics on the piracy scene. This also serves as
+This page helps summarize over some basic topics on the piracy scene.
+This also serves as
 referential material to gloss over quickly.
 
 ## Terms
@@ -16,14 +17,14 @@ independent crackers who don't follow the Scene rules.
 The Scene rules: <https://scenerules.org>
 :::
 
-::: tip What are NFOs?
+::: tip What’re NFOs?
 NFOs are like a readme.txt that Scene makes on release. It gives you
 instructions, a general description of the game and some additional information.
 :::
 
 ::: tip Why does X site have so many ads?
 **Use an adblocker**. Ads keep the websites running, but
-sometimes the ad ruin the experience or even link malware. You can take these steps if you want an
+sometimes the ad ruins the experience or even link malware. You can take these steps if you want an
 ad-free experience:
 
 ### Android
@@ -51,7 +52,7 @@ also try [**AhaDNS**](https://ahadns.com).
 ::: tip Do I need to use VPN while downloading?
 The necessity of using a VPN depends on the method
 of downloading. For direct downloads, a VPN is typically unnecessary. However, if you're engaging in
-peer-to-peer (P2P) activities such as torrenting, it's advisable to employ a VPN for enhanced
+peer-to-peer (P2P) activities such as torrenting, it is advisable to employ a VPN for enhanced
 security and privacy. Additionally, the legal ramifications in your area play a crucial role; if the
 consequences are lenient, you might opt to forgo using a VPN altogether.
 :::
@@ -59,6 +60,5 @@ consequences are lenient, you might opt to forgo using a VPN altogether.
 ::: tip Why is my download so slow?
 Use a download manager. Some websites impose file transfer
 limits for a single thread, thereby restricting download speeds. Download managers overcome this
-limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We
-have listed some recommended ones [here](useful.md).
+limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We've listed some recommended ones [here](useful.md).
 :::
