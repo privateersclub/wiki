@@ -1,4 +1,4 @@
-import { DefaultTheme, LocaleSpecificConfig } from "vitepress";
+import {DefaultTheme, LocaleSpecificConfig} from "vitepress";
 
 const navbar: DefaultTheme.NavItem[] = [
   { text: "Começar", link: "/start" },

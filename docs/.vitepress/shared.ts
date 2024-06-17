@@ -1,7 +1,5 @@
-import { defineConfig } from "vitepress";
+import {defineConfig} from "vitepress";
 import UnoCSS from "unocss/vite";
-import { generateImages } from "./hooks/opengraph";
-import { generateMeta } from "./hooks/meta";
 
 export const sharedConfig = defineConfig({
   title: "privateersclub/wiki",

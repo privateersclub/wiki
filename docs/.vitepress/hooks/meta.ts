@@ -1,4 +1,4 @@
-import type { HeadConfig, TransformContext } from "vitepress";
+import type {HeadConfig, TransformContext} from "vitepress";
 
 export function generateMeta(context: TransformContext, hostname: string) {
   const head: HeadConfig[] = [];
