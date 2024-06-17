@@ -1,5 +1,5 @@
-import { defineRendererConfig } from "@lunariajs/core";
-import { TitleParagraph } from "./components";
+import {defineRendererConfig} from "@lunariajs/core";
+import {TitleParagraph} from "./components";
 
 export default defineRendererConfig({
   slots: {

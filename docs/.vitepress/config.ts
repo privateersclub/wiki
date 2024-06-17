@@ -1,7 +1,7 @@
-import { defineConfig } from "vitepress";
-import { sharedConfig } from "./shared";
-import { enLocale } from "./locales/en-us";
-import { brLocale } from "./locales/pt-br";
+import {defineConfig} from "vitepress";
+import {sharedConfig} from "./shared";
+import {enLocale} from "./locales/en-us";
+import {brLocale} from "./locales/pt-br";
 
 export default defineConfig({
   ...sharedConfig,

@@ -59,20 +59,15 @@ Torrents are P2P downloads from other users, without servers. You'll need a VPN 
 and avoid ISP copyright notices, unless your country tolerates piracy. Check the
 [VPNs section](software.md#vpns) for more info.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) - Avoid IGG Games' torrents.
-  - The
-    [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements),
-    [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links),
-    [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format),
-    and
+- [🌟 1337x](https://1337x.to/sub/10/0/) / [Safe uploaders](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
+    [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
+    [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links) /
+    [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+  /
     [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-    userscripts are recommended.
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) - [Translator](useful.md#translator)
-- [Rutor](http://rutor.info/games) - [Translator](useful.md#translator)
-- [Rustorka](https://rustorka.com/forum/index.php?c=6) - [Translator](useful.md#translator)
-- [Tapochek](https://tapochek.net/index.php?c=2) - Registration required -
-  [Translator](useful.md#translator)
-- [Zamunda](https://zamunda.net/bananas) - Linux games - Registration required
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Translator](useful.md#translator)
+- [Rutor](http://rutor.info/games) / [Translator](useful.md#translator)
+- [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Translator](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games and apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games and apps
 

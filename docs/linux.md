@@ -7,8 +7,8 @@ description: Everything regarding piracy on Linux.
 
 ### Direct download sites
 
-- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
-  Linux games
+- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26) -
+  Game piracy forum
 - 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Linux games - [Translator](useful.md#translator)
 - 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Steam files
 

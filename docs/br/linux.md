@@ -7,10 +7,10 @@ description: Tudo sobre pirataria no Linux.
 
 ### Sites de downloads diretos
 
-- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26&sid=73aa6976e6987fec6b1f09717cbe6c59) -
-  Jogos de Linux
+- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26) -
+  Fórum de pirataria de jogos
 - 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux - [Tradutor](useful.md#translator)
-- 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Arquivos da Steam
+- 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos
 
 ### Sites de torrents
 
@@ -51,7 +51,7 @@ Todas as ferramentas são boas, destacadas com uma estrela ou não.
 É recomendado adquirir jogos pelo DODI em vez da FitGirl.
 :::
 
-## Subreddits Relacionados
+## Subreddits relacionados
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)

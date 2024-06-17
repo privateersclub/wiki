@@ -1,5 +1,5 @@
-import nprogress, { type NProgress } from "nprogress";
-import type { EnhanceAppContext } from "vitepress";
+import nprogress, {type NProgress} from "nprogress";
+import type {EnhanceAppContext} from "vitepress";
 
 export function loadProgress(router: EnhanceAppContext["router"]): NProgress {
   if (typeof window === "undefined") return;
