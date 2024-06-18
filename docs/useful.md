@@ -21,8 +21,10 @@ on your computer:
   unlocker / [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Automatic installation](https://github.com/pointfeev/CreamInstaller)
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games Store, EA clients,
   and Uplay DLC unlocker
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover / [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam
+  emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
+- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM
+  remover / [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatic Steamworks
   fix creator
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Epic Games Store & EA clients
@@ -43,20 +45,22 @@ on your computer:
 
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
-- [Tor Browser](https://www.torproject.org) - Private web browser that routes Internet traffic through a decentralized network of volunteer-operated servers, making you hard to trace.
+- [Tor Browser](https://www.torproject.org) - Private web browser that routes Internet traffic through a decentralized
+  network of volunteer-operated servers, making you hard to trace.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser with
   auto-screenshot, playtime tracking, & real-time notification
 - [Parsec](https://parsec.app) - Low-latency game streaming software
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier & hash info generator
-:::tip
-Activate Microsoft products (Office & Windows) with
-**[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products
-:::
+  :::tip
+  Activate Microsoft products (Office & Windows) with
+  **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+  Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products
+  :::
 
 ## Useful browser extensions
 
-- [uBlock Origin](https://ublockorigin.com) - Ad content blocker / [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
+- [uBlock Origin](https://ublockorigin.com) - Ad content
+  blocker / [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
   Link shorterners bypasser userscript - Needs one of the three extensions below
@@ -64,7 +68,7 @@ Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products
   for Firefox
 - [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager for most browsers
 - [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript manager for many
-browsers
+  browsers
 
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>

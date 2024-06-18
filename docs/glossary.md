@@ -40,7 +40,8 @@ you need guidance.
 
 Install [**uBlock Origin**](https://ublockorigin.com) in your browser and you're done! If you want a
 system-wide solution, you _can_ use [**NextDNS**](https://nextdns.io), but it won't be as effective
-as uBlock Origin. You can also use [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) or
+as uBlock Origin. You can also use [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
+or
 [Bypass.city](https://bypass.city) to _bypass_ redirects.
 
 ### iOS
@@ -60,5 +61,6 @@ consequences are lenient, you might opt to forgo using a VPN altogether.
 ::: tip Why is my download so slow?
 Use a download manager. Some websites impose file transfer
 limits for a single thread, thereby restricting download speeds. Download managers overcome this
-limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We've listed some recommended ones [here](useful.md).
+limitation by leveraging multiple threads for downloading, resulting in faster download speeds. We've listed some
+recommended ones [here](useful.md).
 :::

@@ -25,9 +25,12 @@ title: Emulação
 mais.
 :::
 
-- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles - Evite os núcleos do melonDS, PPSSPP, Dolphin e Citra.
-- [Ares](https://ares-emu.net) - Jogos de múltiplos consoles - Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy Advance.
-- [Ryujinx](https://ryujinx.org) / [Torzu](https://github.com/litucks/torzu) ([Android](https://github.com/sudachi-emu/sudachi)) - Jogos de Nintendo Switch
+- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles - Evite os núcleos do melonDS, PPSSPP, Dolphin e
+  Citra.
+- [Ares](https://ares-emu.net) - Jogos de múltiplos consoles - Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
+  Advance.
+- [Ryujinx](https://ryujinx.org) / [Torzu](https://github.com/litucks/torzu) ([Android](https://github.com/sudachi-emu/sudachi)) -
+  Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
 - [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de
@@ -44,7 +47,8 @@ mais.
 - [PCSX2](https://pcsx2.net) - Jogos de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Jogos de Nintendo 64
 - [DuckStation](https://www.duckstation.org) - Jogos de PlayStation 1
-- [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment System
+- [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment
+  System
 
 ## Subreddits relacionados
 

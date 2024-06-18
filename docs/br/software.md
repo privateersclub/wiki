@@ -4,12 +4,15 @@ title: Programas
 
 ## Gerenciadores de downloads
 
-- [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) / [Crack](https://cracksurl.com/internet-download-manager) e [instruções](https://rentry.org/installidm) / [Script de ativação](https://github.com/lstprjct/IDM-Activation-Script) / [Reiniciador de avaliação](https://github.com/J2TEAM/idm-trial-reset) / [IDMHelper](https://github.com/unamer/IDMHelper)
-- [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detecta a maioria dos hospedeiros de arquivos / [Guia de aprimoramento](https://lemmy.world/post/3098414) / [Resolvedor offline de CAPTCHAs](https://github.com/cracker0dks/CaptchaSolver) / [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
+- [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) / [Crack](https://cracksurl.com/internet-download-manager)
+  e [instruções](https://rentry.org/installidm) / [Script de ativação](https://github.com/lstprjct/IDM-Activation-Script) / [Reiniciador de avaliação](https://github.com/J2TEAM/idm-trial-reset) / [IDMHelper](https://github.com/unamer/IDMHelper)
+- [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detecta a maioria dos hospedeiros de
+  arquivos / [Guia de aprimoramento](https://lemmy.world/post/3098414) / [Resolvedor offline de CAPTCHAs](https://github.com/cracker0dks/CaptchaSolver) / [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [Motrix](https://motrix.app)
-- [Aria2](https://aria2.github.io) - Gerenciador de downloads pelo terminal / [Interface gráfica](https://persepolisdm.github.io) / [Interface web](https://github.com/ziahamza/webui-aria2)
+- [Aria2](https://aria2.github.io) - Gerenciador de downloads pelo
+  terminal / [Interface gráfica](https://persepolisdm.github.io) / [Interface web](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) / [Baixador de vídeos](https://github.com/meowcateatrat/elephant)
 
 ## Clientes de torrents

@@ -10,19 +10,17 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](software.md#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de arquivos da Steam - Registro obrigatório
-  - O [CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) é recomendado.
-  - Senha: `cs.rin.ru`
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
+  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
 - [🌟 GOG Games](https://gog-games.to) - Jogos da GOG
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
-- [Ova Games](https://www.ovagames.com)
-  - Senha: `www.ovagames.com`
+- [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
 - [GameDrive](https://gamedrive.org)
-- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG e Linux e
-  lançamentos da Cena - Registro obrigatório
+- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
+  lançamentos da Cena / Registro obrigatório
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis.
   - Senha: `404`
@@ -52,7 +50,8 @@ gerenciamento de seus downloads.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) - Minecraft
-  - Use o [contorno offline](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) para jogar sem uma conta legítima.
+  - Use o [contorno offline](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) para jogar sem uma
+    conta legítima.
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Sites de torrents
@@ -61,7 +60,7 @@ Torrents são downloads P2P de outros usuários, sem servidores. Você precisar�
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
 pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
+- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
   [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
   [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links) /
   [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
@@ -80,11 +79,10 @@ devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Downloads lentos para usuários gratuitos; use os espelhos do
-  GameDrive, GLOAD ou do Ova Games em vez disso.
+- [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do
+  GameDrive, GLOAD ou do Ova Games para downloads rápidos grátis.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [Chovka](http://rutor.info/browse/0/8/1642915/0) - Também achado no
-  [Repack.info](https://repack.info).
+- [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter)
@@ -95,7 +93,7 @@ devido à descompressão de arquivos.
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Jogos de console emulados
 - [KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks com perdas (qualidade mais baixa e/ou
-  arquivos removidos) - [Tradutor](useful.md#translator)
+  arquivos removidos) / [Tradutor](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jogos antigos
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jogos antigos

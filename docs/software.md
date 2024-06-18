@@ -5,11 +5,13 @@ title: Software
 ## Download managers
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) / [Crack](https://cracksurl.com/internet-download-manager) & [instructions](https://rentry.org/installidm) / [Activation script](https://github.com/lstprjct/IDM-Activation-Script) / [Trial reset](https://github.com/J2TEAM/idm-trial-reset) / [IDMHelper](https://github.com/unamer/IDMHelper)
-- [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detects most file hosts / [Enhancement guide](https://lemmy.world/post/3098414) / [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
+- [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detects most file
+  hosts / [Enhancement guide](https://lemmy.world/post/3098414) / [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [Motrix](https://motrix.app)
-- [Aria2](https://aria2.github.io) - Terminal download manager / [GUI](https://persepolisdm.github.io) / [Web UI](https://github.com/ziahamza/webui-aria2)
+- [Aria2](https://aria2.github.io) - Terminal download
+  manager / [GUI](https://persepolisdm.github.io) / [Web UI](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) / [Video downloader](https://github.com/meowcateatrat/elephant)
 
 ## Torrent clients

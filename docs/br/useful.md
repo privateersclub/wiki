@@ -19,11 +19,14 @@ Steam
 :::
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
-  legítimos da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Instalação automática](https://github.com/pointfeev/CreamInstaller)
+  legítimos da
+  Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Instalação automática](https://github.com/pointfeev/CreamInstaller)
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic
   Games Store, dos clientes da EA e da Uplay
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da Steam / [Interface gráfica](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
-- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM SteamStub / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
+- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
+  Steam / [Interface gráfica](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
+- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM
+  SteamStub / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
   correções para o Steamworks
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic
@@ -46,7 +49,8 @@ Steam
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
-- [Tor Browser](https://www.torproject.org) - Navegador web privado que roteia o tráfego da Internet por uma rede descentralizada de servidores operados por voluntários, dificultando te rastrear
+- [Tor Browser](https://www.torproject.org) - Navegador web privado que roteia o tráfego da Internet por uma rede
+  descentralizada de servidores operados por voluntários, dificultando te rastrear
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de
   conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo
   real
@@ -62,7 +66,8 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe
 
 ## Extensões úteis de navegador
 
-- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de anúncio / [Recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de
+  anúncio / [Recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrador de pesquisas
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
   Userscript contornador de encurtadores de links - Requer uma das 3 extensões abaixo
@@ -71,7 +76,7 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe
 - [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a
   maioria dos navegadores
 - [ViolentMonkey](https://violentmonkey.github.io) - Gerenciador de userscripts de código aberto
-para vários navegadores
+  para vários navegadores
 
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
