@@ -50,7 +50,8 @@ need a VPN to access blocked file hosts (like Rapidgator in some EU countries). 
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
 - [Prism Launcher](https://prismlauncher.org) - Minecraft
-  - Use the [offline bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) to play without a legit account.
+  - Use the [offline bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) to play without a
+    legit account.
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Torrent sites
@@ -59,12 +60,12 @@ Torrents are P2P downloads from other users, without servers. You'll need a VPN 
 and avoid ISP copyright notices, unless your country tolerates piracy. Check the
 [VPNs section](software.md#vpns) for more info.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) / [Safe uploaders](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
-    [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
-    [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links) /
-    [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+- [🌟 1337x](https://1337x.to/sub/10/0/) / [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
+  [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
+  [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links) /
+  [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   /
-    [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+  [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Translator](useful.md#translator)
 - [Rutor](http://rutor.info/games) / [Translator](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Translator](useful.md#translator)
@@ -78,22 +79,21 @@ decompression.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Slow downloads for free users; use GameDrive's, GLOAD's or
-  Ova Games' mirrors instead.
+- [🌟 ElAmigos](https://elamigos.site) - Use GameDrive's, GLOAD's or
+  Ova Games' mirrors for free fast downloads.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [Chovka](http://rutor.info/browse/0/8/1642915/0) - Also found on
-  [Repack.info](https://repack.info).
+- [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   from up to May 2022.
-  Moved to KaOsKrew in June 2022.
+  Moved to KaOsKrew in June 2022
 - [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
-- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks forum -
+- [KAPITALSIN](https://kapitalsin.com/forum) - Lossy (lower quality and/or removed files) repacks forum /
   [Translator](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games

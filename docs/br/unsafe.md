@@ -4,7 +4,8 @@ title: Não Seguro
 
 ## Sites e uploaders não seguros
 
-Você pode só usar o [filtro de bloqueador de anúncios](https://windowsaurora.github.io/FMHYFilterlist/site/index.html) do [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) no uBlacklist (mais
+Você pode só usar o [filtro de bloqueador de anúncios](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+do [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) no uBlacklist (mais
 eficiente) ou uBlock Origin para bloquear a maioria dos sites mencionados aqui e mais. Siga
 [este guia](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) para adicionar
 o filtro customizado ao uBlacklist (ponha
@@ -28,7 +29,8 @@ para o adicionar ao uBlock Origin (use
 - ApunKaGames
 - BBRepacks - Pego com malware.
 - Corepack - Lançamentos roubados e pego com malware.
-- CNET/Download.com/Softonic/ZDNET - Histórico de [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9).
+- CNET/Download.com/Softonic/ZDNET - Histórico
+  de [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9).
 - CracksHash - Pego com [malware](https://redd.it/lklst7).
 - Crohasit - É afiliado aos donos do SteamUnlocked.
 - cracked-games/GETGAMEZ - Pego com malware.
@@ -39,10 +41,13 @@ para o adicionar ao uBlock Origin (use
 - GameFabrique - Uploads do IGG Games e
   [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - GetIntoMac/GetIntoPC - Constantemente pego com malware.
-- GOG Unlocked/RomsUnlocked/SteamUnlocked - Uploads [do IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) e nosTEAM, anúncios de
+- GOG Unlocked/RomsUnlocked/SteamUnlocked - Uploads [do IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) e nosTEAM,
+  anúncios de
   redirecionamento maliciosos e downloads lentos.
-- haxNode - Pego com [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784).
-- IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Fez doxing com o mercs213 (dono do Good Old Downloads), explora-lhe por receita
+- haxNode - Pego
+  com [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784).
+- IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Fez doxing com o mercs213 (dono do Good Old Downloads),
+  explora-lhe por receita
   de anúncios e põe a própria DRM, minerador de criptomoedas e malware nos jogos.
 - IGI30 - Pego com malware.
 - KaranPC - Constantemente pego com malware.
@@ -54,7 +59,8 @@ para o adicionar ao uBlock Origin (use
 - Portable4PC/Soft4PC - Pego com malware.
 - Qoob/Seyter - Pego com mineradores de criptomoedas.
 - Repack-Games - Rouba lançamentos e rotula errado os jogos.
-- RSLoad - Fez upload da mesma versão do MalwareBytes que encrencou o FIleCR e tem [malware no μTorrent](https://i.ibb.co/QXrCfqQ/Untitled.png).
+- RSLoad - Fez upload da mesma versão do MalwareBytes que encrencou o FIleCR e
+  tem [malware no μTorrent](https://i.ibb.co/QXrCfqQ/Untitled.png).
 - SadeemAPK/SadeemPC - Constantemente pego com malware.
 - The Pirate Bay - Alto risco de malware por falta de moderação.
 - VitaminX - Pego com mineradores de criptomoedas.
@@ -92,8 +98,11 @@ para o adicionar ao uBlock Origin (use
 - KLauncher - Contém malware.
 - Limewire - Morto há anos, coisas alegando serem eles devem ser evitadas.
 - McAfee - Instala bloatware.
-- Opera (navegadores) - Práticas de privacidade [muito](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [ruins](https://rentry.co/operagx), além de aplicativos de empréstimo [predatórios](https://www.androidpolice.com/2020/01/21/opera-predatory-loans).
-- PCProtect/Protected/TotalAV - Fraudes de antivirus. [1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav).
+- Opera (navegadores) - Práticas de
+  privacidade [muito](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [ruins](https://rentry.co/operagx),
+  além de aplicativos de empréstimo [predatórios](https://www.androidpolice.com/2020/01/21/opera-predatory-loans).
+- PCProtect/Protected/TotalAV - Fraudes de
+  antivirus. [1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav).
 - PolyMC - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord
   e do repositório.
 - TLauncher (não relacionado ao TLauncher Legacy) - Práticas comerciais [duvidosas](https://www.reddit.com/zmzzrt).

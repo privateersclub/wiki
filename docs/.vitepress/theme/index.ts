@@ -5,8 +5,8 @@ import "./style.css";
 import "uno.css";
 
 export default {
-  extends: DefaultTheme,
-  enhanceApp({ router }) {
-    loadProgress(router);
-  },
+    extends: DefaultTheme,
+    enhanceApp({router}) {
+        loadProgress(router);
+    },
 } satisfies Theme;

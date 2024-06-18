@@ -5,7 +5,9 @@ title: Unsafe
 ## Untrusted sites and uploaders
 
 ::: tip
-You can just use the [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html) on uBlacklist (more efficient) or uBlock Origin to block most of the sites mentioned here and more. Follow
+You can just use
+the [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+on uBlacklist (more efficient) or uBlock Origin to block most of the sites mentioned here and more. Follow
 [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) to add the
 custom filter to uBlacklist (put
 [this link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
@@ -29,7 +31,10 @@ to add it to uBlock Origin (use
 - ApunKaGames
 - BBRepacks - Caught with malware.
 - Corepack - Stolen releases and has been caught with malware.
-- CNET/Download.com/Softonic/ZDNET - [Adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9) history.
+-
+
+CNET/Download.com/Softonic/ZDNET - [Adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9)
+history.
 - CracksHash - Caught with [malware](https://redd.it/lklst7).
 - Crohasit - Is affiliated to SteamUnlocked owners.
 - cracked-games/GETGAMEZ - Caught with malware.
@@ -40,7 +45,8 @@ to add it to uBlock Origin (use
 - GameFabrique - IGG Games uploads and
   [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - GetIntoMac/GetIntoPC - Constantly caught with malware.
-- GOG Unlocked/RomsUnlocked/SteamUnlocked - [IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) uploads and nosTEAM, malicious
+- GOG Unlocked/RomsUnlocked/SteamUnlocked - [IGG Games](https://i.ibb.co/VgW2ymY/YUnRNpN.png) uploads and nosTEAM,
+  malicious
   redirect ads, and slow downloads.
 - haxNode
 - IGG Games/GamesTorrents/LoadGames/PCGamesTorrents - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and
@@ -54,7 +60,8 @@ to add it to uBlock Origin (use
 - Ocean of Games/Ocean of APKs - Constantly caught with malware.
 - Qoob/Seyter - Caught with crypto miners.
 - Repack-Games - Mislabels games and steals releases.
-- RSLoad - Uploaded the same MalwareBytes version that troubled FileCR and has [malware in μTorrent](https://i.ibb.co/QXrCfqQ/Untitled.png).
+- RSLoad - Uploaded the same MalwareBytes version that troubled FileCR and
+  has [malware in μTorrent](https://i.ibb.co/QXrCfqQ/Untitled.png).
 - SadeemAPK/SadeemPC - Constantly caught with malware.
 - The Pirate Bay - High malware risk due to no moderation.
 - VitaminX - Caught with crypto miners.
@@ -91,8 +98,11 @@ to add it to uBlock Origin (use
 - KLauncher - Contains malware.
 - Limewire - Long-dead, anything claiming to be them now should be avoided.
 - McAfee - Installs bloatware.
-- Opera (browsers) - [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [bad](https://rentry.co/operagx) privacy policies, besides [predatory](https://www.androidpolice.com/2020/01/21/opera-predatory-loans) loan apps.
-- PCProtect/Protected/TotalAV - Antivirus scams. [1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav).
+- Opera (
+  browsers) - [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [bad](https://rentry.co/operagx)
+  privacy policies, besides [predatory](https://www.androidpolice.com/2020/01/21/opera-predatory-loans) loan apps.
+- PCProtect/Protected/TotalAV - Antivirus
+  scams. [1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav).
 - PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from Discord server and
   repository.
 - TLauncher (unrelated to TLauncher Legacy) - [Shady](https://www.reddit.com/zmzzrt) business practices.

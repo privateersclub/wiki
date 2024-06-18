@@ -10,7 +10,7 @@ You can contribute to the project in various ways:
 For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js
 environment installed. Refer to its documentation for making changes to Vitepress itself.
 
-You will also need some hands-on experience with TypeScript if you're going to contribute to 
+You will also need some hands-on experience with TypeScript if you're going to contribute to
 improving internals.
 
 The root directory is `docs/`.

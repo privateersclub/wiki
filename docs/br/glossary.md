@@ -40,16 +40,21 @@ precisar de ajuda.
 Instale o [**uBlock Origin**](https://ublockorigin.com) no seu navegador e pronto! Se você quiser
 uma solução para todo o sistema, você _pode_ usar o [**NextDNS**](https://nextdns.io), mas ele não
 será tão efetivo quanto o uBlock Origin. Você também pode usar o
-[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) ou o [Bypass.city](https://bypass.city) para _contornar_
+[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) ou
+o [Bypass.city](https://bypass.city) para _contornar_
 redirecionamentos.
 
 ### iOS
 
-O [**NextDNS**](https://nextdns.io) deve cobrir tudo para bloqueio de anúncios e rastreadores no sistema todo. Você também pode experimenar o [**AhaDNS**](https://ahadns.com).
+O [**NextDNS**](https://nextdns.io) deve cobrir tudo para bloqueio de anúncios e rastreadores no sistema todo. Você
+também pode experimenar o [**AhaDNS**](https://ahadns.com).
 :::
 
 ::: tip Eu preciso de uma VPN ao baixar?
-A necessidade de usar uma VPN depende do método de download. Para downloads diretos, uma VPN é geralmente desnecessária. Porém, se você está interagindo com atividades ponto a ponto (P2P) como torrents, é aconselhável usar uma VPN para maior segurança e privacidade. Além disso, as ramificações legais em sua área tem um papel crucial; se as consequências forem brandas, vocẽ pode optar por não usar uma VPN.
+A necessidade de usar uma VPN depende do método de download. Para downloads diretos, uma VPN é geralmente desnecessária.
+Porém, se você está interagindo com atividades ponto a ponto (P2P) como torrents, é aconselhável usar uma VPN para maior
+segurança e privacidade. Além disso, as ramificações legais em sua área tem um papel crucial; se as consequências forem
+brandas, vocẽ pode optar por não usar uma VPN.
 :::
 
 ::: tip Por que o meu download é tão lento?

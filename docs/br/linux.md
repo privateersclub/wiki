@@ -7,16 +7,16 @@ description: Tudo sobre pirataria no Linux.
 
 ### Sites de downloads diretos
 
-- 🌟 [Torrminatorr](https://forum.torrminatorr.com/viewforum.php?f=26) -
-  Fórum de pirataria de jogos
-- 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux - [Tradutor](useful.md#translator)
-- 🌟 [CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos
+- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
+  lançamentos da Cena / Registro obrigatório
+- 🌟 [KAPITALSIN](https://kapitalsin.com/forum) - Jogos de Linux / [Tradutor](useful.md#translator)
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
+  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 
 ### Sites de torrents
 
 - 🌟 [johncena141](https://1337x.to/user/johncena141/) - Jogos de Linux
-- 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux -
-  [Tradutor](useful.md#translator)
+- 🌟 [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux / [Tradutor](useful.md#translator)
 
 ## Programas
 
@@ -30,12 +30,7 @@ description: Tudo sobre pirataria no Linux.
 
 ### Ferramentas
 
-::: info
-Todas as ferramentas são boas, destacadas com uma estrela ou não.
-:::
-
-- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para monitoração de FPS,
-  temperatura e mais.
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para monitoração de desempenho
   - [GUI](https://github.com/benjamimgois/goverlay)
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Gerenciador do Proton-GE
 - [Winetricks](https://github.com/Winetricks/winetricks) - Correções e ajustes do Wine
