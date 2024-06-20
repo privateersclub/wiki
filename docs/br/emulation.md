@@ -9,12 +9,13 @@ title: Emulação
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) - Registro obrigatório
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) -
+- [The ROM Depot](https://theromdepot.com) / Registro obrigatório
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guia de download alternativo](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jogos de PlayStation 1, Vita, 3 e Portable
 - [Ziperto](https://www.ziperto.com) - Jogos da Nintendo
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
+- [NXBrew](https://nxbrew.com) - Jogos de Nintendo Switch
 - [r/Roms](https://www.reddit.com/r/roms)
 
 ## Emuladores
@@ -22,13 +23,13 @@ title: Emulação
 :::tip
 :exclamation: Veja a
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** para
-mais.
+mais
 :::
 
-- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles - Evite os núcleos do melonDS, PPSSPP, Dolphin e
-  Citra.
-- [Ares](https://ares-emu.net) - Jogos de múltiplos consoles - Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
-  Advance.
+- [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles / Evite os núcleos do melonDS, PPSSPP, Dolphin e
+  Citra
+- [Ares](https://ares-emu.net) - Jogos de múltiplos consoles / Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
+  Advance
 - [Ryujinx](https://ryujinx.org) / [Torzu](https://github.com/litucks/torzu) ([Android](https://github.com/sudachi-emu/sudachi)) -
   Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
