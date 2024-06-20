@@ -9,12 +9,13 @@ title: Emulation
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) - Registration required
-- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) -
+- [The ROM Depot](https://theromdepot.com) / Registration required
+- [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, and Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
+- [NXBrew](https://nxbrew.com) - Nintendo Switch games
 - [r/Roms](https://www.reddit.com/r/roms)
 
 ## Emulators
@@ -22,25 +23,25 @@ title: Emulation
 :::tip
 :exclamation: See the
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** for
-more.
+more
 :::
 
-- [RetroArch](https://retroarch.com) - Multiple consoles games - Avoid the melonDS, PPSSPP, Dolphin, and Citra cores.
-- [Ares](https://ares-emu.net) - Multiple consoles games - Avoid the Neo Geo, PlayStation 1, and Game Boy Advance cores.
-- [Ryujinx](https://ryujinx.org) - Nintendo Switch
-  games / [Torzu](https://github.com/litucks/torzu) / ([Android](https://github.com/sudachi-emu/sudachi)) - Nintendo
+- [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, and Citra cores
+- [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo Geo, PlayStation 1, and Game Boy Advance cores
+- [Ryujinx](https://ryujinx.org) / [Torzu](https://github.com/litucks/torzu) ([Android](https://github.com/sudachi-emu/sudachi)) -
+  Nintendo
   Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo
   3DS games
-- [Dolphin Emulator](https://dolphin-emu.org) - Wii and GameCube games
+- [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
 - [RPCS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
 - [MAME](https://www.mamedev.org) - Arcade games
 - [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
-- [melonDS](https://melonds.kuribo64.net) - Nintendo DS games / [DeSmuME](https://desmume.org) - Nintendo DS games
-- [No$GBA](https://www.nogba.com) - Nintendo DS and Game Boy Advance games
+- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) - Nintendo DS games
+- [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
 - [xemu](https://xemu.app) - Original Xbox games
 - [mGBA](https://mgba.io) - Game Boy Advance games
 - [PCSX2](https://pcsx2.net) - PlayStation 2 games

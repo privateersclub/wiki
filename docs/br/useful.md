@@ -14,7 +14,9 @@ faltando no seu computador:
 ## Ferramentas
 
 :::tip
-:exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) Para mais ferramentas da
+:exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
+e [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) para mais ferramentas
+da
 Steam
 :::
 
@@ -26,7 +28,7 @@ Steam
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
   Steam / [Interface gráfica](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM
-  SteamStub / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
+  SteamStub / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack) / [Guia](https://rentry.co/goldberg_emulator)
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
   correções para o Steamworks
 - [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic
@@ -39,6 +41,7 @@ Steam
 - [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay
 - [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outros jogos
   pirateados / Senha: `online-fix.me`
+- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Baixador da Oficina da Steam
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
   pirateada de The Sims 4
 - [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções extendidas
@@ -46,6 +49,14 @@ Steam
   root)
 
 ## Programas úteis
+
+:::tip
+Ative produtos da Microsoft (Office e Windows) com os
+**[Scripts de Ativação da Microsoft](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe. Para o resto, visite
+o [LRepacks](https://lrepacks.net), [CRACKSurl](https://cracksurl.com)
+ou [GameBounty](https://gamebounty.world/software)
+:::
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
@@ -58,19 +69,13 @@ Steam
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
   gerador de informações de hash
 
-:::tip
-Ative produtos da Microsoft (Office e Windows) com os
-**[Scripts de Ativação da Microsoft](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe
-:::
-
 ## Extensões úteis de navegador
 
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de
   anúncio / [Recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrador de pesquisas
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Userscript contornador de encurtadores de links - Requer uma das 3 extensões abaixo
+  Userscript contornador de encurtadores de links / Requer uma das 3 extensões abaixo
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de
   código aberto para o Firefox
 - [Tampermonkey](https://www.tampermonkey.net) - Gerenciador de userscripts de código aberto para a
@@ -80,9 +85,7 @@ Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe
 
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
-    <ul>
-      <li>Tradução em tempo real via Google ou Yandex</li>
-    </ul>
+- Tradução em tempo real via Google ou Yandex
   </li>
 </ul>
 
@@ -114,8 +117,8 @@ foi crackeado!
 - [PreDB.pw](https://predb.pw)
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
 - [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Só repacks
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks
-  - Subreddit irmão do [r/PiratedGames](https://www.reddit.com/r/PiratedGames).
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks / Subreddit irmão
+  do [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
 
 ## Subreddits relacionados
 
