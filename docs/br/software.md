@@ -10,7 +10,7 @@ title: Programas
   arquivos / [Guia de aprimoramento](https://lemmy.world/post/3098414) / [Resolvedor offline de CAPTCHAs](https://github.com/cracker0dks/CaptchaSolver) / [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
-- [Motrix](https://motrix.app)
+- [imFile](https://github.com/imfile-io/imfile-desktop) or [Motrix](https://motrix.app)
 - [Aria2](https://aria2.github.io) - Gerenciador de downloads pelo
   terminal / [Interface gráfica](https://persepolisdm.github.io) / [Interface web](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) / [Baixador de vídeos](https://github.com/meowcateatrat/elephant)

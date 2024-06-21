@@ -17,7 +17,7 @@ faltando no seu computador:
 :exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 e [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) para mais ferramentas
 da
-Steam
+Steam.
 :::
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
@@ -44,7 +44,7 @@ Steam
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Baixador da Oficina da Steam
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
   pirateada de The Sims 4
-- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções extendidas
+- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções extendidas.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
   root)
 
@@ -55,13 +55,13 @@ Ative produtos da Microsoft (Office e Windows) com os
 **[Scripts de Ativação da Microsoft](https://github.com/massgravel/Microsoft-Activation-Scripts).**
 Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe. Para o resto, visite
 o [LRepacks](https://lrepacks.net), [CRACKSurl](https://cracksurl.com)
-ou [GameBounty](https://gamebounty.world/software)
+ou [GameBounty](https://gamebounty.world/software).
 :::
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
 - [Tor Browser](https://www.torproject.org) - Navegador web privado que roteia o tráfego da Internet por uma rede
-  descentralizada de servidores operados por voluntários, dificultando te rastrear
+  descentralizada de servidores operados por voluntários, dificultando te rastrear.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de
   conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo
   real
@@ -91,14 +91,14 @@ ou [GameBounty](https://gamebounty.world/software)
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias
   coloridas nesta ferramenta mantêm a sua vida online separada para preservar a privacidade. Cookies
-  são isolados, permitindo uso simultâneo de várias identidades ou contas
+  são isolados, permitindo uso simultâneo de várias identidades ou contas.
 
 ## Trainers (trapaças)
 
 Não são para jogos online. Não trapaceie em jogos online!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
@@ -106,7 +106,9 @@ Não são para jogos online. Não trapaceie em jogos online!
 
 ## Rastreadores de lançamentos
 
-Sem downloads fornecidos. Os sites têm informações de lançamentos da Cena/P2P. Veja aqui se um jogo
+Não fornece downloads.
+Os sites têm informações de lançamentos da Cena/P2P.
+Veja aqui se um jogo
 foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)

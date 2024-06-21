@@ -5,6 +5,7 @@ title: Emulação
 ## Sites de ROMs
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
+- [🌟 Crocdb](https://crocdb.net)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
@@ -16,18 +17,15 @@ title: Emulação
 - [Ziperto](https://www.ziperto.com) - Jogos da Nintendo
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
 - [NXBrew](https://nxbrew.com) - Jogos de Nintendo Switch
-- [r/Roms](https://www.reddit.com/r/roms)
 
 ## Emuladores
 
 :::tip
 :exclamation: Veja a
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** para
-mais
+mais. Alguns emuladores requerem arquivos adicionais (chaves ou BIOS) e estão marcadas com um *. Você pode
+obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
-
-Alguns emuladores requerem arquivos adicionais (chaves ou BIOS) e estão marcadas com um *. Você pode
-obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files)
 
 - [RetroArch](https://retroarch.com)* - Jogos de múltiplos consoles / Evite os núcleos do melonDS, PPSSPP, Dolphin e
   Citra
@@ -56,6 +54,7 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files)
 
 ## Subreddits relacionados
 
+- [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/128bitbay](https://www.reddit.com/r/128bitbay)
