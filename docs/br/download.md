@@ -8,7 +8,7 @@ Downloads diretos são downloads normais por um servidor, sendo mais seguros e n
 Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em
 alguns países da UE). Veja a
 [seção de gerenciadores de downloads](software.md#gerenciadores-de-downloads) para obter ajuda no
-gerenciamento de seus downloads
+gerenciamento de seus downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
   obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
@@ -54,7 +54,7 @@ gerenciamento de seus downloads
 
 Torrents são downloads P2P de outros usuários, sem servidores. Você precisará de uma VPN para
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
-pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações
+pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
   [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
@@ -71,19 +71,19 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações
 ## Repacks
 
 Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais
-devido à descompressão de arquivos
+devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do
-  GameDrive, GLOAD ou do Ova Games para downloads rápidos grátis
+  GameDrive, GLOAD ou do Ova Games para downloads rápidos grátis.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter)
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
-  de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022
+  de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
 - [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)

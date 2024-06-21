@@ -9,7 +9,7 @@ title: Software
   hosts / [Enhancement guide](https://lemmy.world/post/3098414) / [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
-- [Motrix](https://motrix.app)
+- [imFile](https://github.com/imfile-io/imfile-desktop) or [Motrix](https://motrix.app)
 - [Aria2](https://aria2.github.io) - Terminal download
   manager / [GUI](https://persepolisdm.github.io) / [Web UI](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) / [Video downloader](https://github.com/meowcateatrat/elephant)

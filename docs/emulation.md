@@ -5,6 +5,7 @@ title: Emulation
 ## ROM sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
+- [🌟 Crocdb](https://crocdb.net)
 - [🌟 Vimm's Lair](https://vimm.net/?p=vault)
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
@@ -16,18 +17,15 @@ title: Emulation
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
 - [NXBrew](https://nxbrew.com) - Nintendo Switch games
-- [r/Roms](https://www.reddit.com/r/roms)
 
 ## Emulators
 
 :::tip
 :exclamation: See the
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)** for
-more
+more. Some emulators require additional files (keys or BIOS) and are marked with an *. You can get
+them [here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
-
-Some emulators require additional files (keys or BIOS) and are marked with an *. You can get
-them [here](https://r-roms.github.io/megathread/misc/#bios-files)
 
 - [RetroArch](https://retroarch.com)* - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, and Citra cores
 - [Ares](https://ares-emu.net)* - Multiple consoles games / Avoid the Neo Geo, PlayStation 1, and Game Boy Advance cores
@@ -55,6 +53,7 @@ them [here](https://r-roms.github.io/megathread/misc/#bios-files)
 
 ## Related subreddits
 
+- [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/128bitbay](https://www.reddit.com/r/128bitbay)

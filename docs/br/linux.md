@@ -43,7 +43,7 @@ description: Tudo sobre pirataria no Linux
   Instalar repacks com o Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in) / [Correção para erros de DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 
 ::: info
-É recomendado adquirir jogos pelo DODI em vez da FitGirl
+É recomendado adquirir jogos pelo DODI em vez da FitGirl.
 :::
 
 ## Subreddits relacionados

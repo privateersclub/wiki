@@ -15,13 +15,13 @@ on your computer:
 
 :::tip
 :exclamation: See [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
-and [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) for more Steam tools
+and [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) for more Steam tools.
 :::
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate Steam game DLC
   unlocker / [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Automatic installation](https://github.com/pointfeev/CreamInstaller)
 - [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games Store, EA clients,
-  and Uplay DLC unlocker
+  & Uplay DLC unlocker
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Steam
   emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
 - [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM
@@ -40,7 +40,7 @@ and [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedet
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Steam Workshop downloader
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Pirated The Sims 4 version
   updater
-- [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod support & extended features
+- [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod support & extended features.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better with root)
 
 ## Useful software
@@ -50,13 +50,13 @@ Activate Microsoft products (Office & Windows) with
 **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products. For the rest,
 visit [LRepacks](https://lrepacks.net), [CRACKSurl](https://cracksurl.com)
-or [GameBounty](https://gamebounty.world/software)
+or [GameBounty](https://gamebounty.world/software).
 :::
 
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
 - [Tor Browser](https://www.torproject.org) - Private web browser that routes Internet traffic through a decentralized
-  network of volunteer-operated servers, making you hard to trace
+  network of volunteer-operated servers, making you hard to trace.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Achievement file parser with
   auto-screenshot, playtime tracking, & real-time notification
 - [Parsec](https://parsec.app) - Low-latency game streaming software
@@ -83,14 +83,14 @@ or [GameBounty](https://gamebounty.world/software)
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) -
   Color-coded tabs in this tool keep your online life separated, preserving your privacy. Cookies
-  are containerized, allowing simultaneous use of multiple identities or accounts
+  are containerized, allowing simultaneous use of multiple identities or accounts.
 
 ## Trainers (cheats)
 
 Not for online games. No cheating in online games!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and NoCD fixes
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and NoCD fixes.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables

@@ -4,7 +4,7 @@ title: Início
 
 hero:
   name: privateersclub/wiki
-  tagline: Bem-vindo(a) ao wiki de pirataria de jogos mais abrangente da Internet
+  tagline: Bem-vindo(a) ao wiki de pirataria de jogos mais abrangente da Internet.
   actions:
     - text: Começar
       link: /br/glossary
@@ -14,7 +14,7 @@ hero:
 features:
   - icon: ✏️
     title: Ativamente Atualizado
-    details: Nosso wiki é ativamente mantido pelos membros dedicados de nossa comunidade
+    details: Nosso wiki é ativamente mantido pelos membros dedicados de nossa comunidade.
   - icon: 🌐
     title: Traduções
     details:
@@ -24,5 +24,5 @@ features:
     title: Escolhas Favoritas
     details:
       Regularmente selecionamos os melhores sites para você e enfatizamos sua importância, para que
-      você possa ficar tranquilo(a)
+      você possa ficar tranquilo(a).
 ---
