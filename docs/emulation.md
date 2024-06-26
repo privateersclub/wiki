@@ -51,6 +51,14 @@ them [here](https://r-roms.github.io/megathread/misc/#bios-files).
 - [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System
   games
 
+## Browser emulators (No-setup)
+
+- [The Retro Saga](https://theretrosaga.com/) - NES/SNES/SEGA/ARCADE/DOS games browser emulator
+- [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
+- [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
+- [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
+- [Capcom Town](https://captown.capcom.com/en/retro_games) - Capcom Browser Emulator
+
 ## Related subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
