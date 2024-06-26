@@ -53,7 +53,7 @@ them [here](https://r-roms.github.io/megathread/misc/#bios-files).
 
 ## Browser emulators (No-setup)
 
-- [The Retro Saga](https://theretrosaga.com/) - NES/SNES/SEGA/ARCADE/DOS games browser emulator
+- [Play retro games online](https://theretrosaga.com/) - The Retro Saga (NES/SNES/SEGA/ARCADE/DOS games)
 - [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
 - [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
 - [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator
