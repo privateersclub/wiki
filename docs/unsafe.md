@@ -32,7 +32,7 @@ Also beware the [fake 1337x sites](https://redd.it/117fq8t) and [fake Z-Lib site
 - BBRepacks - Caught with malware.
 - Corepack - Stolen releases and has been caught with malware.
 - CNET/Download.com/Softonic/ZDNET - [Adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9)
-history.
+  history.
 - CracksHash - Caught with [malware](https://redd.it/lklst7).
 - Crohasit - Is affiliated to SteamUnlocked owners.
 - cracked-games/GETGAMEZ - Caught with malware.
