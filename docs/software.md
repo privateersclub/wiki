@@ -11,14 +11,15 @@ Software to enhance your piracy experience.
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Crack](https://cracksurl.com/internet-download-manager) &
-  [instructions](https://rentry.org/installidm) /
-  [Activation script](https://github.com/lstprjct/IDM-Activation-Script) /
-  [Trial reset](https://github.com/J2TEAM/idm-trial-reset) /
-  [IDMHelper](https://github.com/unamer/IDMHelper)
+  [instructions](https://rentry.org/installidm) 
+  - [Activation script](https://github.com/lstprjct/IDM-Activation-Script) 
+  - [Trial reset](https://github.com/J2TEAM/idm-trial-reset)
+  - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detects most file
-  hosts / [Enhancement guide](https://lemmy.world/post/3098414) /
-  [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver) /
-  [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
+  hosts
+  - [Enhancement guide](https://lemmy.world/post/3098414)
+  - [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver)
+  - [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) /
   [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
