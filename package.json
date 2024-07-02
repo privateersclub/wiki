@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --log-level=warn --write docs/",
+    "format": "prettier --cache --write docs/",
     "build": "pnpm run docs:build && pnpm run i18n:build",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -16,6 +16,9 @@
   },
   "license": "Unlicense",
   "devDependencies": {
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.2.0",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.2.0",
+    "@nolebase/vitepress-plugin-page-properties": "^2.2.0",
     "@types/node": "^20.14.2",
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.1",
@@ -28,5 +31,6 @@
     "unocss": "^0.60.4",
     "vue": "^3.4.27",
     "x-satori": "^0.1.5"
-  }
+  },
+  "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4"
 }
