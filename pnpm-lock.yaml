@@ -27,6 +27,9 @@ importers:
         specifier: ^0.1.5
         version: 0.1.5
     devDependencies:
+      '@iconify-json/logos':
+        specifier: ^1.1.43
+        version: 1.1.43
       '@nolebase/vitepress-plugin-enhanced-readabilities':
         specifier: ^2.2.0
         version: 2.2.0(@algolia/client-search@4.23.3)(@types/node@20.14.2)(nprogress@0.2.0)(postcss@8.4.38)(search-insights@2.14.0)
@@ -444,6 +447,9 @@ packages:
 
   '@iconify-json/icon-park-outline@1.1.15':
     resolution: {integrity: sha512-jQbk/ETARyYPjX6HolkdjSLJHsNCfSBfYUqcUQLXYK/1tfuVnQsUdWG2IM2a7VBpxJtrK7r4n1iwPOFaZ5T46g==}
+
+  '@iconify-json/logos@1.1.43':
+    resolution: {integrity: sha512-UtvL1yDHUr9dl1Tqihh6K9m5dmbYKOYyLf3i9aKhymSW76QjOCGjpgQc0PQ4GJCAdU1cAMu+WO61TgPxdonrlg==}
 
   '@iconify-json/octicon@1.1.55':
     resolution: {integrity: sha512-TWVO7olfquviijdmdrEbvpjPTxBmVvU0ZoR9BBx9pIhvEsG7emefrLg7eZm1CYGYM+9StkksDbqha8HCy/6kzQ==}
@@ -2429,6 +2435,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/icon-park-outline@1.1.15':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/logos@1.1.43':
     dependencies:
       '@iconify/types': 2.0.0
 

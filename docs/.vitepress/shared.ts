@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
+import { presetUno, presetIcons } from 'unocss'
 import {
   PageProperties,
   PagePropertiesMarkdownSection
@@ -34,7 +35,17 @@ export const sharedConfig = defineConfig({
       ]
     },
     plugins: [
-      UnoCSS(),
+      UnoCSS({
+        presets: [
+          presetUno(),
+          presetIcons({
+            extraProperties: {
+              display: 'inline-block',
+              'vertical-align': 'middle'
+            }
+          })
+        ]
+      }),
       GitChangelog({
         maxGitLogCount: 2000,
         repoURL: () => 'https://github.com/privateersclub/wiki'
