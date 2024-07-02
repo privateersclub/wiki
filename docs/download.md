@@ -75,17 +75,13 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
   [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
-  /
-  [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
-  /
-  [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
-  /
-  [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
-  /
-  [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+  - [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
+  - [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+  - [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) /
   [Translator](useful.md#translator)
-- [Rutor](http://rutor.info/games) / [Translator](useful.md#translator)
+- [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games & apps

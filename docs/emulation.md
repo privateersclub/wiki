@@ -27,9 +27,11 @@ ROM sites, emulators, discussion pages and more.
 ## Emulators
 
 :::tip 
-:exclamation: See the
+See the
 **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
-for more. Some emulators require additional files (keys or BIOS) and are marked
+for more.
+
+Some emulators require additional files (keys or BIOS) and are marked
 with an :gear:. You can get them
 [here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
