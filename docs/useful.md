@@ -77,7 +77,7 @@ For the rest, visit [LRepacks](https://lrepacks.net),
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Achievement file parser with auto-screenshot, playtime tracking, & real-time
   notification
-  - [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
+- [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
 - [Parsec](https://parsec.app) - Low-latency game streaming software
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier &
   hash info generator
