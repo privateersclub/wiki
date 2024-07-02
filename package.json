@@ -31,6 +31,5 @@
     "unocss": "^0.60.4",
     "vue": "^3.4.27",
     "x-satori": "^0.1.5"
-  },
-  "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4"
+  }
 }
