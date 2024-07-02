@@ -42,7 +42,7 @@ with an :gear:. You can get them
   Geo, PlayStation 1, and Game Boy Advance cores
 - [:gear: Ryujinx](https://ryujinx.org) /
   [:gear: Torzu](https://github.com/litucks/torzu)
-  ([Android](https://github.com/sudachi-emu/sudachi)) - Nintendo Switch games
+  (<span class="i-logos-android-icon" /> [Android](https://github.com/sudachi-emu/sudachi)) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games

@@ -16,6 +16,7 @@
   },
   "license": "Unlicense",
   "devDependencies": {
+    "@iconify-json/logos": "^1.1.43",
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.2.0",
     "@nolebase/vitepress-plugin-git-changelog": "^2.2.0",
     "@nolebase/vitepress-plugin-page-properties": "^2.2.0",
