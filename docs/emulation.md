@@ -7,7 +7,7 @@ description: ROM sites, emulators, discussion pages and more.
 
 ROM sites, emulators, discussion pages and more.
 
-## ROM sites
+## ROM Sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Crocdb](https://crocdb.net)
@@ -60,7 +60,7 @@ with an :gear:. You can get them
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
   [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 
-## Related subreddits
+## Related Subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)

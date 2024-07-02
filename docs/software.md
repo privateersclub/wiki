@@ -7,7 +7,7 @@ description: Software to enhance your piracy experience.
 
 Software to enhance your piracy experience.
 
-## Download managers
+## Download Managers
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Crack](https://cracksurl.com/internet-download-manager) &
@@ -30,7 +30,7 @@ Software to enhance your piracy experience.
 - [Free Download Manager](https://www.freedownloadmanager.org) /
   [Video downloader](https://github.com/meowcateatrat/elephant)
 
-## Torrent clients
+## Torrent Clients
 
 - [🌟 qBittorrent](https://www.qbittorrent.org) /
   [Enhanced edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) /

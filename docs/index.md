@@ -8,8 +8,8 @@ hero:
   actions:
     - text: Get Started
       link: /glossary
-    - text: Contribute
-      link: /contribute
+    - text: Translations
+      link: /_translations
 
 features:
   - icon: ✏️

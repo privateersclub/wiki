@@ -12,7 +12,7 @@ tags:
 
 Sites and everything for Direct downloads.
 
-## Direct download sites
+## Direct Download Sites
 
 Direct downloads are normal downloads from a server, being safer and not
 requiring a VPN. You may need a VPN to access blocked file hosts (like
@@ -67,11 +67,11 @@ your downloads.
   [Play without a legit account](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
-## Torrent sites
+## Torrent Sites
 
 Torrents are P2P downloads from other users, without servers. You'll need a VPN
 to torrent safely and avoid ISP copyright notices, unless your country tolerates
-piracy. Check the [VPNs section](software.md#vpns) for more info.
+piracy. Check the [VPNs section](/software#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
   [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)

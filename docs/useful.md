@@ -7,7 +7,7 @@ description: Essential tools, sites, components that are worth using.
 
 Essential tools, sites, components that are worth using.
 
-## Required components
+## Required Components
 
 Install all before downloading games (legitimate or pirated) to avoid crashes
 from missing software on your computer:
@@ -61,7 +61,8 @@ for more Steam tools.
 
 ## Software
 
-:::tip Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+:::tip 
+Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 
 For the rest, visit [LRepacks](https://lrepacks.net),
@@ -119,7 +120,7 @@ Not for online games. No cheating in online games!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
-## Release trackers
+## Release Trackers
 
 No downloads provided. Sites have P2P/Scene release info. Check here to see if a
 game is cracked!
@@ -135,7 +136,7 @@ game is cracked!
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only /
   [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit
 
-## Related subreddits
+## Related Subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)

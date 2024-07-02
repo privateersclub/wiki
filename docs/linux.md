@@ -11,7 +11,7 @@ Everything regarding piracy on Linux.
 
 ## Downloading
 
-### Direct download sites
+### Direct Download Sites
 
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene
   releases forum / Registration required
@@ -23,7 +23,7 @@ Everything regarding piracy on Linux.
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
 
-### Torrent sites
+### Torrent Sites
 
 - [🌟 johncena141](https://1337x.to/user/johncena141/) - Linux games
 - [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux games
