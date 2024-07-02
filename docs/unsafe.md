@@ -23,7 +23,7 @@ to add it to uBlock Origin (use
 under "Import…"). 
 :::
 
-## Untrusted sites and uploaders
+## Untrusted Sites & Uploaders
 
 :::danger 
 **SCENE GROUPS HAVE NO SITES! Sites with a Scene group name in the URL
@@ -81,7 +81,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - xGIROx - Caught with crypto miners.
 - YASDL - Stardock and JetBrains versions with malware.
 
-## Unsafe software
+## Unsafe Software
 
 :::tip
 [Read this Pastebin about Fake Windows activators.](https://pastebin.com/gCmWs2GR)
