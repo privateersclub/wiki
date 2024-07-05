@@ -25,7 +25,7 @@ your downloads.
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
-- [🌟 GOG Games](https://gog-games.to) - GOG Games
+- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
@@ -55,7 +55,7 @@ your downloads.
 - [APKHome](https://apkhome.io) - Android games
 - [LITEAPKS](https://liteapks.com) - Modded Android games & apps
 - [RB Mods](https://www.rockmods.net) - Android apps
-- [ARMGDDN Games](https://t.me/ARMGDDNGames) - PCVR games
+- [ARMGDDN Games](https://t.me/ARMGDDNGames) [Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
   English in the top-right corner
@@ -96,7 +96,7 @@ time due to file decompression.
 - [🌟 ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
   mirrors for free fast downloads.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
+- [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.

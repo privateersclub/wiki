@@ -23,7 +23,7 @@ gerenciamento de seus downloads.
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
   obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
-- [🌟 GOG Games](https://gog-games.to) - Jogos da GOG
+- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
 - [🌟 GamesDrive](https://gamesdrive.net)
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
@@ -49,7 +49,7 @@ gerenciamento de seus downloads.
 - [APKHome](https://apkhome.io) - Jogos de Android
 - [LITEAPKS](https://liteapks.com) - Jogos e aplicativos modificados de Android
 - [RB Mods](https://www.rockmods.net) - Aplicativos de Android
-- [ARMGDDN Games](https://t.me/ARMGDDNGames) - Jogos de PCVR
+- [ARMGDDN Games](https://t.me/ARMGDDNGames) / [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Jogos de PCVR
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos / Mude para inglês no canto superior direito
 - [F95zone](https://f95zone.to) - Jogos NSFW / Registro obrigatório
@@ -85,7 +85,7 @@ devido à descompressão de arquivos.
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
+- [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
