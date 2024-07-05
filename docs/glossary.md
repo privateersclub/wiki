@@ -10,20 +10,20 @@ serves as referential material to gloss over quickly.
 
 ## Terms
 
-:::tip What is the Scene? And P2P? 
+:::tip What is the Scene? And P2P?
 The Scene is an underground community of
 people who crack and share copyrighted material. They have strict rules that all
 scene members have to abide. P2P are independent crackers who don't follow the
-[Scene rules](https://scenerules.org). 
+[Scene rules](https://scenerules.org).
 :::
 
-:::tip What’re NFOs? 
+:::tip What’re NFOs?
 NFOs are like a readme.txt that Scene makes on release. It
 gives you instructions, a general description of the game and some additional
 information.
 :::
 
-:::tip Why does X site have so many ads? 
+:::tip Why does X site have so many ads?
 **Use an adblocker**. Ads keep the
 websites running, but sometimes the ad ruins the experience or even link
 malware. You can take these steps if you want an ad-free experience:

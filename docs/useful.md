@@ -1,11 +1,11 @@
 ---
 title: Useful
-description: Essential tools, sites, components that are worth using.
+description: Essential tools, sites, and components that are worth using.
 ---
 
 # Useful
 
-Essential tools, sites, components that are worth using.
+Essential tools, sites, and components that are worth using.
 
 ## Required Components
 
@@ -61,8 +61,8 @@ for more Steam tools.
 
 ## Software
 
-:::tip 
-Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts).**
+:::tip
+Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 
 For the rest, visit [LRepacks](https://lrepacks.net),

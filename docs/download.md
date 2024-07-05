@@ -1,6 +1,6 @@
 ---
 title: Download
-description: Sites and everything for Direct downloads.
+description: Sites and everything for direct downloads.
 tags:
   - downloads
   - torrents
@@ -10,7 +10,7 @@ tags:
 
 # Download
 
-Sites and everything for Direct downloads.
+Sites and everything for direct downloads.
 
 ## Direct Download Sites
 
@@ -30,14 +30,13 @@ your downloads.
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
-- [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
-- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene and P2P releases
+- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene & P2P releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users / Password:
   `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Slow downloads / [Translator](useful.md#translator) / Password:
+  Slow downloads / [Translator](/useful#translator) / Password:
   `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
@@ -69,21 +68,21 @@ your downloads.
 
 ## Torrent Sites
 
-Torrents are P2P downloads from other users, without servers. You'll need a VPN
+Torrents are P2P downloads from other users, without servers. You will need a VPN
 to torrent safely and avoid ISP copyright notices, unless your country tolerates
 piracy. Check the [VPNs section](/software#vpns) for more info.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
   [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
-  - [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
-  - [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
-  - [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
-  - [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) /
-  [Translator](useful.md#translator)
+  - [Interface improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
+  - [Magnet links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Timezone fix](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+  - [Subtitle links to movies & TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+  [Translator](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
-  [Translator](useful.md#translator)
+  [Translator](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games & apps
 - [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games & apps
 
@@ -94,21 +93,20 @@ time due to file decompression.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Use GameDrive's, GLOAD's or Ova Games'
+- [🌟 ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
   mirrors for free fast downloads.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
-- [ScOOt3r Repacks](https://game-repack.site/scooter)
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
-- [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally
-  has lossy, or compressed repacks) / [Translator](useful.md#translator)
+  has lossy, or compressed repacks) / [Translator](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games

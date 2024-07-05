@@ -7,7 +7,7 @@ description: Things you should always avoid using.
 
 Things you should always avoid using.
 
-:::tip 
+:::tip
 You can just use the
 [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites)
 [adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
@@ -20,18 +20,18 @@ under "URL") and
 [this guide](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
 to add it to uBlock Origin (use
 [this](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
-under "Import…"). 
+under "Import…").
 :::
 
 ## Untrusted Sites & Uploaders
 
-:::danger 
+:::danger
 **SCENE GROUPS HAVE NO SITES! Sites with a Scene group name in the URL
 are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 [fake Z-Lib sites](https://redd.it/16xtm67).**
 :::
 
-- AGFY - Scam links
+- AGFY - Scam links.
 - AimHaven - Malicious redirect ads.
 - AliPak/AliTPB/b4tman - Constantly caught with malware.
 - AllPCWorld - Uploaded KMS Matrix, a known malware.
@@ -49,8 +49,8 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://www.reddit.com/qy6z3c).
 - FileCR - [Constantly](https://rentry.co/filecr_malware) caught with malware.
+- FreeTP/Game3rb - Malicious fake download links on the page.
 - FTUApps - [Constantly](https://redd.it/120xk62) caught with malware.
-- Game3rb - Malicious fake download links on the page.
 - GameFabrique - IGG Games uploads and
   [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - GetIntoMac/GetIntoPC - Constantly caught with malware.
@@ -84,7 +84,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 ## Unsafe Software
 
 :::tip
-[Read this Pastebin about Fake Windows activators.](https://pastebin.com/gCmWs2GR)
+[Read this Pastebin about fake Windows activators.](https://pastebin.com/gCmWs2GR)
 :::
 
 - μTorrent - Has ads, trackers, and
@@ -116,7 +116,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
   [2](https://youtu.be/PcS3EozgyhI),
   [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
 - PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from
-  Discord server and repository. Use PrismLauncher.
+  Discord server and repository. Use Prism Launcher.
 - TLauncher (unrelated to TLauncher Legacy) -
-  [Shady](https://www.reddit.com/zmzzrt) business practices. Use PrismLauncher.
+  [Shady](https://www.reddit.com/zmzzrt) business practices. Use Prism Launcher.
 - VSTorrent - Caught with [malware](https://redd.it/x66rz2).

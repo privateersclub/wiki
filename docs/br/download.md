@@ -1,8 +1,18 @@
 ---
 title: Downloads
+description: Sites e tudo para downloads diretos.
+tags:
+  - downloads
+  - torrents
+  - repacks
+  - linux
 ---
 
-## Sites de downloads diretos
+# Downloads
+
+Sites e tudo para downloads diretos.
+
+## Sites de Downloads Diretos
 
 Downloads diretos são downloads normais por um servidor, sendo mais seguros e não exigindo uma VPN.
 Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em
@@ -18,7 +28,6 @@ gerenciamento de seus downloads.
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
-- [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
   lançamentos da Cena / Registro obrigatório
 - [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
@@ -50,19 +59,18 @@ gerenciamento de seus downloads.
   Minecraft / [Jogar sem conta legítima](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
-## Sites de torrents
+## Sites de Torrents
 
 Torrents são downloads P2P de outros usuários, sem servidores. Você precisará de uma VPN para
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
 pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3) /
-  [Torrent Page Improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements) /
-  [Torrent and Magnet Links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links) /
-  [Convert Timestamps to Relative Format](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
-  /
-  [Subtitle Download Links to TV and Movie Torrents](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Tradutor](useful.md#translator)
+- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+  - [Melhorias de interface](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
+  - [Links de ímãs](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Correção do fuso horário](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+  - [Links de legendas para filmes e TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) [Tradutor](useful.md#translator)
 - [Rutor](http://rutor.info/games) / [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Tradutor](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
@@ -75,16 +83,14 @@ devido à descompressão de arquivos.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do
-  GameDrive, GLOAD ou do Ova Games para downloads rápidos grátis.
+- [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0) / [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
 - [Xatab](https://byxatab.org)
-- [ScOOt3r Repacks](https://game-repack.site/scooter)
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
-- [FS-Repacks](https://www.fluxyrepacks.site)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://gnarly-repacks.site) - Jogos de console emulados

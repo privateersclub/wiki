@@ -11,8 +11,8 @@ Software to enhance your piracy experience.
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Crack](https://cracksurl.com/internet-download-manager) &
-  [instructions](https://rentry.org/installidm) 
-  - [Activation script](https://github.com/lstprjct/IDM-Activation-Script) 
+  [instructions](https://rentry.org/installidm)
+  - [Activation script](https://github.com/lstprjct/IDM-Activation-Script)
   - [Trial reset](https://github.com/J2TEAM/idm-trial-reset)
   - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detects most file
@@ -47,7 +47,7 @@ Software to enhance your piracy experience.
 
 ## VPNs
 
-:::danger 
+:::danger
 **Tor Browser isn't a VPN, no protection for torrenting!**
 :::
 

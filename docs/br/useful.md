@@ -1,8 +1,13 @@
 ---
 title: Útil
+description: Ferramentas, sites e componentes essenciais que valem a pena usar.
 ---
 
-## Componentes obrigatórios
+# Útil
+
+Ferramentas, sites e componentes essenciais que valem a pena usar.
+
+## Componentes Obrigatórios
 
 Instale tudo antes de baixar jogos (legítimos ou pirateados) para evitar falhas devido a programas
 faltando no seu computador:
@@ -14,10 +19,9 @@ faltando no seu computador:
 ## Ferramentas
 
 :::tip
-:exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
-e [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754) para mais ferramentas
-da
-Steam.
+:exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) e
+[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
+para mais ferramentas da Steam.
 :::
 
 - [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
@@ -52,10 +56,12 @@ Steam.
 
 :::tip
 Ative produtos da Microsoft (Office e Windows) com os
-**[Scripts de Ativação da Microsoft](https://github.com/massgravel/Microsoft-Activation-Scripts).**
-Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe. Para o resto, visite
-o [LRepacks](https://lrepacks.net), [CRACKSurl](https://cracksurl.com)
-ou [GameBounty](https://gamebounty.world/software).
+**[Scripts de Ativação da Microsoft](https://massgrave.dev).**
+Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
+
+Para o resto, visite o [LRepacks](https://lrepacks.net),
+[CRACKSurl](https://cracksurl.com) ou
+[GameBounty](https://gamebounty.world/software).
 :::
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
@@ -69,7 +75,7 @@ ou [GameBounty](https://gamebounty.world/software).
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
   gerador de informações de hash
 
-## Extensões úteis de navegador
+## Extensões Úteis de Navegador
 
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de
   anúncio / [Recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
@@ -85,7 +91,7 @@ ou [GameBounty](https://gamebounty.world/software).
 
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Traduzir Páginas Web</a>
-- Tradução em tempo real via Google ou Yandex
+      - Tradução em tempo real via Google ou Yandex
   </li>
 </ul>
 
@@ -104,12 +110,10 @@ Não são para jogos online. Não trapaceie em jogos online!
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
 - [MrAntiFun](https://mrantifun.net)
 
-## Rastreadores de lançamentos
+## Rastreadores de Lançamentos
 
-Não fornece downloads.
-Os sites têm informações de lançamentos da Cena/P2P.
-Veja aqui se um jogo
-foi crackeado!
+Não fornece downloads. Os sites têm informações de lançamentos da Cena/P2P.
+Veja aqui se um jogo  foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -122,7 +126,7 @@ foi crackeado!
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Só repacks / Subreddit irmão
   do [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
 
-## Subreddits relacionados
+## Subreddits Relacionados
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
