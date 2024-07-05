@@ -25,31 +25,30 @@ from missing software on your computer:
 for more Steam tools.
 :::
 
-- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
+- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) ([v2](https://github.com/acidicoala/Koalageddon2), Steam-only) -
+  Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
+- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatic Steam, Epic Games Store, & Uplay DLC unlocker
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
   Steam game DLC unlocker /
-  [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) /
-  [Automatic installation](https://github.com/pointfeev/CreamInstaller)
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Steam, Epic Games
-  Store, EA clients, & Uplay DLC unlocker
+  [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
-  Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
-- [Steamless](https://github.com/atom0s/Steamless) - SteamStub DRM remover /
-  [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack) /
+  Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
   [Guide](https://rentry.co/goldberg_emulator)
+- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Steam & multiplayer emulator
+- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Allows playing pirated games online with
+  other pirated games.
+- [Online Fix](https://online-fix.me) - Allows playing pirated games online with
+  other pirated games. / Password: `online-fix.me`
+- [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
+  [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
+- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
   Automatic Steamworks fix creator
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Epic Games
-  Store & EA clients DLC unlocker
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic Games Store DLC
-  unlocker
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA
   clients DLC unlocker
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
   Epic Online Services emulator
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Uplay
-  emulator
-- [Online Fix](https://online-fix.me) - Allows playing pirated games online with
-  other pirated games / Password: `online-fix.me`
+- [SteamDB](https://steamdb.info) / [Extension](https://steamdb.info/extension) - Steam insight tool
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Steam Workshop
   downloader
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -

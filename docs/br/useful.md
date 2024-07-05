@@ -24,27 +24,28 @@ faltando no seu computador:
 para mais ferramentas da Steam.
 :::
 
-- [🌟 CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs de jogos
-  legítimos da
-  Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Instalação automática](https://github.com/pointfeev/CreamInstaller)
-- [Koalageddon](https://github.com/acidicoala/Koalageddon) - Desbloqueador de DLCs da Steam, Epic
-  Games Store, dos clientes da EA e da Uplay
+- [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
+  Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA (use o EA DLC Unlocker) e da Uplay
+- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Desbloqueador automático de DLCs da Steam, Epic Games Store e Uplay
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
-  Steam / [Interface gráfica](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152)
-- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM
-  SteamStub / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack) / [Guia](https://rentry.co/goldberg_emulator)
+  Steam e do multijogador / [Interface gráfica](https://github.com/brunolee-GIT/GSE-Generator)  /
+  [Guia](https://rentry.co/goldberg_emulator)
+- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulador da Steam e do multijogador
+- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jogar jogos pirateados online com outros jogos
+  pirateados.
+- [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outros jogos
+  pirateados. / Senha: `online-fix.me`
+- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM da
+  Steam / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
+- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gerenciador do desbloqueador da Steam GreenLuma
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
   correções para o Steamworks
-- [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - Desbloqueador de DLCs da Epic
-  Games Store e dos clientes da EA
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLCs da Epic Games Store
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos
   clientes da EA
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do
   Epic Online Services
-- [LumaPlay](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197) - Emulador da Uplay
-- [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outros jogos
-  pirateados / Senha: `online-fix.me`
+- [SteamDB](https://steamdb.info) / [Extensão](https://steamdb.info/extension) - Ferramenta de análise da Steam
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Baixador da Oficina da Steam
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
   pirateada de The Sims 4
@@ -52,7 +53,7 @@ para mais ferramentas da Steam.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
   root)
 
-## Programas úteis
+## Programas Úteis
 
 :::tip
 Ative produtos da Microsoft (Office e Windows) com os
