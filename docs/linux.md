@@ -34,7 +34,7 @@ Everything regarding piracy on Linux.
 ### Launchers
 
 - [🌟 Lutris](https://lutris.net) - Game launcher
-- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, and
+- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, &
   Amazon Prime Games launcher
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG client
 - [Bottles](https://usebottles.com) - Windows software manager
@@ -43,7 +43,7 @@ Everything regarding piracy on Linux.
 
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay for
   monitoring performance / [GUI](https://github.com/benjamimgois/goverlay)
-- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Proton-GE manager
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Wine & Proton-based compatibility tools manager
 - [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
 
 ## Guides
@@ -52,7 +52,6 @@ Everything regarding piracy on Linux.
 - [🌟 Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
   [Fix for DLL errors](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
-
 
 ## Related Subreddits
 

@@ -1,9 +1,13 @@
 ---
 title: Não Seguro
+description: Coisas que você sempre deveria evitar usar.
 ---
 
-## Sites e uploaders não seguros
+# Não Seguro
 
+Coisas que você sempre deveria evitar usar.
+
+:::tip
 Você pode só usar o [filtro de bloqueador de anúncios](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
 do [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) no uBlacklist (mais
 eficiente) ou uBlock Origin para bloquear a maioria dos sites mencionados aqui e mais. Siga
@@ -15,6 +19,9 @@ o filtro customizado ao uBlacklist (ponha
 para o adicionar ao uBlock Origin (use
 [isto](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) em
 "Importar…").
+:::
+
+## Sites e Uploaders Não Seguros
 
 :::danger
 **GRUPOS DA CENA NÃO TÊM SITES! Sites com o nome de um grupo da Cena na URL são falsos. Também tome cuidado com
@@ -37,8 +44,8 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
 - cracked-games/GETGAMEZ - Pego com malware.
 - CrackingPatching - Pego com [malware](https://www.reddit.com/qy6z3c).
 - FileCR - [Constantemente](https://rentry.co/filecr_malware) pego com malware.
+- FreeTP/Game3rb - Links de download falsos e maliciosos na página
 - FTUApps - [Constantemente](https://redd.it/120xk62) pego com malware.
-- Game3rb - Links de download falsos e maliciosos na página
 - GameFabrique - Uploads do IGG Games e
   [instaladores adware](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - GetIntoMac/GetIntoPC - Constantemente pego com malware.
@@ -69,16 +76,16 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
 - xGIROx - Pego com mineradores de criptomoedas.
 - YASDL - Versões do Stardock e JetBrains com malware.
 
-## Programas não seguros
+## Programas Não Seguros
 
 ::: info
-[Ativadores falsos do Windows](https://pastebin.com/gCmWs2GR)
+[Leia este Pastebin sobre ativadores falsos do Windows.](https://pastebin.com/gCmWs2GR)
 :::
 
 - μTorrent - Tem anúncios, rastreadores e
   [adware](https://www.theverge.com/2015/3/6/8161251/utorrents-secret-bitcoin-miner-adware-malware).
 - Avast - Vende dados dos usuários.
-- AVG/Avira/CCleaner/Gen Digital/Norton - Propriedade da Avast.
+- AVG/CCleaner/Gen Digital/Norton - Propriedade da Avast.
 - BitComet/BitTorrent - Adware
 - BitLord -
   [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0)
@@ -101,6 +108,6 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
 - PCProtect/Protected/TotalAV - Fraudes de
   antivirus ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
 - PolyMC - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord
-  e do repositório.
-- TLauncher (não relacionado ao TLauncher Legacy) - Práticas comerciais [duvidosas](https://www.reddit.com/zmzzrt).
+  e do repositório. Use o Prism Launcher.
+- TLauncher (não relacionado ao TLauncher Legacy) - Práticas comerciais [duvidosas](https://www.reddit.com/zmzzrt). Use o Prism Launcher.
 - VSTorrent - Pego com [malware](https://redd.it/x66rz2).
