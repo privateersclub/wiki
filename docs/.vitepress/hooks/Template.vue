@@ -4,28 +4,7 @@ defineProps<{ title: string; description?: string }>()
 
 <template>
   <div
-    style="
-      background-image: linear-gradient(
-        43deg,
-        #c6f6d5 1%,
-        #b8f4cc 7%,
-        #aaf2c2 13%,
-        #9ef0ba 19%,
-        #9ae6b4 31%,
-        #8adea7 35.8%,
-        #79d59b 40.6%,
-        #69cd8f 45.4%,
-        #48bb78 55%,
-        #43b072 58.8%,
-        #3ea56c 62.6%,
-        #399a66 66.4%,
-        #2f855a 74%,
-        #2d7b55 78.6%,
-        #2b714f 83.2%,
-        #286749 87.8%,
-        #22543d 97%
-      );
-    "
+    style="background-image: url(https://files.catbox.moe/fvg5nw.png)"
     tw="w-full h-full bg-black flex flex-col"
   >
     <div
@@ -42,8 +21,7 @@ defineProps<{ title: string; description?: string }>()
         <div style="color: #eeeeee" tw="text-6xl font-bold" v-html="title" />
         <div
           v-if="description"
-          style="color: #adf0dd; text-decoration-style: dotted"
-          tw="mt-2 text-4xl underline"
+          tw="mt-2 text-gray-200 text-4xl"
           v-html="description"
         />
       </div>

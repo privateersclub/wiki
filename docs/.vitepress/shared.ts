@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
 import { presetUno, presetIcons } from 'unocss'
+import { generateMeta } from './hooks/meta'
+import { generateImages } from './hooks/opengraph'
 import {
   PageProperties,
   PagePropertiesMarkdownSection
@@ -55,11 +57,11 @@ export const sharedConfig = defineConfig({
       PagePropertiesMarkdownSection()
     ]
   },
-  // transformHead: async (context) =>
-  // generateMeta(context, "https://megathread.pages.dev"),
-  // buildEnd(siteConfig) {
-  // generateImages(siteConfig);
-  // },
+  transformHead: async (context) =>
+    generateMeta(context, 'https://megathread.pages.dev'),
+  buildEnd(siteConfig) {
+    generateImages(siteConfig)
+  },
   themeConfig: {
     search: {
       provider: 'local',
