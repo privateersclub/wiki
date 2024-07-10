@@ -10,7 +10,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')
 
 export async function generateImages(config: SiteConfig): Promise<void> {
-  const pages = await createContentLoader('*_/_.md', { excerpt: true }).load()
+  const pages = await createContentLoader('**/*.md', { excerpt: true }).load()
   const template = await readFile(resolve(__dirname, './Template.vue'), 'utf-8')
 
   const fonts: SatoriOptions['fonts'] = [
@@ -86,7 +86,7 @@ async function generateImage({
 
   const render = await renderAsync(svg)
 
-  const outputFolder = resolve(outDir, url.slice(1), '**og_image**')
+  const outputFolder = resolve(outDir, url.slice(1), '__og_image__')
   const outputFile = resolve(outputFolder, 'og.png')
 
   await mkdir(outputFolder, { recursive: true })
