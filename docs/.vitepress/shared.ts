@@ -24,7 +24,8 @@ export const sharedConfig = defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#ADF0DD' }],
     ['meta', { name: 'og:type', content: 'website' }],
-    ['meta', { name: 'og:locale', content: 'en' }]
+    ['meta', { name: 'og:locale', content: 'en' }],
+    ['link', { rel: 'icon', href: '/favicon.svg' }]
   ],
   vite: {
     optimizeDeps: {
@@ -63,6 +64,7 @@ export const sharedConfig = defineConfig({
     generateImages(siteConfig)
   },
   themeConfig: {
+    logo: '/logo.png',
     search: {
       provider: 'local',
       options: {
@@ -112,7 +114,6 @@ export const sharedConfig = defineConfig({
         }
       }
     },
-    docFooter: { next: false, prev: false },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/privateersclub/wiki' },
       { icon: 'discord', link: 'https://discord.gg/jz8dUnnD6Q' },
