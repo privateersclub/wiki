@@ -4,7 +4,7 @@ defineProps<{ title: string; description?: string }>()
 
 <template>
   <div
-    style="background-image: url(https://files.catbox.moe/fvg5nw.png)"
+    style="background-image: url(https://files.catbox.moe/8ucyny.png)"
     tw="w-full h-full bg-black flex flex-col"
   >
     <div
@@ -12,20 +12,21 @@ defineProps<{ title: string; description?: string }>()
     >
       <div tw="w-full flex justify-between items-center text-5xl font-medium">
         <div tw="flex items-center">
-          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">
-            the privateersclub wiki
-          </div>
+          <div
+            style="color: rgb(31, 178, 124)"
+            tw="ml-2 mt-1 font-semibold"
+            v-html="title"
+          />
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">
-        <div style="color: #eeeeee" tw="text-6xl font-bold" v-html="title" />
         <div
+          style="color: rgb(31, 178, 124)"
           v-if="description"
-          tw="mt-2 text-gray-200 text-4xl"
+          tw="mt-2 text-3xl"
           v-html="description"
         />
       </div>
     </div>
-    <div style="background-color: #adf0dd" tw="shrink-0 h-4 w-full flex" />
   </div>
 </template>
