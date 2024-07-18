@@ -79,7 +79,7 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
   - [Timezone fix](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Subtitle links to movies & TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
 - [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
-  [Translator](/useful#translator)
+  / [Translator](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)

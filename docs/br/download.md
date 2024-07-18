@@ -70,7 +70,7 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
   - [Links de ímãs](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Correção do fuso horário](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Links de legendas para filmes e TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) [Tradutor](useful.md#translator)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](useful.md#translator)
 - [Rutor](http://rutor.info/games) / [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Tradutor](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS

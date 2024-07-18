@@ -67,6 +67,7 @@ Para o resto, visite o [LRepacks](https://lrepacks.net),
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
+- [Firefox](https://www.mozilla.org/firefox) - Navegador web para uso diário / [Betterfox](https://github.com/yokoffing/Betterfox)
 - [Tor Browser](https://www.torproject.org) - Navegador web privado que roteia o tráfego da Internet por uma rede
   descentralizada de servidores operados por voluntários, dificultando te rastrear.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de

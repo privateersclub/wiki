@@ -71,6 +71,7 @@ For the rest, visit [LRepacks](https://lrepacks.net),
 
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
+- [Firefox](https://www.mozilla.org/firefox) - Web browser for everyday use / [Betterfox](https://github.com/yokoffing/Betterfox)
 - [Tor Browser](https://www.torproject.org) - Private web browser that routes
   Internet traffic through a decentralized network of volunteer-operated
   servers, making you hard to trace.
