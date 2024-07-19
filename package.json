@@ -23,7 +23,7 @@
     "@types/node": "^20.14.2",
     "@types/nprogress": "^0.2.3",
     "prettier": "^3.3.1",
-    "vitepress": "npm:@taskylizard/vitepress@1.1.1"
+    "vitepress": "npm:@taskylizard/vitepress@^1.1.1"
   },
   "dependencies": {
     "@lunariajs/core": "^0.1.0",
