@@ -66,6 +66,15 @@
   --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
 }
 
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    var(--vp-custom-block-tip-text-deep) 30%,
+    var(--vp-custom-block-tip-text)
+  );
+}
+
 .vp-doc a {
   color: var(--vp-c-brand-1);
   text-decoration: underline;
