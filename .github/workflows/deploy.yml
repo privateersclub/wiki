@@ -1,5 +1,5 @@
 name: Deploy
-on: [ push ]
+on: [push]
 
 jobs:
   build:
@@ -9,12 +9,10 @@ jobs:
       deployments: write
     strategy:
       matrix:
-        node-version: [ 20 ]
+        node-version: [20]
     steps:
       - uses: actions/checkout@v4
         with:
-          # Necessary for Lunaria to work properly
-          # Makes the action clone the entire git history
           fetch-depth: 0
       - name: Install pnpm
         uses: pnpm/action-setup@v4
@@ -24,7 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: "pnpm"
+          cache: 'pnpm'
       - name: Install dependencies
         run: pnpm install
       - name: Build
