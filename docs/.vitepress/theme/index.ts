@@ -41,11 +41,10 @@ export default {
         }
       ]
     })
-    // @ts-expect-error
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
       {
-        properties: {
+        locales: {
           en: [
             {
               key: 'tags',

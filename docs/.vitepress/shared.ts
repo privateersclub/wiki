@@ -29,12 +29,17 @@ export const sharedConfig = defineConfig({
   ],
   vite: {
     optimizeDeps: {
-      exclude: ['@nolebase/vitepress-plugin-enhanced-readabilities/client']
+      exclude: [
+        '@nolebase/vitepress-plugin-enhanced-readabilities/client',
+        '@nolebase/vitepress-plugin-git-changelog/client',
+        '@nolebase/vitepress-plugin-page-properties/client'
+      ]
     },
     ssr: {
       noExternal: [
         '@nolebase/vitepress-plugin-enhanced-readabilities',
-        '@nolebase/vitepress-plugin-page-properties'
+        '@nolebase/vitepress-plugin-page-properties',
+        '@nolebase/vitepress-plugin-git-changelog'
       ]
     },
     plugins: [
