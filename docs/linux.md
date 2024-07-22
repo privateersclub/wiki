@@ -55,7 +55,7 @@ Custom kernels can significantly change your system behavior, [disable security 
 - [XanMod Stable Real-time](https://xanmod.org/)
 - [Liquroix](https://liquorix.net/)
 - [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - For Intel systems, very useful for servers
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requirea self-compilation
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requires self-compilation
 
 ### Launchers
 
@@ -69,7 +69,7 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 - [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay for
   monitoring performance / [GUI](https://github.com/benjamimgois/goverlay)
-- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Wine & Proton-based compatibility tools manager
+- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Wine & Proton-based compatibility tools manager
 - [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
 - [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) - Discord Overlay for Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility layer for games
