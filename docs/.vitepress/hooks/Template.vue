@@ -20,7 +20,7 @@ defineProps<{ title: string; description?: string }>()
     >
       <span tw="w-full flex justify-between items-center text-5xl font-medium">
         <span tw="flex items-center">
-          <img tw="h-22 w-22" src="https://megathread.pages.dev/favicon.svg" />
+          <img tw="h-22 w-22" src="https://megathread.pages.dev/logo.png" />
 
           <span tw="text-gray-200 ml-2 mt-1 font-semibold">
             the privateersclub wiki
