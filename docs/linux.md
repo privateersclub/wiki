@@ -55,7 +55,7 @@ Custom kernels can significantly change your system behavior, [disable security 
 - [XanMod Stable Real-time](https://xanmod.org/)
 - [Liquroix](https://liquorix.net/)
 - [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - For Intel systems, very useful for servers
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requirea self-compilation
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requires self-compilation
 
 ### Launchers
 
