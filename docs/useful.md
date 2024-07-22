@@ -1,6 +1,12 @@
 ---
 title: Useful
 description: Essential tools, sites, and components that are worth using.
+tags:
+  - windows
+  - tools
+  - browser
+  - software
+  - discussion
 ---
 
 # Useful

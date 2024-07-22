@@ -1,6 +1,12 @@
 ---
 title: Software
 description: Software to enhance your piracy experience.
+tags:
+  - download
+  - torrent
+  - software
+  - vpn
+  - discussion
 ---
 
 # Software
