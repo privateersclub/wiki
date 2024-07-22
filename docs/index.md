@@ -14,7 +14,7 @@ hero:
     - text: Contribute
       link: /contribute
     - text: Translations
-      link: /_translations
+      link: /_translations/
       theme: alt
 
 features:
