@@ -77,6 +77,7 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 ## Websites
 
+- [ProtonDB](https://www.protondb.com/) - Proton's compatibility reports and fixes.
 - [AppDB](https://appdb.winehq.org/) - Wine's tracker to track reports and ratings of video games.
 - [GamingOnLinux](https://www.gamingonlinux.com/) / [Wiki](https://www.gamingonlinux.com/wiki)
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games tha5 run natively on Linux
