@@ -1,66 +1,66 @@
 ---
-title: Emulation
-description: ROM sites, emulators, discussion pages, and more.
+title: Emulacion
+description: Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 ---
 
-# Emulation
+# Emulacion
 
-ROM sites, emulators, discussion pages and more.
+Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 
-## ROM Sites
+## Sitios para Descargar ROMS
 
-- [🌟 r/Roms Megathread](https://r-roms.github.io)
+- [🌟 Megahilo de r/Roms](https://r-roms.github.io)
 - [🌟 Crocdb](https://crocdb.net)
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Registration required
+- [The ROM Depot](https://theromdepot.com) / Registro requerido.
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
-  [Download workaround guide](https://lemmy.world/post/3061617)
-- [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
-  Portable games
-- [Ziperto](https://www.ziperto.com) - Nintendo games
-- [NSW2u](https://nsw2u.com) - Nintendo Switch games
-- [NXBrew](https://nxbrew.com) - Nintendo Switch games
+  [Guía para descargar desde emu paradise](https://lemmy.world/post/3061617)
+- [NoPayStation](https://nopaystation.com) - Juegos de PlayStation 1, Vita, 3 y PSP
+- [Ziperto](https://www.ziperto.com) - Juegos de Nintendo
+- [NSW2u](https://nsw2u.com) - Juegos de Nintendo Switch
+- [NXBrew](https://nxbrew.com) - Juegos de Nintendo Switch
 
-## Emulators
+## Emuladores
 
 :::tip
-See the
-**[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
-for more.
+  Revisa la
+  **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
+  para más.
 
-Some emulators require additional files (keys or BIOS) and are marked
-with a :gear:. You can get them
-[here](https://r-roms.github.io/megathread/misc/#bios-files).
+  Algunos emuladores requieren archivos adicionales (keys o BIOS)y están marcados 
+  con un :gear:. Los puedes obtener desde
+  [aquí](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
-- [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
-- [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
+- [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas / 
+  Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra.
+- [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
 - [:gear: Ryujinx](https://ryujinx.org) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
-- [Cemu](https://cemu.info) - Wii U games
-- [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
-- [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
-- [RPCS3](https://rpcs3.net) - PlayStation 3 games
-- [xenia](https://xenia.jp) - Xbox 360 games
-- [:gear: MAME](https://www.mamedev.org) - Arcade games
-- [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
+  [:gear: Sudachi](https://sudachi.emuplace.app/) - Emuladores de Nintendo Switch
+- [Cemu](https://cemu.info) - Emulador de Wii U
+- [Vita3K](https://vita3k.org) - Emulador de PS Vita
+- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulador de Nintendo 3DS
+- [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y Gamecube
+- [RPCS3](https://rpcs3.net) - Emulador de PS3
+- [xenia](https://xenia.jp) - Emulador de Xbox 360
+- [:gear: MAME](https://www.mamedev.org) - Emulador para juegos arcade
+- [PPSSPP](https://www.ppsspp.org) - Emulador de PSP
 - [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
-  Nintendo DS games
-- [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
-- [:gear: xemu](https://xemu.app) - Original Xbox games
-- [mGBA](https://mgba.io) - Game Boy Advance games
-- [:gear: PCSX2](https://pcsx2.net) - PlayStation 2 games
-- [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games
-- [:gear: DuckStation](https://www.duckstation.org) - PlayStation 1 games
+  Emulador de nintendo DS
+- [No$GBA](https://www.nogba.com) - Emulador de GBA y Nintendo DS
+- [:gear: xemu](https://xemu.app) - Emulador de Xbox original
+- [mGBA](https://mgba.io) - Emulador de GBA
+- [:gear: PCSX2](https://pcsx2.net) - Emulador de Playstation 2
+- [Parallel Launcher](https://parallel-launcher.ca) - Emulador de Nintendo 64
+- [:gear: DuckStation](https://www.duckstation.org) - Emulador de Playstation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
-  [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
+  [Snes9x](https://www.snes9x.com) - Emulador de Super Nintendo
 
-## Related Subreddits
+## Subreddits relacionados
 
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)

@@ -1,16 +1,16 @@
 ---
-title: Useful
-description: Essential tools, sites, and components that are worth using.
+title: De utilidad
+description: Herramientas esenciales, sitios y componentes que vale la pena utilizar.
 ---
 
-# Useful
+# De utilidad
 
-Essential tools, sites, and components that are worth using.
+Herramientas esenciales, sitios y componentes que vale la pena utilizar.
 
-## Required Components
+## Componentes requeridos
 
-Install all before downloading games (legitimate or pirated) to avoid crashes
-from missing software on your computer:
+Instala todos estos componentes antes de descargar tus juegos (comprados o piratas)
+para evitar crasheos debido a la ausencia de las librerías de software en tu sistema:
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
@@ -19,111 +19,109 @@ from missing software on your computer:
 ## Tools
 
 :::tip
-:exclamation: See
-[RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) and
-[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
-for more Steam tools.
+  :exclamation: Vea
+  [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) y
+  [Una Colección de Herramientas de Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
+  para más herramientas de Steam.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
-  Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatic Steam, Epic Games Store, & Uplay DLC unlocker
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
-  Steam game DLC unlocker /
-  [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
+  DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
+- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Desbloqueador de DLC's automático para Steam, Epic Games Store y Uplay
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLC's para juegos
+   comprados en Steam /
+  [Instalador automatizado](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
-  Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
-  [Guide](https://rentry.co/goldberg_emulator)
-- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Steam & multiplayer emulator
-- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Allows playing pirated games online with
-  other pirated games.
-- [Online Fix](https://online-fix.me) - Allows playing pirated games online with
-  other pirated games. / Password: `online-fix.me`
-- [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
-  [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
+  Emulador de Steam / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
+  [Guía](https://rentry.co/goldberg_emulator)
+- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulador de Steam y multijugador online.
+- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jugar a juegos pirata en línea con 
+  otros jugadores que posean el juego pirata.
+- [Online Fix](https://online-fix.me) - Permite jugar a juegos pirata en línea con otros jugadores
+  que posean el juego pirata. / Contraseña: `online-fix.me`
+- [Steamless](https://github.com/atom0s/Steamless) - Remueve el DRM de Steam /
+  [Crack automático](https://github.com/oureveryday/Steam-auto-crack)
+- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestor de desbloqueo de juegos de Steam para GreenLuma.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
-  Automatic Steamworks fix creator
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA
-  clients DLC unlocker
+  Arregla y crea las dependencias de Steamworks automáticamente.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLC's para clientes de EA.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
-  Epic Online Services emulator
-- [SteamDB](https://steamdb.info) / [Extension](https://steamdb.info/extension) - Steam insight tool
-- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Steam Workshop
-  downloader
+  Emulador de Epic Online Services.
+- [SteamDB](https://steamdb.info) / [Extensión](https://steamdb.info/extension) - Herramienta de perspectivas para Steam (Visualizar jugadores, estadísticas y precios históricos.)
+- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Gestor de descargas para descargar mods desde la Workshop de Steam.
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -
-  Pirated The Sims 4 version updater
-- [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod
-  support & extended features.
-- [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
-  with root)
+  Actualizador para la versión pirata de Los Sims 4.
+- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, con soporte
+  para mods y más funciones.
+- [Lucky Patcher](https://www.luckypatchers.com) - Parcheador para aplicaciones Android (funciona mejor con root)
 
 ## Software
 
 :::tip
-Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
-Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
+  Activa tus productos de Microsoft (Office y Windows) con **[Microsoft Activation Scripts](https://massgrave.dev).**
+  Visita **[m0nkrus](https://w14.monkrus.ws)** para productos de Adobe.
 
-For the rest, visit [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com) or
-[GameBounty](https://gamebounty.world/software).
+  Para el resto, visita: [LRepacks](https://lrepacks.net),
+  [CRACKSurl](https://cracksurl.com) o
+  [GameBounty](https://gamebounty.world/software).
 :::
 
-- [7-Zip](https://7-zip.org) - File archiver
-- [Bitwarden](https://bitwarden.com) - Open-source password manager
-- [Firefox](https://www.mozilla.org/firefox) - Web browser for everyday use / [Betterfox](https://github.com/yokoffing/Betterfox)
-- [Tor Browser](https://www.torproject.org) - Private web browser that routes
-  Internet traffic through a decentralized network of volunteer-operated
-  servers, making you hard to trace.
+- [7-Zip](https://7-zip.org) - Descompresor de archivos de código abierto
+- [Bitwarden](https://bitwarden.com) - Gestor de contraseñas de código abierto
+- [Firefox](https://www.mozilla.org/firefox) - Navegador web para el uso cotidiano / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Tor Browser](https://www.torproject.org) - Navegador web privado que enruta el tráfico
+  de internet a través de una red descentralizada de servidores operada por voluntarios
+  que complica las posibilidades de que te rastreen.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
-  Achievement file parser with auto-screenshot, playtime tracking, & real-time
-  notification
-- [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
-- [Parsec](https://parsec.app) - Low-latency game streaming software
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier &
-  hash info generator
+  Analizador de archivos de logros con capturas de pantallas automáticas, 
+  seguimiento de tus horas de juego y notificaciones en tiempo real.
+- [Hydra](https://github.com/hydralauncher/hydra) - ¡Una tienda (¡Similar a Steam!) en donde puedes descargar juegos pirata!
+- [Parsec](https://parsec.app) - Software de streaming de videojuegos con baja latencia.
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de checksums y generador de información de hashes.
 
 ## Browser Extensions
 
-- [uBlock Origin](https://ublockorigin.com) - Ad content blocker /
-  [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
-- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
+- [uBlock Origin](https://ublockorigin.com) - Bloqueador de anuncios /
+  [recomendaciones de yokoffing's](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrado de búsquedas
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Link shorterners bypasser userscript - Needs one of the 3 extensions below
+  Script para realizarle un bypass a los acortadores de enlaces. Necesitas una de las tres extensiones de abajo para que funcione
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
-  Open-source userscript manager for Firefox
-- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager
-  for most browsers
-- [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript
-  manager for many browsers
+  Gestor de scripts de usuario de código abierto para Firefox
+- [Tampermonkey](https://www.tampermonkey.net) - 
+  Gestor de scripts de usuario propietario para la mayoría de navegadores
+- [ViolentMonkey](https://violentmonkey.github.io) - 
+  Gestor de scripts de usuario de código abierto para la mayoría de navegadores.
 
 <ul>
   <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
-      - Real-time page translation via Google or Yandex
+      - Traductor en tiempo real que traduce a través de Google o Yandex.
   </li>
 </ul>
 
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) -
-  Color-coded tabs in this tool keep your online life separated, preserving your
-  privacy. Cookies are containerized, allowing simultaneous use of multiple
-  identities or accounts.
+- [Contenedor para Multicuentas de Firefox](https://github.com/mozilla/multi-account-containers) -
+  Con esta herramienta, podrás mantener separadas tanto a tu vida online como a tu vida personal en un mismo navegador
+  a través de una asignación de colores para cada pestaña con el fin de cuidar tu privacidad. 
+  Las cookies estarán separadas en cada uno de estos contenedores permitiendote así tener muchas cuentas o 
+  identidades abiertas a la vez en un mismo navegador.
 
-## Trainers (cheats)
 
-Not for online games. No cheating in online games!
+## Trainers (trampas)
+
+No está permitido su uso para juegos online. Por favor, ¡No hagas trampas en juegos en línea!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and
-  NoCD fixes.
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - También posee crack-only's y parches NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
-- [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
+- [FearLess Cheat Engine](https://fearlessrevolution.com) - Tablas para Cheat Engine
 - [MrAntiFun](https://mrantifun.net)
 
 ## Release Trackers
 
-No downloads provided. Sites have P2P/Scene release info. Check here to see if a
-game is cracked!
+No proveen enlaces de descarga. Estos sitios tienen información sobre los lanzamientos 
+de la Scene y P2P's No downloads provided. P2P / Revisa aquí para ver si un juego ha sido crackeado.
+
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -132,11 +130,11 @@ game is cracked!
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
-- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Repacks only
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only /
-  [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - Solo repacks
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Solo repacks /
+  Subreddit hermano de [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' 
 
-## Related Subreddits
+## Subreddits Relacionados
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)

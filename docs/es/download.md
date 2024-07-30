@@ -76,14 +76,14 @@ para más información.
 
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
-  [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
-  - [Interface improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
-  - [Magnet links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
-  - [Timezone fix](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
-  - [Subtitle links to movies & TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
-  / [Translator](/useful#translator)
-- [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
+  [Uploaders seguros (Exceptuando a FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+  - [Mejoras de interfaz](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
+  - [Enlaces magnet](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Parche de zonas horarias](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
+  - [Enlaces directos a subtitulos de películas y shows de TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Addon para búsqueda de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+  / [Traductor](/useful#translator)
+- [Rutor](http://rutor.info/games) / [Traductor](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Juegos y aplicaciones para macOS 
