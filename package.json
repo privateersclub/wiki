@@ -17,20 +17,20 @@
   "license": "Unlicense",
   "devDependencies": {
     "@iconify-json/logos": "^1.1.43",
-    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.2.0",
-    "@nolebase/vitepress-plugin-git-changelog": "^2.2.0",
-    "@nolebase/vitepress-plugin-page-properties": "^2.2.0",
-    "@types/node": "^20.14.2",
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.2.2",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.2.2",
+    "@nolebase/vitepress-plugin-page-properties": "^2.2.2",
+    "@types/node": "^20.14.11",
     "@types/nprogress": "^0.2.3",
-    "prettier": "^3.3.1",
+    "prettier": "^3.3.3",
     "vitepress": "npm:@taskylizard/vitepress@1.1.1"
   },
   "dependencies": {
-    "@lunariajs/core": "^0.1.0",
+    "@lunariajs/core": "^0.1.1",
     "@resvg/resvg-js": "^2.6.2",
     "nprogress": "^0.2.0",
-    "unocss": "^0.60.4",
-    "vue": "^3.4.27",
+    "unocss": "^0.61.5",
+    "vue": "^3.4.33",
     "x-satori": "^0.1.5"
   }
 }

@@ -10,10 +10,15 @@ You can contribute to the project in various ways:
 For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js
 environment installed. Refer to its documentation for making changes to Vitepress itself.
 
+You can also make changes in your browser using:
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https://pr.new/privateersclub/wiki)
+
+Please look into [StackBlitz's browsers support](https://developer.stackblitz.com/platform/webcontainers/browser-support) for this, as notably Safari and Firefox can be less supported and unusable for this.
+
 You will also need some hands-on experience with TypeScript if you're going to contribute to
 improving internals.
 
-The root directory is `docs/`.
+The root website directory is `docs/`.
 
 ## Content
 
@@ -22,9 +27,7 @@ Markdown files.
 
 ## Translations
 
-:::warning This is still a work in progress. :::
-
-See <https://vitepress.dev/guide/i18n> and [our tracker](https://megathread.pages.dev/_translations).
+See https://vitepress.dev/guide/i18n and [our tracker](https://megathread.pages.dev/_translations).
 
 There are two things to translate: content and strings used in Vitepress (sidebar, nav, etc.).
 
@@ -32,7 +35,7 @@ Start by creating a folder in `docs/<locale>` and write your content in the exac
 
 Then, edit Vitepress strings. This may seem daunting, especially if you haven't used TypeScript or
 dealt with configurations like these before, but it shouldn't be overly difficult, and you don't
-have to do it now.
+have to do it too, I (tasky) can take care of it!
 
 Create your locale file in `docs/.vitepress/locales/<locale>.ts`, copying over the format from the
 root English file, and start editing.

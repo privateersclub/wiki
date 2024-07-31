@@ -1,6 +1,11 @@
 ---
 title: Emulation
 description: ROM sites, emulators, discussion pages, and more.
+tags:
+  - emulation
+  - discussion
+  - roms
+  - subreddits
 ---
 
 # Emulation
