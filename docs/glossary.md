@@ -1,6 +1,13 @@
 ---
 title: Glossary
 description: Answers to some of the most commonly asked questions.
+tags:
+  - discussion
+  - glossary
+  - scene
+  - nfo
+  - ads
+  - download
 ---
 
 # Glossary

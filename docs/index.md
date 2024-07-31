@@ -5,11 +5,17 @@ title: Home
 hero:
   name: privateersclub/wiki
   tagline: Welcome to the most comprehensive game piracy wiki on the Internet.
+  image:
+    src: /home.png
+    alt: privateersclub
   actions:
     - text: Get Started
       link: /glossary
+    - text: Contribute
+      link: /contribute
     - text: Translations
-      link: /_translations
+      link: /_translations/
+      theme: alt
 
 features:
   - icon: ✏️
