@@ -12,7 +12,7 @@ hero:
     - text: Comenzar
       link: es/glossary
     - text: Contribuir
-      link: /contribute
+      link: es/contribute
     - text: Traducciones
       link: es/_translations
       theme: alt
