@@ -5,6 +5,9 @@ title: Início
 hero:
   name: privateersclub/wiki
   tagline: Bem-vindo(a) ao wiki de pirataria de jogos mais abrangente da Internet.
+  image: 
+    src: /home.png
+    alt: privateersclub
   actions:
     - text: Começar
       link: /br/glossary
