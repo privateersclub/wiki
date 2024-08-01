@@ -20,13 +20,15 @@
     {
       "label": "Português",
       "lang": "br"
+    },
+    {
+      "label": "Español",
+      "lang": "es"
     }
   ],
   "outDir": "docs/.vitepress/dist/_translations",
   "dashboard": {
-    "customCss": [
-      "./lunaria/styles.css"
-    ],
+    "customCss": ["./lunaria/styles.css"],
     "ui": {
       "statusByLocale.heading": "Translation progress by locale",
       "statusByLocale.incompleteLocalizationLink": "incomplete translation",
