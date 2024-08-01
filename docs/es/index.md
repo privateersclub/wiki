@@ -5,11 +5,17 @@ title: Inicio
 hero:
   name: privateersclub/wiki
   tagline: Bienvenido a la guía más comprensiva sobre la piratería de videojuegos en el internet.
+  image:
+    src: /home.png
+    alt: privateersclub
   actions:
     - text: Comenzar
       link: es/glossary
+    - text: Contribuir
+      link: es/contribute
     - text: Traducciones
       link: es/_translations
+      theme: alt
 
 features:
   - icon: ✏️

@@ -3,6 +3,11 @@ title: Linux
 description: Tudo sobre pirataria no Linux.
 tags:
   - linux
+  - discussion
+  - glossary
+  - download
+  - tools
+  - torrent
 ---
 
 # Linux
