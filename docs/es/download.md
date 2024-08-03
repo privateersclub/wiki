@@ -21,31 +21,31 @@ Puede que necesites una VPN para acceder a algunos sitios de hosting de archivos
 Revisa la [sección de gestores de descargas](/software#download-managers) 
 para que puedas gestionar tus descargas fácilmente.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
-  required /
-  [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
-  Password: `cs.rin.ru`
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos / 
+  Requiere registro /
+  [Mod de mejoras para rin.ru](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
+  Contraseña: `cs.rin.ru`
 - [🌟 SteamGG](https://steamgg.net)
-- [🌟 SteamRIP](https://steamrip.com) - Steam games
+- [🌟 SteamRIP](https://steamrip.com) - Juegos de Steam
 - [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
-- [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
+- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
+- [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
-- [GLOAD](https://gload.to/pc) - Scene & P2P releases
+- [GLOAD](https://gload.to/pc) - Juegos de la Scene y P2P
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
-  releases forum / Registration required
-- [Games 4 You](https://g4u.to) - Slow downloads for free users / Password:
+- [Torrminatorr](https://forum.torrminatorr.com) - Juegos de GOG, Linux y un foro de 
+  lanzamientos provenientes de la Scene / Requiere registrarse para acceder.
+- [Games 4 You](https://g4u.to) - Descargas lentas para usuarios gratuitos / Contraseña: 
   `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
   Slow downloads / [Translator](/useful#translator) / Password:
   `www.downloadha.com`
-- [Scnlog](https://scnlog.me/games) - Scene releases
-- [Gamdie](https://gamdie.com) - Indie games
-- [Appnetica](https://appnetica.com) - Indie games
-- [AtopGames](https://atopgames.com) - Indie games
-- [Leechinghell](http://www.leechinghell.pw) - Juegos multiplayer locales (LAN)
+- [Scnlog](https://scnlog.me/games) - Lanzamientos de la Scene
+- [Gamdie](https://gamdie.com) - Juegos indie
+- [Appnetica](https://appnetica.com) - Juegos indie
+- [AtopGames](https://atopgames.com) - Juegos indie
+- [Leechinghell](http://www.leechinghell.pw) - Juegos multijugador locales (LAN)
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Registro obligatorio
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Juegos y aplicaciones para macOS y iOS
 - [NMac](https://nmac.to/category/games) - Juegos y aplicaciones para macOS
