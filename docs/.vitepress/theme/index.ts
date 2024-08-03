@@ -11,7 +11,7 @@ import { loadProgress } from './composables/nprogress'
 import '@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css'
 import '@nolebase/vitepress-plugin-page-properties/client/style.css'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
-import './style.css'
+import './style.scss'
 import 'uno.css'
 
 export default {
@@ -28,73 +28,55 @@ export default {
   enhanceApp({ router, app }) {
     loadProgress(router)
     app.use(NolebaseGitChangelogPlugin, {
-      mapAuthors: [
-        {
-          name: 'taskylizard',
-          username: 'taskylizard',
-          avatar: 'https://github.com/taskylizard.png'
-        },
-        {
-          name: 'Kazevic',
-          username: 'Kazevic',
-          avatar: 'https://github.com/kazevic.png'
-        }
-      ]
+      commitsRelativeTime: true,
+      hideChangelogHeader: true
     })
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),
-      {
-        locales: {
-          en: [
-            {
-              key: 'tags',
-              type: 'tags',
-              title: 'Tags'
-            },
-            {
-              key: 'progress',
-              type: 'progress',
-              title: 'Progress'
-            },
-            {
-              key: 'createdAt',
-              type: 'datetime',
-              title: 'Created at',
-              formatAsFrom: true,
-              dateFnsLocaleName: 'enUS'
-            },
-            {
-              key: 'updatedAt',
-              type: 'datetime',
-              title: 'Updated at',
-              formatAsFrom: true,
-              dateFnsLocaleName: 'enUS'
-            },
-            {
-              key: 'url1',
-              type: 'link',
-              title: 'URL 1'
-            },
-            {
-              key: 'wordsCount',
-              type: 'dynamic',
-              title: 'Word count',
-              options: {
-                type: 'wordsCount'
-              }
-            },
-            {
-              key: 'readingTime',
-              type: 'dynamic',
-              title: 'Reading time',
-              options: {
-                type: 'readingTime',
+      [
+        {
+          locales: {
+            en: [
+              {
+                key: 'tags',
+                type: 'tags',
+                title: 'Tags'
+              },
+              {
+                key: 'createdAt',
+                type: 'datetime',
+                title: 'Created at',
+                formatAsFrom: true,
                 dateFnsLocaleName: 'enUS'
+              },
+              {
+                key: 'updatedAt',
+                type: 'datetime',
+                title: 'Updated at',
+                formatAsFrom: true,
+                dateFnsLocaleName: 'enUS'
+              },
+              {
+                key: 'wordsCount',
+                type: 'dynamic',
+                title: 'Word count',
+                options: {
+                  type: 'wordsCount'
+                }
+              },
+              {
+                key: 'readingTime',
+                type: 'dynamic',
+                title: 'Reading time',
+                options: {
+                  type: 'readingTime',
+                  dateFnsLocaleName: 'enUS'
+                }
               }
-            }
-          ]
+            ]
+          }
         }
-      }
+      ]
     )
   }
 } satisfies Theme

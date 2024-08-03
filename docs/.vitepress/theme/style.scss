@@ -83,12 +83,12 @@
   text-decoration-color: transparent;
   -webkit-text-decoration-color: transparent;
   transition: text-decoration-color 0.25s;
-}
 
-.vp-doc a:hover {
-  color: var(--vp-c-brand-1);
-  text-decoration-color: var(--vp-c-brand-1);
-  -webkit-text-decoration-color: var(--vp-c-brand-1);
+  &:hover {
+    color: var(--vp-c-brand-1);
+    text-decoration-color: var(--vp-c-brand-1);
+    -webkit-text-decoration-color: var(--vp-c-brand-1);
+  }
 }
 
 .vp-doc .custom-block a {
@@ -104,55 +104,53 @@
 /* Make clicks pass-through */
 #nprogress {
   pointer-events: none;
-}
 
-#nprogress .bar {
-  background: var(--vp-c-brand-1);
-  position: fixed;
-  z-index: 1031;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 2px;
-}
+  .bar {
+    background: var(--vp-c-brand-1);
+    position: fixed;
+    z-index: 1031;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+  }
+  .peg {
+    display: block;
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 100%;
+    box-shadow:
+      0 0 10px var(--vp-c-brand-1),
+      0 0 5px var(--vp-c-brand-1);
+    opacity: 1;
 
-/* Fancy blur effect */
-#nprogress .peg {
-  display: block;
-  position: absolute;
-  right: 0;
-  width: 100px;
-  height: 100%;
-  box-shadow:
-    0 0 10px var(--vp-c-brand-1),
-    0 0 5px var(--vp-c-brand-1);
-  opacity: 1;
+    -webkit-transform: rotate(3deg) translate(0px, -4px);
+    -ms-transform: rotate(3deg) translate(0px, -4px);
+    transform: rotate(3deg) translate(0px, -4px);
+  }
 
-  -webkit-transform: rotate(3deg) translate(0px, -4px);
-  -ms-transform: rotate(3deg) translate(0px, -4px);
-  transform: rotate(3deg) translate(0px, -4px);
-}
+  .spinner {
+    display: block;
+    position: fixed;
+    z-index: 1031;
+    top: 15px;
+    right: 15px;
+  }
 
-#nprogress .spinner {
-  display: block;
-  position: fixed;
-  z-index: 1031;
-  top: 15px;
-  right: 15px;
-}
+  .spinner-icon {
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
 
-#nprogress .spinner-icon {
-  width: 18px;
-  height: 18px;
-  box-sizing: border-box;
+    border: solid 2px transparent;
+    border-top-color: var(--vp-c-brand);
+    border-left-color: var(--vp-c-brand);
+    border-radius: 50%;
 
-  border: solid 2px transparent;
-  border-top-color: var(--vp-c-brand);
-  border-left-color: var(--vp-c-brand);
-  border-radius: 50%;
-
-  -webkit-animation: nprogress-spinner 400ms linear infinite;
-  animation: nprogress-spinner 400ms linear infinite;
+    -webkit-animation: nprogress-spinner 400ms linear infinite;
+    animation: nprogress-spinner 400ms linear infinite;
+  }
 }
 
 .nprogress-custom-parent {

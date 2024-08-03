@@ -43,6 +43,25 @@ export const sharedConfig = defineConfig({
       ]
     },
     plugins: [
+      PageProperties(),
+      PagePropertiesMarkdownSection(),
+      GitChangelog({
+        maxGitLogCount: 2000,
+        mapAuthors: [
+          {
+            name: 'taskylizard',
+            username: 'taskylizard',
+            avatar: 'https://github.com/taskylizard.png'
+          },
+          {
+            name: 'Kazevic',
+            username: 'Kazevic',
+            avatar: 'https://github.com/kazevic.png'
+          }
+        ],
+        repoURL: () => 'https://github.com/privateersclub/wiki'
+      }),
+      GitChangelogMarkdownSection(),
       UnoCSS({
         presets: [
           presetUno(),
@@ -53,14 +72,7 @@ export const sharedConfig = defineConfig({
             }
           })
         ]
-      }),
-      GitChangelog({
-        maxGitLogCount: 2000,
-        repoURL: () => 'https://github.com/privateersclub/wiki'
-      }),
-      GitChangelogMarkdownSection(),
-      PageProperties(),
-      PagePropertiesMarkdownSection()
+      })
     ]
   },
   transformHead: async (context) =>
