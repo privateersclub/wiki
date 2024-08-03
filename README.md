@@ -12,8 +12,7 @@ Here are a few ways you can get involved:
 - **Questions:** If you have questions or need assistance, join our
   [Discord](https://discord.gg/jz8dUnnD6Q) server.
 - **Suggestions:** Have ideas? We'd love to hear them! Join our server to share your suggestions.
-- **Make Changes:** Have changes in mind? Send them, we would love to discuss! Read our [contribution guide](https://megathread.pages.dev/contribute) and open the entire website right in your browser:
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https://pr.new/privateersclub/wiki)
+- **Make Changes:** Have changes in mind? Send them, we would love to discuss! Read our [contribution guide](https://megathread.pages.dev/contribute).
 
 ## Follow us
 

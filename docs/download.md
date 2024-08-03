@@ -24,7 +24,7 @@ your downloads.
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
-- [🌟 SteamGG] (https://steamgg.net)
+- [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games

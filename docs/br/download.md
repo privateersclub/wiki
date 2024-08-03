@@ -22,7 +22,7 @@ gerenciamento de seus downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
   obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
-- [🌟 SteamGG] (https://steamgg.net)
+- [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
