@@ -22,20 +22,24 @@ gerenciamento de seus downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
   obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- [🌟 SteamGG] (https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
+- [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
-- [🌟 GamesDrive](https://gamesdrive.net)
-- [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
+- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
+- [Game-2U](https://game-2u.com/Category/game/pc)
+- [GamesDrive](https://gamesdrive.net)
 - [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
   lançamentos da Cena / Registro obrigatório
-- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Lançamentos da Cena e P2P
 - [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis / Senha: `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
   Downloads lentos / [Tradutor](useful.md#translator) / Senha: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
 - [Gamdie](https://gamdie.com) - Jogos indie
+- [Appnetica](https://appnetica.com) - Jogos indie
+- [AtopGames](https://atopgames.com) - Jogos indie
 - [Leechinghell](http://www.leechinghell.pw) - Jogos multijogador LAN
 - [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs / Registro obrigatório
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Jogos e aplicativos de macOS e iOS
@@ -85,9 +89,9 @@ devido à descompressão de arquivos.
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
-- [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.

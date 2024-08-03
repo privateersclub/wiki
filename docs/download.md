@@ -24,15 +24,17 @@ your downloads.
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
+- [🌟 SteamGG] (https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
+- [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
-- [🌟 GamesDrive](https://gamesdrive.net)
-- [Game-2U](https://game-2u.com/Category/game/pc)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
+- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
+- [Game-2U](https://game-2u.com/Category/game/pc)
+- [GamesDrive](https://gamesdrive.net)
 - [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
-- [ReleaseBB](https://rlsbb.ru/category/games/pc) - Scene & P2P releases
 - [Games 4 You](https://g4u.to) - Slow downloads for free users / Password:
   `404`
 - [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
@@ -40,6 +42,8 @@ your downloads.
   `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
+- [Appnetica](https://appnetica.com) - Indie games
+- [AtopGames](https://atopgames.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Registration
   required
@@ -96,9 +100,9 @@ time due to file decompression.
 - [🌟 ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
   mirrors for free fast downloads.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
-- [Xatab](https://byxatab.org)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
