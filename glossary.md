@@ -1,5 +1,5 @@
 ---
-title: Dicționar
+title: Glossary
 description: Answers to some of the most commonly asked questions.
 tags:
   - discussion
@@ -10,70 +10,70 @@ tags:
   - download
 ---
 
-# Dicționar
+# Glossary
 
-Această pagină ajută la rezumarea unor subiecte de bază privind pirateria. Mai ajută
-materialul referențial pentru a revizui mai rapid unii termeni.
+This page helps summarize over some basic topics on the piracy scene. This also
+serves as referential material to gloss over quickly.
 
-## Termeni
+## Terms
 
-:::tip Ce înseamnă Scene? Și P2P?
-Scene este comunitatea subterană de oameni
-care distribuie material protejat de drepturi de autor. Ei au reguli care
-toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu trebuie să respecte reguli
-[Reguli Scene](https://scenerules.org).
+:::tip What is the Scene? And P2P?
+The Scene is an underground community of
+people who crack and share copyrighted material. They have strict rules that all
+scene members have to abide. P2P are independent crackers who don't follow the
+[Scene rules](https://scenerules.org).
 :::
 
-:::tip Ce sunt NFO-urile?
-NFO-urile sunt ca și un readme.txt care cei de la Scene îl fac. Îți
-dă instrucțiuni, o descriere generală despre joc și chiar informații
-în plus.
+:::tip What’re NFOs?
+NFOs are like a readme.txt that Scene makes on release. It
+gives you instructions, a general description of the game and some additional
+information.
 :::
 
-:::tip De ce are site-ul X atâtea reclame?
-**Folosește un adblocker**. Reclamele mențin
-site-urile în funcțiune, dar uneori, reclama strică experiența, ba chiar te poate
-redirecționa la un link cu viruși. Poți lua aceste măsuri dacă să nu mai ai reclame:
+:::tip Why does X site have so many ads?
+**Use an adblocker**. Ads keep the
+websites running, but sometimes the ad ruins the experience or even link
+malware. You can take these steps if you want an ad-free experience:
 
 ### Android
 
-Instalează
+Install
 [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-și adaugă
+and add
 [**uBlock Origin**](https://addons.mozilla.org/android/addon/ublock-origin).
-Asta ar trebui să fie suficient. Dacă vrei la nivel de sistem, încearcă
-[**AdGuard**](https://adguard.com/adguard-android/overview.html) sau
-[**NextDNS**](https://nextdns.io). Te poți uita la
-[**acest video**](https://youtu.be/WUG57ynLb8I) dacă ai nevoie de ajutor.
+This should be more than enough. If you want system-wide support, try
+[**AdGuard**](https://adguard.com/adguard-android/overview.html) or
+[**NextDNS**](https://nextdns.io). You can watch
+[**this video**](https://youtu.be/WUG57ynLb8I) if you need guidance.
 
 ### PC
 
-Instalează [**uBlock Origin**](https://ublockorigin.com) pe browser și
-gata! Dacă vrei la nivel de sistem, _poți_ folosi
-[**NextDNS**](https://nextdns.io), dar nu va fi la fel de eficient ca uBlock
-Origin. Mai poți folosi
+Install [**uBlock Origin**](https://ublockorigin.com) in your browser and you're
+done! If you want a system-wide solution, you _can_ use
+[**NextDNS**](https://nextdns.io), but it won't be as effective as uBlock
+Origin. You can also use
 [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
-sau [Bypass.city](https://bypass.city) pentru a _ocoli_ redirecționările.
+or [Bypass.city](https://bypass.city) to _bypass_ redirects.
 
 ### iOS
 
-[**NextDNS**](https://nextdns.io) ar trebui să acopere reclamele la nivel de sistem și
-trackeri. Mai poți folosi [**AhaDNS**](https://ahadns.com).
+[**NextDNS**](https://nextdns.io) should cover everything for system-wide ads &
+trackers. You can also try [**AhaDNS**](https://ahadns.com).
 :::
 
-:::tip Îmi trebuie un VPN când downloadez?
-Necezitatea folosirii unui VPN
-depinde de metoda de downloadare. Pentru downloadări directe, nu prea este necesar
-să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau torrentezi
-un fișier, ar fi bine să ai un VPN pentru siguranță îmbunătățită și confidențialitate.
-În plus, ramificațile juridice sunt joacă un rol crucial;
-dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosirea unui VPN.
+:::tip Do I need to use VPN while downloading?
+The necessity of using a VPN
+depends on the method of downloading. For direct downloads, a VPN is typically
+unnecessary. However, if you're engaging in peer-to-peer (P2P) activities such
+as torrenting, it is advisable to employ a VPN for enhanced security and
+privacy. Additionally, the legal ramifications in your area play a crucial role;
+if the consequences are lenient, you might opt to forgo using a VPN altogether.
 :::
 
-:::tip De ce se downloadează așa de încet? 
-Folosește un manager de downloadări. Unele site-uri impun limite
-de transfer ale fișierelor pentru un singur fir (thread), așadar restricționând viteza de downloadare.
-Managerii de downloadare depășesc această limită alocând mai multe fire (thread-uri) pentru
-downloadare, resultând in viteze mai mari de downloadare. Ai aici printre cele mai bune
-[aici](/useful).
+:::tip Why is my download so slow? 
+Use a download manager. Some websites impose
+file transfer limits for a single thread, thereby restricting download speeds.
+Download managers overcome this limitation by leveraging multiple threads for
+downloading, resulting in faster download speeds. We've listed some recommended
+ones [here](/useful).
 :::

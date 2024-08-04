@@ -12,92 +12,92 @@ tags:
 
 # Linux
 
-Totul despre pirateria pe Linux.
+Everything regarding piracy on Linux.
 
-::: info Cel mai bun Distro pentru gaming?
-Niciunul. Niciunul nu-ți va oferi performanța pe care o pretind și pe care nu o poți obține prin alegerea unei distribuții regulate și prin utilizarea celor mai recente actualizări.
+::: info Best Linux distribution for Gaming?
+None. None of them will provide you the performance they claim that you can't get yourself by picking a regular distribution and using latest updates.
 
-Deci, pentru a obține cea mai bună performanță, îți trebuie cele mai noi actualizări. Toate distribuțiile linux oferă aceleași pachete și furnizează actualizări. Unii le oferă mai rapid decăt alții. Deci, orice distribuție care își actualizează pachetele cel mai repede după upstream, este bun. 
+So to get the best performance, one simply needs the latest updates. All linux distributions provide the sames packages and provide updates. Some provide them faster than others. So any distribution that updates its packages the soonest after upstream, is good in our opinion. 
 :::
 
-::: danger Ai grijă ce cauți/citești pe net!
-Ai grijă ce cauți/citești pe net, regula de bază este că nu trebuie să crezi tot ce vezi online.
+::: danger Beware of what you search/read online!
+Beware of what you search and read online on the internet, it's the general rule that one should't believe everything they see online.
 
-Nu totul va merge cum *vrei*, uneori, sfaturile online sunt prea vechi sau sunt **incompatibile**, deci asigură-te că ceea ce vezi va funcționa sau nu pentru sistemul tău, înainte de a executa comenzi sau de a schimba configurații și de a-ți distruge sistemul în acest proces.
+Not everything will work out the way you intend *it may work*, sometimes the advice online is outdated or just **incompatible**, so be sure of what you're seeing will work for your system or not, before running any commands or changing configurations, and breaking your system in the process.
 
-Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) este bun și merge pe toate distribuțile, nu doar Arch.
+If you need a guide, the [Arch Wiki](https://wiki.archlinux.org/) is good and works universally for most distributions, not only arch.
 :::
 
-## Downloadare
+## Downloading
 
-### Site-uri de downloadare directă
+### Direct Download Sites
 
-- [🌟 Torrminatorr](https://forum.torrminatorr.com) - Forum despre lansări Scene,
-  jocuri pentru Linux și GOG / Necesită înregistrare
-- [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocuri repack
-  (are ocazional jocuri compresate cu pierderi) /
-  [Traducător](useful.md#translator)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria de jocuri / Necesită
-  înregistrare /
+- [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene
+  releases forum / Registration required
+- [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
+  (occasionally has lossy, or compressed repacks) /
+  [Translator](useful.md#translator)
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
+  required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
-  Parola este: `cs.rin.ru`
+  Password: `cs.rin.ru`
 
 ### Torrent Sites
 
-- [🌟 johncena141](https://1337x.to/user/johncena141/) - Jocuri pentru Linux
-- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jocuri pentru Linux
-  / [Traducător](useful.md#translator)
+- [🌟 johncena141](https://1337x.to/user/johncena141/) - Linux games
+- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux games
+  / [Translator](useful.md#translator)
 
 ## Software
 
-### Nuclee (Kernel-uri)
+### Kernels
 
 ::: danger
-Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează reducerile de securitate](https://wiki.archlinux.org/index.php/Kernel_parameters), și pot cauza instabilități și probleme de fiabilitate. Este recomandat să ții [backup-uri](https://wiki.archlinux.org/title/Backup) și un nucleu de rezervă pentru a porni înapoi, din GRUB.
+Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instablities and reliablity issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
 :::
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Nucleu fiabil cu patch-uri pentru utilizatorii obișnuiți
+- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Reliable kernel with patches for casual users
 - [XanMod Stable Real-time](https://xanmod.org/)
 - [Liquroix](https://liquorix.net/)
-- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Pentru sistemele cu Intel, foarte folositor pentru servere
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Necesită compilare manuală
+- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - For Intel systems, very useful for servers
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requires self-compilation
 
 ### Launchers
 
-- [🌟 Lutris](https://lutris.net) - Lansator de jocuri
-- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Lansator de jocuri
-  de pe Epic Games, GOG și Amazon Prime Games
-- [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Client GOG
-- [Bottles](https://usebottles.com) - Gestionar de software pentru Windows
+- [🌟 Lutris](https://lutris.net) - Game launcher
+- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, &
+  Amazon Prime Games launcher
+- [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG client
+- [Bottles](https://usebottles.com) - Windows software manager
 
-### Programe
+### Tools
 
-- [MangoHud](https://github.com/flightlessmango/MangoHud) - Pentru monitorizarea
-  performanței calculatorului / [GUI](https://github.com/benjamimgois/goverlay)
-- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Gestionar de programe de compatibilitate bazate pe Wine și Proton
-- [Winetricks](https://github.com/Winetricks/winetricks) - Corecții și ajustări pentru Wine
-- [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) - Suprapunere Discord pentru Linux
-- [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Compatibilitate Steam Play pentru jocuri
-- [GameHub](https://tkashkin.github.io/projects/gamehub/) - Centru unificat pentru jocuri
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay for
+  monitoring performance / [GUI](https://github.com/benjamimgois/goverlay)
+- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Wine & Proton-based compatibility tools manager
+- [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
+- [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) - Discord Overlay for Linux
+- [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility layer for games
+- [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified games hub
 
-## Site-uri
+## Websites
 
-- [ProtonDB](https://www.protondb.com/) - Rapoarte de compatibilitate și corecții Proton.
-- [AppDB](https://appdb.winehq.org/) - Monitorizarea rapoartelor si ratingurile jocurilor video făcut de cei de la Wine.
+- [ProtonDB](https://www.protondb.com/) - Proton's compatibility reports and fixes.
+- [AppDB](https://appdb.winehq.org/) - Wine's tracker to track reports and ratings of video games.
 - [GamingOnLinux](https://www.gamingonlinux.com/) / [Wiki](https://www.gamingonlinux.com/wiki)
-- [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Jocuri care rulează nativ pe Linux
-- [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - De la sfaturi de configurare până la rularea jocurilor
+- [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games tha5 run natively on Linux
+- [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Everything from configuration tips to running games
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
-- [Open Source Game Clones](https://osgameclones.com/) - Clone sau refaceri de jocuri PLSD (FOSS)
+- [Open Source Game Clones](https://osgameclones.com/) - FOSS Game remakes/clones
 
-## Ghiduri
+## Guides
 
 - [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-- [🌟 Instalarea repack-urilor cu Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+- [🌟 Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
-  [Soluție pentru erori DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
+  [Fix for DLL errors](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 
-## Subreddit-uri relevante
+## Related Subreddits
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)

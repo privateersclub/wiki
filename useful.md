@@ -1,5 +1,5 @@
 ---
-title: Folositor
+title: Useful
 description: Essential tools, sites, and components that are worth using.
 tags:
   - windows
@@ -9,125 +9,127 @@ tags:
   - discussion
 ---
 
-# Folositor
+# Useful
 
-Programe, site-uri și componente esențiale care merită utilizate.
+Essential tools, sites, and components that are worth using.
 
-## Componente necesare
+## Required Components
 
-Instalează totul înainte să descarci jocuri (legitime sau piratate) pentru a preveni crash-urile
-cauzate de lipsa software-ului de pe computerul tău:
+Install all before downloading games (legitimate or pirated) to avoid crashes
+from missing software on your computer:
 
 - [DirectX](https://www.microsoft.com/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/download/details.aspx?id=20914)
 
-## Programe
+## Tools
 
 :::tip
-:exclamation: Uită-te peste
-[RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) și
-[Colecția programelor pentru Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
-pentru mai multe programe pentru Steam.
+:exclamation: See
+[RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) and
+[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
+for more Steam tools.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
-  Client de Steam, Epic Games și EA (folosește EA DLC Unlocker), & Uplay DLC unlocker
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Declocator de DLC pentru Steam, Epic Games și Uplay
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Deblocator
-  de DLC pentru jocuri de pe Steam legitim /
-  [Configurare automată](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
+  Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
+- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatic Steam, Epic Games Store, & Uplay DLC unlocker
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
+  Steam game DLC unlocker /
+  [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
-  Emulator de Steam și jocuri multiplayer / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
-  [Ghid](https://rentry.co/goldberg_emulator)
-- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulator de Steam și jocuri multiplayer
-- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jucarea jocurilor piratate online.
-- [Online Fix](https://online-fix.me) - Permite jucarea jocurilor piratate online. / Parola este: `online-fix.me`
-- [Steamless](https://github.com/atom0s/Steamless) - Ștergător de DRM pentru Steam /
+  Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
+  [Guide](https://rentry.co/goldberg_emulator)
+- [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Steam & multiplayer emulator
+- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Allows playing pirated games online with
+  other pirated games.
+- [Online Fix](https://online-fix.me) - Allows playing pirated games online with
+  other pirated games. / Password: `online-fix.me`
+- [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
   [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestionar de deblocare Steam de GreenLuma
+- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
-  Creator automat de corecții Steamworks
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Deblocator
-  de DLC pentru Clienții EA
+  Automatic Steamworks fix creator
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA
+  clients DLC unlocker
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
-  Emulator de Epic Online Services
-- [SteamDB](https://steamdb.info) / [Extension](https://steamdb.info/extension) - Site de analiză a jocurilor de pe Steam (Prețurile vechi, statistici etc.)
-- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Descărcător pentru moduri de pe
-  Steam Workshop
+  Epic Online Services emulator
+- [SteamDB](https://steamdb.info) / [Extension](https://steamdb.info/extension) - Steam insight tool
+- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Steam Workshop
+  downloader
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -
-  Actualizator de versiuni piratate pentru The Sims 4
-- [Plutonium](https://plutonium.pw) - Servere de Call of Duty, cu suport pentru
-  moduri și mai multe lucruri.
-- [Lucky Patcher](https://www.luckypatchers.com) - Patcher pentru aplicațiile Android (este mai bun
-  dacă ai root)
+  Pirated The Sims 4 version updater
+- [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod
+  support & extended features.
+- [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
+  with root)
 
-## Programe
+## Software
 
 :::tip
-Activează produsele Microsoft (Office și Windows) cu **[Microsoft Activation Scripts](https://massgrave.dev).**
-Intră pe **[m0nkrus](https://w14.monkrus.ws)** pentru produsele Adobe.
+Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
+Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 
-Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com) sau
+For the rest, visit [LRepacks](https://lrepacks.net),
+[CRACKSurl](https://cracksurl.com) or
 [GameBounty](https://gamebounty.world/software).
 :::
 
-- [7-Zip](https://7-zip.org) - Decomprimă fișiere
-- [Bitwarden](https://bitwarden.com) - Gestionar de parole cu codul sursă liberă
-- [Firefox](https://www.mozilla.org/firefox) - Browser web pentru folosirea obișnuită / [Betterfox](https://github.com/yokoffing/Betterfox)
-- [Tor Browser](https://www.torproject.org) - Browser web privat care direcționează traficul de internet
-  printr-o rețea descentralizată de servere operate de voluntari,
-  ceea ce face dificilă depistarea ta.
+- [7-Zip](https://7-zip.org) - File archiver
+- [Bitwarden](https://bitwarden.com) - Open-source password manager
+- [Firefox](https://www.mozilla.org/firefox) - Web browser for everyday use / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Tor Browser](https://www.torproject.org) - Private web browser that routes
+  Internet traffic through a decentralized network of volunteer-operated
+  servers, making you hard to trace.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
-  Analiza fișierelor de realizări cu captură de ecran automată, urmărirea timpului de joc și
-  notificare în timp real
-- [Hydra](https://github.com/hydralauncher/hydra) - Un magazin (similar cu Steam!) unde poți instala jocuri piratate!
-- [Parsec](https://parsec.app) - oftware pentru streaming de jocuri cu latență redusă
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificator de checksum și
-  generator de informații despre hash-uri
+  Achievement file parser with auto-screenshot, playtime tracking, & real-time
+  notification
+- [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
+- [Parsec](https://parsec.app) - Low-latency game streaming software
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier &
+  hash info generator
 
-## Extensii de browser
+## Browser Extensions
 
-- [uBlock Origin](https://ublockorigin.com) - Blochează reclamele /
-  [recomandările lui yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
-- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtru de căutare
+- [uBlock Origin](https://ublockorigin.com) - Ad content blocker /
+  [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
+- [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Script pentru ocolirea scurtătorilor de link-uri - Are nevoie de una dintre cele 3 extensii de mai jos
+  Link shorterners bypasser userscript - Needs one of the 3 extensions below
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
-  Gestionar de script-uri pentru Firefox cu codul sursă liberă
-- [Tampermonkey](https://www.tampermonkey.net) - Gestionar de script-uri pentru
-  majoritatea browserelor care nu are codul sursă liber
-- [ViolentMonkey](https://violentmonkey.github.io) - Gestionar de script-uri pentru
-  multe browsere cu codul sursă liberă
+  Open-source userscript manager for Firefox
+- [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager
+  for most browsers
+- [ViolentMonkey](https://violentmonkey.github.io) - Open-source userscript
+  manager for many browsers
 
 <ul>
-  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Tradu site-urile</a>
-      - Traducerea paginii în timp real prin Google sau Yandex
+  <li id="translator"><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>
+      - Real-time page translation via Google or Yandex
   </li>
 </ul>
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) -
-  Filele cu coduri de culori din acest instrument îți țin viața online separată, păstrându-ți
-  confidențialitatea. Cookie-urile sunt containerizate, permițând utilizarea simultană a mai multor
-  identități sau conturi.
+  Color-coded tabs in this tool keep your online life separated, preserving your
+  privacy. Cookies are containerized, allowing simultaneous use of multiple
+  identities or accounts.
 
-## Antrenori (hack-uri)
+## Trainers (cheats)
 
-Nu pentru jocurile online. Nu trișa în jocurile online!
+Not for online games. No cheating in online games!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Mai are corecții pentru jocuri
-  piratate și NoCD.
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and
+  NoCD fixes.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
-- [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabele pentru Cheat Engine
+- [FearLess Cheat Engine](https://fearlessrevolution.com) - Cheat Engine tables
 - [MrAntiFun](https://mrantifun.net)
 
 ## Release Trackers
 
-Nu sunt oferite descărcări. Unele site-uri au informații despre lansările Scene/P2P. Uită-te dacă un joc
-a fost piratat!
+No downloads provided. Sites have P2P/Scene release info. Check here to see if a
+game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
@@ -140,7 +142,7 @@ a fost piratat!
 - [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - Repacks only /
   [r/PiratedGames](https://www.reddit.com/r/PiratedGames)' sister subreddit
 
-## Subreeddit-uri relevante
+## Related Subreddits
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)

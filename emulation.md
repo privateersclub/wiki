@@ -1,5 +1,5 @@
 ---
-title: Emulare
+title: Emulation
 description: ROM sites, emulators, discussion pages, and more.
 tags:
   - emulation
@@ -8,63 +8,64 @@ tags:
   - subreddits
 ---
 
-# Emulare
+# Emulation
 
-Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
+ROM sites, emulators, discussion pages and more.
 
-## Site-uri cu ROM-uri
+## ROM Sites
 
 - [🌟 r/Roms Megathread](https://r-roms.github.io)
 - [🌟 Crocdb](https://crocdb.net)
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
+- [The ROM Depot](https://theromdepot.com) / Registration required
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
-- [NoPayStation](https://nopaystation.com) - Jocuri de PlayStation 1, Vita, 3 și PSP
-- [Ziperto](https://www.ziperto.com) - Jocuri pentru console Nintendo
-- [NSW2u](https://nsw2u.com) - Jocuri pentru Nintendo Switch
-- [NXBrew](https://nxbrew.com) - Jocuri pentru Nintendo Switch
+- [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
+  Portable games
+- [Ziperto](https://www.ziperto.com) - Nintendo games
+- [NSW2u](https://nsw2u.com) - Nintendo Switch games
+- [NXBrew](https://nxbrew.com) - Nintendo Switch games
 
-## Emulatoare
+## Emulators
 
 :::tip
-Verifică
-**[Wiki general de Emulare](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
-pentru mai multe.
+See the
+**[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
+for more.
 
-Unele emulatoare au nevoie de fișiere în plus (chei sau BIOS) și sunt marcate
-cu o :gear:. Le poți lua de
-[aici](https://r-roms.github.io/megathread/misc/#bios-files).
+Some emulators require additional files (keys or BIOS) and are marked
+with a :gear:. You can get them
+[here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
-- [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
-- [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
-  Geo, PlayStation 1 și Game Boy Advance
+- [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
+- [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
+  Geo, PlayStation 1, & Game Boy Advance cores
 - [:gear: Ryujinx](https://ryujinx.org) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Emulator pentru Nintendo Switch
-- [Cemu](https://cemu.info) - Emulator pentru Wii U
-- [Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulator pentru 3DS
-- [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
-- [RPCS3](https://rpcs3.net) - Emulator pentru PlayStation 3
-- [xenia](https://xenia.jp) - Emulator pentru Xbox 360
-- [:gear: MAME](https://www.mamedev.org) - Emulator pentru jocurile Arcade
-- [PPSSPP](https://www.ppsspp.org) - Emulator pentru PSP
+  [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
+- [Cemu](https://cemu.info) - Wii U games
+- [Vita3K](https://vita3k.org) - PlayStation Vita games
+- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
+- [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
+- [RPCS3](https://rpcs3.net) - PlayStation 3 games
+- [xenia](https://xenia.jp) - Xbox 360 games
+- [:gear: MAME](https://www.mamedev.org) - Arcade games
+- [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
 - [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
-  Emulator pentru Nintendo DS
-- [No$GBA](https://www.nogba.com) - Emulator pentru Nintendo DS și GBA
-- [:gear: xemu](https://xemu.app) - Emulator pentru primul Xbox
-- [mGBA](https://mgba.io) - Emulator pentru GBA
-- [:gear: PCSX2](https://pcsx2.net) - Emulator pentru PlayStation 2
-- [Parallel Launcher](https://parallel-launcher.ca) - Emulator pentru Nintendo 64
-- [:gear: DuckStation](https://www.duckstation.org) - Emulator pentru PlayStation 1
+  Nintendo DS games
+- [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
+- [:gear: xemu](https://xemu.app) - Original Xbox games
+- [mGBA](https://mgba.io) - Game Boy Advance games
+- [:gear: PCSX2](https://pcsx2.net) - PlayStation 2 games
+- [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games
+- [:gear: DuckStation](https://www.duckstation.org) - PlayStation 1 games
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
-  [Snes9x](https://www.snes9x.com) - Emulator pentru SNES
+  [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 
-## Subreddit-uri relevante
+## Related Subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)

@@ -1,6 +1,6 @@
 ---
-name: Ghidul pentru a contribui
-description: Cumn poți să contribui la wiki.
+name: Contribution Guide
+description: How to contribute to the wiki.
 ---
 
 <!--@include: ./../CONTRIBUTING.md -->
