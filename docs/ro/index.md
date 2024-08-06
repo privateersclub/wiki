@@ -10,9 +10,9 @@ hero:
     alt: privateersclub
   actions:
     - text: Începe
-      link: /glossary
+      link: /ro/glossary
     - text: Contribuie
-      link: /contribute
+      link: /ro/contribute
     - text: Traduceri
       link: /_translations/
       theme: alt
