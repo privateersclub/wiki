@@ -6,13 +6,13 @@ const navbar: DefaultTheme.NavItem[] = [
 ]
 
 const sidebar: DefaultTheme.Sidebar = [
-  { text: 'Glossary', link: '/ro/glossary' },
-  { text: 'Software', link: '/ro/software' },
+  { text: 'Dicționar', link: '/ro/glossary' },
+  { text: 'Programe', link: '/ro/software' },
   { text: 'Download', link: '/ro/download' },
-  { text: 'Emulation', link: '/ro/emulation' },
+  { text: 'Emulare', link: '/ro/emulation' },
   { text: 'Linux', link: '/ro/linux' },
-  { text: 'Useful', link: '/ro/useful' },
-  { text: 'Unsafe', link: '/ro/unsafe' }
+  { text: 'Folositor', link: '/ro/useful' },
+  { text: 'Evită', link: '/ro/unsafe' }
 ]
 
 export const roLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
