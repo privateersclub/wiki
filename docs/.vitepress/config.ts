@@ -3,6 +3,7 @@ import { sharedConfig } from './shared'
 import { enLocale } from './locales/en-us'
 import { brLocale } from './locales/pt-br'
 import { esLocale } from './locales/es-la'
+import { roLocale } from './locales/ro'
 
 export default defineConfig({
   ...sharedConfig,
@@ -21,6 +22,11 @@ export default defineConfig({
       label: 'Español',
       lang: 'es',
       ...esLocale
+    },
+    ro: {
+      label: 'Română',
+      lang: 'ro',
+      ...roLocale
     }
   }
 })
