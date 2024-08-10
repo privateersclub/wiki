@@ -1,6 +1,6 @@
 ---
 title: Evită
-description: Things you should always avoid using.
+description: Ce nu ar mai trebuie să folosești.
 ---
 
 # Evită
