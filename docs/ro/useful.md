@@ -1,6 +1,6 @@
 ---
 title: Folositor
-description: Essential tools, sites, and components that are worth using.
+description: Programe, site-uri și componente esențiale care merită utilizate.
 tags:
   - windows
   - tools
