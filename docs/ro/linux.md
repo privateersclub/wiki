@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Everything regarding piracy on Linux.
+description: Totul despre pirateria pe Linux.
 tags:
   - linux
   - discussion
