@@ -1,6 +1,6 @@
 ---
 title: Download
-description: Sites and everything for direct downloads.
+description: Site-uri și totul pentru downloadări directe.
 tags:
   - downloads
   - torrents
