@@ -1,6 +1,6 @@
 ---
 title: Programe
-description: Software to enhance your piracy experience.
+description: Programe pentru îmbunătățirea experienței de piraterie.
 tags:
   - download
   - torrent
