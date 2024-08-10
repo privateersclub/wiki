@@ -1,6 +1,6 @@
 ---
 title: Dicționar
-description: Answers to some of the most commonly asked questions.
+description: Răspunsuri la unele dintre cele mai frecvente întrebări.
 tags:
   - discussion
   - glossary
@@ -18,7 +18,7 @@ materialul referențial pentru a revizui mai rapid unii termeni.
 ## Termeni
 
 :::tip Ce înseamnă Scene? Și P2P?
-Scene este comunitatea subterană de oameni
+Scene este comunitatea de oameni
 care distribuie material protejat de drepturi de autor. Ei au reguli care
 toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu trebuie să respecte reguli
 [Reguli Scene](https://scenerules.org).
