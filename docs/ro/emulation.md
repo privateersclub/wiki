@@ -1,6 +1,6 @@
 ---
 title: Emulare
-description: ROM sites, emulators, discussion pages, and more.
+description: Site-uri cu ROM-uri, emulatoare, forumuri și mai multe.
 tags:
   - emulation
   - discussion
