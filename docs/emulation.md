@@ -64,7 +64,7 @@ with a :gear:. You can get them
 - [:gear: DuckStation](https://www.duckstation.org) - PlayStation 1 games
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
 - [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
-- [WePlayDOS Games](https://weplaydos.games/) - Play 150+ classic dos games in browser (no-setup)
+- [WePlayDOS Games](https://weplaydos.games/) - Web browser MS-DOS games
 
 ## Related Subreddits
 
