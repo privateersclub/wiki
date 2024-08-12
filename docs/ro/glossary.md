@@ -62,11 +62,11 @@ trackeri. Mai poți folosi [**AhaDNS**](https://ahadns.com).
 :::
 
 :::tip Îmi trebuie un VPN când downloadez?
-Necezitatea folosirii unui VPN
+Nevoia folosirii unui VPN
 depinde de metoda de downloadare. Pentru downloadări directe, nu prea este necesar
 să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau torrentezi
 un fișier, ar fi bine să ai un VPN pentru siguranță îmbunătățită și confidențialitate.
-În plus, ramificațile juridice sunt joacă un rol crucial;
+În plus, ramificațile juridice joacă un rol crucial;
 dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosirea unui VPN.
 :::
 
