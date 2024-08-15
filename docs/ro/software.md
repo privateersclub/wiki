@@ -16,7 +16,7 @@ Programe pentru îmbunătățirea experienței de piraterie.
 ## Manageri de downloadări
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
-  [Piratat(https://cracksurl.com/internet-download-manager) &
+  [Piratat](https://cracksurl.com/internet-download-manager) &
   [instrucțiuni](https://rentry.org/installidm)
   - [Script de activare](https://github.com/lstprjct/IDM-Activation-Script)
   - [Resetarea încercării gratuite](https://github.com/J2TEAM/idm-trial-reset)
