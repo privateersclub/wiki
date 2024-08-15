@@ -101,7 +101,7 @@ sunt link-uri periculoase. Să știi că există [site-uri false 1337x](https://
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
 - GShade - Poate declanșa [reporniri](https://rentry.co/GShade_notice) nedorite.
-- Kik - Foarte folosit [pedofili și țepari](https://youtu.be/9sPaJxRmIPc).
+- Kik - Foarte folosit de [pedofili și țepari](https://youtu.be/9sPaJxRmIPc).
 - KLauncher - Are viruși.
 - Limewire - Nu mai există, ar trebui evitat tot ceea ce pretinde a fi ei acum.
 - McAfee - Instalează bloatware (programe nedorite care îți face calculatorul mai încet).
