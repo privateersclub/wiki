@@ -62,8 +62,8 @@ with a :gear:. You can get them
 - [:gear: PCSX2](https://pcsx2.net) - PlayStation 2 games
 - [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games
 - [:gear: DuckStation](https://www.duckstation.org) - PlayStation 1 games
-- [bsnes](https://github.com/bsnes-emu/bsnes) /
-  [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
+- [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
+- [WePlayDOS Games](https://weplaydos.games/) - Web browser MS-DOS games
 
 ## Related Subreddits
 
