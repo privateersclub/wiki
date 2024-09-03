@@ -63,6 +63,7 @@ cu o :gear:. Le poți lua de
 - [:gear: DuckStation](https://www.duckstation.org) - Emulator pentru PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
   [Snes9x](https://www.snes9x.com) - Emulator pentru SNES
+- [WePlayDOS Games](https://weplaydos.games/) - Jocuri MS-DOS în browser
 
 ## Subreddit-uri relevante
 
