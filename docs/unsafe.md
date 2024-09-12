@@ -118,5 +118,6 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from
   Discord server and repository. Use Prism Launcher.
 - TLauncher (unrelated to TLauncher Legacy) -
-  [Shady](https://www.reddit.com/zmzzrt) business practices. Use Prism Launcher.
+  [Shady](https://www.reddit.com/r/PiratedGames/comments/zmzzrt/
+) business practices. Use Prism Launcher.
 - VSTorrent - Caught with [malware](https://redd.it/x66rz2).
