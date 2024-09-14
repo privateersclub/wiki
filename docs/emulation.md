@@ -47,6 +47,7 @@ with a :gear:. You can get them
 - [:gear: Ryujinx](https://ryujinx.org) /
   [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
+- [Batocera.linux](https://batocera.org/) - retro-gaming distribution 
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
