@@ -63,6 +63,7 @@ for more Steam tools.
   support & extended features.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
   with root)
+- [Radmin VPN](https://www.radmin-vpn.com/) / [ZeroTier](https://www.zerotier.com/) - Virtual LAN emulators for online multiplayer gaming.
 
 ## Software
 
@@ -78,6 +79,7 @@ For the rest, visit [LRepacks](https://lrepacks.net),
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
 - [Firefox](https://www.mozilla.org/firefox) - Web browser for everyday use / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Thorium](https://thorium.rocks/) - Lightweight, privacy-focused web browser based on Chromium, offering a minimalist interface and enhanced security features.
 - [Tor Browser](https://www.torproject.org) - Private web browser that routes
   Internet traffic through a decentralized network of volunteer-operated
   servers, making you hard to trace.
