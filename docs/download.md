@@ -28,6 +28,9 @@ your downloads.
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
+- [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
+- [Gamedrive](https://gamedrive.org/)
+- [Games4u](https://games4u.org/)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
