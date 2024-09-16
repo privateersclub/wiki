@@ -9,17 +9,16 @@ Things you should always avoid using.
 
 :::tip
 You can just use the
-[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites)
-[adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
 on uBlacklist (more efficient) or uBlock Origin to block most of the sites
 mentioned here and more. Follow
 [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
 to add the custom filter to uBlacklist (put
 [this link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
 under "URL") and
-[this guide](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+[this guide](https://fmhy.github.io/FMHYFilterlist/site/index.html)
 to add it to uBlock Origin (use
-[this](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+[this](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
 under "Import…").
 :::
 
@@ -47,9 +46,9 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - CracksHash - Caught with [malware](https://redd.it/lklst7).
 - Crohasit - Is affiliated to SteamUnlocked owners.
 - cracked-games/GETGAMEZ - Caught with malware.
-- CrackingPatching - Caught with [malware](https://www.reddit.com/qy6z3c).
+- CrackingPatching - Caught with [malware](https://www.reddit.com/r/Piracy/comments/qy6z3c).
 - FileCR - [Constantly](https://rentry.co/filecr_malware) caught with malware.
-- FreeTP/Game3rb - Malicious fake download links on the page.
+- FreeTP/Game3rb/Mrpcgamer - Malicious fake download links on the page.
 - FTUApps - [Constantly](https://redd.it/120xk62) caught with malware.
 - GameFabrique - IGG Games uploads and
   [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
@@ -97,7 +96,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - Bluecord/BlueKik - History of [spam](https://redd.it/12h2v6n) and
   [spying](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate -
-  [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/q3lepv).
+  [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now/).
 - Downloadly (video downloader) - Caught with crypto miners.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
@@ -106,16 +105,14 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - KLauncher - Contains malware.
 - Limewire - Long-dead, anything claiming to be them now should be avoided.
 - McAfee - Installs bloatware.
-- Opera ( browsers) -
-  [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13)
-  [bad](https://rentry.co/operagx) privacy policies, besides
+- Opera ( browsers) - [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [bad](https://rentry.co/operagx) privacy policies, besides
   [predatory](https://www.androidpolice.com/2020/01/21/opera-predatory-loans)
   loan apps.
 - PCProtect/Protected/TotalAV - Antivirus scams
   ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect),
   [2](https://youtu.be/PcS3EozgyhI),
   [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
-- PolyMC - Owner [kicked all members](https://www.reddit.com/y6lt6s) from
+- PolyMC - Owner [kicked all members](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod/) from
   Discord server and repository. Use Prism Launcher.
 - TLauncher (unrelated to TLauncher Legacy) -
   [Shady](https://www.reddit.com/r/PiratedGames/comments/zmzzrt/

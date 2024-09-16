@@ -111,7 +111,7 @@ time due to file decompression.
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
-- [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
+- [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally
   has lossy, or compressed repacks) / [Translator](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)

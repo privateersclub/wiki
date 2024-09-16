@@ -64,7 +64,7 @@ for more Steam tools.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
   with root)
 - [Radmin VPN](https://www.radmin-vpn.com/) / [ZeroTier](https://www.zerotier.com/) - Virtual LAN emulators for online multiplayer gaming.
-
+- [GameRanger](https://www.gameranger.com/) / [Voobly](https://www.voobly.com/) - Free services for online multiplayer gaming
 ## Software
 
 :::tip
@@ -72,8 +72,7 @@ Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scri
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 
 For the rest, visit [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com) or
-[GameBounty](https://gamebounty.world/software).
+[CRACKSurl](https://cracksurl.com)
 :::
 
 - [7-Zip](https://7-zip.org) - File archiver
