@@ -105,7 +105,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - KLauncher - Contains malware.
 - Limewire - Long-dead, anything claiming to be them now should be avoided.
 - McAfee - Installs bloatware.
-- Opera ( browsers) - [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [bad](https://rentry.co/operagx) privacy policies, besides
+- Opera Browsers - Not recommended even for normal usage, [very](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [bad](https://rentry.co/operagx) privacy policies, besides
   [predatory](https://www.androidpolice.com/2020/01/21/opera-predatory-loans)
   loan apps.
 - PCProtect/Protected/TotalAV - Antivirus scams
