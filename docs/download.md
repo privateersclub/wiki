@@ -105,7 +105,7 @@ time due to file decompression.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Requires Registration with a Special Code
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
