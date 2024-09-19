@@ -9,7 +9,7 @@ Things you should always avoid using.
 
 :::tip
 You can just use the
-[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://fmhy.github.io/FMHYFilterlist/site/index.html)
 on uBlacklist (more efficient) or uBlock Origin to block most of the sites
 mentioned here and more. Follow
 [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
