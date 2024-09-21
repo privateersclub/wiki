@@ -61,6 +61,7 @@ pentru mai multe programe pentru Steam.
   moduri și mai multe lucruri.
 - [Lucky Patcher](https://www.luckypatchers.com) - Patcher pentru aplicațiile Android (este mai bun
   dacă ai root)
+- [Radmin VPN](https://www.radmin-vpn.com/) / [ZeroTier](https://www.zerotier.com/) - Emulator de LAN virtual pentru jocurile online.
 
 ## Programe
 
@@ -76,6 +77,7 @@ Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net),
 - [7-Zip](https://7-zip.org) - Decomprimă fișiere
 - [Bitwarden](https://bitwarden.com) - Gestionar de parole cu codul sursă liberă
 - [Firefox](https://www.mozilla.org/firefox) - Browser web pentru folosirea obișnuită / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Thorium](https://thorium.rocks/) - Browser web ușor pe sistem, conceput pentru confidențialitate, bazat pe Chromium, cu o interfață minimalistă și funcții de securitate îmbunătățite.
 - [Tor Browser](https://www.torproject.org) - Browser web privat care direcționează traficul de internet
   printr-o rețea descentralizată de servere operate de voluntari,
   ceea ce face dificilă depistarea ta.
