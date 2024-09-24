@@ -48,7 +48,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - cracked-games/GETGAMEZ - Caught with malware.
 - CrackingPatching - Caught with [malware](https://www.reddit.com/r/Piracy/comments/qy6z3c).
 - FileCR - [Constantly](https://rentry.co/filecr_malware) caught with malware.
-- FreeTP/Game3rb/Mrpcgamer - Malicious fake download links on the page.
+- FreeTP/Game3rb - Malicious fake download links on the page.
 - FTUApps - [Constantly](https://redd.it/120xk62) caught with malware.
 - GameFabrique - IGG Games uploads and
   [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
