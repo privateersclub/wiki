@@ -76,7 +76,7 @@ Custom kernels can significantly change your system behavior, [disable security 
   monitoring performance / [GUI](https://github.com/benjamimgois/goverlay)
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Wine & Proton-based compatibility tools manager
 - [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
-- [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) - Discord Overlay for Linux
+- [DiscordOverlayLinux](https://github.com/trigg/Discover) - Discord Overlay for Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility layer for games
 - [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified games hub
 
@@ -84,8 +84,8 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 - [ProtonDB](https://www.protondb.com/) - Proton's compatibility reports and fixes.
 - [AppDB](https://appdb.winehq.org/) - Wine's tracker to track reports and ratings of video games.
-- [GamingOnLinux](https://www.gamingonlinux.com/) / [Wiki](https://www.gamingonlinux.com/wiki)
-- [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games tha5 run natively on Linux
+- [GamingOnLinux](https://www.gamingonlinux.com/)
+- [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games that run natively on Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Everything from configuration tips to running games
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
 - [Open Source Game Clones](https://osgameclones.com/) - FOSS Game remakes/clones
