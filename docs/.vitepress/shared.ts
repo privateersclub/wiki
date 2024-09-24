@@ -54,6 +54,12 @@ export const sharedConfig = defineConfig({
             avatar: 'https://github.com/taskylizard.png'
           },
           {
+            name: 'taskylizard',
+            username:
+              'taaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssky',
+            avatar: 'https://github.com/taskylizard.png'
+          },
+          {
             name: 'Kazevic',
             username: 'Kazevic',
             avatar: 'https://github.com/kazevic.png'
