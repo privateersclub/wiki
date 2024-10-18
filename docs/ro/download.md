@@ -101,7 +101,7 @@ ia mult timp din cauza decomprimării fișierului.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Necesită înregistrare cu un cod special
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Transferat la KaOsKrew în iunie 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repack-uri până în mai 2022. Transferat la KaOsKrew în iunie 2022.
