@@ -18,8 +18,6 @@ Software to enhance your piracy experience.
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Crack](https://cracksurl.com/internet-download-manager) &
   [instructions](https://rentry.org/installidm)
-  - [Activation script](https://github.com/lstprjct/IDM-Activation-Script)
-  - [Trial reset](https://github.com/J2TEAM/idm-trial-reset)
   - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detects most file
   hosts
@@ -59,4 +57,4 @@ Software to enhance your piracy experience.
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/en/vpn)
-- [VPN Comparison Table on r/VPN](https://www.reddit.com/m736zt)
+- [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/)

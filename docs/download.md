@@ -105,13 +105,13 @@ time due to file decompression.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Requires Registration with a Special Code
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
-- [Gnarly Repacks](https://gnarly-repacks.site) - Emulated console games
+- [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally
   has lossy, or compressed repacks) / [Translator](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
