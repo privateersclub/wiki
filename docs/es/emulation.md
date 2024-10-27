@@ -3,7 +3,7 @@ title: Emulacion
 description: Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 ---
 
-# Emulacion
+# Emulación
 
 Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 
@@ -14,11 +14,11 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Registro requerido.
+- [The ROM Depot](https://theromdepot.com) / Registro requerido
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
-  [Guía para descargar desde emu paradise](https://lemmy.world/post/3061617)
-- [NoPayStation](https://nopaystation.com) - Juegos de PlayStation 1, Vita, 3 y PSP
+  [Guía para descargar desde Emuparadise](https://lemmy.world/post/3061617)
+- [NoPayStation](https://nopaystation.com) - Juegos de PlayStation 1, Vita, 3 y Portable
 - [Ziperto](https://www.ziperto.com) - Juegos de Nintendo
 - [NSW2u](https://nsw2u.com) - Juegos de Nintendo Switch
 - [NXBrew](https://nxbrew.com) - Juegos de Nintendo Switch
@@ -30,37 +30,39 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
   **[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
   para más.
 
-  Algunos emuladores requieren archivos adicionales (keys o BIOS)y están marcados 
+  Algunos emuladores requieren archivos adicionales (keys o BIOS) y están marcados 
   con un :gear:. Los puedes obtener desde
   [aquí](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
+- [Batocera.linux](https://batocera.org) - Distro de juegos retro
 - [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas / 
-  Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra.
-- [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Avoid the Neo
-  Geo, PlayStation 1, & Game Boy Advance cores
-- [:gear: Ryujinx](https://ryujinx.org) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Emuladores de Nintendo Switch
+  Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra
+- [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
+  Geo, PlayStation 1 e Game Boy Advance
+- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
+  [:gear: Sudachi](https://sudachi.emuplace.app) - Emuladores de Nintendo Switch
 - [Cemu](https://cemu.info) - Emulador de Wii U
-- [Vita3K](https://vita3k.org) - Emulador de PS Vita
+- [Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulador de Nintendo 3DS
-- [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y Gamecube
-- [RPCS3](https://rpcs3.net) - Emulador de PS3
+- [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
+- [RPCS3](https://rpcs3.net) - Emulador de PlayStation 3
 - [xenia](https://xenia.jp) - Emulador de Xbox 360
 - [:gear: MAME](https://www.mamedev.org) - Emulador para juegos arcade
-- [PPSSPP](https://www.ppsspp.org) - Emulador de PSP
+- [PPSSPP](https://www.ppsspp.org) - Emulador de PlayStation Portable
 - [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
-  Emulador de nintendo DS
-- [No$GBA](https://www.nogba.com) - Emulador de GBA y Nintendo DS
+  Emulador de Nintendo DS
+- [No$GBA](https://www.nogba.com) - Emulador de Game Boy Advance y Nintendo DS
 - [:gear: xemu](https://xemu.app) - Emulador de Xbox original
-- [mGBA](https://mgba.io) - Emulador de GBA
-- [:gear: PCSX2](https://pcsx2.net) - Emulador de Playstation 2
+- [mGBA](https://mgba.io) - Emulador de Game Boy Advance
+- [:gear: PCSX2](https://pcsx2.net) - Emulador de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulador de Nintendo 64
-- [:gear: DuckStation](https://www.duckstation.org) - Emulador de Playstation 1
+- [:gear: DuckStation](https://www.duckstation.org) - Emulador de PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
   [Snes9x](https://www.snes9x.com) - Emulador de Super Nintendo
+- [WePlayDOS Games](https://weplaydos.games/) - Emulador de MS-DOS desde el navegador
 
-## Subreddits relacionados
+## Subreddits Relacionados
 
 - [r/Roms](https://www.reddit.com/r/roms)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)

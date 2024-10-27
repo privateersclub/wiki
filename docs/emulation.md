@@ -41,13 +41,13 @@ with a :gear:. You can get them
 [here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
+- [Batocera.linux](https://batocera.org) - Retro-gaming distro
 - [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
 - [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- [:gear: Ryujinx](https://ryujinx.org) /
+- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
   [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
-- [Batocera.linux](https://batocera.org/) - retro-gaming distribution 
 - [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games

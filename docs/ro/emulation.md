@@ -40,11 +40,12 @@ cu o :gear:. Le poți lua de
 [aici](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
+- [Batocera.linux](https://batocera.org) - Distro de jocuri retro
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Ryujinx](https://ryujinx.org) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Emulator pentru Nintendo Switch
+- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
+  [:gear: Sudachi](https://sudachi.emuplace.app) - Emulator pentru Nintendo Switch
 - [Cemu](https://cemu.info) - Emulator pentru Wii U
 - [Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulator pentru 3DS
