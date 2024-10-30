@@ -1,104 +1,68 @@
 :root {
-  --vp-c-brand-1: #1fd8a4;
-  --vp-c-brand-2: #4acdab;
-  --vp-c-brand-3: #3abd9d;
-  --vp-c-brand-soft: #2aae8f;
+  --vp-c-default-1: theme('colors.neutral.11');
+  --vp-c-default-2: theme('colors.neutral.4');
+  --vp-c-default-3: theme('colors.neutral.3');
+  --vp-c-default-soft: theme('colors.neutral.9');
+
+  /* Colors: Background */
+  --vp-c-bg: theme('colors.neutral.1');
+  --vp-c-bg-alt: theme('colors.neutral.1');
+  --vp-c-bg-elv: theme('colors.neutral.1');
+
+  --vp-c-brand-1: theme('colors.primary.11');
+  --vp-c-brand-2: theme('colors.primary.7');
+  --vp-c-brand-3: theme('colors.primary.8');
+  --vp-c-brand-soft: theme('colors.primary.4');
 
   /* Colors: Button */
-  --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-border: var(--vp-c-brand-soft);
-  --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-hover-border: var(--vp-c-brand-soft);
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
-  --vp-button-brand-active-border: var(--vp-c-brand-soft);
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
-  --vp-button-alt-bg: #484848;
-  --vp-button-alt-text: #f0eeee;
-  --vp-button-alt-hover-bg: #484848;
-  --vp-button-alt-hover-text: #f0eeee;
-
-  --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
-  --vp-c-bg-mark: rgb(232, 232, 232);
-
-  /* Colors: Custom Block */
-  --vp-custom-block-info-bg: rgba(171, 210, 244, 0.05);
-  --vp-custom-block-info-border: #60c4fa;
-  --vp-custom-block-info-text: rgb(39, 115, 145);
-  --vp-custom-block-info-text-deep: rgb(18, 121, 162);
-  --vp-custom-block-tip-bg: rgba(137, 202, 176, 0.05);
-  --vp-custom-block-tip-border: rgba(34, 197, 94, 1);
-  --vp-custom-block-tip-text: rgb(10, 128, 90);
-  --vp-custom-block-tip-text-deep: rgb(11, 133, 94);
-  --vp-custom-block-warning-bg: rgba(250, 204, 21, 0.05);
-  --vp-custom-block-warning-border: rgba(245, 158, 11, 1);
-  --vp-custom-block-warning-text: rgb(166, 114, 35);
-  --vp-custom-block-warning-text-deep: rgb(199, 109, 6);
-  --vp-custom-block-danger-bg: rgba(220, 38, 38, 0.05);
-  --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text: rgb(196, 46, 46);
-  --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
-}
-
-.dark {
-  /* Colors: Background */
-  --vp-c-bg: rgb(22, 22, 22);
-  --vp-c-bg-alt: rgb(23, 23, 23);
-  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
+  --vp-button-brand-bg: theme('colors.primary.3');
+  --vp-button-brand-border: theme('colors.primary.8');
+  --vp-button-brand-text: theme('colors.primary.11');
+  --vp-button-brand-hover-bg: theme('colors.primary.4');
+  --vp-button-brand-hover-border: theme('colors.primary.9');
+  --vp-button-brand-hover-text: theme('colors.primary.12');
+  --vp-button-brand-active-bg: theme('colors.primary.5');
+  --vp-button-brand-active-border: theme('colors.primary.10');
+  --vp-button-brand-active-text: theme('colors.primary.12');
+  /** Alt button */
+  --vp-button-alt-bg: theme('colors.neutral.3');
+  --vp-button-alt-border: theme('colors.neutral.8');
+  --vp-button-alt-text: theme('colors.neutral.11');
+  --vp-button-alt-hover-bg: theme('colors.neutral.4');
+  --vp-button-alt-hover-border: theme('colors.neutral.9');
+  --vp-button-alt-hover-text: theme('colors.neutral.11');
+  --vp-button-alt-active-bg: theme('colors.neutral.5');
+  --vp-button-alt-active-border: theme('colors.neutral.10');
+  --vp-button-alt-active-text: theme('colors.neutral.12');
 
   /* Colors: Custom Block */
-  --vp-custom-block-info-bg: rgba(84, 110, 155, 0.1);
-  --vp-custom-block-info-border: #3686b1;
-  --vp-custom-block-info-text: #52b0e3;
-  --vp-custom-block-info-text-deep: #00b7ff;
-  --vp-custom-block-tip-bg: rgba(51, 130, 118, 0.1);
-  --vp-custom-block-tip-border: rgba(4, 120, 87, 1);
-  --vp-custom-block-tip-text: rgb(25, 190, 129);
-  --vp-custom-block-tip-text-deep: rgba(52, 211, 153, 1);
-  --vp-custom-block-warning-bg: rgba(253, 224, 71, 0.1);
-  --vp-custom-block-warning-border: rgba(202, 138, 4, 1);
-  --vp-custom-block-warning-text: rgba(234, 179, 8, 1);
-  --vp-custom-block-warning-text-deep: rgba(250, 204, 21, 1);
-  --vp-custom-block-danger-bg: rgba(239, 68, 68, 0.1);
-  --vp-custom-block-danger-border: rgba(127, 29, 29, 1);
-  --vp-custom-block-danger-text: rgba(248, 113, 113, 1);
-  --vp-custom-block-danger-text-deep: rgba(248, 113, 113, 1);
-}
+  /** Tip custom block */
+  --vp-custom-block-tip-bg: theme('colors.primary.2');
+  --vp-custom-block-tip-border: theme('colors.primary.7');
+  --vp-custom-block-tip-text: theme('colors.primary.11');
+  --vp-custom-block-tip-text-deep: theme('colors.primary.12');
+  /** Warning custom block */
+  --vp-custom-block-warning-bg: theme('colors.warning.2');
+  --vp-custom-block-warning-border: theme('colors.warning.7');
+  --vp-custom-block-warning-text: theme('colors.warning.11');
+  --vp-custom-block-warning-text-deep: theme('colors.warning.12');
+  /** Danger custom block */
+  --vp-custom-block-danger-bg: theme('colors.danger.2');
+  --vp-custom-block-danger-border: theme('colors.danger.7');
+  --vp-custom-block-danger-text: theme('colors.danger.11');
+  --vp-custom-block-danger-text-deep: theme('colors.danger.12');
+  /** Info custom block */
+  --vp-custom-block-info-bg: theme('colors.info.2');
+  --vp-custom-block-info-border: theme('colors.info.7');
+  --vp-custom-block-info-text: theme('colors.info.11');
+  --vp-custom-block-info-text-deep: theme('colors.info.12');
+  /** Details custom block */
+  --vp-custom-block-details-bg: theme('colors.neutral.2');
+  --vp-custom-block-details-border: theme('colors.neutral.7');
+  --vp-custom-block-details-text: theme('colors.neutral.11');
+  --vp-custom-block-details-text-deep: theme('colors.neutral.12');
 
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    var(--vp-custom-block-tip-text-deep) 30%,
-    var(--vp-custom-block-tip-text)
-  );
-}
-
-.vp-doc a {
-  color: var(--vp-c-brand-1);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-style: solid;
-  text-decoration-color: transparent;
-  -webkit-text-decoration-color: transparent;
-  transition: text-decoration-color 0.25s;
-
-  &:hover {
-    color: var(--vp-c-brand-1);
-    text-decoration-color: var(--vp-c-brand-1);
-    -webkit-text-decoration-color: var(--vp-c-brand-1);
-  }
-}
-
-.vp-doc .custom-block a {
-  text-decoration: underline;
-  text-underline-offset: 4px;
-  text-decoration-style: solid;
-}
-
-::selection {
-  background-color: var(--vp-button-brand-bg);
+  --vp-code-bg: theme('colors.neutral.3');
 }
 
 /* Make clicks pass-through */
@@ -112,7 +76,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: 2px;
+    height: 4px;
   }
   .peg {
     display: block;
@@ -215,4 +179,36 @@
   mask-size: 100% 100%;
   background-color: currentColor;
   color: inherit;
+}
+
+/** Generated by coloradix */
+::-webkit-scrollbar {
+  width: 0.4rem;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(var(--neutral-2) / 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--neutral-5));
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--neutral-8));
+}
+
+::-moz-selection {
+  background: rgb(var(--primary-8));
+  color: white;
+}
+
+::selection {
+  background: rgb(var(--primary-8));
+  color: white;
+}
+
+/** fix for nolebase-git-changelog */
+.vp-nolebase-git-changelog a {
+  text-decoration: none !important;
 }

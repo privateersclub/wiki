@@ -1,5 +1,5 @@
 ---
-name: Ghidul pentru a contribui
+title: Ghidul pentru a contribui
 description: Cumn poți să contribui la wiki.
 ---
 

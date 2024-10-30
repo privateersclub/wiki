@@ -1,5 +1,5 @@
 ---
-name: Contribution Guide
+title: Contribution Guide
 description: How to contribute to the wiki.
 ---
 
