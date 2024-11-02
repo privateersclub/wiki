@@ -96,7 +96,7 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
 - Bluecord/BlueKik - History of [spam](https://redd.it/12h2v6n) and
   [spying](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate -
-  [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now/).
+  [Owned](https://rentry.co/i8dwr) by [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now).
 - Downloadly (video downloader) - Caught with crypto miners.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
@@ -112,9 +112,8 @@ are fake. Also beware the [fake 1337x sites](https://redd.it/117fq8t) and
   ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect),
   [2](https://youtu.be/PcS3EozgyhI),
   [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
-- PolyMC - Owner [kicked all members](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod/) from
+- PolyMC - Owner [kicked all members](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod) from
   Discord server and repository. Use Prism Launcher.
 - TLauncher (unrelated to TLauncher Legacy) -
-  [Shady](https://www.reddit.com/r/PiratedGames/comments/zmzzrt/
-) business practices. Use Prism Launcher.
+  [Shady](https://www.reddit.com/r/PiratedGames/comments/zmzzrt) business practices. Use Prism Launcher.
 - VSTorrent - Caught with [malware](https://redd.it/x66rz2).

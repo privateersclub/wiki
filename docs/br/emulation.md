@@ -35,13 +35,15 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de jogos retrô
+- [Mobox](https://github.com/olegos2/mobox) - Jogos de Windows
+- [Winlator](https://winlator.org) - Jogos de Windows
 - [:gear: RetroArch](https://retroarch.com) - Jogos de múltiplos consoles / Evite os núcleos do melonDS, PPSSPP, Dolphin e
   Citra
 - [:gear: Ares](https://ares-emu.net) - Jogos de múltiplos consoles / Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
   Advance
 - [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) / [:gear: Sudachi](https://sudachi.emuplace.app) - Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
-- [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
+- [:gear: Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
 - [RPCS3](https://rpcs3.net) - Jogos de PlayStation 3

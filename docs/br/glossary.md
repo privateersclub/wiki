@@ -61,5 +61,5 @@ Use um gerenciador de downloads. Alguns sites impõem
 limites de transferência de arquivos para um único thread, restringindo assim as velocidades de
 download. Gerenciadores de download superam essa limitação aproveitando vários threads para o
 download, resultando em velocidades de download mais rápidas. Temos algumas recomendações
-[aqui](useful.md).
+[aqui](/software#gerenciadores-de-downloads).
 :::

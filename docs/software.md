@@ -57,4 +57,4 @@ Software to enhance your piracy experience.
 
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Privacy Guides' VPN recommendations](https://www.privacyguides.org/en/vpn)
-- [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/)
+- [VPN Comparison Table on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt)

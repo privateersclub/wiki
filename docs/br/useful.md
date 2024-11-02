@@ -36,6 +36,8 @@ para mais ferramentas da Steam.
   pirateados.
 - [Online Fix](https://online-fix.me) - Permite jogar jogos pirateados online com outros jogos
   pirateados. / Senha: `online-fix.me`
+- [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emuladores virtuais de LAN para jogar multijogador online.
+- [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Serviços grátis para jogar multijogador online.
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM da
   Steam / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
 - [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gerenciador do desbloqueador da Steam GreenLuma
@@ -49,7 +51,7 @@ para mais ferramentas da Steam.
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Baixador da Oficina da Steam
 - [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
   pirateada de The Sims 4
-- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções extendidas.
+- [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções estendidas.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
   root)
 
@@ -60,19 +62,21 @@ Ative produtos da Microsoft (Office e Windows) com os
 **[Scripts de Ativação da Microsoft](https://massgrave.dev).**
 Visite o **[m0nkrus](https://w14.monkrus.ws)** para produtos da Adobe.
 
-Para o resto, visite o [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com) ou
-[GameBounty](https://gamebounty.world/software).
+Para o resto, visite o [LRepacks](https://lrepacks.net) ou
+[CRACKSurl](https://cracksurl.com).
 :::
 
 - [7-Zip](https://7-zip.org) - Arquivador de arquivos
 - [Bitwarden](https://bitwarden.com) - Gerenciador de senhas de código aberto
 - [Firefox](https://www.mozilla.org/firefox) - Navegador web para uso diário / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Thorium](https://thorium.rocks) - Navegador leve e focado em privacidade e segurança baseado no Chromium.
 - [Tor Browser](https://www.torproject.org) - Navegador web privado que roteia o tráfego da Internet por uma rede
   descentralizada de servidores operados por voluntários, dificultando te rastrear.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de
   conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo
   real
+- [Playnite](https://playnite.link) - Gerenciador de biblioteca de jogos de código aberto
+- [Hydra](https://github.com/hydralauncher/hydra) - Uma loja (similar à Steam) onde você pode baixar jogos crackeados!
 - [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
   gerador de informações de hash
@@ -115,7 +119,7 @@ Não são para jogos online. Não trapaceie em jogos online!
 ## Rastreadores de Lançamentos
 
 Não fornece downloads. Os sites têm informações de lançamentos da Cena/P2P.
-Veja aqui se um jogo  foi crackeado!
+Veja aqui se um jogo foi crackeado!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)

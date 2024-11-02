@@ -13,7 +13,7 @@ tags:
 # Linux
 Todo lo relacionado con la piratería, en Linux.
 
-:::info ¿Cuál es la mejor distro de Linux para gaming?
+:::info ¿Cuál es la mejor distro de Linux para jugar?
   Ninguna. Ninguna de ellas te dará el rendimiento que te dicen que te darán por cómo vienen, puedes 
   obtener un rendimiento similar usando una distro común y con sus actualizaciones al día.
 
@@ -50,7 +50,7 @@ Todo lo relacionado con la piratería, en Linux.
 ### Torrents
 
 - [🌟 johncena141](https://1337x.to/user/johncena141/) - Juegos de linux
-- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Juegos de linux / [Traductor](useful.md#translator)
+- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Juegos de Linux / [Traductor](useful.md#translator)
 
 ## Software
 
@@ -58,8 +58,8 @@ Todo lo relacionado con la piratería, en Linux.
 
 :::danger PELIGRO
   Los kernels personalizados pueden dañar significativamente el comportamiento de tu sistema,
-  desactivando mitigaciones de seguridad e incluso causan muchos tipos de inestabilidades y 
-  problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus datos y 
+[desactivando mitigaciones de seguridad](https://wiki.archlinux.org/title/Kernel_parameters_(Espa%C3%B1ol)) e incluso causan muchos tipos de inestabilidades y
+problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus datos y 
   configuraciones](https://wiki.archlinux.org/title/System_maintenance#Backup) así como una copia del kernel que instalaste para que vuelvas 
   a inicializar el sistema desde GRUB. 
 :::
@@ -79,21 +79,24 @@ Todo lo relacionado con la piratería, en Linux.
 
 ### Herramientas
 
-- [MangoHud](https://github.com/flightlessmango/MangoHud) - Overlay para monitorear el rendimiento de tus juegos
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposición para monitorear el rendimiento de tus juegos
  / [GUI](https://github.com/benjamimgois/goverlay)
-- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Administrador de los layers de compatibilidad Wine y basados en proton.
+- [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Gestores de los layers de compatibilidad Wine y basados en Proton.
 - [Winetricks](https://github.com/Winetricks/winetricks) - Fixes y ajustes para Wine 
-- [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) Overlay de discord para Linux
+- [DiscordOverlayLinux](https://github.com/trigg/Discover) Overlay de discord para Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) Capa de compatibilidad de Steam Play para juegos en general.
-- [GameHub](https://tkashkin.github.io/projects/gamehub/) Hub que unifica tus videojuegos en una sola plataforma.
+- [GameHub](https://tkashkin.github.io/projects/gamehub) Hub que unifica tus videojuegos en una sola plataforma.
 
-## Sitios web relacionados al gaming en Linux
-- [AppDB](https://appdb.winehq.org/) - Un tracker de Wine para conocer el estado y un rating sobre videojuegos que corren bajo esta capa de compatibilidad.
-- [GamingOnLinux](https://www.gamingonlinux.com/)
+## Sitios Web Relacionados a Juegos en Linux
+
+- [ProtonDB](https://www.protondb.com) - Informes y correcciones de compatibilidad de Proton.
+- [AppDB](https://appdb.winehq.org) - Un tracker de Wine para conocer el estado y un rating sobre videojuegos que corren bajo esta capa de compatibilidad.
+- [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamer's Game List](https://www.icculus.org/lgfaq/gamelist.php) Juegos que corren nativamente en Linux.
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Tips de configuración relacionados a correr videojuegos en Linux.
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
-- [Open Source Game Clones](https://osgameclones.com/) - Remakes de juegos y clones FOSS.
+- [Open Source Game Clones](https://osgameclones.com) - Remakes de juegos y clones FOSS.
+
 ## Guías
 
 - [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)

@@ -43,6 +43,8 @@ pentru mai multe programe pentru Steam.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulator de Steam și jocuri multiplayer
 - [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jucarea jocurilor piratate online.
 - [Online Fix](https://online-fix.me) - Permite jucarea jocurilor piratate online. / Parola este: `online-fix.me`
+- [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emulatoare LAN virtuale pentru a juca multiplayer online.
+- [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Servicii multiplayer online gratuite.
 - [Steamless](https://github.com/atom0s/Steamless) - Ștergător de DRM pentru Steam /
   [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
 - [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestionar de deblocare Steam de GreenLuma
@@ -61,7 +63,6 @@ pentru mai multe programe pentru Steam.
   moduri și mai multe lucruri.
 - [Lucky Patcher](https://www.luckypatchers.com) - Patcher pentru aplicațiile Android (este mai bun
   dacă ai root)
-- [Radmin VPN](https://www.radmin-vpn.com/) / [ZeroTier](https://www.zerotier.com/) - Emulator de LAN virtual pentru jocurile online.
 
 ## Programe
 
@@ -69,21 +70,21 @@ pentru mai multe programe pentru Steam.
 Activează produsele Microsoft (Office și Windows) cu **[Microsoft Activation Scripts](https://massgrave.dev).**
 Intră pe **[m0nkrus](https://w14.monkrus.ws)** pentru produsele Adobe.
 
-Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com) sau
-[GameBounty](https://gamebounty.world/software).
+Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net)
+sau [CRACKSurl](https://cracksurl.com).
 :::
 
 - [7-Zip](https://7-zip.org) - Decomprimă fișiere
 - [Bitwarden](https://bitwarden.com) - Gestionar de parole cu codul sursă liberă
 - [Firefox](https://www.mozilla.org/firefox) - Browser web pentru folosirea obișnuită / [Betterfox](https://github.com/yokoffing/Betterfox)
-- [Thorium](https://thorium.rocks/) - Browser web ușor pe sistem, conceput pentru confidențialitate, bazat pe Chromium, cu o interfață minimalistă și funcții de securitate îmbunătățite.
+- [Thorium](https://thorium.rocks) - Browser web ușor pe sistem, conceput pentru confidențialitate, bazat pe Chromium, cu o interfață minimalistă și funcții de securitate îmbunătățite.
 - [Tor Browser](https://www.torproject.org) - Browser web privat care direcționează traficul de internet
   printr-o rețea descentralizată de servere operate de voluntari,
   ceea ce face dificilă depistarea ta.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Analiza fișierelor de realizări cu captură de ecran automată, urmărirea timpului de joc și
   notificare în timp real
+- [Playnite](https://playnite.link) - Open source manager de bibliotecă de jocuri
 - [Hydra](https://github.com/hydralauncher/hydra) - Un magazin (similar cu Steam!) unde poți instala jocuri piratate!
 - [Parsec](https://parsec.app) - oftware pentru streaming de jocuri cu latență redusă
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificator de checksum și

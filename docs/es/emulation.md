@@ -36,6 +36,8 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de juegos retro
+- [Mobox](https://github.com/olegos2/mobox) - Juegos de Windows
+- [Winlator](https://winlator.org) - Juegos de Windows
 - [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas / 
   Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra
 - [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
@@ -43,7 +45,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
   [:gear: Sudachi](https://sudachi.emuplace.app) - Emuladores de Nintendo Switch
 - [Cemu](https://cemu.info) - Emulador de Wii U
-- [Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
+- [:gear: Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulador de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
 - [RPCS3](https://rpcs3.net) - Emulador de PlayStation 3

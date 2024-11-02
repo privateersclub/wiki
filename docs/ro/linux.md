@@ -76,15 +76,15 @@ Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează red
   performanței calculatorului / [GUI](https://github.com/benjamimgois/goverlay)
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Gestionar de programe de compatibilitate bazate pe Wine și Proton
 - [Winetricks](https://github.com/Winetricks/winetricks) - Corecții și ajustări pentru Wine
-- [DiscordOverlayLinux](https://github.com/trigg/DiscordOverlayLinux) - Suprapunere Discord pentru Linux
+- [DiscordOverlayLinux](https://github.com/trigg/Discover) - Suprapunere Discord pentru Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Compatibilitate Steam Play pentru jocuri
-- [GameHub](https://tkashkin.github.io/projects/gamehub/) - Centru unificat pentru jocuri
+- [GameHub](https://tkashkin.github.io/projects/gamehub) - Centru unificat pentru jocuri
 
 ## Site-uri
 
-- [ProtonDB](https://www.protondb.com/) - Rapoarte de compatibilitate și corecții Proton.
-- [AppDB](https://appdb.winehq.org/) - Monitorizarea rapoartelor si ratingurile jocurilor video făcut de cei de la Wine.
-- [GamingOnLinux](https://www.gamingonlinux.com/) / [Wiki](https://www.gamingonlinux.com/wiki)
+- [ProtonDB](https://www.protondb.com) - Rapoarte de compatibilitate și corecții Proton.
+- [AppDB](https://appdb.winehq.org) - Monitorizarea rapoartelor si ratingurile jocurilor video făcut de cei de la Wine.
+- [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Jocuri care rulează nativ pe Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - De la sfaturi de configurare până la rularea jocurilor
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)

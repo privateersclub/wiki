@@ -14,25 +14,25 @@ tags:
 
 Everything regarding piracy on Linux.
 
-::: info Best Linux distribution for Gaming?
+::: info Best Linux distribution for gaming?
 None. None of them will provide you the performance they claim that you can't get yourself by picking a regular distribution and using latest updates.
 
 So to get the best performance, one simply needs the latest updates. All linux distributions provide the sames packages and provide updates. Some provide them faster than others. So any distribution that updates its packages the soonest after upstream, is good in our opinion. 
 :::
 
 ::: danger Beware of what you search/read online!
-Beware of what you search and read online on the internet, it's the general rule that one should't believe everything they see online.
+Beware of what you search and read online on the Internet, it's the general rule that one shouldn't believe everything they see online.
 
 Not everything will work out the way you intend *it may work*, sometimes the advice online is outdated or just **incompatible**, so be sure of what you're seeing will work for your system or not, before running any commands or changing configurations, and breaking your system in the process.
 
-If you need a guide, the [Arch Wiki](https://wiki.archlinux.org/) is good and works universally for most distributions, not only arch.
+If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and works universally for most distributions, not only arch.
 :::
 
 ## Downloading
 
 ### Direct Download Sites
 
-- [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games and Scene
+- [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
   (occasionally has lossy, or compressed repacks) /
@@ -78,13 +78,13 @@ Custom kernels can significantly change your system behavior, [disable security 
 - [Winetricks](https://github.com/Winetricks/winetricks) - Wine fixes & tweaks
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) - Discord Overlay for Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility layer for games
-- [GameHub](https://tkashkin.github.io/projects/gamehub/) - Unified games hub
+- [GameHub](https://tkashkin.github.io/projects/gamehub) - Unified games hub
 
 ## Websites
 
-- [ProtonDB](https://www.protondb.com/) - Proton's compatibility reports and fixes.
-- [AppDB](https://appdb.winehq.org/) - Wine's tracker to track reports and ratings of video games.
-- [GamingOnLinux](https://www.gamingonlinux.com/)
+- [ProtonDB](https://www.protondb.com) - Proton's compatibility reports and fixes.
+- [AppDB](https://appdb.winehq.org) - Wine's tracker to track reports and ratings of video games.
+- [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games that run natively on Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Everything from configuration tips to running games
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
