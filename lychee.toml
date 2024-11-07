@@ -1,6 +1,8 @@
 cache = true
 max_cache_age = "2d"
 skip_missing = true
+log_level = "verbose"
+no_progress = true
 
 # Stealth
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0"
