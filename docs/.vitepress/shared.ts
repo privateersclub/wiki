@@ -41,7 +41,7 @@ export const sharedConfig = defineConfig({
   appearance: 'dark',
   titleTemplate: ':title • Wiki',
   head: [
-    ['meta', { name: 'theme-color', content: '#ADF0DD' }],
+    ['meta', { name: 'theme-color', content: '#58D5BA' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/favicon.svg' }]

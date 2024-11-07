@@ -1,0 +1,42 @@
+cache = true
+max_cache_age = "2d"
+skip_missing = true
+
+# Stealth
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0"
+
+# Prevent 'Too Many Open Files'
+max_concurrency = 32
+
+# Check links inside `<code>` and `<pre>` blocks and Markdown code blocks
+include_verbatim = true
+
+# Check fragments in links
+include_fragments = true
+
+# Don't check emails, it's problematic
+include_mail = false
+
+# Add 'Too many requests'
+accept = ["100..=103", "200..=299", "429"]
+
+# Be benevolent
+max_retries = 5
+timeout = 30
+
+# Exclude
+exclude = [
+  # Fuck corporations.
+  "reddit.com",
+  "youtube.com",
+  "google.com",
+  "redd.it",
+  # Has strong anti-bot measures.
+  "cs.rin.ru",
+  "freedownloadmanager.org",
+  "predb.org",
+  "steamdb.info",
+  "rentry.co",
+  "rentry.org",
+  "luckypatchers.com",
+]
