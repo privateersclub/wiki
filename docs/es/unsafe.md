@@ -12,7 +12,7 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   sitios que son considerados como inseguros.
 
   Puedes utilizar el filtro de [FMHY Sitios y Software a Evitar](https://fmhy.net/unsafesites)
-  ,[siguiendo esta guía para uBlock](https://fmhy.github.io/FMHYFilterlist/site/index.html),
+  ,[siguiendo esta guía para uBlock](https://github.com/fmhy/FMHYFilterlist),
   o a través de uBlacklist (que es más eficiente) o uBlock Origin para bloquear los sitios a evitar
   mencionados aquí. 
   
@@ -21,7 +21,7 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   para agregar un filtro personalizado a uBlacklist (pon
   [este enlace](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
   donde dice "URL") y
-  [esta guía](https://fmhy.github.io/FMHYFilterlist/site/index.html)
+  [esta guía](https://github.com/fmhy/FMHYFilterlist)
   para agregar los filtros a uBlock Origin (usa
   [esta](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
   donde dice "Importar..." o "Import...").

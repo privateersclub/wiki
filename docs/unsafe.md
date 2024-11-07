@@ -9,14 +9,14 @@ Things you should always avoid using.
 
 :::tip
 You can just use the
-[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://fmhy.github.io/FMHYFilterlist/site/index.html)
+[FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) [adblock filter](https://github.com/fmhy/FMHYFilterlist)
 on uBlacklist (more efficient) or uBlock Origin to block most of the sites
 mentioned here and more. Follow
 [this guide](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
 to add the custom filter to uBlacklist (put
 [this link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
 under "URL") and
-[this guide](https://fmhy.github.io/FMHYFilterlist/site/index.html)
+[this guide](https://github.com/fmhy/FMHYFilterlist)
 to add it to uBlock Origin (use
 [this](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
 under "Import…").
