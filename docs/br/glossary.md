@@ -3,7 +3,7 @@ title: Glossário
 description: Respostas para algumas das perguntas mais comuns.
 ---
 
-# Glossárop
+# Glossário
 
 Esta página ajuda a resumir alguns tópicos básicos sobre a cena da pirataria. Isso também serve como
 material de referência para revisar rapidamente.
