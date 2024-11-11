@@ -53,9 +53,9 @@ Kerneis modificados podem mudar consideravelmente o comportamento do seu sistema
 :::
 
 - [linux-zen](https://github.com/zen-kernel/zen-kernel) - Kernel confiável com patches para usuários casuais
-- [XanMod Stable Real-time](https://xanmod.org/)
-- [Liquroix](https://liquorix.net/)
-- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Para sistemas da Intel, muito útil para servidores
+- [XanMod Stable Real-time](https://xanmod.org)
+- [Liquorix](https://liquorix.net)
+- [Kernel Clear Linux](https://github.com/clearlinux-pkgs/linux) - Para sistemas da Intel, muito útil para servidores
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requer compilação própria.
 
 ### Launchers
@@ -95,3 +95,4 @@ Kerneis modificados podem mudar consideravelmente o comportamento do seu sistema
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)

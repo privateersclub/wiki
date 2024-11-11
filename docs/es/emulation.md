@@ -67,9 +67,9 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 ## Subreddits Relacionados
 
 - [r/Roms](https://www.reddit.com/r/roms)
+- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [r/128bitbay](https://www.reddit.com/r/128bitbay)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
 - [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
 - [r/3dshacks](https://www.reddit.com/r/3dshacks)

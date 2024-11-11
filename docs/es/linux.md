@@ -64,8 +64,8 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
   a inicializar el sistema desde GRUB. 
 :::
 - [linux-zen](https://github.com/zen-kernel/zen-kernel) - Kernel confiable constantemente actualizado para usuarios casuales.
-- [XanMod Estable](https://xanmod.org/)
-- [Liquroix](https://liquorix.net/)
+- [XanMod Stable Real-Time](https://xanmod.org)
+- [Liquorix](https://liquorix.net)
 - [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Para sistemas con Intel, muy útil para servidores.
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requiere ser compilado para su uso.
 
@@ -108,3 +108,4 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)

@@ -68,7 +68,7 @@ Rapidgator în câteva țări UE). Verifică
 - [F95zone](https://f95zone.to) - Jocuri NSFW / Necesită înregistrare
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jocuri MS-DOS
-- [Prism Launcher](https://prismlauncher.org) - Minecraft /
+- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
   [Joacă cu un cont non-premium](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 

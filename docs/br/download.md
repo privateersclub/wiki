@@ -63,7 +63,7 @@ gerenciamento de seus downloads.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) -
-  Minecraft / [Jogar sem conta legítima](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+  Minecraft Java / [Jogar sem conta legítima](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Sites de Torrents

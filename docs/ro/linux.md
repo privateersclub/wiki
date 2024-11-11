@@ -57,8 +57,8 @@ Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează red
 :::
 
 - [linux-zen](https://github.com/zen-kernel/zen-kernel) - Nucleu fiabil cu patch-uri pentru utilizatorii obișnuiți
-- [XanMod Stable Real-time](https://xanmod.org/)
-- [Liquroix](https://liquorix.net/)
+- [XanMod Stable Real-time](https://xanmod.org)
+- [Liquorix](https://liquorix.net)
 - [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Pentru sistemele cu Intel, foarte folositor pentru servere
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Necesită compilare manuală
 
@@ -101,3 +101,4 @@ Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează red
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)

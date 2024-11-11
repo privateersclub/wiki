@@ -69,7 +69,7 @@ your downloads.
 - [F95zone](https://f95zone.to) - NSFW games / Registration required
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
-- [Prism Launcher](https://prismlauncher.org) - Minecraft /
+- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
   [Play without a legit account](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 

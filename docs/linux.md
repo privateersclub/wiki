@@ -57,8 +57,8 @@ Custom kernels can significantly change your system behavior, [disable security 
 :::
 
 - [linux-zen](https://github.com/zen-kernel/zen-kernel) - Reliable kernel with patches for casual users
-- [XanMod Stable Real-time](https://xanmod.org/)
-- [Liquroix](https://liquorix.net/)
+- [XanMod Stable Real-time](https://xanmod.org)
+- [Liquorix](https://liquorix.net)
 - [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - For Intel systems, very useful for servers
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requires self-compilation
 
@@ -101,3 +101,4 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)
