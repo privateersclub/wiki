@@ -26,7 +26,6 @@ para mais ferramentas da Steam.
 
 - [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
   Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA (use o EA DLC Unlocker) e da Uplay
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Desbloqueador automático de DLCs da Steam, Epic Games Store e Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
   Steam e do multijogador / [Interface gráfica](https://github.com/brunolee-GIT/GSE-Generator)  /

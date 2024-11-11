@@ -27,7 +27,6 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
   DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Desbloqueador de DLC's automático para Steam, Epic Games Store y Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLC's para juegos
    comprados en Steam /
   [Instalador automatizado](https://cs.rin.ru/forum/viewtopic.php?p=2013521)

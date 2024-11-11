@@ -33,7 +33,6 @@ for more Steam tools.
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
   Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatic Steam, Epic Games Store, & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
   Steam game DLC unlocker /
   [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)

@@ -33,7 +33,6 @@ pentru mai multe programe pentru Steam.
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
   Client de Steam, Epic Games și EA (folosește EA DLC Unlocker), & Uplay DLC unlocker
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Declocator de DLC pentru Steam, Epic Games și Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Deblocator
   de DLC pentru jocuri de pe Steam legitim /
   [Configurare automată](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
