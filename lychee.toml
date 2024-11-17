@@ -20,7 +20,7 @@ include_fragments = true
 include_mail = false
 
 # Add 'Too many requests'
-accept = ["100..=103", "200..=299", "429"]
+accept = ["100..=103", "200..=299", "429", "403"]
 
 # Be benevolent
 max_retries = 5
