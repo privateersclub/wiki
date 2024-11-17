@@ -26,7 +26,7 @@ Rapidgator în câteva țări UE). Verifică
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jocuri Steam
 - [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torente](https://freegogpcgames.com) - Jocuri GOG
+- [🌟 GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
