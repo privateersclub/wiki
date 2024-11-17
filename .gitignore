@@ -4,3 +4,5 @@
 node_modules
 logos
 package-lock.json
+docs/.vitepress/.temp
+.lycheecache

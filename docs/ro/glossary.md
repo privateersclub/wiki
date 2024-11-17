@@ -75,5 +75,5 @@ Folosește un manager de downloadări. Unele site-uri impun limite
 de transfer ale fișierelor pentru un singur fir (thread), așadar restricționând viteza de downloadare.
 Managerii de downloadare depășesc această limită alocând mai multe fire (thread-uri) pentru
 downloadare, resultând in viteze mai mari de downloadare. Ai aici printre cele mai bune
-[aici](/useful).
+[aici](/software#manageri-de-downloadări).
 :::

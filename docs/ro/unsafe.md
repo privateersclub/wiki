@@ -10,16 +10,16 @@ Ce nu ar mai trebui să folosești.
 :::tip
 Poți folosi
 [Site-urile/programele nesigure de FMHY](https://fmhy.net/unsafesites)
-[filtru pentru adblocker-ul](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+[filtru pentru adblocker-ul](https://github.com/fmhy/FMHYFilterlist)
 uBlacklist (mai eficient) sau uBlock Origin pentru a bloca majoritatea site-urilor
 menționate aici. Uită-te peste
 [acest ghid](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
 pentru a adăuga lista de filtre pentru uBlacklist (pune
 [acest link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
 link-ul unde scrie "URL") și
-[acest ghid](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+[acest ghid](https://github.com/fmhy/FMHYFilterlist)
 pentru a-l adăuga în uBlock Origin (pune
-[asta](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+[asta](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
 unde scrie "Import…").
 :::
 
@@ -46,7 +46,7 @@ sunt link-uri periculoase. Să știi că există [site-uri false 1337x](https://
 - CracksHash - Prinși că puneau [viruși](https://redd.it/lklst7).
 - Crohasit - Este afiliat cu proprietarii SteamUnlocked.
 - cracked-games/GETGAMEZ - Prinși că puneau viruși.
-- CrackingPatching - Prinși că puneau [viruși](https://www.reddit.com/qy6z3c).
+- CrackingPatching - Prinși că puneau [viruși](https://www.reddit.com/r/Piracy/comments/qy6z3c).
 - FileCR - [Au tot fost](https://rentry.co/filecr_malware) prinși că puneau viruși.
 - FreeTP/Game3rb - Link-uri de descărcare false malițioase pe pagină.
 - FTUApps - [Au tot fost](https://redd.it/120xk62) prinși că puneau viruși.
@@ -96,7 +96,7 @@ sunt link-uri periculoase. Să știi că există [site-uri false 1337x](https://
 - Bluecord/BlueKik - Istoric de [spam](https://redd.it/12h2v6n) și
   [spionare](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate -
-  [Aparțin](https://rentry.co/i8dwr) de [Kape](https://www.reddit.com/q3lepv).
+  [Aparțin](https://rentry.co/i8dwr) de [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now).
 - Downloadly (descarcă videouri) - Prinși cu mineri de cripto.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
@@ -105,7 +105,7 @@ sunt link-uri periculoase. Să știi că există [site-uri false 1337x](https://
 - KLauncher - Are viruși.
 - Limewire - Nu mai există, ar trebui evitat tot ceea ce pretinde a fi ei acum.
 - McAfee - Instalează bloatware (programe nedorite care îți face calculatorul mai încet).
-- Opera ( browserele) -
+- Opera (browserele) - Nu este recomandat nici pentru utilizarea normală de către
   [politici](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13)
   [foarte(https://rentry.co/operagx) proaste pentru intimitate, ba chiar
   [periculoase](https://www.androidpolice.com/2020/01/21/opera-predatory-loans).
@@ -113,8 +113,8 @@ sunt link-uri periculoase. Să știi că există [site-uri false 1337x](https://
   ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect),
   [2](https://youtu.be/PcS3EozgyhI),
   [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
-- PolyMC - Proprietarul [a dat afară toți membrii](https://www.reddit.com/y6lt6s) din
-  serverul de Discord și repo-ul de Github. Folosește Prism Launcher.
+- PolyMC - Proprietarul [a dat afară toți membrii](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod) din
+  serverul de Discord și repo-ul de GitHub. Folosește Prism Launcher.
 - TLauncher (fără legătură cu TLauncher Legacy) -
-  [practici](https://www.reddit.com/zmzzrt) comerciale dubioase. Folosește Prism Launcher.
+  [practici](https://www.reddit.com/r/PiratedGames/comments/zmzzrt) comerciale dubioase. Folosește Prism Launcher.
 - VSTorrent - Prinși cu [viruși](https://redd.it/x66rz2).

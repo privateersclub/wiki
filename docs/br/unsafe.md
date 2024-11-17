@@ -8,16 +8,16 @@ description: Coisas que você sempre deveria evitar usar.
 Coisas que você sempre deveria evitar usar.
 
 :::tip
-Você pode só usar o [filtro de bloqueador de anúncios](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
+Você pode só usar o [filtro de bloqueador de anúncios](https://github.com/fmhy/FMHYFilterlist)
 do [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) no uBlacklist (mais
 eficiente) ou uBlock Origin para bloquear a maioria dos sites mencionados aqui e mais. Siga
 [este guia](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) para adicionar
 o filtro customizado ao uBlacklist (ponha
 [este link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt) em
 "URL") e
-[este guia](https://github.com/yokoffing/filterlists?tab=readme-ov-file#how-to-add-custom-filters)
+[este guia](https://github.com/fmhy/FMHYFilterlist)
 para o adicionar ao uBlock Origin (use
-[isto](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlock.txt) em
+[isto](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt) em
 "Importar…").
 :::
 
@@ -42,7 +42,7 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
 - CracksHash - Pego com [malware](https://redd.it/lklst7).
 - Crohasit - É afiliado aos donos do SteamUnlocked.
 - cracked-games/GETGAMEZ - Pego com malware.
-- CrackingPatching - Pego com [malware](https://www.reddit.com/qy6z3c).
+- CrackingPatching - Pego com [malware](https://www.reddit.com/r/Piracy/comments/qy6z3c).
 - FileCR - [Constantemente](https://rentry.co/filecr_malware) pego com malware.
 - FreeTP/Game3rb - Links de download falsos e maliciosos na página
 - FTUApps - [Constantemente](https://redd.it/120xk62) pego com malware.
@@ -91,7 +91,7 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
   [Adware](https://www.virustotal.com/gui/file/3ad1aed8bd704152157ac92afed1c51e60f205fbdce1365bad8eb9b3a69544d0)
 - Bluecord/BlueKik - Histórico de [spam](https://redd.it/12h2v6n) e [espionagem](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate - [Propriedade](https://rentry.co/i8dwr) da
-  [Kape](https://www.reddit.com/q3lepv).
+  [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now).
 - Downloadly (baixador de vídeos) - Pego com mineradores de criptomoedas.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
@@ -102,12 +102,12 @@ os [sites falsos do 1337x](https://redd.it/117fq8t) e [sites falsos do Z-Lib](ht
 - KLauncher - Contém malware.
 - Limewire - Morto há anos, coisas alegando serem eles devem ser evitadas.
 - McAfee - Instala bloatware.
-- Opera (navegadores) - Práticas de
+- Opera (navegadores) - Não é recomendado até para uso normal por práticas de
   privacidade [muito](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13) [ruins](https://rentry.co/operagx),
   além de aplicativos de empréstimo [predatórios](https://www.androidpolice.com/2020/01/21/opera-predatory-loans),
 - PCProtect/Protected/TotalAV - Fraudes de
   antivirus ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect), [2](https://youtu.be/PcS3EozgyhI), [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
-- PolyMC - O dono [expulsou todos os membros](https://www.reddit.com/y6lt6s) do servidor do Discord
+- PolyMC - O dono [expulsou todos os membros](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod) do servidor do Discord
   e do repositório. Use o Prism Launcher.
-- TLauncher (não relacionado ao TLauncher Legacy) - Práticas comerciais [duvidosas](https://www.reddit.com/zmzzrt). Use o Prism Launcher.
+- TLauncher (não relacionado ao TLauncher Legacy) - Práticas comerciais [duvidosas](https://www.reddit.com/r/PiratedGames/comments/zmzzrt). Use o Prism Launcher.
 - VSTorrent - Pego com [malware](https://redd.it/x66rz2).

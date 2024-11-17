@@ -40,13 +40,16 @@ cu o :gear:. Le poți lua de
 [aici](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
+- [Batocera.linux](https://batocera.org) - Distro de jocuri retro
+- [Mobox](https://github.com/olegos2/mobox) - Jocuri Windows
+- [Winlator](https://winlator.org) - Jocuri Windows
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Ryujinx](https://ryujinx.org) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Emulator pentru Nintendo Switch
+- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
+  [:gear: Sudachi](https://sudachi.emuplace.app) - Emulator pentru Nintendo Switch
 - [Cemu](https://cemu.info) - Emulator pentru Wii U
-- [Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
+- [:gear: Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulator pentru 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
 - [RPCS3](https://rpcs3.net) - Emulator pentru PlayStation 3
@@ -68,9 +71,9 @@ cu o :gear:. Le poți lua de
 ## Subreddit-uri relevante
 
 - [r/Roms](https://www.reddit.com/r/roms)
+- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [r/128bitbay](https://www.reddit.com/r/128bitbay)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
 - [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
 - [r/3dshacks](https://www.reddit.com/r/3dshacks)

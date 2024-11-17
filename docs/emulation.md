@@ -40,15 +40,16 @@ Some emulators require additional files (keys or BIOS) and are marked
 with a :gear:. You can get them
 [here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
-
+- [Batocera.linux](https://batocera.org) - Retro-gaming distro
+- [Mobox](https://github.com/olegos2/mobox) - Windows games
+- [Winlator](https://winlator.org) - Windows games
 - [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
 - [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- [:gear: Ryujinx](https://ryujinx.org) /
+- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
   [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
-- [Batocera.linux](https://batocera.org/) - retro-gaming distribution 
-- [Vita3K](https://vita3k.org) - PlayStation Vita games
+- [:gear: Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
 - [RPCS3](https://rpcs3.net) - PlayStation 3 games
@@ -69,9 +70,9 @@ with a :gear:. You can get them
 ## Related Subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
+- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
-- [r/128bitbay](https://www.reddit.com/r/128bitbay)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
 - [r/WiiUHacks](https://www.reddit.com/r/WiiUHacks)
 - [r/3dshacks](https://www.reddit.com/r/3dshacks)

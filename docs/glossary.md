@@ -15,6 +15,11 @@ tags:
 This page helps summarize over some basic topics on the piracy scene. This also
 serves as referential material to gloss over quickly.
 
+:::warning
+This glossary is a work in progress. If you have any suggestions, please
+[open an issue](https://github.com/privateersclub/wiki/issues/new).
+:::
+
 ## Terms
 
 :::tip What is the Scene? And P2P?

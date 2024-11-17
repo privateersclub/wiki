@@ -3,95 +3,121 @@ import type { HeadConfig, TransformContext } from 'vitepress'
 export function generateMeta(context: TransformContext, hostname: string) {
   const head: HeadConfig[] = []
   const { pageData } = context
+  if (pageData.isNotFound || pageData.frontmatter.exclude) return head
+  const { relativePath, frontmatter, filePath, lastUpdated } = pageData
 
-  const url = `${hostname}/${pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2')}`
+  // Guard clause for relativePath
+  if (!relativePath) {
+    console.error('relativePath is undefined for file:', filePath)
+    return head
+  }
+
+  const url = `${hostname}/${relativePath.replace(/((^|\/)index)?\.md$/, '$2')}`
 
   head.push(
     ['link', { rel: 'canonical', href: url }],
     ['meta', { property: 'og:url', content: url }],
     ['meta', { name: 'twitter:url', content: url }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { property: 'og:title', content: pageData.frontmatter.title }],
-    ['meta', { name: 'twitter:title', content: pageData.frontmatter.title }]
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
   )
-  if (pageData.frontmatter.description) {
-    head.push(
-      [
-        'meta',
-        {
-          property: 'og:description',
-          content: pageData.frontmatter.description
-        }
-      ],
-      [
-        'meta',
-        {
-          name: 'twitter:description',
-          content: pageData.frontmatter.description
-        }
-      ]
-    )
+
+  if (frontmatter.theme) {
+    head.push(['meta', { name: 'theme-color', content: frontmatter.theme }])
   }
-  if (pageData.frontmatter.image) {
+
+  if (frontmatter.type) {
+    head.push(['meta', { property: 'og:type', content: frontmatter.type }])
+  }
+
+  head.push(
+    [
+      'meta',
+      {
+        property: 'og:description',
+        content:
+          frontmatter.customDescription ??
+          frontmatter.description ??
+          frontmatter.hero.tagline
+      }
+    ],
+    [
+      'meta',
+      {
+        name: 'twitter:description',
+        content:
+          frontmatter.customDescription ??
+          frontmatter.description ??
+          frontmatter.hero.tagline
+      }
+    ],
+    ['meta', { property: 'og:title', content: frontmatter.title }],
+    ['meta', { name: 'twitter:title', content: frontmatter.title }]
+  )
+
+  if (frontmatter.image) {
     head.push([
       'meta',
       {
         property: 'og:image',
-        content: `${hostname}/${pageData.frontmatter.image.replace(/^\//, '')}`
+        content: `${hostname}/${frontmatter.image.replace(/^\//, '')}`
       }
     ])
     head.push([
       'meta',
       {
         name: 'twitter:image',
-        content: `${hostname}/${pageData.frontmatter.image.replace(/^\//, '')}`
+        content: `${hostname}/${frontmatter.image.replace(/^\//, '')}`
       }
     ])
   } else {
-    const url = pageData.filePath.replace('index.md', '').replace('.md', '')
-    const imageUrl = `${url}/__og_image__/og.png`
-      .replaceAll('//', '/')
+    const basePath = relativePath.replace(/index\.md$/, '').replace(/\.md$/, '')
+    const imageUrl = `${basePath}__og_image__/og.png`
+      .replace(/\/\//g, '/')
       .replace(/^\//, '')
 
-    head.push(
-      ['meta', { property: 'og:image', content: `${hostname}/${imageUrl}` }],
-      ['meta', { property: 'og:image:width', content: '1200' }],
-      ['meta', { property: 'og:image:height', content: '628' }],
-      ['meta', { property: 'og:image:type', content: 'image/png' }],
-      [
-        'meta',
-        { property: 'og:image:alt', content: pageData.frontmatter.title }
-      ],
-      ['meta', { name: 'twitter:image', content: `${hostname}/${imageUrl}` }],
-      ['meta', { name: 'twitter:image:width', content: '1200' }],
-      ['meta', { name: 'twitter:image:height', content: '628' }],
-      [
-        'meta',
-        { name: 'twitter:image:alt', content: pageData.frontmatter.title }
-      ]
-    )
-  }
-  if (pageData.frontmatter.tag) {
     head.push([
       'meta',
-      { property: 'article:tag', content: pageData.frontmatter.tag }
+      { property: 'og:image', content: `${hostname}/${imageUrl}` }
+    ])
+    head.push(['meta', { property: 'og:image:width', content: '1098' }])
+    head.push(['meta', { property: 'og:image:height', content: '530' }])
+    head.push(['meta', { property: 'og:image:type', content: 'image/png' }])
+    head.push([
+      'meta',
+      { property: 'og:image:alt', content: frontmatter.title }
+    ])
+    head.push([
+      'meta',
+      { name: 'twitter:image', content: `${hostname}/${imageUrl}` }
+    ])
+    head.push(['meta', { name: 'twitter:image:width', content: '1098' }])
+    head.push(['meta', { name: 'twitter:image:height', content: '530' }])
+    head.push([
+      'meta',
+      { name: 'twitter:image:alt', content: frontmatter.title }
     ])
   }
-  if (pageData.frontmatter.date) {
+
+  if (frontmatter.tag) {
+    head.push(['meta', { property: 'article:tag', content: frontmatter.tag }])
+  }
+
+  if (frontmatter.date) {
     head.push([
       'meta',
       {
         property: 'article:published_time',
-        content: pageData.frontmatter.date
+        content: frontmatter.date
       }
     ])
   }
-  if (pageData.lastUpdated && pageData.frontmatter.lastUpdated !== false) {
+
+  if (lastUpdated && pageData.frontmatter.lastUpdated !== false) {
     head.push([
       'meta',
       {
         property: 'article:modified_time',
-        content: new Date(pageData.lastUpdated).toISOString()
+        content: new Date(lastUpdated).toISOString()
       }
     ])
   }

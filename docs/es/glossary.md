@@ -72,5 +72,5 @@ utilizar una VPN.
 Utiliza un gestor de descaergas. Algunos sitios imponen un límite en la transferencia de archivos
 al utilizar colas de descargas mono-hilo, por lo que, se restringen las velocidades de descarga para los usuarios.
 Los gestores de descargas se saltan estas limitaciones al crear muchos hilos para descargar,
-resultando así en descargas veloces. Hemos listado algunos gestores de descargas [aquí](/useful).
+resultando así en descargas veloces. Hemos listado algunos gestores de descargas [aquí](/software#gestores-de-descargas).
 :::

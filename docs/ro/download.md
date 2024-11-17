@@ -27,6 +27,9 @@ Rapidgator în câteva țări UE). Verifică
 - [🌟 SteamRIP](https://steamrip.com) - Jocuri Steam
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
+- [Lansări de Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
+- [GameDrive](https://gamedrive.org)
+- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
@@ -65,7 +68,7 @@ Rapidgator în câteva țări UE). Verifică
 - [F95zone](https://f95zone.to) - Jocuri NSFW / Necesită înregistrare
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jocuri MS-DOS
-- [Prism Launcher](https://prismlauncher.org) - Minecraft /
+- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
   [Joacă cu un cont non-premium](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
@@ -73,7 +76,7 @@ Rapidgator în câteva țări UE). Verifică
 
 Torrenții sunt downloadări P2P (peer-to-peer/între persoane). Îți trebuie un VPN
 pentru a descărca torrente în siguranță și a evita avertizările ISP privind drepturile autorului, 
-exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri](/software#vpns) pentru mai multe informații.
+exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri](/software#vpn-uri) pentru mai multe informații.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
   [Uploaderi siguri (cu excepția lui FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
@@ -101,13 +104,13 @@ ia mult timp din cauza decomprimării fișierului.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Necesită înregistrare cu un cod special
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Necesită înregistrare cu un cod special / Necesită înregistrare
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Transferat la KaOsKrew în iunie 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repack-uri până în mai 2022. Transferat la KaOsKrew în iunie 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
-- [Gnarly Repacks](https://gnarly-repacks.site) - Jocuri de console emulate 
+- [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jocuri de console emulate 
 - [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile din repack-uri (are ocazional
   repack-uri compresate cu pierderi) / [Traducător](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)

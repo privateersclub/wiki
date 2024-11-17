@@ -29,8 +29,8 @@ your downloads.
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
-- [Gamedrive](https://gamedrive.org/)
-- [Games4u](https://games4u.org/)
+- [GameDrive](https://gamedrive.org)
+- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
@@ -69,7 +69,7 @@ your downloads.
 - [F95zone](https://f95zone.to) - NSFW games / Registration required
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
-- [Prism Launcher](https://prismlauncher.org) - Minecraft /
+- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
   [Play without a legit account](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
@@ -105,7 +105,7 @@ time due to file decompression.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Requires Registration with a Special Code
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registration required
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.

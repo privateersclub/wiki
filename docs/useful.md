@@ -33,18 +33,19 @@ for more Steam tools.
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
   Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatic Steam, Epic Games Store, & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
   Steam game DLC unlocker /
   [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
-  Steam emulator / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
+- [Goldberg Steam Emulator](https://github.com/Detanup01/gbe_fork) -
+  Steam emulator / [GUI](https://github.com/brunolee-GIT/GSE-Generator) /
   [Guide](https://rentry.co/goldberg_emulator)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Steam & multiplayer emulator
 - [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Allows playing pirated games online with
   other pirated games.
 - [Online Fix](https://online-fix.me) - Allows playing pirated games online with
   other pirated games. / Password: `online-fix.me`
+- [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Virtual LAN emulators for online multiplayer gaming.
+- [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Free services for online multiplayer gaming.
 - [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
   [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
 - [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
@@ -63,8 +64,6 @@ for more Steam tools.
   support & extended features.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
   with root)
-- [Radmin VPN](https://www.radmin-vpn.com/) / [ZeroTier](https://www.zerotier.com/) - Virtual LAN emulators for online multiplayer gaming.
-- [GameRanger](https://www.gameranger.com/) / [Voobly](https://www.voobly.com/) - Free services for online multiplayer gaming
 
 ## Software
 
@@ -72,20 +71,21 @@ for more Steam tools.
 Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
 Visit **[m0nkrus](https://w14.monkrus.ws)** for Adobe products.
 
-For the rest, visit [LRepacks](https://lrepacks.net),
-[CRACKSurl](https://cracksurl.com)
+For the rest, visit [LRepacks](https://lrepacks.net) or
+[CRACKSurl](https://cracksurl.com).
 :::
 
 - [7-Zip](https://7-zip.org) - File archiver
 - [Bitwarden](https://bitwarden.com) - Open-source password manager
 - [Firefox](https://www.mozilla.org/firefox) - Web browser for everyday use / [Betterfox](https://github.com/yokoffing/Betterfox)
-- [Thorium](https://thorium.rocks/) - Lightweight, privacy-focused web browser based on Chromium, offering a minimalist interface and enhanced security features.
+- [Thorium](https://thorium.rocks) - Lightweight, privacy and security-focused web browser based on Chromium.
 - [Tor Browser](https://www.torproject.org) - Private web browser that routes
   Internet traffic through a decentralized network of volunteer-operated
   servers, making you hard to trace.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Achievement file parser with auto-screenshot, playtime tracking, & real-time
   notification
+- [Playnite](https://playnite.link) - Open-source video game library manager
 - [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
 - [Parsec](https://parsec.app) - Low-latency game streaming software
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier &
@@ -97,7 +97,7 @@ For the rest, visit [LRepacks](https://lrepacks.net),
   [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
-  Link shorterners bypasser userscript - Needs one of the 3 extensions below
+  Link shorteners bypasser userscript - Needs one of the 3 extensions below
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
   Open-source userscript manager for Firefox
 - [Tampermonkey](https://www.tampermonkey.net) - Proprietary userscript manager
@@ -135,7 +135,7 @@ game is cracked!
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
-- [PreDB.org](https://predb.org/cats/GAMES)
+- [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
@@ -149,7 +149,8 @@ game is cracked!
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
 - [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)

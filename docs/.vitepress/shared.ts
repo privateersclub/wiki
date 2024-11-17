@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
-import { presetUno, presetIcons } from 'unocss'
+import { presetUno, presetIcons, transformerDirectives } from 'unocss'
 import { generateMeta } from './hooks/meta'
 import { generateImages } from './hooks/opengraph'
 import {
@@ -11,6 +11,25 @@ import {
   GitChangelog,
   GitChangelogMarkdownSection
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
+import coloradix, { gray, mint, blue, yellow, red } from '@coloradix/unocss'
+
+const radix = coloradix({
+  gray,
+  mint,
+  blue,
+  yellow,
+  red
+})
+  .alias({
+    neutral: 'gray',
+    primary: 'mint',
+    warning: 'yellow',
+    danger: 'red',
+    info: 'blue'
+  })
+  .build({
+    selector: 'class'
+  })
 
 export const sharedConfig = defineConfig({
   title: 'privateersclub/wiki',
@@ -22,7 +41,7 @@ export const sharedConfig = defineConfig({
   appearance: 'dark',
   titleTemplate: ':title • Wiki',
   head: [
-    ['meta', { name: 'theme-color', content: '#ADF0DD' }],
+    ['meta', { name: 'theme-color', content: '#58D5BA' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/favicon.svg' }]
@@ -77,7 +96,12 @@ export const sharedConfig = defineConfig({
               'vertical-align': 'middle'
             }
           })
-        ]
+        ],
+        transformers: [transformerDirectives()],
+        theme: {
+          colors: radix.colors
+        },
+        preflights: [radix.preflight]
       })
     ]
   },

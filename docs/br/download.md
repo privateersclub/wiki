@@ -17,7 +17,7 @@ Sites e tudo para downloads diretos.
 Downloads diretos são downloads normais por um servidor, sendo mais seguros e não exigindo uma VPN.
 Você deve precisar de uma VPN para acessar sites de hospedagem de arquivos (como o Rapidgator em
 alguns países da UE). Veja a
-[seção de gerenciadores de downloads](software.md#gerenciadores-de-downloads) para obter ajuda no
+[seção de gerenciadores de downloads](/software#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
@@ -26,6 +26,9 @@ gerenciamento de seus downloads.
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
+- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
+- [GameDrive](https://gamedrive.org)
+- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
@@ -60,7 +63,7 @@ gerenciamento de seus downloads.
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) -
-  Minecraft / [Jogar sem conta legítima](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+  Minecraft Java / [Jogar sem conta legítima](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Sites de Torrents
@@ -91,13 +94,13 @@ devido à descompressão de arquivos.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808)
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registro obrigatório
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
-- [Gnarly Repacks](https://gnarly-repacks.site) - Jogos de console emulados
+- [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jogos de console emulados
 - [KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks de jogos (ocasionalmente tem repacks com perdas, ou
   comprimidos) / [Tradutor](useful.md#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)

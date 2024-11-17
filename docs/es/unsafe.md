@@ -11,8 +11,8 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   Puedes usar lo siguiente para mejorar tu experiencia y evitar a aquellos software y 
   sitios que son considerados como inseguros.
 
-  Puedes utilizar el filtro de [FMHY Sitios y Software a Evitar](https://fmhy.net/unsafesites) 
-  ,[siguiendo esta guía para uBlock](https://windowsaurora.github.io/FMHYFilterlist/site/index.html),
+  Puedes utilizar el filtro de [FMHY Sitios y Software a Evitar](https://fmhy.net/unsafesites)
+  ,[siguiendo esta guía para uBlock](https://github.com/fmhy/FMHYFilterlist),
   o a través de uBlacklist (que es más eficiente) o uBlock Origin para bloquear los sitios a evitar
   mencionados aquí. 
   
@@ -21,9 +21,9 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   para agregar un filtro personalizado a uBlacklist (pon
   [este enlace](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
   donde dice "URL") y
-  [esta guía](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+  [esta guía](https://github.com/fmhy/FMHYFilterlist)
   para agregar los filtros a uBlock Origin (usa
-  [esta](https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt)
+  [esta](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
   donde dice "Importar..." o "Import...").
 :::
 
@@ -51,7 +51,7 @@ Aplicaciones y sitios que debes evitar A TODA costa.
 - CracksHash - Posee [malware](https://redd.it/lklst7).
 - Crohasit - Está afiliado con los dueños de SteamUnlocked
 - cracked-games/GETGAMEZ - Posee malware.
-- CrackingPatching - Posee [malware](https://www.reddit.com/qy6z3c).
+- CrackingPatching - Posee [malware](https://www.reddit.com/r/Piracy/comments/qy6z3c).
 - FileCR - Sus descargas poseen malware [constantemente.](https://rentry.co/filecr_malware) 
 - FreeTP/Game3rb - Enlaces de descarga fraudulentos y maliciosos en su página web.
 - FTUApps - Sus archivos poseen malware [constantemente](https://redd.it/120xk62)
@@ -100,7 +100,7 @@ Aplicaciones y sitios que debes evitar A TODA costa.
 - Bluecord/BlueKik - Historial de [spam](https://redd.it/12h2v6n) y
   [espionaje a sus usuarios](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate -
-  [Le pertenece](https://rentry.co/i8dwr) a [Kape](https://www.reddit.com/q3lepv).
+  [Le pertenece](https://rentry.co/i8dwr) a [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now).
 - Downloadly (video downloader) - Caught with crypto miners.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
@@ -109,16 +109,17 @@ Aplicaciones y sitios que debes evitar A TODA costa.
 - KLauncher - Contiene malware.
 - Limewire - Completamente muerto, cualquier cosa que diga ser ellos **debe** ser evitada.
 - McAfee - Instala bloatware.
-- Opera (Navegadores) -
-  [Demasiado](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13)
+- Opera (Navegadores) - No se recomienda hasta para el uso cotidiano por
+  [demasiado](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13)
   [malas](https://rentry.co/operagx) prácticas de privacidad, además de
   [aplicaciones de préstamo de dinero predatorias](https://www.androidpolice.com/2020/01/21/opera-predatory-loans).
 - PCProtect/Protected/TotalAV - Antivirus falsos.
   ([1](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect),
   [2](https://youtu.be/PcS3EozgyhI),
   [3](https://www.malwarebytes.com/blog/detections/pup-optional-totalav)).
-- PolyMC - El dueño [expulsó a todos los miembros](https://www.reddit.com/y6lt6s) de su
+- PolyMC - El dueño [expulsó a todos los miembros](https://www.reddit.com/r/Minecraft/comments/y6lt6s/important_warning_for_users_of_the_polymc_mod) de su
   servidor de discord y el repositorio. En vez de usar PolyMC, usa Prism Launcher.
 - TLauncher (No relacionado con TLauncher Legacy) -
-  Prácticas de negocio [sombrías](https://www.reddit.com/zmzzrt). En vez de usar TLauncher, usa Prism Launcher.
+  Prácticas de negocio [sombrías](https://www.reddit.com/r/PiratedGames/comments/zmzzrt).
+  En vez de usar TLauncher, usa Prism Launcher.
 - VSTorrent - Atrapado con [malware](https://redd.it/x66rz2).

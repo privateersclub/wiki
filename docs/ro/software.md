@@ -18,8 +18,6 @@ Programe pentru îmbunătățirea experienței de piraterie.
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Piratat](https://cracksurl.com/internet-download-manager) &
   [instrucțiuni](https://rentry.org/installidm)
-  - [Script de activare](https://github.com/lstprjct/IDM-Activation-Script)
-  - [Resetarea încercării gratuite](https://github.com/J2TEAM/idm-trial-reset)
   - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detectează majoritatea gazdelor
   de fișiere
@@ -60,3 +58,4 @@ Programe pentru îmbunătățirea experienței de piraterie.
 - [r/VPN](https://www.reddit.com/r/VPN)
 - [Recomandări de VPN ale Ghidurilor de confidențialitate](https://www.privacyguides.org/en/vpn)
 - [Tabel comparativ de VPN-uri pe r/VPN](https://www.reddit.com/m736zt)
+

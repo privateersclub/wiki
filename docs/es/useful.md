@@ -27,7 +27,6 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
   DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
-- [🌟 CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Desbloqueador de DLC's automático para Steam, Epic Games Store y Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLC's para juegos
    comprados en Steam /
   [Instalador automatizado](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
@@ -39,6 +38,8 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   otros jugadores que posean el juego pirata.
 - [Online Fix](https://online-fix.me) - Permite jugar a juegos pirata en línea con otros jugadores
   que posean el juego pirata. / Contraseña: `online-fix.me`
+- [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emuladores virtuales de LAN para jugar multijugador online.
+- [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Servicios para jugar multijugador online gratuitos.
 - [Steamless](https://github.com/atom0s/Steamless) - Remueve el DRM de Steam /
   [Crack automático](https://github.com/oureveryday/Steam-auto-crack)
 - [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestor de desbloqueo de juegos de Steam para GreenLuma.
@@ -61,23 +62,24 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   Activa tus productos de Microsoft (Office y Windows) con **[Microsoft Activation Scripts](https://massgrave.dev).**
   Visita **[m0nkrus](https://w14.monkrus.ws)** para productos de Adobe.
 
-  Para el resto, visita: [LRepacks](https://lrepacks.net),
-  [CRACKSurl](https://cracksurl.com) o
-  [GameBounty](https://gamebounty.world/software).
+Para el resto, visita: [LRepacks](https://lrepacks.net) o
+[CRACKSurl](https://cracksurl.com).
 :::
 
 - [7-Zip](https://7-zip.org) - Descompresor de archivos de código abierto
 - [Bitwarden](https://bitwarden.com) - Gestor de contraseñas de código abierto
 - [Firefox](https://www.mozilla.org/firefox) - Navegador web para el uso cotidiano / [Betterfox](https://github.com/yokoffing/Betterfox)
+- [Thorium](https://thorium.rocks) - Navegador ligero, centrado en la privacidad y la seguridad basado en Chromium.
 - [Tor Browser](https://www.torproject.org) - Navegador web privado que enruta el tráfico
   de internet a través de una red descentralizada de servidores operada por voluntarios
   que complica las posibilidades de que te rastreen.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Analizador de archivos de logros con capturas de pantallas automáticas, 
   seguimiento de tus horas de juego y notificaciones en tiempo real.
+- [Playnite](https://playnite.link) - Gestor de biblioteca de juegos de codigo abierto
 - [Hydra](https://github.com/hydralauncher/hydra) - ¡Una tienda (¡Similar a Steam!) en donde puedes descargar juegos pirata!
-- [Parsec](https://parsec.app) - Software de streaming de videojuegos con baja latencia.
-- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de checksums y generador de información de hashes.
+- [Parsec](https://parsec.app) - Software de streaming de videojuegos con baja latencia
+- [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de checksums y generador de información de hashes
 
 ## Browser Extensions
 
@@ -125,7 +127,7 @@ de la Scene y P2P's No downloads provided. P2P / Revisa aquí para ver si un jue
 
 - [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
-- [PreDB.org](https://predb.org/cats/GAMES)
+- [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)
 - [srrDB](https://www.srrdb.com/browse/category:pc/1)
 - [PreDB.pw](https://predb.pw)
@@ -139,7 +141,8 @@ de la Scene y P2P's No downloads provided. P2P / Revisa aquí para ver si un jue
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 - [r/Piracy](https://www.reddit.com/r/Piracy)
 - [r/CrackSupport](https://www.reddit.com/r/CrackSupport)
-- [r/CrackWatch](https://www.reddit.com/r/CrackWatch)
+- [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/QuestPiracy](https://www.reddit.com/r/QuestPiracy)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)
 - [r/SwitchPirates](https://www.reddit.com/r/SwitchPirates)
