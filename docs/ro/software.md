@@ -29,7 +29,7 @@ Programe pentru îmbunătățirea experienței de piraterie.
   [Plugin-uri](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [imFile](https://github.com/imfile-io/imfile-desktop) sau
   [Motrix](https://motrix.app)
-- [Aria2](https://aria2.github.io) - Terminal download manager /
+- [Aria2](https://aria2.github.io) - Manager de downloadări în consolă /
   [GUI](https://persepolisdm.github.io) /
   [Web UI](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) /
@@ -46,15 +46,16 @@ Programe pentru îmbunătățirea experienței de piraterie.
 - [Tixati](https://tixati.com)
 - [PicoTorrent](https://picotorrent.org)
 - [BiglyBT](https://www.biglybt.com)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Pentru dispozitive
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Pentru dispozitivele
   Android
 
 ## VPN-uri
 
 :::danger
-**Tor Browser nu este un VPN, deci nu ești protejat când dai torrent!**
+**Tor Browser în sine nu este un VPN, deci nu ești protejat când dai torrent!**
 :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
-- [Recomandări VPN ale Ghidurilor de confidențialitate](https://www.privacyguides.org/en/vpn)
-- [Tabel comparativ VPN pe r/VPN](https://www.reddit.com/r/VPN/comments/m736zt)
+- [Recomandări de VPN ale Ghidurilor de confidențialitate](https://www.privacyguides.org/en/vpn)
+- [Tabel comparativ de VPN-uri pe r/VPN](https://www.reddit.com/m736zt)
+

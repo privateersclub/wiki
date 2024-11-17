@@ -25,7 +25,7 @@ toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu tre
 :::
 
 :::tip Ce sunt NFO-urile?
-NFO-urile sunt ca și un readme.txt care cei de la Scene îl fac. Îți
+NFO-urile sunt niște fișiere, ca și readme.txt, care oamenii care fac lansări Scene le fac. Îți
 dă instrucțiuni, o descriere generală despre joc și chiar informații
 în plus.
 :::
@@ -33,7 +33,7 @@ dă instrucțiuni, o descriere generală despre joc și chiar informații
 :::tip De ce are site-ul X atâtea reclame?
 **Folosește un adblocker**. Reclamele mențin
 site-urile în funcțiune, dar uneori, reclama strică experiența, ba chiar te poate
-redirecționa la un link cu viruși. Poți lua aceste măsuri dacă să nu mai ai reclame:
+redirecționa la un link cu viruși. Poți lua aceste măsuri dacă vrei să nu mai ai reclame:
 
 ### Android
 
@@ -62,9 +62,9 @@ trackeri. Mai poți folosi [**AhaDNS**](https://ahadns.com).
 :::
 
 :::tip Îmi trebuie un VPN când downloadez?
-Necezitatea folosirii unui VPN
+Necezstatea folosirii unui VPN
 depinde de metoda de downloadare. Pentru downloadări directe, nu prea este necesar
-să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau torrentezi
+să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau dai torrent la
 un fișier, ar fi bine să ai un VPN pentru siguranță îmbunătățită și confidențialitate.
 În plus, ramificațile juridice sunt joacă un rol crucial;
 dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosirea unui VPN.

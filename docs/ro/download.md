@@ -17,7 +17,7 @@ Site-uri și downloadări directe.
 Dowloadările directe sunt downloadări normale, sunt mai sigure
 și nu îți trebuie un VPN. Poate îți trebuie un VPN pentru a accesa gazde de fișiere blocate (de ex.
 Rapidgator în câteva țări UE). Verifică
-[secțiunea managerilor de descărcare](/software#manageri-de-downloadări) pentru gestionarea downloadărilor.
+[secțiunea managerilor de downloadări](/software#download-managers) pentru gestionarea downloadărilor.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre piratarea jocurilor / Necesită
   înregistrare /
@@ -26,8 +26,8 @@ Rapidgator în câteva țări UE). Verifică
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jocuri Steam
 - [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torente](https://freegogpcgames.com) - Jocuri GOG
-- [Lansări de Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri crăcuit Empress
+- [🌟 GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
+- [Lansări de Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
