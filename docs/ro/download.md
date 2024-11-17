@@ -17,7 +17,7 @@ Site-uri și downloadări directe.
 Dowloadările directe sunt downloadări normale, sunt mai sigure
 și nu îți trebuie un VPN. Poate îți trebuie un VPN pentru a accesa gazde de fișiere blocate (de ex.
 Rapidgator în câteva țări UE). Verifică
-[secțiunea managerilor de descărcare](/software#download-managers) pentru gestionarea downloadărilor.
+[secțiunea managerilor de downloadări](/software#download-managers) pentru gestionarea downloadărilor.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre piratarea jocurilor / Necesită
   înregistrare /
