@@ -91,7 +91,6 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games & apps
-- [Mac Torrent](https://www.mactorrents.is/macos-games) - macOS games & apps
 
 ## Repacks
 
