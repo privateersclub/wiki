@@ -27,7 +27,6 @@ ROM sites, emulators, discussion pages and more.
   Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
-- [NXBrew](https://nxbrew.com) - Nintendo Switch games
 
 ## Emulators
 
