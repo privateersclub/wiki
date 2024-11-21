@@ -20,7 +20,7 @@ ROM sites, emulators, discussion pages and more.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Registration required
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
