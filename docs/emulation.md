@@ -69,7 +69,7 @@ with a :gear:. You can get them
 ## Related Subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
+- [r/EmulationPiracy](https://reddit.com/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
