@@ -25,6 +25,7 @@ Software to enhance your piracy experience.
   - [Offline CAPTCHA solver](https://github.com/cracker0dks/CaptchaSolver)
   - [Dark theme](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
+- [AB Download Manager](https://abdownloadmanager.com/)
 - [Gopeed](https://gopeed.com) /
   [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [imFile](https://github.com/imfile-io/imfile-desktop) or
