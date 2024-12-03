@@ -2,8 +2,8 @@ name: Lunaria
 
 on:
   pull_request_target:
-    types: [ opened, synchronize ]
-    branches: [ master ]
+    types: [opened, synchronize]
+    branches: [master]
 
 # Allow this job to clone the repository and comment on the pull request
 permissions:
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [ 20 ]
+        node-version: [20]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,8 +27,6 @@ jobs:
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 9
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4

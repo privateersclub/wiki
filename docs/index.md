@@ -32,3 +32,9 @@ features:
       We regularly curate the finest sites for you and emphasize their
       prominence, so you can have peace of mind.
 ---
+
+<script setup>
+import ChristmasCard from './.vitepress/theme/components/ChristmasCard.vue'
+</script>
+
+<ChristmasCard />
