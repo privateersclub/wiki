@@ -101,7 +101,7 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   [espionaje a sus usuarios](https://rentry.co/tvrnw).
 - CyberGhost/ExpressVPN/Private Internet Access/ZenMate -
   [Le pertenece](https://rentry.co/i8dwr) a [Kape](https://www.reddit.com/r/PrivateInternetAccess/comments/q3oye4/former_malware_distributor_kape_technologies_now).
-- Downloadly (video downloader) - Caught with crypto miners.
+- Downloadly (video downloader) - Atrapado con mineros de cripto.
 - FrostWire -
   [Adware](https://www.virustotal.com/gui/file/f20d66b647f15a5cd5f590b3065a1ef2bcd9dad307478437766640f16d416bbf/detection)
 - GShade - Puede gatillar [reinicios](https://rentry.co/GShade_notice) no deseados.

@@ -60,7 +60,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 :::tip
   Activa tus productos de Microsoft (Office y Windows) con **[Microsoft Activation Scripts](https://massgrave.dev).**
-  Visita **[m0nkrus](https://w14.monkrus.ws)** para productos de Adobe.
+Visita **[m0nkrus](https://vk.com/monkrus) (mirror debido a [problemas con el sitio](https://reddit.com/r/GenP/comments/1h3c2ny/monkrus_users_need_to_use_mirror_site_on_vk))** para productos de Adobe.
 
 Para el resto, visita: [LRepacks](https://lrepacks.net) o
 [CRACKSurl](https://cracksurl.com).
@@ -103,8 +103,8 @@ Para el resto, visita: [LRepacks](https://lrepacks.net) o
 
 - [Contenedor para Multicuentas de Firefox](https://github.com/mozilla/multi-account-containers) -
   Con esta herramienta, podrás mantener separadas tanto a tu vida online como a tu vida personal en un mismo navegador
-  a través de una asignación de colores para cada pestaña con el fin de cuidar tu privacidad. 
-  Las cookies estarán separadas en cada uno de estos contenedores permitiendote así tener muchas cuentas o 
+  a través de una asignación de colores para cada pestaña con el fin de cuidar tu privacidad.
+  Las cookies estarán separadas en cada uno de estos contenedores permitiéndote así tener muchas cuentas o
   identidades abiertas a la vez en un mismo navegador.
 
 

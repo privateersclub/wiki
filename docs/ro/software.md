@@ -25,6 +25,7 @@ Programe pentru îmbunătățirea experienței de piraterie.
   - [Rezolvare CAPTCHA offline](https://github.com/cracker0dks/CaptchaSolver)
   - [Temă întunecată](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
+- [AB Download Manager](https://abdownloadmanager.com)
 - [Gopeed](https://gopeed.com) /
   [Plugin-uri](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [imFile](https://github.com/imfile-io/imfile-desktop) sau
