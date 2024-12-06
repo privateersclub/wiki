@@ -64,7 +64,7 @@ para que puedas gestionar tus descargas fácilmente.
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Juegos PCVR
 - [My Abandonware](https://www.myabandonware.com) - Juegos retro
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Juegos retro / Cambia el idioma al
-  inglés en la esquina asuperior derecha.
+  inglés en la esquina superior derecha.
 - [F95zone](https://f95zone.to) - Juegos NSFW / Debes estar registrado para descargar
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Juegos de MS-DOS
@@ -104,7 +104,7 @@ pero su instalación toma mucho tiempo debido al proceso de descompresión de ar
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Usa las mirrors de GLOAD o Ova Games
+- [🌟 ElAmigos](https://elamigos.site) - Usa las mirrors de GLOAD u Ova Games
   para descargar tus juegos gratis y rápidamente.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
@@ -116,8 +116,8 @@ pero su instalación toma mucho tiempo debido al proceso de descompresión de ar
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Repacks de juegos de consola emulados.
-- [KAPITALSIN](https://kapitalsin.com/forum) - Foro de repacks de videojuegos español. (ocasionalmente
-  tienen repacks súper comprimidos en donde los archivos como música y assets pierden totalmente su calidad
+- [KAPITALSIN](https://kapitalsin.com/forum) - Foro de repacks de videojuegos español. (ocasionalmente,
+  tienen repacks supercomprimidos en donde los archivos como música y assets pierden totalmente su calidad
   o se ausentan del videojuego por completo)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Juegos retro

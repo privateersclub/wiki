@@ -13,7 +13,7 @@ material referencial para revisar mientras navegas por la wiki.
 
 :::tip ¿Qué es la Scene? ¿Y quiénes son los P2P?
 La escena es una comunidad de bajo perfil que crackea y comparte material con derechos de autor.
-La Screne posee reglas estrictas en las que todos los miembros de la Scene ***deben*** ceñirse.
+La Scene posee reglas estrictas en las que todos los miembros de la Scene ***deben*** ceñirse.
 Los "P2P" son crackers independientes que no siguen las [reglas de la Scene](https://scenerules.org).
 :::
 
@@ -59,17 +59,17 @@ sitios web. También puedes probar [**AhaDNS**](https://ahadns.com).
 :::tip ¿Tengo que usar necesariamente una VPN al descargar archivos?
 La necesidad de utilizar o no una VPN depende en el método de descarga
 que utilices o que estés utilizando en el momento. Para descargas directas,
-las VPNs son innecesarias. Pero, si estás descargando a través del protocolo punto
+las VPN son innecesarias. Pero, si estás descargando a través del protocolo punto
 a punto (Peer-to-peer o P2P en inglés) como por ejemplo, a través de un torrent,
 se recomienda que utilices una VPN para mejorar su seguridad y cuidar tu privacidad.
 Adicionalmente, las ramificaciones legales en el área en la que vives podría jugar
-un rol crucial en su privacidad, esto, se debe a que podrían haber consecuencias por
+un rol crucial en su privacidad, esto, se debe a que podría haber consecuencias por
 descargar contenido protegido por derechos de autor, por lo que, deberías sí o sí
 utilizar una VPN.
 :::
 
 :::tip ¿Por qué mi velocidad de descarga está tan lenta al descargar en estos sitios?
-Utiliza un gestor de descaergas. Algunos sitios imponen un límite en la transferencia de archivos
+Utiliza un gestor de descargas. Algunos sitios imponen un límite en la transferencia de archivos
 al utilizar colas de descargas mono-hilo, por lo que, se restringen las velocidades de descarga para los usuarios.
 Los gestores de descargas se saltan estas limitaciones al crear muchos hilos para descargar,
 resultando así en descargas veloces. Hemos listado algunos gestores de descargas [aquí](/software#gestores-de-descargas).

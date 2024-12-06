@@ -14,6 +14,7 @@ Programas para melhorar sua experiência na pirataria.
   - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detecta a maioria dos hospedeiros de
   arquivos / [Guia de aprimoramento](https://lemmy.world/post/3098414) / [Resolvedor offline de CAPTCHAs](https://github.com/cracker0dks/CaptchaSolver) / [Tema escuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
+- [AB Download Manager](https://abdownloadmanager.com)
 - [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [Gopeed](https://gopeed.com) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 - [imFile](https://github.com/imfile-io/imfile-desktop) or [Motrix](https://motrix.app)

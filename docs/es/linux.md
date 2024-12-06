@@ -26,9 +26,9 @@ Todo lo relacionado con la piratería, en Linux.
 
 :::danger ¡Ten cuidado con lo que lees o buscas en internet!
   Se cuidadoso con lo que buscas y lees en internet, es una regla de oro en el que no 
-  debes confiar en todo lo que veas en internet. No todo funcionará como tú ***crees que*** 
-  funcionará, en algunas ocasiones lo que encuentras puede que esté desactualizado o incluso 
-  sea **incompatible**, así que, asegurate de que lo que estés buscando vaya a funcionar en tu sistema
+  debes confiar en todo lo que veas en internet. No todo funcionará como tú ***crees que***
+funcionará, en algunas ocasiones lo que encuentras puede que esté desactualizado o incluso
+sea **incompatible**, así que, asegúrate de que lo que estés buscando vaya a funcionar en tu sistema
   antes de ejecutar cualquier comando o cambiar alguna configuración del sistema evitando
   así que dañes a tu sistema en el proceso.
 
@@ -43,7 +43,7 @@ Todo lo relacionado con la piratería, en Linux.
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - Foro con juegos de GOG, Linux y lanzamientos de
   la Scene. / **Requiere registro.**
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Foro español de repacks de videojuegos.
-  (ocasionalmente, tienen archivos con pérdidas o ***súper*** comprimidos.)
+  (ocasionalmente, tienen archivos con pérdidas o ***super***comprimidos.)
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos. / **Requiere registro.** /
   [Mod de mejora](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Contraseña: `cs.rin.ru`
 

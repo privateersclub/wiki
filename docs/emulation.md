@@ -20,14 +20,13 @@ ROM sites, emulators, discussion pages and more.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Registration required
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
   Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
-- [NXBrew](https://nxbrew.com) - Nintendo Switch games
 
 ## Emulators
 
@@ -70,7 +69,7 @@ with a :gear:. You can get them
 ## Related Subreddits
 
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
+- [r/EmulationPiracy](https://reddit.com/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)
