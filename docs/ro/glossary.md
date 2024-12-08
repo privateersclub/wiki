@@ -20,8 +20,8 @@ materialul referențial pentru a revizui mai rapid unii termeni.
 :::tip Ce înseamnă Scene? Și P2P?
 Scene este comunitatea de oameni
 care distribuie material protejat de drepturi de autor. Ei au reguli care
-toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu trebuie să respecte reguli
-[Reguli Scene](https://scenerules.org).
+toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu trebuie să respecte
+[Regulile Scene](https://scenerules.org).
 :::
 
 :::tip Ce sunt NFO-urile?
@@ -62,11 +62,11 @@ trackeri. Mai poți folosi [**AhaDNS**](https://ahadns.com).
 :::
 
 :::tip Îmi trebuie un VPN când downloadez?
-Necezstatea folosirii unui VPN
+Necesitatea folosirii unui VPN
 depinde de metoda de downloadare. Pentru downloadări directe, nu prea este necesar
 să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau dai torrent la
-un fișier, ar fi bine să ai un VPN pentru siguranță îmbunătățită și confidențialitate.
-În plus, ramificațile juridice sunt joacă un rol crucial;
+un fișier, ar fi bine să ai un VPN pentru o siguranță îmbunătățită și confidențialitate.
+În plus, ramificațile juridice joacă un rol crucial;
 dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosirea unui VPN.
 :::
 

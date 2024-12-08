@@ -9,7 +9,7 @@ Ce nu ar mai trebui să folosești.
 
 :::tip
 Poți folosi
-[Site-urile/programele nesigure de FMHY](https://fmhy.net/unsafesites)
+[Site-urile/programele nesigure de FMHY](https://fmhy.net/unsafesites) 
 [filtru pentru adblocker-ul](https://github.com/fmhy/FMHYFilterlist)
 uBlacklist (mai eficient) sau uBlock Origin pentru a bloca majoritatea site-urilor
 menționate aici. Uită-te peste

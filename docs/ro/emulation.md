@@ -32,15 +32,15 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 
 :::tip
 Verifică
-**[Wiki general de Emulare](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
-pentru mai multe.
+**[Wiki-ul general de Emulare](https://emulation.gametechwiki.com/index.php/Main_Page#Emulators)**
+pentru mai multe informații.
 
 Unele emulatoare au nevoie de fișiere în plus (chei sau BIOS) și sunt marcate
 cu o :gear:. Le poți lua de
 [aici](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
-- [Batocera.linux](https://batocera.org) - Distro de jocuri retro
+- [Batocera.linux](https://batocera.org) - Distribuție Linux pentru emularea jocurilor vechi
 - [Mobox](https://github.com/olegos2/mobox) - Jocuri Windows
 - [Winlator](https://winlator.org) - Jocuri Windows
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra

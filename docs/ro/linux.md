@@ -14,8 +14,8 @@ tags:
 
 Totul despre pirateria pe Linux.
 
-::: info Cel mai bun Distro pentru gaming?
-Niciunul. Niciunul nu-ți va oferi performanța pe care o pretind și pe care nu o poți obține prin alegerea unei distribuții regulate și prin utilizarea celor mai recente actualizări.
+::: info Care e cea mai bună distrubuție pentru gaming?
+Niciunul. Niciunul nu-ți va oferi performanța pe care o pretind și pe care nu o poți obține prin alegerea unei distribuții normale și prin utilizarea celor mai recente actualizări.
 
 Deci, pentru a obține cea mai bună performanță, îți trebuie cele mai noi actualizări. Toate distribuțiile linux oferă aceleași pachete și furnizează actualizări. Unii le oferă mai rapid decăt alții. Deci, orice distribuție care își actualizează pachetele cel mai repede după upstream, este bun. 
 :::
@@ -35,11 +35,11 @@ Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) est
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - Forum despre lansări Scene,
   jocuri pentru Linux și GOG / Necesită înregistrare
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocuri repack
-  (are ocazional jocuri compresate cu pierderi) /
+  (are ocazional jocuri comprimate cu pierderi) /
   [Traducător](useful.md#translator)
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria de jocuri / Necesită
   înregistrare /
-  [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
+  [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
 
 ### Torrent Sites
@@ -48,21 +48,21 @@ Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) est
 - [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jocuri pentru Linux
   / [Traducător](useful.md#translator)
 
-## Software
+## Programe
 
 ### Nuclee (Kernel-uri)
 
 ::: danger
-Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează reducerile de securitate](https://wiki.archlinux.org/index.php/Kernel_parameters), și pot cauza instabilități și probleme de fiabilitate. Este recomandat să ții [backup-uri](https://wiki.archlinux.org/title/Backup) și un nucleu de rezervă pentru a porni înapoi, din GRUB.
+Nucleele (Kernel-urile) personalizate pot schimba comportamentul sistemului, pot [dezactiva reducerile de securitate](https://wiki.archlinux.org/index.php/Kernel_parameters), și pot cauza instabilități și probleme de siguranță. Este recomandat să faci [backup-uri](https://wiki.archlinux.org/title/Backup) și un nucleu de rezervă pentru a porni înapoi, din GRUB.
 :::
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Nucleu fiabil cu patch-uri pentru utilizatorii obișnuiți
+- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Nucleu sigur cu patch-uri pentru utilizatorii obișnuiți
 - [XanMod Stable Real-time](https://xanmod.org)
 - [Liquorix](https://liquorix.net)
-- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Pentru sistemele cu Intel, foarte folositor pentru servere
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Necesită compilare manuală
+- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Pentru calculatoarele care au un procesor Intel, foarte folositor pentru servere
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Necesită o compilare făcută de utilizator
 
-### Launchers
+### Lansatori (Launchere)
 
 - [🌟 Lutris](https://lutris.net) - Lansator de jocuri
 - [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Lansator de jocuri
@@ -82,20 +82,20 @@ Nucleele personalizate pot schimba comportamentul sistemului, [dezactivează red
 
 ## Site-uri
 
-- [ProtonDB](https://www.protondb.com) - Rapoarte de compatibilitate și corecții Proton.
-- [AppDB](https://appdb.winehq.org) - Monitorizarea rapoartelor si ratingurile jocurilor video făcut de cei de la Wine.
+- [ProtonDB](https://www.protondb.com) - Rapoarte de compatibilitate și corecții pentru Proton.
+- [AppDB](https://appdb.winehq.org) - Monitorizarea rapoartelor si ratingurile jocurilor video făcut de creatorii Wine.
 - [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Jocuri care rulează nativ pe Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - De la sfaturi de configurare până la rularea jocurilor
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
-- [Open Source Game Clones](https://osgameclones.com/) - Clone sau refaceri de jocuri PLSD (FOSS)
+- [Open Source Game Clones](https://osgameclones.com/) - Clone sau refaceri de jocuri SCSD/Software cu sursă deschisă (FOSS în limba engleză)
 
 ## Ghiduri
 
 - [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
 - [🌟 Instalarea repack-urilor cu Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
-  [Soluție pentru erori DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
+  [Soluții pentru erorile DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 
 ## Subreddit-uri relevante
 
