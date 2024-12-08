@@ -16,7 +16,7 @@ Programe pentru îmbunătățirea experienței de piraterie.
 ## Manageri de downloadări
 
 - [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
-  [Piratat](https://cracksurl.com/internet-download-manager) &
+  [Versiunea piratată](https://cracksurl.com/internet-download-manager) &
   [instrucțiuni](https://rentry.org/installidm)
   - [IDMHelper](https://github.com/unamer/IDMHelper)
 - [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detectează majoritatea gazdelor
@@ -36,7 +36,7 @@ Programe pentru îmbunătățirea experienței de piraterie.
 - [Free Download Manager](https://www.freedownloadmanager.org) /
   [Video downloader](https://github.com/meowcateatrat/elephant)
 
-## Clienți de torrente
+## Clienți pentru a da torrent
 
 - [🌟 qBittorrent](https://www.qbittorrent.org) /
   [Versiunea îmbunătățită](https://github.com/c0re100/qBittorrent-Enhanced-Edition) /
@@ -57,6 +57,6 @@ Programe pentru îmbunătățirea experienței de piraterie.
 :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)
-- [Recomandări de VPN ale Ghidurilor de confidențialitate](https://www.privacyguides.org/en/vpn)
-- [Tabel comparativ de VPN-uri pe r/VPN](https://www.reddit.com/m736zt)
+- [Recomandările de VPN ale Ghidurilor de confidențialitate](https://www.privacyguides.org/en/vpn)
+- [Tabel comparativ cu VPN-uri pe r/VPN](https://www.reddit.com/m736zt)
 
