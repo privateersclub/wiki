@@ -19,7 +19,7 @@ Dowloadările directe sunt downloadări normale, sunt mai sigure
 Rapidgator în câteva țări UE). Verifică
 [secțiunea managerilor de downloadări](/software#download-managers) pentru gestionarea downloadărilor.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre piratarea jocurilor / Necesită
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria jocurilor / Necesită
   înregistrare /
   [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
@@ -27,7 +27,7 @@ Rapidgator în câteva țări UE). Verifică
 - [🌟 SteamRIP](https://steamrip.com) - Jocuri Steam
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
-- [Lansări de Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
+- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
@@ -65,7 +65,7 @@ Rapidgator în câteva țări UE). Verifică
 - [My Abandonware](https://www.myabandonware.com) - Jocuri vechi
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jocuri vechi / Schimbă limba în
   Engleză în colțul din dreapta-sus
-- [F95zone](https://f95zone.to) - Jocuri NSFW / Necesită înregistrare
+- [F95zone](https://f95zone.to) - Jocuri NSFW (cu pornografie) / Necesită înregistrare
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jocuri MS-DOS
 - [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
@@ -75,16 +75,16 @@ Rapidgator în câteva țări UE). Verifică
 ## Site-uri cu torrente
 
 Torrenții sunt downloadări P2P (peer-to-peer/între persoane). Îți trebuie un VPN
-pentru a descărca torrente în siguranță și a evita avertizările ISP privind drepturile autorului, 
+pentru a descărca torrente în siguranță și pentru a evita avertizările ISP (Internet Service Provider/Furnizorul de Internet) privind drepturile autorului, 
 exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri](/software#vpn-uri) pentru mai multe informații.
 
 - [🌟 1337x](https://1337x.to/sub/10/0/) /
-  [Uploaderi siguri (cu excepția lui FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+  [Uploaderi siguri (cu excepția FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Îmbunătațiri la interfață](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
-  - [Link-uri magnetice](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Legături magnet pentru torrente](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Corectarea fusului orar](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Link-uri de subtitrare pentru filme și TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Cautare torrenți](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Traducător](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Traducător](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
@@ -94,26 +94,26 @@ exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri]
 
 ## Repack-uri
 
-Repack-urile sunt jocuri comprimate pentru cei cu viteza de net mica, dar instalând jocurile
+Repack-urile sunt jocuri comprimate pentru persoanele care au o viteză de descărcare mică, dar instalând jocurile
 ia mult timp din cauza decomprimării fișierului.
 
 - [🌟 DODI Repacks](https://dodi-repacks.site)
 - [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
 - [🌟 ElAmigos](https://elamigos.site) - Folosește link-ul oglindă de pe GLOAD sau Ova Games
-  downloadări mai rapide.
+  pentru downloadări mai rapide.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Necesită înregistrare cu un cod special / Necesită înregistrare
-- [ScOOt3r Repacks](https://game-repack.site/scooter) - Transferat la KaOsKrew în iunie 2024.
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - S-a transferat la KaOsKrew în iunie 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
-  Repack-uri până în mai 2022. Transferat la KaOsKrew în iunie 2022.
+  Repack-uri până în mai 2022. S-a transferat la KaOsKrew în iunie 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jocuri de console emulate 
 - [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile din repack-uri (are ocazional
-  repack-uri compresate cu pierderi) / [Traducător](/useful#translator)
+  repack-uri comprimatee cu pierderi) / [Traducător](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jocuri vechi
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jocuri vechi
-- [CPG Repacks](https://cpgrepacks.site) - Jocuri anime NSFW
+- [CPG Repacks](https://cpgrepacks.site) - Jocuri anime NSFW (cu pornografie)
