@@ -112,7 +112,7 @@ ia mult timp din cauza decomprimării fișierului.
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jocuri de console emulate 
 - [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile din repack-uri (are ocazional
-  repack-uri comprimatee cu pierderi) / [Traducător](/useful#translator)
+  repack-uri comprimate cu pierderi) / [Traducător](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jocuri vechi
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jocuri vechi
