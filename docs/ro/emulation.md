@@ -41,8 +41,8 @@ cu o :gear:. Le poți lua de
 :::
 
 - [Batocera.linux](https://batocera.org) - Distribuție Linux pentru emularea jocurilor vechi
-- [Mobox](https://github.com/olegos2/mobox) - Jocuri Windows
-- [Winlator](https://winlator.org) - Jocuri Windows
+- [Mobox](https://github.com/olegos2/mobox) - Pentru jocuri Windows
+- [Winlator](https://winlator.org) - Pentru jocuri Windows
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
