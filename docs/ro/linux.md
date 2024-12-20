@@ -42,7 +42,7 @@ Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) est
   [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
 
-### Torrent Sites
+### Site-uri cu torrente
 
 - [🌟 johncena141](https://1337x.to/user/johncena141/) - Jocuri pentru Linux
 - [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jocuri pentru Linux
