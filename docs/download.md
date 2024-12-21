@@ -29,6 +29,8 @@ your downloads.
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
