@@ -30,6 +30,8 @@ Rapidgator în câteva țări UE). Verifică
 - [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
 - [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
