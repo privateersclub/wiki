@@ -90,6 +90,7 @@ For the rest, visit [LRepacks](https://lrepacks.net) or
 - [Parsec](https://parsec.app) - Low-latency game streaming software
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Checksum verifier &
   hash info generator
+- [SpotX](https://github.com/SpotX-Official/SpotX) / [Linux](https://github.com/SpotX-Official/SpotX-Bash) - Adblocker for the Spotify desktop client
 
 ## Browser Extensions
 
