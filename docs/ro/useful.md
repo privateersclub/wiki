@@ -88,7 +88,8 @@ sau [CRACKSurl](https://cracksurl.com).
 - [Parsec](https://parsec.app) - Software pentru streaming de jocuri cu latență redusă
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificator de checksum și
   generator de informații despre hash-uri
-
+- [SpotX](https://github.com/SpotX-Official/SpotX) / [Linux](https://github.com/SpotX-Official/SpotX-Bash) - Program care blocheaza reclamele de pe aplicatia Spotify pentru calculator
+- 
 ## Extensii de browser
 
 - [uBlock Origin](https://ublockorigin.com) - Blochează reclamele /
