@@ -29,6 +29,7 @@ your downloads.
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
+- [AnkerGames](https://ankergames.net/)
 - [DigitalZone](https://digital-zone.xyz)
 - [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
@@ -46,6 +47,7 @@ your downloads.
   Slow downloads / [Translator](/useful#translator) / Password:
   `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
+- [ReleaseBB](https://rlsbb.ru) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
 - [AtopGames](https://atopgames.com) - Indie games
