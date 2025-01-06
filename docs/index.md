@@ -33,8 +33,8 @@ features:
       prominence, so you can have peace of mind.
 ---
 
-<script setup>
-import ChristmasCard from './.vitepress/theme/components/ChristmasCard.vue'
-</script>
+<!-- <script setup> -->
+<!-- import ChristmasCard from './.vitepress/theme/components/ChristmasCard.vue' -->
+<!-- </script> -->
 
-<ChristmasCard />
+<!-- <ChristmasCard /> -->
