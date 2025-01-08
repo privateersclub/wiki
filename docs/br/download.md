@@ -27,6 +27,8 @@ gerenciamento de seus downloads.
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
 - [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
@@ -81,7 +83,6 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 - [Rutor](http://rutor.info/games) / [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Tradutor](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
-- [Mac Torrent](https://www.mactorrents.is/macos-games) - Jogos e aplicativos de macOS
 
 ## Repacks
 

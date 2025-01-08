@@ -27,6 +27,7 @@ ROM sites, emulators, discussion pages and more.
   Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
 - [NSW2u](https://nsw2u.com) - Nintendo Switch games
+- [NXBrew](https://nxbrew.net) - Nintendo Switch games
 
 ## Emulators
 
@@ -45,8 +46,8 @@ with a :gear:. You can get them
 - [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
 - [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
-  [:gear: Sudachi](https://sudachi.emuplace.app/) - Nintendo Switch games
+- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
 - [:gear: Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games

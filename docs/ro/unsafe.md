@@ -13,10 +13,6 @@ Poți folosi
 [filtru pentru adblocker-ul](https://github.com/fmhy/FMHYFilterlist)
 uBlacklist (mai eficient) sau uBlock Origin pentru a bloca majoritatea site-urilor
 menționate aici. Uită-te peste
-[acest ghid](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
-pentru a adăuga lista de filtre pentru uBlacklist (pune
-[acest link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
-link-ul unde scrie "URL") și
 [acest ghid](https://github.com/fmhy/FMHYFilterlist)
 pentru a-l adăuga în uBlock Origin (pune
 [asta](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)

@@ -27,16 +27,16 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 - [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
   DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLC's para juegos
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs para juegos
    comprados en Steam /
   [Instalador automatizado](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
   Emulador de Steam / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
   [Guía](https://rentry.co/goldberg_emulator)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulador de Steam y multijugador online.
-- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jugar a juegos pirata en línea con 
+- [Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam) - Permite jugar a juegos piratas en línea con
   otros jugadores que posean el juego pirata.
-- [Online Fix](https://online-fix.me) - Permite jugar a juegos pirata en línea con otros jugadores
+- [Online Fix](https://online-fix.me) - Permite jugar a juegos piratas en línea con otros jugadores
   que posean el juego pirata. / Contraseña: `online-fix.me`
 - [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emuladores virtuales de LAN para jugar multijugador online.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Servicios para jugar multijugador online gratuitos.
@@ -45,7 +45,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 - [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestor de desbloqueo de juegos de Steam para GreenLuma.
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
   Arregla y crea las dependencias de Steamworks automáticamente.
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLC's para clientes de EA.
+- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs para clientes de EA.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
   Emulador de Epic Online Services.
 - [SteamDB](https://steamdb.info) / [Extensión](https://steamdb.info/extension) - Herramienta de perspectivas para Steam (Visualizar jugadores, estadísticas y precios históricos.)
@@ -76,10 +76,12 @@ Para el resto, visita: [LRepacks](https://lrepacks.net) o
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Analizador de archivos de logros con capturas de pantallas automáticas, 
   seguimiento de tus horas de juego y notificaciones en tiempo real.
+- [Achievement Watchdog](https://github.com/50t0r25/achievement-watchdog) - Monitor de logros para juegos con el Goldberg Emulator, no pide una llave de API de Steam
 - [Playnite](https://playnite.link) - Gestor de biblioteca de juegos de codigo abierto
-- [Hydra](https://github.com/hydralauncher/hydra) - ¡Una tienda (¡Similar a Steam!) en donde puedes descargar juegos pirata!
+- [Hydra](https://github.com/hydralauncher/hydra) - ¡Una tienda (¡Similar a Steam!) en donde puedes descargar juegos piratas!
 - [Parsec](https://parsec.app) - Software de streaming de videojuegos con baja latencia
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de checksums y generador de información de hashes
+- [SpotX](https://github.com/SpotX-Official/SpotX) / [Linux](https://github.com/SpotX-Official/SpotX-Bash) - Bloqueador de anuncios para el cliente de desktop de Spotify
 
 ## Browser Extensions
 
@@ -113,7 +115,7 @@ Para el resto, visita: [LRepacks](https://lrepacks.net) o
 No está permitido su uso para juegos online. Por favor, ¡No hagas trampas en juegos en línea!
 
 - [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - También posee crack-only's y parches NoCD.
+- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - También posee solo cracks y parches NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tablas para Cheat Engine

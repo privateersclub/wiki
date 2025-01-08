@@ -15,13 +15,13 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Registro requerido
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guía para descargar desde Emuparadise](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Juegos de PlayStation 1, Vita, 3 y Portable
 - [Ziperto](https://www.ziperto.com) - Juegos de Nintendo
 - [NSW2u](https://nsw2u.com) - Juegos de Nintendo Switch
-- [NXBrew](https://nxbrew.com) - Juegos de Nintendo Switch
+- [NXBrew](https://nxbrew.net) - Juegos de Nintendo Switch
 
 ## Emuladores
 
@@ -42,8 +42,8 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
   Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra
 - [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
   Geo, PlayStation 1 e Game Boy Advance
-- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
-  [:gear: Sudachi](https://sudachi.emuplace.app) - Emuladores de Nintendo Switch
+- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emuladores de Nintendo Switch
 - [Cemu](https://cemu.info) - Emulador de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulador de Nintendo 3DS
@@ -67,7 +67,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 ## Subreddits Relacionados
 
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
+- [r/EmulationPiracy](https://reddit.com/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)

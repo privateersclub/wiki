@@ -17,7 +17,7 @@ Site-uri și downloadări directe.
 Dowloadările directe sunt downloadări normale, sunt mai sigure
 și nu îți trebuie un VPN. Poate îți trebuie un VPN pentru a accesa gazde de fișiere blocate (de ex.
 Rapidgator în câteva țări UE). Verifică
-[secțiunea managerilor de downloadări](/software#download-managers) pentru gestionarea downloadărilor.
+[secțiunea managerilor de downloadări](/software#manageri-de-downloadări) pentru gestionarea downloadărilor.
 
 - [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria jocurilor / Necesită
   înregistrare /
@@ -92,7 +92,6 @@ exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri]
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Traducător](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jocuri și aplicații pentru macOS
-- [Mac Torrent](https://www.mactorrents.is/macos-games) - Jocuri și aplicații pentru macOS
 
 ## Repack-uri
 

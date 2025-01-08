@@ -83,9 +83,9 @@ For the rest, visit [LRepacks](https://lrepacks.net) or
   Internet traffic through a decentralized network of volunteer-operated
   servers, making you hard to trace.
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
-  Achievement file parser with auto-screenshot, playtime tracking, & real-time
+  Achievement file parser with auto-screenshot, playtime tracking, and real-time
   notification
-- [Achievement Watchdog](https://github.com/50t0r25/achievement-watchdog) - Achievement Watcher for Goldberg Emulator games, does not need Steam API key
+- [Achievement Watchdog](https://github.com/50t0r25/achievement-watchdog) - Achievement Watcher for Goldberg Emulator games, doesn't need a Steam API key
 - [Playnite](https://playnite.link) - Open-source video game library manager
 - [Hydra](https://github.com/hydralauncher/hydra) - A store (similar to Steam!) where you can download cracked games!
 - [Parsec](https://parsec.app) - Low-latency game streaming software

@@ -17,8 +17,8 @@ La Scene posee reglas estrictas en las que todos los miembros de la Scene ***deb
 Los "P2P" son crackers independientes que no siguen las [reglas de la Scene](https://scenerules.org).
 :::
 
-:::tip ¿Qué son los NFO's?
-Los NFO's son los típicos ***readme.txt*** que encuentras 
+:::tip ¿Qué son los NFO?
+Los NFO son los típicos ***readme.txt*** que encuentras
 en los lanzamientos de la Scene. Te proporcionan instrucciones, 
 una descripción general del juego y alguna que otra información adicional.
 :::
@@ -46,7 +46,7 @@ Esto debería ser más que suficiente. Si quieres una amplia variedad de soporte
 ¡Instala [**uBlock Origin**](https://ublockorigin.com) en tu navegador de preferencia
 y listo! Si quieres una solución que soporte otros sistemas _puedes_ usar
 [**NextDNS**](https://nextdns.io), pero no será tan efectivo como uBlock Origin.
-Tambien puedes usar [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
+También puedes usar [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated)
 o [Bypass.city](https://bypass.city) para _bypassear_ a los redireccionadores. 
 
 ### iOS

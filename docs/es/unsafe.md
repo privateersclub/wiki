@@ -11,16 +11,12 @@ Aplicaciones y sitios que debes evitar A TODA costa.
   Puedes usar lo siguiente para mejorar tu experiencia y evitar a aquellos software y 
   sitios que son considerados como inseguros.
 
-  Puedes utilizar el filtro de [FMHY Sitios y Software a Evitar](https://fmhy.net/unsafesites)
-  ,[siguiendo esta guía para uBlock](https://github.com/fmhy/FMHYFilterlist),
+Puedes utilizar el filtro de [FMHY Sitios y Software a Evitar](https://fmhy.net/unsafesites),
+[siguiendo esta guía para uBlock](https://github.com/fmhy/FMHYFilterlist),
   o a través de uBlacklist (que es más eficiente) o uBlock Origin para bloquear los sitios a evitar
   mencionados aquí. 
   
   Sigue
-  [esta guía](https://iorate.github.io/ublacklist/docs/advanced-features#subscription)
-  para agregar un filtro personalizado a uBlacklist (pon
-  [este enlace](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt)
-  donde dice "URL") y
   [esta guía](https://github.com/fmhy/FMHYFilterlist)
   para agregar los filtros a uBlock Origin (usa
   [esta](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt)
@@ -30,8 +26,8 @@ Aplicaciones y sitios que debes evitar A TODA costa.
 ## Sitios web y uploaders a evitar
 
 :::danger
-  **LOS GRUPOS DE LA SCENE NO TIENEN SITIOS WEB! 
-  Los sitios que poseen un nombre de algún grupo de la Scene en la URL son enlaces maliciosos  
+**¡LOS GRUPOS DE LA SCENE NO TIENEN SITIOS WEB!
+Los sitios que poseen un nombre de algún grupo de la Scene en la URL son enlaces maliciosos  
   Ten cuidado con las [webs falsas de 1337x](https://redd.it/117fq8t) and
   [las webs falsas de Zlib](https://redd.it/16xtm67).**
 :::
