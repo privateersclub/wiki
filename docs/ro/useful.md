@@ -83,6 +83,7 @@ sau [CRACKSurl](https://cracksurl.com).
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) -
   Analiza fișierelor de realizări cu captură de ecran automată, urmărirea timpului de joc și
   notificare în timp real
+- [Achievement Watchdog](https://github.com/50t0r25/achievement-watchdog) - Observator de realizări pentru jocurile din Emulatorul Goldberg, nu necesită cheie de API pentru Steam
 - [Playnite](https://playnite.link) - Open source manager de bibliotecă de jocuri
 - [Hydra](https://github.com/hydralauncher/hydra) - Un magazin (similar cu Steam!) unde poți instala jocuri piratate!
 - [Parsec](https://parsec.app) - Software pentru streaming de jocuri cu latență redusă
