@@ -14,7 +14,7 @@ Sitios y todo lo relacionado para descargas directas.
 
 ## Sitios de Descarga Directa
 
-Los sitios de descarga directa son sólo descargas realizadas desde un servidor, 
+Los sitios de descarga directa son solo descargas realizadas desde un servidor,
 asegurando así su seguridad y de que no requieras de una VPN para descargar lo que deseas. 
 Puede que necesites una VPN para acceder a algunos sitios de hosting de archivos 
 (como Rapidgator en algunos países de la unión europea). 
@@ -30,6 +30,8 @@ para que puedas gestionar tus descargas fácilmente.
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
 - [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
@@ -77,8 +79,8 @@ para que puedas gestionar tus descargas fácilmente.
 Los torrents son descargas P2P (punto a punto o peer-to-peer) en donde descargas los
 archivos desde las computadoras de otros usuarios, sin servidores involucrados. 
 Necesitas una VPN para descargar de forma segura a través de P2P evitando así
-infracciones por derechos de autor de tu ISP (proveedor de servicio de internet) a 
-menos de que a tu país no le importe o tolere la piratería. Revisa la [sección de VPNs](/software#vpns) 
+infracciones por derechos de autor de tu ISP (proveedor de servicio de internet) a
+menos de que a tu país no le importe o tolere la piratería. Revisa la [sección de VPN](/software#vpns)
 para más información.
 
 
@@ -93,8 +95,7 @@ para más información.
 - [Rutor](http://rutor.info/games) / [Traductor](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)
-- [Mac Torrents](https://www.torrentmac.net/category/games) - Juegos y aplicaciones para macOS 
-- [Mac Torrent](https://www.mactorrents.is/macos-games) - Juegos y aplicaciones para macOS
+- [Mac Torrents](https://www.torrentmac.net/category/games) - Juegos y aplicaciones para macOS
 
 ## Repacks
 

@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 import { sharedConfig } from './shared'
-import { enLocale } from './locales/en-us'
-import { brLocale } from './locales/pt-br'
-import { esLocale } from './locales/es-la'
+import { enLocale } from './locales/en'
+import { brLocale } from './locales/br'
+import { esLocale } from './locales/es'
 import { roLocale } from './locales/ro'
 
 export default defineConfig({

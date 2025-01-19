@@ -11,10 +11,6 @@ Coisas que você sempre deveria evitar usar.
 Você pode só usar o [filtro de bloqueador de anúncios](https://github.com/fmhy/FMHYFilterlist)
 do [FMHY Unsafe Sites/Software](https://fmhy.net/unsafesites) no uBlacklist (mais
 eficiente) ou uBlock Origin para bloquear a maioria dos sites mencionados aqui e mais. Siga
-[este guia](https://iorate.github.io/ublacklist/docs/advanced-features#subscription) para adicionar
-o filtro customizado ao uBlacklist (ponha
-[este link](https://raw.githubusercontent.com/privateersclub/wiki/master/unsafe_uBlacklist.txt) em
-"URL") e
 [este guia](https://github.com/fmhy/FMHYFilterlist)
 para o adicionar ao uBlock Origin (use
 [isto](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt) em

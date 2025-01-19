@@ -15,13 +15,13 @@ Sites de ROMs, emuladores, páginas de discussão e mais.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Registro obrigatório
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guia de download alternativo](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jogos de PlayStation 1, Vita, 3 e Portable
 - [Ziperto](https://www.ziperto.com) - Jogos da Nintendo
 - [NSW2u](https://nsw2u.com) - Jogos de Nintendo Switch
-- [NXBrew](https://nxbrew.com) - Jogos de Nintendo Switch
+- [NXBrew](https://nxbrew.net) - Jogos de Nintendo Switch
 
 ## Emuladores
 
@@ -41,7 +41,7 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
   Citra
 - [:gear: Ares](https://ares-emu.net) - Jogos de múltiplos consoles / Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
   Advance
-- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) / [:gear: Sudachi](https://sudachi.emuplace.app) - Jogos de Nintendo Switch
+- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) / [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Jogos de Nintendo Switch
 - [Cemu](https://cemu.info) - Jogos de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de Nintendo 3DS
@@ -64,7 +64,7 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
 ## Subreddits Relacionados
 
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
+- [r/EmulationPiracy](https://reddit.com/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)

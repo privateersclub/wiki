@@ -45,7 +45,7 @@ Software que mejorará tu experiencia de piratería.
 ## VPNs
 
 :::danger
-  **El navegador Tor ***no*** es una VPN, no te brinda una protección al torrentear!**
+**El navegador Tor ***no*** es una VPN, ¡no te brinda una protección al torrentear!**
 :::
 
 - [r/VPN](https://www.reddit.com/r/VPN)

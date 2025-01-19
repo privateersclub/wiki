@@ -7,7 +7,7 @@ You can contribute to the project in various ways:
 
 ## Generation
 
-For site generation, we use [Vitepress](https://vitepress.dev), so you'll need a working Node.js
+For site generation, we use [Vitepress](https://vitepress.dev), so you will need a working Node.js
 environment installed. Refer to its documentation for making changes to Vitepress itself.
 
 You can also make changes in your browser using:
@@ -31,7 +31,7 @@ See https://vitepress.dev/guide/i18n and [our tracker](https://megathread.pages.
 
 There are two things to translate: content and strings used in Vitepress (sidebar, nav, etc.).
 
-Start by creating a folder in `docs/<locale>` and write your content in the exact same format.
+Start by creating a folder in `docs/<locale>` and write your content in the same format.
 
 Then, edit Vitepress strings. This may seem daunting, especially if you haven't used TypeScript or
 dealt with configurations like these before, but it shouldn't be overly difficult, and you don't

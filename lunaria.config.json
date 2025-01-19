@@ -7,6 +7,11 @@
   },
   "files": [
     {
+      "location": "docs/.vitepress/locales/{en,be,es,ro}.ts",
+      "pattern": "docs/.vitepress/locales/@lang.ts",
+      "type": "universal"
+    },
+    {
       "location": "docs/**/*.md",
       "pattern": "docs/@lang/@path",
       "type": "universal"

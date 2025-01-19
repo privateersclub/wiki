@@ -15,13 +15,14 @@ tags:
 Everything regarding piracy on Linux.
 
 ::: info Best Linux distribution for gaming?
-None. None of them will provide you the performance they claim that you can't get yourself by picking a regular distribution and using latest updates.
+None. None of them will provide you the performance they claim that you can't get yourself by picking a regular distribution and using the latest updates.
 
-So to get the best performance, one simply needs the latest updates. All linux distributions provide the sames packages and provide updates. Some provide them faster than others. So any distribution that updates its packages the soonest after upstream, is good in our opinion. 
+So to get the best performance, one simply needs the latest updates. All linux distributions provide the same packages and provide updates.
+Some provide them faster than others. So any distribution that updates its packages the soonest after upstream, is good, in our opinion.
 :::
 
 ::: danger Beware of what you search/read online!
-Beware of what you search and read online on the Internet, it's the general rule that one shouldn't believe everything they see online.
+Beware of what you search and read online on the Internet, it is the general rule that one shouldn't believe everything they see online.
 
 Not everything will work out the way you intend *it may work*, sometimes the advice online is outdated or just **incompatible**, so be sure of what you're seeing will work for your system or not, before running any commands or changing configurations, and breaking your system in the process.
 
@@ -53,7 +54,7 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 ### Kernels
 
 ::: danger
-Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instablities and reliablity issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
+Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instabilities and reliability issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
 :::
 
 - [linux-zen](https://github.com/zen-kernel/zen-kernel) - Reliable kernel with patches for casual users

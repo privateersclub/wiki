@@ -74,11 +74,13 @@ Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 - [Achievement Watcher](https://xan105.github.io/Achievement-Watcher) - Analisador de arquivos de
   conquistas com capturas de tela automáticas, rastreamento de tempo de jogo e notificações em tempo
   real
+- [Achievement Watchdog](https://github.com/50t0r25/achievement-watchdog) - Monitorador de conquistas para jogos com o Goldberg Emulator, não exige uma chave API da Steam
 - [Playnite](https://playnite.link) - Gerenciador de biblioteca de jogos de código aberto
 - [Hydra](https://github.com/hydralauncher/hydra) - Uma loja (similar à Steam) onde você pode baixar jogos crackeados!
 - [Parsec](https://parsec.app) - Programa de transmissão de jogos de latência baixa
 - [RapidCRC](https://ov2.eu/programs/rapidcrc-unicode) - Verificador de soma de verificação e
   gerador de informações de hash
+- [SpotX](https://github.com/SpotX-Official/SpotX) / [Linux](https://github.com/SpotX-Official/SpotX-Bash) - Bloqueador de anúncios para o cliente de desktop do Spotify
 
 ## Extensões Úteis de Navegador
 

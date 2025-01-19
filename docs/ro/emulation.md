@@ -20,13 +20,13 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
-- [Vimm's Lair](https://vimm.net/?p=vault)
+- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jocuri de PlayStation 1, Vita, 3 și PSP
 - [Ziperto](https://www.ziperto.com) - Jocuri pentru console Nintendo
 - [NSW2u](https://nsw2u.com) - Jocuri pentru Nintendo Switch
-- [NXBrew](https://nxbrew.com) - Jocuri pentru Nintendo Switch
+- [NXBrew](https://nxbrew.net) - Jocuri pentru Nintendo Switch
 
 ## Emulatoare
 
@@ -46,8 +46,8 @@ cu o :gear:. Le poți lua de
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Ryujinx](https://github.com/GreemDev/Ryujinx) /
-  [:gear: Sudachi](https://sudachi.emuplace.app) - Emulator pentru Nintendo Switch
+- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emulator pentru Nintendo Switch
 - [Cemu](https://cemu.info) - Emulator pentru Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulator pentru 3DS
@@ -71,7 +71,7 @@ cu o :gear:. Le poți lua de
 ## Subreddit-uri relevante
 
 - [r/Roms](https://www.reddit.com/r/roms)
-- [r/EmulationPiracy](https://reddit.nerdvpn.de/r/EmulationPiracy)
+- [r/EmulationPiracy](https://reddit.com/r/EmulationPiracy)
 - [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks)
 - [r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing)
 - [r/ps4homebrew](https://www.reddit.com/r/ps4homebrew)

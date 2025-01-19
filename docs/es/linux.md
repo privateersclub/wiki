@@ -32,8 +32,8 @@ sea **incompatible**, así que, asegúrate de que lo que estés buscando vaya a 
   antes de ejecutar cualquier comando o cambiar alguna configuración del sistema evitando
   así que dañes a tu sistema en el proceso.
 
-  Si necesitas una guía, [la Wiki de Arch](https://wiki.archlinux.org/title/Main_page_(Espa%C3%B1ol)) es muy buena y funciona universalmente 
-  para casi todas las distros, no sólo para Arch Linux.
+  Si necesitas una guía, [la Wiki de Arch](https://wiki.archlinux.org/title/Main_page_(Espa%C3%B1ol)) es muy buena y funciona universalmente
+  para casi todas las distros, no solo para Arch Linux.
 :::
 
 ## Descargas
@@ -87,13 +87,13 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) Capa de compatibilidad de Steam Play para juegos en general.
 - [GameHub](https://tkashkin.github.io/projects/gamehub) Hub que unifica tus videojuegos en una sola plataforma.
 
-## Sitios Web Relacionados a Juegos en Linux
+## Sitios Web Relacionados con Juegos en Linux
 
 - [ProtonDB](https://www.protondb.com) - Informes y correcciones de compatibilidad de Proton.
 - [AppDB](https://appdb.winehq.org) - Un tracker de Wine para conocer el estado y un rating sobre videojuegos que corren bajo esta capa de compatibilidad.
 - [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamer's Game List](https://www.icculus.org/lgfaq/gamelist.php) Juegos que corren nativamente en Linux.
-- [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Tips de configuración relacionados a correr videojuegos en Linux.
+- [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Tips de configuración relacionados con correr videojuegos en Linux.
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
 - [Open Source Game Clones](https://osgameclones.com) - Remakes de juegos y clones FOSS.
 

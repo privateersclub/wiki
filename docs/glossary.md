@@ -29,7 +29,7 @@ scene members have to abide. P2P are independent crackers who don't follow the
 [Scene rules](https://scenerules.org).
 :::
 
-:::tip What’re NFOs?
+:::tip What're NFOs?
 NFOs are like a readme.txt that Scene makes on release. It
 gives you instructions, a general description of the game and some additional
 information.
