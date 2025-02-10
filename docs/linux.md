@@ -33,20 +33,20 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 
 ### Direct Download Sites
 
-- [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
+- [:star2: Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
-- [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
+- [:star2: KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
   (occasionally has lossy, or compressed repacks) /
   [Translator](useful.md#translator)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
 
 ### Torrent Sites
 
-- [🌟 johncena141](https://1337x.to/user/johncena141/) - Linux games
-- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux games
+- [:star2: johncena141](https://1337x.to/user/johncena141/) - Linux games
+- [:star2: RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux games
   / [Translator](useful.md#translator)
 
 ## Software
@@ -65,8 +65,8 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 ### Launchers
 
-- [🌟 Lutris](https://lutris.net) - Game launcher
-- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, &
+- [:star2: Lutris](https://lutris.net) - Game launcher
+- [:star2: Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, &
   Amazon Prime Games launcher
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG client
 - [Bottles](https://usebottles.com) - Windows software manager
@@ -93,8 +93,8 @@ Custom kernels can significantly change your system behavior, [disable security 
 
 ## Guides
 
-- [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-- [🌟 Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+- [:star2: Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
+- [:star2: Installing repacks with Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
   [Fix for DLL errors](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 

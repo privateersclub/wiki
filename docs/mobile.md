@@ -9,7 +9,7 @@ tags:
 
 ### Android
 
-- [🌟 Mobilism](https://forum.mobilism.me) - Apps & Games
+- [:star2: Mobilism](https://forum.mobilism.me) - Apps & Games
 - [ApkVision](https://apkvision.org) - Games
 - [PDALIFE](https://pdalife.com) - Games
 - [Androeed](https://androeed.store) - Games

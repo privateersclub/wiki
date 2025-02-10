@@ -40,17 +40,17 @@ sea **incompatible**, así que, asegúrate de que lo que estés buscando vaya a 
 
 ### Sitios de Descarga Directa
 
-- [🌟 Torrminatorr](https://forum.torrminatorr.com) - Foro con juegos de GOG, Linux y lanzamientos de
+- [:star2: Torrminatorr](https://forum.torrminatorr.com) - Foro con juegos de GOG, Linux y lanzamientos de
   la Scene. / **Requiere registro.**
-- [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Foro español de repacks de videojuegos.
+- [:star2: KAPITALSIN](https://kapitalsin.com/forum) - Foro español de repacks de videojuegos.
   (ocasionalmente, tienen archivos con pérdidas o ***super***comprimidos.)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos. / **Requiere registro.** /
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos. / **Requiere registro.** /
   [Mod de mejora](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Contraseña: `cs.rin.ru`
 
 ### Torrents
 
-- [🌟 johncena141](https://1337x.to/user/johncena141/) - Juegos de linux
-- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Juegos de Linux / [Traductor](useful.md#translator)
+- [:star2: johncena141](https://1337x.to/user/johncena141/) - Juegos de linux
+- [:star2: RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Juegos de Linux / [Traductor](useful.md#translator)
 
 ## Software
 
@@ -72,8 +72,8 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
 
 ### Launchers
 
-- [🌟 Lutris](https://lutris.net) - Launcher de videojuegos
-- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher de Epic, GOG y juegos de Amazon Prime
+- [:star2: Lutris](https://lutris.net) - Launcher de videojuegos
+- [:star2: Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher de Epic, GOG y juegos de Amazon Prime
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Cliente para GOG
 - [Bottles](https://usebottles.com) - Administrador para usar software de Windows en Linux.
 
@@ -99,8 +99,8 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
 
 ## Guías
 
-- [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-- [🌟 Instalación de Repacks con Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+- [:star2: Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
+- [:star2: Instalación de Repacks con Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
   [Arreglo de errores relacionados a DLL's](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 

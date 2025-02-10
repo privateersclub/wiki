@@ -25,7 +25,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   para más herramientas de Steam.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
+- [:star2: Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
   DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs para juegos
    comprados en Steam /
@@ -114,8 +114,8 @@ Para el resto, visita: [LRepacks](https://lrepacks.net) o
 
 No está permitido su uso para juegos online. Por favor, ¡No hagas trampas en juegos en línea!
 
-- [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - También posee solo cracks y parches NoCD.
+- [:star2: FLiNG Trainer](https://flingtrainer.com)
+- [:star2: GameCopyWorld](https://gamecopyworld.com/games) - También posee solo cracks y parches NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tablas para Cheat Engine
@@ -127,7 +127,7 @@ No proveen enlaces de descarga. Estos sitios tienen información sobre los lanza
 de la Scene y P2P's No downloads provided. P2P / Revisa aquí para ver si un juego ha sido crackeado.
 
 
-- [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
+- [:star2: xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)
