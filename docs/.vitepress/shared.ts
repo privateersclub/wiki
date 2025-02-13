@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
-import { presetUno, presetIcons, transformerDirectives } from 'unocss'
 import { generateMeta } from './hooks/meta'
 import { generateImages } from './hooks/opengraph'
 import {
@@ -11,25 +10,6 @@ import {
   GitChangelog,
   GitChangelogMarkdownSection
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
-import coloradix, { gray, mint, blue, yellow, red } from '@coloradix/unocss'
-
-const radix = coloradix({
-  gray,
-  mint,
-  blue,
-  yellow,
-  red
-})
-  .alias({
-    neutral: 'gray',
-    primary: 'mint',
-    warning: 'yellow',
-    danger: 'red',
-    info: 'blue'
-  })
-  .build({
-    selector: 'class'
-  })
 
 export const sharedConfig = defineConfig({
   title: 'privateersclub/wiki',
@@ -82,27 +62,17 @@ export const sharedConfig = defineConfig({
             name: 'Kazevic',
             username: 'Kazevic',
             avatar: 'https://github.com/kazevic.png'
+          },
+          {
+            name: 'Nikolay_Avilov',
+            username: 'djoudx',
+            avatar: 'https://github.com/Nikolayavilov0.png'
           }
         ],
         repoURL: () => 'https://github.com/privateersclub/wiki'
       }),
       GitChangelogMarkdownSection(),
-      UnoCSS({
-        presets: [
-          presetUno(),
-          presetIcons({
-            extraProperties: {
-              display: 'inline-block',
-              'vertical-align': 'middle'
-            }
-          })
-        ],
-        transformers: [transformerDirectives()],
-        theme: {
-          colors: radix.colors
-        },
-        preflights: [radix.preflight]
-      })
+      UnoCSS()
     ]
   },
   transformHead: async (context) =>

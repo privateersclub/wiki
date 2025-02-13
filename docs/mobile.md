@@ -14,5 +14,17 @@ tags:
 - [PDALIFE](https://pdalife.com) - Games
 - [Androeed](https://androeed.store) - Games
 - [APKHome](https://apkhome.io) - Games
-- [LITEAPKS](https://liteapks.com) - Modded Apps & Games 
+- [LITEAPKS](https://liteapks.com) - Modded Apps & Games
 - [RB Mods](https://www.rockmods.net) - Apps
+- [Aurora Store](https://auroraoss.com/) - FOSS client for Play Store
+- [APKMirror](https://www.apkmirror.com/) - Untouched APKs
+- [Droid-ify](https://github.com/Droid-ify/client) - F-Droid Client
+- [Obtainium](https://github.com/ImranR98/Obtainium/) - Source-based App Updater
+
+### iOS
+
+- [Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)
+- [TrollStore](https://github.com/opa334/TrollStore) - Unlimited App Sideloading [iOS 14.0-17.0]
+- [SideStore](https://sidestore.io/) - Sideloading App [iOS 14.0 & Above]
+- [Sideloadly](https://sideloadly.io/) - Sideload Apps [iOS 7.0 & Above]
+- [Feather](https://github.com/khcrysalis/Feather) - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
