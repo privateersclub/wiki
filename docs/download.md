@@ -20,37 +20,29 @@ Rapidgator in some EU countries). Check the
 [download managers section](/software#download-managers) for help managing
 your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Account
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Steam games
+- [🌟 AnkerGames](https://ankergames.net)
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
-- [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
+- [CR4CKPASS](https://cr4ckpass.online)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
-- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
-- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
-- [Game-2U](https://game-2u.com/Category/game/pc)
-- [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
-  releases forum / Registration required
-- [Games 4 You](https://g4u.to) - Slow downloads for free users / Password:
-  `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Slow downloads / [Translator](/useful#translator) / Password:
-  `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Scene releases
+- [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
+- [DigitalZone](https://digital-zone.xyz) - Indie games
 - [AtopGames](https://atopgames.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
-- [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Registration
+- [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Account
   required
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - macOS & iOS
   games & apps
@@ -68,7 +60,7 @@ your downloads.
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
   English in the top-right corner
-- [F95zone](https://f95zone.to) - NSFW games / Registration required
+- [F95zone](https://f95zone.to) - NSFW games / Account required
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
 - [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
@@ -106,7 +98,6 @@ time due to file decompression.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registration required
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repacks from up to May 2022. Moved to KaOsKrew in June 2022.

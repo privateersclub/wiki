@@ -25,28 +25,20 @@ Rapidgator în câteva țări UE). Verifică
   Parola este: `cs.rin.ru`
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jocuri Steam
+- [🌟 AnkerGames](https://ankergames.net)
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
-- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
+- [CR4CKPASS](https://cr4ckpass.online)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
-- [Games4U](https://games4u.org)
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
-- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
-- [Game-2U](https://game-2u.com/Category/game/pc)
-- [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - Forum despre lansări Scene
-  și jocuri de pe Steam și GOG / Necesită înregistrare
-- [Games 4 You](https://g4u.to) - Downloadări încete pentru utilizatorii noi / Parola:
-  `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Downloadări încete / [Traducător](/useful#translator) / Parola este:
-  `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lansări Scene
+- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [Gamdie](https://gamdie.com) - Jocuri indie
 - [Appnetica](https://appnetica.com) - Jocuri indie
+- [DigitalZone](https://digital-zone.xyz) - Jocuri indie
 - [AtopGames](https://atopgames.com) - Jocuri indie
 - [Leechinghell](http://www.leechinghell.pw) - Jocuri multiplayer	
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOG-uri / Necesită
@@ -105,7 +97,6 @@ ia mult timp din cauza decomprimării fișierului.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) Necesită înregistrare cu un cod special / Necesită înregistrare
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - S-a transferat la KaOsKrew în iunie 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Repack-uri până în mai 2022. S-a transferat la KaOsKrew în iunie 2022.

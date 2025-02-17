@@ -20,33 +20,27 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](/software#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
-  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer
+  conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
+- [🌟 AnkerGames](https://ankergames.net)
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
-- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
+- [CR4CKPASS](https://cr4ckpass.online)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
-- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
-- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
-- [Game-2U](https://game-2u.com/Category/game/pc)
-- [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
-  lançamentos da Cena / Registro obrigatório
-- [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis / Senha: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Downloads lentos / [Tradutor](useful.md#translator) / Senha: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
+- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Appnetica](https://appnetica.com) - Jogos indie
+- [DigitalZone](https://digital-zone.xyz) - Jogos indie
 - [AtopGames](https://atopgames.com) - Jogos indie
 - [Leechinghell](http://www.leechinghell.pw) - Jogos multijogador LAN
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs / Registro obrigatório
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs / Requer conta
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Jogos e aplicativos de macOS e iOS
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
@@ -61,7 +55,7 @@ gerenciamento de seus downloads.
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) / [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Jogos de PCVR
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos / Mude para inglês no canto superior direito
-- [F95zone](https://f95zone.to) - Jogos NSFW / Registro obrigatório
+- [F95zone](https://f95zone.to) - Jogos NSFW / Requer conta
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) -
@@ -95,7 +89,7 @@ devido à descompressão de arquivos.
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registro obrigatório
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Requer conta
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.

@@ -14,7 +14,7 @@ Sites de ROMs, emuladores, páginas de discussão e mais.
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Registro obrigatório
+- [The ROM Depot](https://theromdepot.com) / Requer conta
 - [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guia de download alternativo](https://lemmy.world/post/3061617)

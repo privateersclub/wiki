@@ -41,10 +41,10 @@ sea **incompatible**, así que, asegúrate de que lo que estés buscando vaya a 
 ### Sitios de Descarga Directa
 
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - Foro con juegos de GOG, Linux y lanzamientos de
-  la Scene. / **Requiere registro.**
+  la Scene. / Requiere cuenta
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Foro español de repacks de videojuegos.
   (ocasionalmente, tienen archivos con pérdidas o ***super***comprimidos.)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos. / **Requiere registro.** /
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos. / Requiere cuenta /
   [Mod de mejora](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Contraseña: `cs.rin.ru`
 
 ### Torrents

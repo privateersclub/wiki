@@ -21,37 +21,29 @@ Puede que necesites una VPN para acceder a algunos sitios de hosting de archivos
 Revisa la [sección de gestores de descargas](/software#gestores-de-descargas) 
 para que puedas gestionar tus descargas fácilmente.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos / 
-  Requiere registro /
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos /
+  Cuenta requerida /
   [Mod de mejoras para rin.ru](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Contraseña: `cs.rin.ru`
 - [🌟 SteamGG](https://steamgg.net)
 - [🌟 SteamRIP](https://steamrip.com) - Juegos de Steam
+- [🌟 AnkerGames](https://ankergames.net)
 - [🌟 Game Bounty](https://gamebounty.world)
 - [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
-- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
+- [CR4CKPASS](https://cr4ckpass.online)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
-- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
-- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Juegos de la Scene y P2P
-- [Game-2U](https://game-2u.com/Category/game/pc)
-- [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - Juegos de GOG, Linux y un foro de 
-  lanzamientos provenientes de la Scene / Requiere registrarse para acceder.
-- [Games 4 You](https://g4u.to) - Descargas lentas para usuarios gratuitos / Contraseña: 
-  `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Slow downloads / [Translator](/useful#translator) / Password:
-  `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lanzamientos de la Scene
+- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
 - [Gamdie](https://gamdie.com) - Juegos indie
 - [Appnetica](https://appnetica.com) - Juegos indie
+- [DigitalZone](https://digital-zone.xyz) - Juegos indie
 - [AtopGames](https://atopgames.com) - Juegos indie
 - [Leechinghell](http://www.leechinghell.pw) - Juegos multijugador locales (LAN)
-- [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Registro obligatorio
+- [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Cuenta requerida
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Juegos y aplicaciones para macOS y iOS
 - [NMac](https://nmac.to/category/games) - Juegos y aplicaciones para macOS
 - [AppKed](https://www.macbed.com/games) - Juegos y aplicaciones para macOS
@@ -67,7 +59,7 @@ para que puedas gestionar tus descargas fácilmente.
 - [My Abandonware](https://www.myabandonware.com) - Juegos retro
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Juegos retro / Cambia el idioma al
   inglés en la esquina superior derecha.
-- [F95zone](https://f95zone.to) - Juegos NSFW / Debes estar registrado para descargar
+- [F95zone](https://f95zone.to) - Juegos NSFW / Cuenta requerida
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Juegos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) - Minecraft Java /
@@ -110,7 +102,6 @@ pero su instalación toma mucho tiempo debido al proceso de descompresión de ar
 - [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registro obligatorio
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Se unió a Ka0sKrew en junio de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
   Recopilación de Repacks desde mayo de 2022. Se unió a KaOsKrew en junio de 2022.

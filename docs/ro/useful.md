@@ -31,7 +31,7 @@ cauzate de lipsa software-ului instalat pe calculatorul tău:
 pentru mai multe programe pentru Steam.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
+- [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
   Client de Steam, Epic Games și EA (folosește EA DLC Unlocker), & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Deblochează
   DLC-uri pentru jocurile de pe Steam legitim /

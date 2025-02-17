@@ -25,7 +25,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   para más herramientas de Steam.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
+- [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
   DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs para juegos
    comprados en Steam /

@@ -31,7 +31,7 @@ from missing software on your computer:
 for more Steam tools.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
+- [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
   Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
   Steam game DLC unlocker /

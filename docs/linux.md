@@ -34,11 +34,11 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 ### Direct Download Sites
 
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
-  releases forum / Registration required
+  releases forum / Account required
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
   (occasionally has lossy, or compressed repacks) /
   [Translator](useful.md#translator)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Account
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`

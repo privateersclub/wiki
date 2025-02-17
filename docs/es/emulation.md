@@ -14,7 +14,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [🌟 CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Registro requerido
+- [The ROM Depot](https://theromdepot.com) / Cuenta requerida
 - [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guía para descargar desde Emuparadise](https://lemmy.world/post/3061617)

@@ -33,11 +33,11 @@ Se você precisa de um guia, o [Wiki do Arch](https://wiki.archlinux.org/title/M
 ### Sites de Downloads Diretos
 
 - [🌟 Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
-  lançamentos da Cena / Registro obrigatório
+  lançamentos da Cena / Requer conta
 - [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks de jogos (ocasionalmente tem repacks
   com perdas, ou comprimidos) / [Tradutor](useful.md#translator)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
-  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer
+  conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 
 ### Sites de Torrents
 
