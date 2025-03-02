@@ -11,7 +11,8 @@ import {
   presetUno,
   presetIcons,
   transformerDirectives,
-  defineConfig
+  defineConfig,
+  presetWebFonts
 } from 'unocss'
 
 const radix = coloradix({

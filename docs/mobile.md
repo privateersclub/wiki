@@ -7,15 +7,22 @@ tags:
   - ios
 ---
 
+#  Mobile
+
+This section is for Android and iOS apps & games. We have seperate sections for each platform, and a section for sideloading and utility apps.
+
 ### Android
 
-- [:star2: Mobilism](https://forum.mobilism.me) - Apps & Games
+#### Apps & Games
+- :star2: [Mobilism](https://forum.mobilism.me) - Apps & Games
 - [ApkVision](https://apkvision.org) - Games
 - [PDALIFE](https://pdalife.com) - Games
 - [Androeed](https://androeed.store) - Games
 - [APKHome](https://apkhome.io) - Games
 - [LITEAPKS](https://liteapks.com) - Modded Apps & Games
 - [RB Mods](https://www.rockmods.net) - Apps
+
+#### Sideloading & Utility
 - [Aurora Store](https://auroraoss.com/) - FOSS client for Play Store
 - [APKMirror](https://www.apkmirror.com/) - Untouched APKs
 - [Droid-ify](https://github.com/Droid-ify/client) - F-Droid Client
@@ -23,6 +30,18 @@ tags:
 
 ### iOS
 
+#### Apps & Games
+- [BabylonIPA](https://t.me/BabylonIPA) - Tweaked Games
+- [IPADark](https://t.me/ipa_dark) - Paid Games
+- [GLESign](https://t.me/glesign) - Ported Games
+- [tdmbest_ipas](https://t.me/tdmbest_ipas) - Ported Games
+- [CodeVN](https://ios.codevn.net) - Apps & Games
+- [AnyIPA](https://anyipa.me) - Decrypted iPAs
+- [SultanMods](https://sultanmods.fyi) - Tweaked Apps
+- [4PDA](https://4pda.to/forum/) - Games (Apps section is not good, be wary.)
+- [PDALife](https://pdalife.com/ios/games/) - Games
+
+#### Sideloading
 - [Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)
 - [TrollStore](https://github.com/opa334/TrollStore) - Unlimited App Sideloading [iOS 14.0-17.0]
 - [SideStore](https://sidestore.io/) - Sideloading App [iOS 14.0 & Above]
