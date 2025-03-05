@@ -20,18 +20,17 @@ Rapidgator in some EU countries). Check the
 [download managers section](/software#download-managers) for help managing
 your downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Account
+- :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
-- [🌟 SteamGG](https://steamgg.net)
-- [🌟 SteamRIP](https://steamrip.com) - Steam games
-- [🌟 AnkerGames](https://ankergames.net)
-- [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
-- [CR4CKPASS](https://cr4ckpass.online)
-- [World of PC Games](https://worldofpcgames.com)
-- [CG-gamesPC](https://www.cg-gamespc.com)
+- :star2: [SteamGG](https://steamgg.net)
+- :star2: [SteamRIP](https://steamrip.com) - Steam games
+- :star2: [Game Bounty](https://gamebounty.world)
+- :star2: [GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
+- [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
@@ -49,13 +48,6 @@ your downloads.
 - [NMac](https://nmac.to/category/games) - macOS games & apps
 - [AppKed](https://www.macbed.com/games) - macOS games & apps
 - [Cmacked](https://cmacked.com) - macOS games & apps
-- [ApkVision](https://apkvision.org) - Android games
-- [Mobilism](https://forum.mobilism.me) - Android games & apps
-- [PDALIFE](https://pdalife.com) - Android games
-- [Androeed](https://androeed.store) - Android games
-- [APKHome](https://apkhome.io) - Android games
-- [LITEAPKS](https://liteapks.com) - Modded Android games & apps
-- [RB Mods](https://www.rockmods.net) - Android apps
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) [Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - PCVR games
 - [My Abandonware](https://www.myabandonware.com) - Old games
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
@@ -73,13 +65,13 @@ Torrents are P2P downloads from other users, without servers. You will need a VP
 to torrent safely and avoid ISP copyright notices, unless your country tolerates
 piracy. Check the [VPNs section](/software#vpns) for more info.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) /
+- :star2: [1337x](https://1337x.to/sub/10/0/) /
   [Safe uploaders (except FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Interface improvements](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
   - [Magnet links](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Timezone fix](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Subtitle links to movies & TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+- :star2: [RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Translator](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
@@ -91,11 +83,11 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
 Repacks are compressed games for low-bandwidth users, but installing them takes
 time due to file decompression.
 
-- [🌟 DODI Repacks](https://dodi-repacks.site)
-- [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
+- :star2: [DODI Repacks](https://dodi-repacks.site)
+- :star2: [FitGirl Repacks](https://fitgirl-repacks.site)
+- :star2: [ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
   mirrors for free fast downloads.
-- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- :star2: [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.

@@ -21,18 +21,17 @@ Puede que necesites una VPN para acceder a algunos sitios de hosting de archivos
 Revisa la [sección de gestores de descargas](/software#gestores-de-descargas) 
 para que puedas gestionar tus descargas fácilmente.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos /
-  Cuenta requerida /
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos / 
+  Requiere registro /
   [Mod de mejoras para rin.ru](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Contraseña: `cs.rin.ru`
-- [🌟 SteamGG](https://steamgg.net)
-- [🌟 SteamRIP](https://steamrip.com) - Juegos de Steam
-- [🌟 AnkerGames](https://ankergames.net)
-- [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
-- [CR4CKPASS](https://cr4ckpass.online)
-- [World of PC Games](https://worldofpcgames.com)
-- [CG-gamesPC](https://www.cg-gamespc.com)
+- [:star2: SteamGG](https://steamgg.net)
+- [:star2: SteamRIP](https://steamrip.com) - Juegos de Steam
+- [:star2: Game Bounty](https://gamebounty.world)
+- [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
+- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Juegos de la Scene y P2P
@@ -76,13 +75,13 @@ menos de que a tu país no le importe o tolere la piratería. Revisa la [secció
 para más información.
 
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) /
+- [:star2: 1337x](https://1337x.to/sub/10/0/) /
   [Uploaders seguros (Exceptuando a FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Mejoras de interfaz](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
   - [Enlaces magnet](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Parche de zonas horarias](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Enlaces directos a subtitulos de películas y shows de TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Addon para búsqueda de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+- [:star2: RuTracker](https://rutracker.org/forum/index.php?c=19) / [Addon para búsqueda de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Traductor](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Traductor](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
@@ -95,11 +94,11 @@ Los repacks son juegos comprimidos para los usuarios que no tienen una buena vel
 pero su instalación toma mucho tiempo debido al proceso de descompresión de archivos.
 
 
-- [🌟 DODI Repacks](https://dodi-repacks.site)
-- [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Usa las mirrors de GLOAD u Ova Games
+- [:star2: DODI Repacks](https://dodi-repacks.site)
+- [:star2: FitGirl Repacks](https://fitgirl-repacks.site)
+- [:star2: ElAmigos](https://elamigos.site) - Usa las mirrors de GLOAD u Ova Games
   para descargar tus juegos gratis y rápidamente.
-- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Se unió a Ka0sKrew en junio de 2024.

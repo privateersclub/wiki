@@ -20,16 +20,15 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](/software#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer
-  conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
-- [🌟 SteamGG](https://steamgg.net)
-- [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
-- [🌟 AnkerGames](https://ankergames.net)
-- [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
-- [CR4CKPASS](https://cr4ckpass.online)
-- [World of PC Games](https://worldofpcgames.com)
-- [CG-gamesPC](https://www.cg-gamespc.com)
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
+  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- [:star2: SteamGG](https://steamgg.net)
+- [:star2: SteamRIP](https://steamrip.com) - Jogos da Steam
+- [:star2: Game Bounty](https://gamebounty.world)
+- [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
+- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
+- [DigitalZone](https://digital-zone.xyz)
+- [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
@@ -68,12 +67,12 @@ Torrents são downloads P2P de outros usuários, sem servidores. Você precisar�
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
 pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+- [:star2: 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Melhorias de interface](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
   - [Links de ímãs](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Correção do fuso horário](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Links de legendas para filmes e TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](useful.md#translator)
+- [:star2: RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](useful.md#translator)
 - [Rutor](http://rutor.info/games) / [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Tradutor](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
@@ -83,10 +82,10 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais
 devido à descompressão de arquivos.
 
-- [🌟 DODI Repacks](https://dodi-repacks.site)
-- [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
-- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [:star2: DODI Repacks](https://dodi-repacks.site)
+- [:star2: FitGirl Repacks](https://fitgirl-repacks.site)
+- [:star2: ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
+- [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Requer conta

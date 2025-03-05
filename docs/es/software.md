@@ -9,15 +9,15 @@ Software que mejorará tu experiencia de piratería.
 
 ## Gestores de Descargas
 
-- [🌟 Internet Download Manager](https://www.internetdownloadmanager.com) /
+- [:star2: Internet Download Manager](https://www.internetdownloadmanager.com) /
   [Crack](https://cracksurl.com/internet-download-manager) &
   [Instrucciones](https://rentry.org/installidm)
   - [IDMHelper](https://github.com/unamer/IDMHelper)
-- [🌟 JDownloader](https://jdownloader.org/jdownloader2) - Detecta la mayoría de hosts de descarga. 
+- [:star2: JDownloader](https://jdownloader.org/jdownloader2) - Detecta la mayoría de hosts de descarga. 
   - [Guía de mejora](https://lemmy.world/post/3098414)
   - [Resolutor de Captchas Offline](https://github.com/cracker0dks/CaptchaSolver)
   - [Tema Oscuro](https://support.jdownloader.org/Knowledgebase/Article/View/dark-mode-theme)
-- [🌟 Xtreme Download Manager](https://xtremedownloadmanager.com)
+- [:star2: Xtreme Download Manager](https://xtremedownloadmanager.com)
 - [AB Download Manager](https://abdownloadmanager.com)
 - [Gopeed](https://gopeed.com) /
   [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
@@ -31,11 +31,11 @@ Software que mejorará tu experiencia de piratería.
 
 ## Torrent Clients
 
-- [🌟 qBittorrent](https://www.qbittorrent.org) /
+- [:star2: qBittorrent](https://www.qbittorrent.org) /
   [Versión mejorada](https://github.com/c0re100/qBittorrent-Enhanced-Edition) /
   [Tema oscuro](https://draculatheme.com/qbittorrent)
-- [🌟 Deluge](https://dev.deluge-torrent.org)
-- [🌟 Transmission](https://transmissionbt.com)
+- [:star2: Deluge](https://dev.deluge-torrent.org)
+- [:star2: Transmission](https://transmissionbt.com)
 - [Motrix](https://motrix.app)
 - [Tixati](https://tixati.com)
 - [PicoTorrent](https://picotorrent.org)

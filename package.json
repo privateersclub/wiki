@@ -17,24 +17,26 @@
   "license": "Unlicense",
   "devDependencies": {
     "@coloradix/unocss": "^2.3.2",
-    "@iconify-json/logos": "^1.2.3",
+    "@iconify-json/logos": "^1.2.4",
     "@lunariajs/core": "^0.1.1",
-    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.8.1",
-    "@nolebase/vitepress-plugin-git-changelog": "^2.8.1",
-    "@nolebase/vitepress-plugin-page-properties": "^2.8.1",
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.15.0",
+    "@nolebase/vitepress-plugin-git-changelog": "^2.15.0",
+    "@nolebase/vitepress-plugin-page-properties": "^2.15.0",
     "@radix-ui/colors": "^3.0.0",
     "@resvg/resvg-js": "^2.6.2",
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.13.8",
     "@types/nprogress": "^0.2.3",
     "nprogress": "^0.2.0",
-    "prettier": "^3.3.3",
-    "sass": "^1.80.6",
-    "unocss": "^0.63.6",
-    "vitepress": "^1.5.0",
+    "prettier": "^3.5.2",
+    "sass": "^1.85.1",
+    "unocss": "^65.5.0",
+    "vitepress": "^1.6.3",
     "x-satori": "^0.2.0"
   },
   "dependencies": {
-    "vue": "^3.5.12"
+    "@iconify/vue": "^4.3.0",
+    "markdown-it-anchor": "^9.2.0",
+    "vue": "^3.5.13"
   },
-  "packageManager": "pnpm@9.14.4+sha512.c8180b3fbe4e4bca02c94234717896b5529740a6cbadf19fa78254270403ea2f27d4e1d46a08a0f56c89b63dc8ebfd3ee53326da720273794e6200fcf0d184ab"
+  "packageManager": "pnpm@9.15.6"
 }

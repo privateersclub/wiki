@@ -32,20 +32,20 @@ Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) est
 
 ### Site-uri de downloadare directă
 
-- [🌟 Torrminatorr](https://forum.torrminatorr.com) - Forum despre lansări Scene,
+- [:star2: Torrminatorr](https://forum.torrminatorr.com) - Forum despre lansări Scene,
   jocuri pentru Linux și GOG / Necesită înregistrare
-- [🌟 KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocuri repack
+- [:star2: KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocuri repack
   (are ocazional jocuri comprimate cu pierderi) /
   [Traducător](useful.md#translator)
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria de jocuri / Necesită
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria de jocuri / Necesită
   înregistrare /
   [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
 
 ### Site-uri cu torrente
 
-- [🌟 johncena141](https://1337x.to/user/johncena141/) - Jocuri pentru Linux
-- [🌟 RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jocuri pentru Linux
+- [:star2: johncena141](https://1337x.to/user/johncena141/) - Jocuri pentru Linux
+- [:star2: RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jocuri pentru Linux
   / [Traducător](useful.md#translator)
 
 ## Programe
@@ -64,8 +64,8 @@ Nucleele (Kernel-urile) personalizate pot schimba comportamentul sistemului, pot
 
 ### Lansatori (Launchere)
 
-- [🌟 Lutris](https://lutris.net) - Lansator de jocuri
-- [🌟 Heroic Games Launcher](https://heroicgameslauncher.com) - Lansator de jocuri
+- [:star2: Lutris](https://lutris.net) - Lansator de jocuri
+- [:star2: Heroic Games Launcher](https://heroicgameslauncher.com) - Lansator de jocuri
   de pe Epic Games, GOG și Amazon Prime Games
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Client GOG
 - [Bottles](https://usebottles.com) - Gestionar de software pentru Windows
@@ -92,8 +92,8 @@ Nucleele (Kernel-urile) personalizate pot schimba comportamentul sistemului, pot
 
 ## Ghiduri
 
-- [🌟 Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-- [🌟 Instalarea repack-urilor cu Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+- [:star2: Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
+- [:star2: Instalarea repack-urilor cu Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
   /
   [Soluții pentru erorile DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 

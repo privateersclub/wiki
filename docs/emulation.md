@@ -14,9 +14,9 @@ ROM sites, emulators, discussion pages and more.
 
 ## ROM Sites
 
-- [🌟 r/Roms Megathread](https://r-roms.github.io)
-- [🌟 Crocdb](https://crocdb.net)
-- [🌟 CDRomance](https://cdromance.com)
+- :star2: [r/Roms Megathread](https://r-roms.github.io)
+- :star2: [Crocdb](https://crocdb.net)
+- :star2: [CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Account required
@@ -43,27 +43,27 @@ with a :gear:. You can get them
 - [Batocera.linux](https://batocera.org) - Retro-gaming distro
 - [Mobox](https://github.com/olegos2/mobox) - Windows games
 - [Winlator](https://winlator.org) - Windows games
-- [:gear: RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
-- [:gear: Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
+- :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
+- :gear: [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
-  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
+- :gear: [Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+  :gear: [Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
 - [Cemu](https://cemu.info) - Wii U games
-- [:gear: Vita3K](https://vita3k.org) - PlayStation Vita games
+- :gear: [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
 - [RPCS3](https://rpcs3.net) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
-- [:gear: MAME](https://www.mamedev.org) - Arcade games
+- :gear: [MAME](https://www.mamedev.org) - Arcade games
 - [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
 - [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
   Nintendo DS games
 - [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
-- [:gear: xemu](https://xemu.app) - Original Xbox games
+- :gear: [xemu](https://xemu.app) - Original Xbox games
 - [mGBA](https://mgba.io) - Game Boy Advance games
-- [:gear: PCSX2](https://pcsx2.net) - PlayStation 2 games
+- :gear: [PCSX2](https://pcsx2.net) - PlayStation 2 games
 - [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games
-- [:gear: DuckStation](https://www.duckstation.org) - PlayStation 1 games
+- :gear: [DuckStation](https://www.duckstation.org) - PlayStation 1 games
 - [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games
 - [WePlayDOS Games](https://weplaydos.games/) - Web browser MS-DOS games
 
