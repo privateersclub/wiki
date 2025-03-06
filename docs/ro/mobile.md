@@ -1,48 +1,48 @@
 ---
-title: Mobile
-description: Android and iOS websites.
+title: Mobil
+description: Site-uri pentru Android și iOS.
 tags:
   - downloads
   - android
   - ios
 ---
 
-# Mobile
+# Mobil
 
-This section is for Android and iOS apps & games. We have seperate sections for each platform, and a section for sideloading and utility apps.
+Această secțiune este pentru aplicații și jocuri pentru Android și iOS. Avem secțiuni separate pentru fiecare platformă și o secțiune pentru sideloading (instalarea aplicațiilor) și aplicații utilitare.
 
 ### Android
 
-#### Apps & Games
-- :star2: [Mobilism](https://forum.mobilism.me) - Apps & Games
-- [ApkVision](https://apkvision.org) - Games
-- [PDALIFE](https://pdalife.com) - Games
-- [Androeed](https://androeed.store) - Games
-- [APKHome](https://apkhome.io) - Games
-- [LITEAPKS](https://liteapks.com) - Modded Apps & Games
-- [RB Mods](https://www.rockmods.net) - Apps
+#### Aplicații și jocuri
+- :star2: [Mobilism](https://forum.mobilism.me) - Aplicații și jocuri
+- [ApkVision](https://apkvision.org) - Jocuri
+- [PDALIFE](https://pdalife.com) - Jocuri
+- [Androeed](https://androeed.store) - Jocuri
+- [APKHome](https://apkhome.io) - Jocuri
+- [LITEAPKS](https://liteapks.com) - Aplicații și jocuri modificate
+- [RB Mods](https://www.rockmods.net) - Aplicații
 
-#### Sideloading & Utility
-- [Aurora Store](https://auroraoss.com/) - FOSS client for Play Store
-- [APKMirror](https://www.apkmirror.com/) - Untouched APKs
-- [Droid-ify](https://github.com/Droid-ify/client) - F-Droid Client
-- [Obtainium](https://github.com/ImranR98/Obtainium/) - Source-based App Updater
+#### Sideloading și utilități
+- [Aurora Store](https://auroraoss.com/) - Client gratis (și cu codul sursă liber) pentru Magazin Play
+- [APKMirror](https://www.apkmirror.com/) - Fișiere APK nemodificate
+- [Droid-ify](https://github.com/Droid-ify/client) - Client F-Droid
+- [Obtainium](https://github.com/ImranR98/Obtainium/) - Actualizator de aplicații bazat pe codul sursă
 
 ### iOS
 
-#### Apps & Games
-- [BabylonIPA](https://t.me/BabylonIPA) - Tweaked Games
-- [IPADark](https://t.me/ipa_dark) - Paid Games
-- [GLESign](https://t.me/glesign) - Ported Games
-- [CodeVN](https://ios.codevn.net) - Apps & Games
-- [AnyIPA](https://anyipa.me) - Decrypted iPAs
-- [Eth Mods](https://sultanmods.fyi) - Tweaked Apps
-- [4PDA](https://4pda.to/forum/) - Games
-- [PDALife](https://pdalife.com/ios/games/) - Games
+#### Aplicații și jocuri
+- [BabylonIPA](https://t.me/BabylonIPA) - Jocuri modificate
+- [IPADark](https://t.me/ipa_dark) - Jocuri plătite
+- [GLESign](https://t.me/glesign) - Jocuri portate (jocuri care au fost făcute pentru un alt sistem, dar care au fost adaptate de altcineva pentru iOS)
+- [CodeVN](https://ios.codevn.net) - Aplicații și jocuri
+- [AnyIPA](https://anyipa.me) - Fișiere iPA decriptate (fișierele iPA sunt ca și fișierele APK)
+- [Eth Mods](https://sultanmods.fyi) - Aplicații modificate
+- [4PDA](https://4pda.to/forum/) - Jocuri
+- [PDALife](https://pdalife.com/ios/games/) - Jocuri
 
 #### Sideloading
 - [Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)
-- [TrollStore](https://github.com/opa334/TrollStore) - Unlimited App Sideloading [iOS 14.0-17.0]
-- [SideStore](https://sidestore.io/) - Sideloading App [iOS 14.0 & Above]
-- [Sideloadly](https://sideloadly.io/) - Sideload Apps [iOS 7.0 & Above]
-- [Feather](https://github.com/khcrysalis/Feather) - Sideload Apps with Paid Dev Cert [iOS 15 & Above]
+- [TrollStore](https://github.com/opa334/TrollStore) - Sideloading de aplicații nelimitat [iOS 14.0-17.0]
+- [SideStore](https://sidestore.io/) - Sideloading de aplicații [iOS 14.0 în sus]
+- [Sideloadly](https://sideloadly.io/) - Sideload la aplicații [iOS 7.0 în sus]
+- [Feather](https://github.com/khcrysalis/Feather) - Sideload la aplicații cu un certificat plătit de dezvoltator [iOS 15 în sus]
