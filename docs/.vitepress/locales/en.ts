@@ -7,6 +7,7 @@ const navbar: DefaultTheme.NavItem[] = [
 
 const sidebar: DefaultTheme.Sidebar = [
   { text: 'Glossary', link: '/glossary' },
+  { text: 'Mobile', link: '/mobile' },
   { text: 'Software', link: '/software' },
   { text: 'Download', link: '/download' },
   { text: 'Emulation', link: '/emulation' },

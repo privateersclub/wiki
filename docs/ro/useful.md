@@ -31,7 +31,7 @@ cauzate de lipsa software-ului instalat pe calculatorul tău:
 pentru mai multe programe pentru Steam.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
+- [:star2: Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
   Client de Steam, Epic Games și EA (folosește EA DLC Unlocker), & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Deblochează
   DLC-uri pentru jocurile de pe Steam legitim /
@@ -120,8 +120,8 @@ sau [CRACKSurl](https://cracksurl.com).
 
 Nu sunt pentru jocurile online. Nu trișa în jocurile online!
 
-- [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Mai are corecții pentru jocuri
+- [:star2: FLiNG Trainer](https://flingtrainer.com)
+- [:star2: GameCopyWorld](https://gamecopyworld.com/games) - Mai are corecții pentru jocuri
   piratate și NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
@@ -133,7 +133,7 @@ Nu sunt pentru jocurile online. Nu trișa în jocurile online!
 Nu sunt oferite descărcări. Unele site-uri au informații despre lansările Scene/P2P. Uită-te dacă un joc
 a fost piratat!
 
-- [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
+- [:star2: xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)

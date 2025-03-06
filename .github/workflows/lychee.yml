@@ -2,8 +2,8 @@ name: Check Markdown links
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '00 18 * * *' # Run once daily at 18:00 UTC
+#  schedule:
+#    - cron: '00 18 * * *' # Run once daily at 18:00 UTC
 
 jobs:
   check-links:

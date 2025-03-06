@@ -20,33 +20,26 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](/software#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [🌟 CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
   obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
-- [🌟 SteamGG](https://steamgg.net)
-- [🌟 SteamRIP](https://steamrip.com) - Jogos da Steam
-- [🌟 Game Bounty](https://gamebounty.world)
-- [🌟 GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
+- [:star2: SteamGG](https://steamgg.net)
+- [:star2: SteamRIP](https://steamrip.com) - Jogos da Steam
+- [:star2: Game Bounty](https://gamebounty.world)
+- [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
 - [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
 - [DigitalZone](https://digital-zone.xyz)
 - [RexaGames](https://rexagames.com)
 - [GameDrive](https://gamedrive.org)
-- [Games4U](https://games4u.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
-- [GamePCFull](https://gamepcfull.com)
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
-- [Game-2U](https://game-2u.com/Category/game/pc)
-- [GamesDrive](https://gamesdrive.net)
-- [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
-  lançamentos da Cena / Registro obrigatório
-- [Games 4 You](https://g4u.to) - Downloads lentos para usuários grátis / Senha: `404`
-- [Downloadha](https://www.downloadha.com/category/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-pc-computer-game) -
-  Downloads lentos / [Tradutor](useful.md#translator) / Senha: `www.downloadha.com`
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
+- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Appnetica](https://appnetica.com) - Jogos indie
+- [DigitalZone](https://digital-zone.xyz) - Jogos indie
 - [AtopGames](https://atopgames.com) - Jogos indie
 - [Leechinghell](http://www.leechinghell.pw) - Jogos multijogador LAN
-- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs / Registro obrigatório
+- [Wendy's Forum](https://wendysforum.net/index.php?action=forum) - HOGs / Requer conta
 - [AppCake](https://iphonecake.com/index.php?device=0&p=1&c=8) - Jogos e aplicativos de macOS e iOS
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
@@ -61,7 +54,7 @@ gerenciamento de seus downloads.
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) / [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Jogos de PCVR
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos / Mude para inglês no canto superior direito
-- [F95zone](https://f95zone.to) - Jogos NSFW / Registro obrigatório
+- [F95zone](https://f95zone.to) - Jogos NSFW / Requer conta
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
 - [Prism Launcher](https://prismlauncher.org) -
@@ -74,12 +67,12 @@ Torrents são downloads P2P de outros usuários, sem servidores. Você precisar�
 torrentear com segurança e evitar avisos de copyright do seu provedor, a menos que seu país tolere
 pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 
-- [🌟 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+- [:star2: 1337x](https://1337x.to/sub/10/0/) / [Uploaders seguros (exceto FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Melhorias de interface](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
   - [Links de ímãs](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Correção do fuso horário](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Links de legendas para filmes e TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [🌟 RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](useful.md#translator)
+- [:star2: RuTracker](https://rutracker.org/forum/index.php?c=19) / [Pesquisa de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](useful.md#translator)
 - [Rutor](http://rutor.info/games) / [Tradutor](useful.md#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) / [Tradutor](useful.md#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - Jogos e aplicativos de macOS
@@ -89,13 +82,13 @@ pirataria. Veja a [seção de VPNs](software.md#vpns) para mais informações.
 Repacks são jogos compactados para usuários com pouca largura de banda, mas os instalar demora mais
 devido à descompressão de arquivos.
 
-- [🌟 DODI Repacks](https://dodi-repacks.site)
-- [🌟 FitGirl Repacks](https://fitgirl-repacks.site)
-- [🌟 ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
-- [🌟 KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [:star2: DODI Repacks](https://dodi-repacks.site)
+- [:star2: FitGirl Repacks](https://fitgirl-repacks.site)
+- [:star2: ElAmigos](https://elamigos.site) - Use os espelhos do GLOAD ou do Ova Games para downloads rápidos grátis.
+- [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Registro obrigatório
+- [R.G. Mechanics](https://tapochek.net/viewforum.php?f=808) / Requer conta
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
   de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.

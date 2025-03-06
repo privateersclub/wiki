@@ -64,6 +64,18 @@
   --vp-custom-block-details-text-deep: theme('colors.neutral.12');
 
   --vp-code-bg: theme('colors.neutral.3');
+
+  /**
+ * Colors: Text
+ *
+ * - `text-1`: Used for primary text.
+ *
+ * - `text-2`: Used for muted texts, such as "inactive menu" or "info texts".
+ *
+ * - `text-3`: Used for subtle texts, such as "placeholders" or "caret icon".
+ * -------------------------------------------------------------------------- */
+
+  --vp-c-text-1: theme('colors.neutral.11');
 }
 
 /* Make clicks pass-through */
@@ -212,4 +224,80 @@
 /** fix for nolebase-git-changelog */
 .vp-nolebase-git-changelog a {
   text-decoration: none !important;
+}
+
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-color: transparent;
+  -webkit-text-decoration-color: transparent;
+  transition: text-decoration-color 0.25s;
+  font-weight: 600;
+  &:hover {
+    color: var(--vp-c-brand-1);
+    text-decoration-color: var(--vp-c-brand-1);
+    -webkit-text-decoration-color: var(--vp-c-brand-1);
+  }
+}
+
+.custom-block {
+  @apply my-6 rounded-lg border p-4 text-sm !important;
+
+  & a {
+    @apply text-decoration-underline decoration-dashed underline-offset-2 !important;
+  }
+
+  &-title {
+    @apply pb-2 font-semibold tracking-wide last:pb-0;
+
+    code {
+      color: inherit;
+    }
+  }
+
+  &:not(.details) > p {
+    @apply m-0 !important;
+  }
+
+  &.info {
+    & a {
+      @apply text-info-11;
+
+      &:hover {
+        @apply text-info-12 decoration-info-12;
+      }
+    }
+  }
+
+  &.tip {
+    & a {
+      @apply text-tip-11;
+
+      &:hover {
+        @apply text-tip-12 decoration-tip-12;
+      }
+    }
+  }
+
+  &.warning {
+    & a {
+      @apply text-warning-11;
+
+      &:hover {
+        @apply text-warning-12 decoration-warning-12;
+      }
+    }
+  }
+
+  &.danger {
+    & a {
+      @apply text-danger-11;
+
+      &:hover {
+        @apply text-danger-12 decoration-danger-12;
+      }
+    }
+  }
 }

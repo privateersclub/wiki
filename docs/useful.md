@@ -31,7 +31,7 @@ from missing software on your computer:
 for more Steam tools.
 :::
 
-- [🌟 Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
+- :star2: [Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
   Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
   Steam game DLC unlocker /
@@ -122,8 +122,8 @@ For the rest, visit [LRepacks](https://lrepacks.net) or
 
 Not for online games. No cheating in online games!
 
-- [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and
+- :star2: [FLiNG Trainer](https://flingtrainer.com)
+- :star2: [GameCopyWorld](https://gamecopyworld.com/games) - Also has crack-only and
   NoCD fixes.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
@@ -135,7 +135,7 @@ Not for online games. No cheating in online games!
 No downloads provided. Sites have P2P/Scene release info. Check here to see if a
 game is cracked!
 
-- [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
+- :star2: [xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)

@@ -24,7 +24,7 @@ faltando no seu computador:
 para mais ferramentas da Steam.
 :::
 
-- [🌟 Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
+- [:star2: Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
   Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA (use o EA DLC Unlocker) e da Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
@@ -110,8 +110,8 @@ Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 
 Não são para jogos online. Não trapaceie em jogos online!
 
-- [🌟 FLiNG Trainer](https://flingtrainer.com)
-- [🌟 GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
+- [:star2: FLiNG Trainer](https://flingtrainer.com)
+- [:star2: GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
@@ -122,7 +122,7 @@ Não são para jogos online. Não trapaceie em jogos online!
 Não fornece downloads. Os sites têm informações de lançamentos da Cena/P2P.
 Veja aqui se um jogo foi crackeado!
 
-- [🌟 xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
+- [:star2: xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)

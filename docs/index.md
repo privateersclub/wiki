@@ -3,7 +3,7 @@ layout: home
 title: Home
 
 hero:
-  name: privateersclub/wiki
+  name: privateersclub
   tagline: Welcome to the most comprehensive game piracy wiki on the Internet.
   image:
     src: /home.png

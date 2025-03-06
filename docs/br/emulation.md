@@ -9,12 +9,12 @@ Sites de ROMs, emuladores, páginas de discussão e mais.
 
 ## Sites de ROMs
 
-- [🌟 r/Roms Megathread](https://r-roms.github.io)
-- [🌟 Crocdb](https://crocdb.net)
-- [🌟 CDRomance](https://cdromance.com)
+- [:star2: r/Roms Megathread](https://r-roms.github.io)
+- [:star2: Crocdb](https://crocdb.net)
+- [:star2: CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
-- [The ROM Depot](https://theromdepot.com) / Registro obrigatório
+- [The ROM Depot](https://theromdepot.com) / Requer conta
 - [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guia de download alternativo](https://lemmy.world/post/3061617)
