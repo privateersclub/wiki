@@ -7,6 +7,7 @@ const navbar: DefaultTheme.NavItem[] = [
 
 const sidebar: DefaultTheme.Sidebar = [
   { text: 'Dicționar', link: '/ro/glossary' },
+  { text: 'Mobil', link: '/ro/mobile' },
   { text: 'Programe', link: '/ro/software' },
   { text: 'Download', link: '/ro/download' },
   { text: 'Emulare', link: '/ro/emulation' },
