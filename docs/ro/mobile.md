@@ -9,7 +9,7 @@ tags:
 
 # Mobil
 
-Această secțiune este pentru aplicații și jocuri pentru Android și iOS. Avem secțiuni separate pentru fiecare platformă și o secțiune pentru sideloading (instalarea aplicațiilor) și aplicații utilitare.
+Această parte este pentru aplicații și jocuri pentru Android și iOS. Avem părți separate pentru fiecare sistem de operare și o parte pentru sideloading (instalarea aplicațiilor) și aplicații utilitare.
 
 ### Android
 
