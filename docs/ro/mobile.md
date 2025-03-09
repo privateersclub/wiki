@@ -9,7 +9,7 @@ tags:
 
 # Mobil
 
-Această parte este pentru aplicațiile și jocurile făcute pentru Android și iOS. Avem părți separate pentru fiecare sistem de operare și o parte pentru sideloading (instalarea aplicațiilor) și aplicații utile.
+Această parte este pentru aplicațiile și jocurile făcute pentru Android și iOS. Avem părți separate pentru fiecare sistem de operare și o parte pentru sideloading (instalarea aplicațiilor) și aplicații utile
 
 ### Android
 
