@@ -25,8 +25,8 @@ toți membrii trebuie să le respecte. P2P sunt oameni independenți care nu tre
 :::
 
 :::tip Ce sunt NFO-urile?
-NFO-urile sunt niște fișiere, ca și readme.txt, care oamenii care fac lansări Scene le fac. Îți
-dă instrucțiuni, o descriere generală despre joc și chiar informații
+NFO-urile sunt niște fișiere, ca și readme.txt, care oamenii ce fac lansări Scene le scriu. Îți
+dau instrucțiuni, o descriere generală despre joc și chiar informații
 în plus.
 :::
 
@@ -57,14 +57,14 @@ sau [Bypass.city](https://bypass.city) pentru a _ocoli_ redirecționările.
 
 ### iOS
 
-[**NextDNS**](https://nextdns.io) ar trebui să acopere reclamele la nivel de sistem și
+[**NextDNS**](https://nextdns.io) ar trebui să blocheze reclamele la nivel de sistem și
 trackeri. Mai poți folosi [**AhaDNS**](https://ahadns.com).
 :::
 
 :::tip Îmi trebuie un VPN când downloadez?
 Necesitatea folosirii unui VPN
 depinde de metoda de downloadare. Pentru downloadări directe, nu prea este necesar
-să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P sau dai torrent la
+să ai un VPN. Cu toate acestea, dacă downloadezi un fișier P2P (peer-to-peer) sau dai torrent la
 un fișier, ar fi bine să ai un VPN pentru o siguranță îmbunătățită și confidențialitate.
 În plus, ramificațile juridice joacă un rol crucial;
 dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosirea unui VPN.
@@ -74,6 +74,5 @@ dacă sancțiunile sunt blânde, ai putea alege să renunți complet la folosire
 Folosește un manager de downloadări. Unele site-uri impun limite
 de transfer ale fișierelor pentru un singur fir (thread), așadar restricționând viteza de downloadare.
 Managerii de downloadare depășesc această limită alocând mai multe fire (thread-uri) pentru
-downloadare, resultând in viteze mai mari de downloadare. Ai aici printre cele mai bune
-[aici](/software#manageri-de-downloadări).
+downloadare, resultând in viteze mai mari de downloadare. [Acesta](/software#manageri-de-downloadări) e printre cei mai buni.
 :::
