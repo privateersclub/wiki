@@ -35,7 +35,6 @@ your downloads.
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
 - [Scnlog](https://scnlog.me/games) - Scene releases
-- [Empress releases](https://telegra.ph/Empress-Biography-07-15) - Games cracked by Empress
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
 - [DigitalZone](https://digital-zone.xyz) - Indie games
