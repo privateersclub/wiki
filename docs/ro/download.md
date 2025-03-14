@@ -16,8 +16,8 @@ Site-uri și downloadări directe.
 
 Dowloadările directe sunt downloadări normale, sunt mai sigure
 și nu îți trebuie un VPN. Poate îți trebuie un VPN pentru a accesa gazde de fișiere blocate (de ex.
-Rapidgator în câteva țări UE). Verifică
-[secțiunea managerilor de downloadări](/software#manageri-de-downloadări) pentru gestionarea downloadărilor.
+Rapidgator în unele țări UE). Verifică
+[partea managerilor de downloadări](/software#manageri-de-downloadări) pentru gestionarea downloadărilor.
 
 - [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria jocurilor / Necesită
   înregistrare /
@@ -54,8 +54,8 @@ Rapidgator în câteva țări UE). Verifică
 - [RB Mods](https://www.rockmods.net) - Jocuri pentru Android
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) [Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Jocuri RV (realitate virtuală)
 - [My Abandonware](https://www.myabandonware.com) - Jocuri vechi
-- [Old-Games.RU](https://www.old-games.ru/catalog/) - Jocuri vechi / Schimbă limba în
-  Engleză în colțul din dreapta-sus
+- [Old-Games.RU](https://www.old-games.ru/catalog/) - Jocuri vechi / Schimbă limba interfeței în
+  engleză în colțul din dreapta-sus
 - [F95zone](https://f95zone.to) - Jocuri NSFW (cu pornografie) / Necesită înregistrare
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jocuri MS-DOS
@@ -66,13 +66,13 @@ Rapidgator în câteva țări UE). Verifică
 ## Site-uri cu torrente
 
 Torrenții sunt downloadări P2P (peer-to-peer/între persoane). Îți trebuie un VPN
-pentru a descărca torrente în siguranță și pentru a evita avertizările ISP (Internet Service Provider/Furnizorul de Internet) privind drepturile autorului, 
+pentru a descărca torrenți în siguranță și pentru a evita avertizările furnizorului de internet privind drepturile autorului, 
 exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri](/software#vpn-uri) pentru mai multe informații.
 
 - [:star2: 1337x](https://1337x.to/sub/10/0/) /
-  [Uploaderi siguri (cu excepția FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
+  [Uploaderi siguri (cu excepția lui FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Îmbunătațiri la interfață](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
-  - [Legături magnet pentru torrente](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
+  - [Legături magnet pentru torrenți](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Corectarea fusului orar](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Link-uri de subtitrare pentru filme și TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
 - [:star2: RuTracker](https://rutracker.org/forum/index.php?c=19) / [Cautare torrenți](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
@@ -85,7 +85,7 @@ exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri]
 ## Repack-uri
 
 Repack-urile sunt jocuri comprimate pentru persoanele care au o viteză de descărcare mică, dar instalând jocurile
-ia mult timp din cauza decomprimării fișierului.
+durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 
 - [:star2: DODI Repacks](https://dodi-repacks.site)
 - [:star2: FitGirl Repacks](https://fitgirl-repacks.site)
@@ -100,7 +100,7 @@ ia mult timp din cauza decomprimării fișierului.
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jocuri de console emulate 
-- [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile din repack-uri (are ocazional
+- [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile care au repack-uri (are ocazional
   repack-uri comprimate cu pierderi) / [Traducător](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://www.magipack.games) - Jocuri vechi
