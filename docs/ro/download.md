@@ -32,7 +32,6 @@ Rapidgator în unele țări UE). Verifică
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
 - [Scnlog](https://scnlog.me/games) - Lansări Scene
-- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [Gamdie](https://gamdie.com) - Jocuri indie
 - [Appnetica](https://appnetica.com) - Jocuri indie
 - [DigitalZone](https://digital-zone.xyz) - Jocuri indie
