@@ -21,21 +21,22 @@ Puede que necesites una VPN para acceder a algunos sitios de hosting de archivos
 Revisa la [sección de gestores de descargas](/software#gestores-de-descargas) 
 para que puedas gestionar tus descargas fácilmente.
 
-- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos / 
-  Requiere registro /
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Foro de piratería de videojuegos /
+  Cuenta requerida /
   [Mod de mejoras para rin.ru](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Contraseña: `cs.rin.ru`
 - [:star2: SteamGG](https://steamgg.net)
 - [:star2: SteamRIP](https://steamrip.com) - Juegos de Steam
+- [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
-- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Juegos de la Scene y P2P
 - [Scnlog](https://scnlog.me/games) - Lanzamientos de la Scene
+- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
 - [Gamdie](https://gamdie.com) - Juegos indie
 - [Appnetica](https://appnetica.com) - Juegos indie
 - [DigitalZone](https://digital-zone.xyz) - Juegos indie
@@ -46,13 +47,6 @@ para que puedas gestionar tus descargas fácilmente.
 - [NMac](https://nmac.to/category/games) - Juegos y aplicaciones para macOS
 - [AppKed](https://www.macbed.com/games) - Juegos y aplicaciones para macOS
 - [Cmacked](https://cmacked.com) - Juegos y aplicaciones para macOS
-- [ApkVision](https://apkvision.org) - Juegos para Android
-- [Mobilism](https://forum.mobilism.me) - Juegos y aplicaciones para Android
-- [PDALIFE](https://pdalife.com) - Juegos para Android
-- [Androeed](https://androeed.store) - Juegos para Android
-- [APKHome](https://apkhome.io) - Juegos para Androids
-- [LITEAPKS](https://liteapks.com) - Juegos y aplicaciones para Android modificados
-- [RB Mods](https://www.rockmods.net) - Aplicaciones para Android
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Juegos PCVR
 - [My Abandonware](https://www.myabandonware.com) - Juegos retro
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Juegos retro / Cambia el idioma al

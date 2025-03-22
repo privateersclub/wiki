@@ -25,13 +25,16 @@ Rapidgator în unele țări UE). Verifică
   Parola este: `cs.rin.ru`
 - [:star2: SteamGG](https://steamgg.net)
 - [:star2: SteamRIP](https://steamrip.com) - Jocuri Steam
+- [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
-- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Parola este: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lansări Scene și P2P
 - [Scnlog](https://scnlog.me/games) - Lansări Scene
+- [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [Gamdie](https://gamdie.com) - Jocuri indie
 - [Appnetica](https://appnetica.com) - Jocuri indie
 - [DigitalZone](https://digital-zone.xyz) - Jocuri indie

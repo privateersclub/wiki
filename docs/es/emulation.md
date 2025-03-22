@@ -36,23 +36,23 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de juegos retro
-- [Mobox](https://github.com/olegos2/mobox) - Juegos de Windows
 - [Winlator](https://winlator.org) - Juegos de Windows
-- [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas / 
-  Evitar los núcleos de melonDS, PPSSPP, Dolphin y Citra
+- [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas /
+  Evitar los núcleos de PPSSPP, Dolphin y Citra
 - [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
   Geo, PlayStation 1 e Game Boy Advance
-- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+- [:gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
   [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emuladores de Nintendo Switch
-- [Cemu](https://cemu.info) - Emulador de Wii U
+- [shadPS4](https://shadps4.net) - Emulador de PlayStation 4
+- [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulador de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulador de Nintendo 3DS
+- [Azahar](https://github.com/azahar-emu/azahar/releases) - Emulador de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
-- [RPCS3](https://rpcs3.net) - Emulador de PlayStation 3
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulador de PlayStation 3
 - [xenia](https://xenia.jp) - Emulador de Xbox 360
 - [:gear: MAME](https://www.mamedev.org) - Emulador para juegos arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulador de PlayStation Portable
-- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
   Emulador de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulador de Game Boy Advance y Nintendo DS
 - [:gear: xemu](https://xemu.app) - Emulador de Xbox original

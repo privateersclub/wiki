@@ -41,22 +41,22 @@ cu o :gear:. Le poți lua de
 :::
 
 - [Batocera.linux](https://batocera.org) - Distribuție Linux pentru emularea jocurilor vechi
-- [Mobox](https://github.com/olegos2/mobox) - Pentru jocuri Windows
 - [Winlator](https://winlator.org) - Pentru jocuri Windows
-- [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile melonDS, PPSSPP, Dolphin și Citra
+- [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+- [:gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
   [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emulator pentru Nintendo Switch
-- [Cemu](https://cemu.info) - Emulator pentru Wii U
+- [shadPS4](https://shadps4.net) - Emulator pentru PlayStation 4
+- [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulator pentru Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Emulator pentru 3DS
+- [Azahar](https://github.com/azahar-emu/azahar/releases) - Emulator pentru 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
-- [RPCS3](https://rpcs3.net) - Emulator pentru PlayStation 3
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulator pentru PlayStation 3
 - [xenia](https://xenia.jp) - Emulator pentru Xbox 360
 - [:gear: MAME](https://www.mamedev.org) - Emulator pentru jocurile Arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulator pentru PSP
-- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
   Emulator pentru Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulator pentru Nintendo DS și GBA
 - [:gear: xemu](https://xemu.app) - Emulator pentru primul Xbox
