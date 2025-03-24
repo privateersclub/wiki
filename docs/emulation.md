@@ -45,7 +45,7 @@ with a :gear:. You can get them
 - :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the PPSSPP, Dolphin, & Citra cores
 - :gear: [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- :gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
+- :gear: [Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
   :gear: [Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
 - [shadPS4](https://shadps4.net) - PlayStation 4 games
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Wii U games
