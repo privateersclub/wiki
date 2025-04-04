@@ -36,7 +36,6 @@ para que puedas gestionar tus descargas fácilmente.
 - [Ova Games](https://www.ovagames.com) / Contraseña: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Juegos de la Scene y P2P
 - [Scnlog](https://scnlog.me/games) - Lanzamientos de la Scene
-- [Lanzamientos de Empress](https://telegra.ph/Empress-Biography-07-15) - Juegos crackeados por Empress
 - [Gamdie](https://gamdie.com) - Juegos indie
 - [Appnetica](https://appnetica.com) - Juegos indie
 - [DigitalZone](https://digital-zone.xyz) - Juegos indie

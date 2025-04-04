@@ -33,7 +33,6 @@ gerenciamento de seus downloads.
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
-- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Appnetica](https://appnetica.com) - Jogos indie
 - [DigitalZone](https://digital-zone.xyz) - Jogos indie
