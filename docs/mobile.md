@@ -9,7 +9,7 @@ tags:
 
 # Mobile
 
-This section is for Android and iOS apps & games. We have seperate sections for each platform, and a section for sideloading and utility apps.
+This section is for Android and iOS apps & games. We have separate sections for each platform, and a section for sideloading and utility apps.
 
 ### Android
 

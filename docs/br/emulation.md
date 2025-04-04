@@ -35,22 +35,22 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de jogos retrô
-- [Mobox](https://github.com/olegos2/mobox) - Jogos de Windows
 - [Winlator](https://winlator.org) - Jogos de Windows
-- [:gear: RetroArch](https://retroarch.com) - Jogos de múltiplos consoles / Evite os núcleos do melonDS, PPSSPP, Dolphin e
+- [:gear: RetroArch](https://retroarch.com) - Jogos de múltiplos consoles / Evite os núcleos do PPSSPP, Dolphin e
   Citra
 - [:gear: Ares](https://ares-emu.net) - Jogos de múltiplos consoles / Evite os núcleos de Neo Geo, PlayStation 1 e Game Boy
   Advance
-- [:gear: Ryujinx](https://github.com/KeatonTheBot/Ryujinx) / [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Jogos de Nintendo Switch
-- [Cemu](https://cemu.info) - Jogos de Wii U
+- [:gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) / [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Jogos de Nintendo Switch
+- [shadPS4](https://shadps4.net) - Jogos de PlayStation 4
+- [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Jogos de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Jogos de Nintendo 3DS
+- [Azahar](https://github.com/azahar-emu/azahar/releases) - Jogos de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
-- [RPCS3](https://rpcs3.net) - Jogos de PlayStation 3
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Jogos de PlayStation 3
 - [xenia](https://xenia.jp) - Jogos de Xbox 360
 - [:gear: MAME](https://www.mamedev.org) - Jogos de fliperama
 - [PPSSPP](https://www.ppsspp.org) - Jogos de PlayStation Portable
-- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) - Jogos de Nintendo DS
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) - Jogos de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Jogos de Nintendo DS e Game Boy Advance
 - [:gear: xemu](https://xemu.app) - Jogos de Xbox original
 - [mGBA](https://mgba.io) - Jogos de Game Boy Advance

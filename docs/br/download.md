@@ -20,15 +20,15 @@ alguns países da UE). Veja a
 [seção de gerenciadores de downloads](/software#gerenciadores-de-downloads) para obter ajuda no
 gerenciamento de seus downloads.
 
-- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Registro
-  obrigatório / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer
+  conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 - [:star2: SteamGG](https://steamgg.net)
 - [:star2: SteamRIP](https://steamrip.com) - Jogos da Steam
+- [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
-- [Lançamentos da Empress](https://telegra.ph/Empress-Biography-07-15) - Jogos crackeados pela Empress
-- [DigitalZone](https://digital-zone.xyz)
-- [RexaGames](https://rexagames.com)
+- [World of PC Games](https://worldofpcgames.com)
+- [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
@@ -43,13 +43,6 @@ gerenciamento de seus downloads.
 - [NMac](https://nmac.to/category/games) - Jogos e aplicativos de macOS
 - [AppKed](https://www.macbed.com/games) - Jogos e aplicativos de macOS
 - [Cmacked](https://cmacked.com) - Jogos e aplicativos de macOS
-- [ApkVision](https://apkvision.org) - Jogos de Android
-- [Mobilism](https://forum.mobilism.me) - Jogos e aplicativos de Android
-- [PDALIFE](https://pdalife.com) - Jogos de Android
-- [Androeed](https://androeed.store) - Jogos de Android
-- [APKHome](https://apkhome.io) - Jogos de Android
-- [LITEAPKS](https://liteapks.com) - Jogos e aplicativos modificados de Android
-- [RB Mods](https://www.rockmods.net) - Aplicativos de Android
 - [ARMGDDN Games](https://t.me/ARMGDDNGames) / [Navegador](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593) - Jogos de PCVR
 - [My Abandonware](https://www.myabandonware.com) - Jogos antigos
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Jogos antigos / Mude para inglês no canto superior direito

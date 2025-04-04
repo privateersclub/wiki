@@ -41,22 +41,22 @@ with a :gear:. You can get them
 [here](https://r-roms.github.io/megathread/misc/#bios-files).
 :::
 - [Batocera.linux](https://batocera.org) - Retro-gaming distro
-- [Mobox](https://github.com/olegos2/mobox) - Windows games
 - [Winlator](https://winlator.org) - Windows games
-- :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the melonDS, PPSSPP, Dolphin, & Citra cores
+- :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the PPSSPP, Dolphin, & Citra cores
 - :gear: [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- :gear: [Ryujinx](https://github.com/KeatonTheBot/Ryujinx) /
+- :gear: [Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
   :gear: [Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
-- [Cemu](https://cemu.info) - Wii U games
+- [shadPS4](https://shadps4.net) - PlayStation 4 games
+- [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Wii U games
 - :gear: [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Lime3DS](https://github.com/Lime3DS/Lime3DS) - Nintendo 3DS games
+- [Azahar](https://github.com/azahar-emu/azahar/releases) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
-- [RPCS3](https://rpcs3.net) - PlayStation 3 games
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games
 - :gear: [MAME](https://www.mamedev.org) - Arcade games
 - [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
-- [melonDS](https://melonds.kuribo64.net) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
   Nintendo DS games
 - [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
 - :gear: [xemu](https://xemu.app) - Original Xbox games
