@@ -17,6 +17,7 @@ ROM sites, emulators, discussion pages and more.
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
 - :star2: [Crocdb](https://crocdb.net)
 - :star2: [CDRomance](https://cdromance.com)
+- [EpicRoms](https://epicroms.net)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Account required
