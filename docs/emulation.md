@@ -50,7 +50,7 @@ with a :gear:. You can get them
 - [shadPS4](https://shadps4.net) - PlayStation 4 games
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Wii U games
 - :gear: [Vita3K](https://vita3k.org) - PlayStation Vita games
-- [Azahar](https://github.com/azahar-emu/azahar/releases) - Nintendo 3DS games
+- [Azahar](https://azahar-emu.org) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - PlayStation 3 games
 - [xenia](https://xenia.jp) - Xbox 360 games

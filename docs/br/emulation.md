@@ -44,7 +44,7 @@ obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
 - [shadPS4](https://shadps4.net) - Jogos de PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Jogos de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
-- [Azahar](https://github.com/azahar-emu/azahar/releases) - Jogos de Nintendo 3DS
+- [Azahar](https://azahar-emu.org) - Jogos de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Jogos de PlayStation 3
 - [xenia](https://xenia.jp) - Jogos de Xbox 360

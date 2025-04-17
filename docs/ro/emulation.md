@@ -50,7 +50,7 @@ cu o :gear:. Le poți lua de
 - [shadPS4](https://shadps4.net) - Emulator pentru PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulator pentru Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
-- [Azahar](https://github.com/azahar-emu/azahar/releases) - Emulator pentru 3DS
+- [Azahar](https://azahar-emu.org) - Emulator pentru 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulator pentru PlayStation 3
 - [xenia](https://xenia.jp) - Emulator pentru Xbox 360

@@ -46,7 +46,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [shadPS4](https://shadps4.net) - Emulador de PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulador de Wii U
 - [:gear: Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
-- [Azahar](https://github.com/azahar-emu/azahar/releases) - Emulador de Nintendo 3DS
+- [Azahar](https://azahar-emu.org) - Emulador de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulador de PlayStation 3
 - [xenia](https://xenia.jp) - Emulador de Xbox 360
