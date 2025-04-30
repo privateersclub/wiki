@@ -29,6 +29,8 @@ your downloads.
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
+- [Repacklab](https://repacklab.com/) – Adult PC game repacks and NSFW content.
+- [Romslab](https://romslab.com/) – ROM and ISO downloads for emulators and consoles.
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
