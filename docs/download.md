@@ -52,6 +52,7 @@ your downloads.
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
   English in the top-right corner
 - [F95zone](https://f95zone.to) - NSFW games / Account required
+- [Repacklab](https://repacklab.com/) – NSFW games
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
 - [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
