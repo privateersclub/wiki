@@ -29,8 +29,6 @@ your downloads.
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
-- [Repacklab](https://repacklab.com/) – Adult PC game repacks and NSFW content.
-- [Romslab](https://romslab.com/) – ROM and ISO downloads for emulators and consoles.
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
@@ -54,6 +52,7 @@ your downloads.
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
   English in the top-right corner
 - [F95zone](https://f95zone.to) - NSFW games / Account required
+- [Repacklab](https://repacklab.com/) – NSFW games
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
 - [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
