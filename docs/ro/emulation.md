@@ -27,6 +27,7 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 - [Ziperto](https://www.ziperto.com) - Jocuri pentru console Nintendo
 - [NSW2u](https://nsw2u.com) - Jocuri pentru Nintendo Switch
 - [NXBrew](https://nxbrew.net) - Jocuri pentru Nintendo Switch
+- [Romslab](https://romslab.com/) – Jocuri pentru Nintendo Switch
 
 ## Emulatoare
 
