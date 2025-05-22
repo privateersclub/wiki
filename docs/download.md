@@ -37,7 +37,6 @@ your downloads.
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
-- [DigitalZone](https://digital-zone.xyz) - Indie games
 - [AtopGames](https://atopgames.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Account
@@ -88,6 +87,7 @@ time due to file decompression.
 - :star2: [ElAmigos](https://elamigos.site) - Use GLOAD's or Ova Games'
   mirrors for free fast downloads.
 - :star2: [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
