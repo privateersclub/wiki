@@ -37,6 +37,7 @@ your downloads.
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
+- [DigitalZone](https://rentry.co/god_csrinru) - Indie games
 - [AtopGames](https://atopgames.com) - Indie games
 - [Leechinghell](http://www.leechinghell.pw) - LAN multiplayer games
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOGs / Account
