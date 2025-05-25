@@ -74,6 +74,7 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
 - :star2: [RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Translator](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
+- [Xatab](https://byxatab.org)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games & apps
@@ -89,7 +90,7 @@ time due to file decompression.
   mirrors for free fast downloads.
 - :star2: [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [TriahGames](https://triahgames.com)
-- [Xatab](https://byxatab.org)
+- [Xatab](https://byxatab.org) - Most newer releases aren't repacks.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
