@@ -74,7 +74,6 @@ piracy. Check the [VPNs section](/software#vpns) for more info.
 - :star2: [RuTracker](https://rutracker.org/forum/index.php?c=19) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Translator](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Translator](/useful#translator)
-- [Xatab](https://byxatab.org)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
   [Translator](/useful#translator)
 - [Mac Torrents](https://www.torrentmac.net/category/games) - macOS games & apps
