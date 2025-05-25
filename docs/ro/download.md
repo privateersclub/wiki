@@ -37,7 +37,7 @@ Rapidgator în unele țări UE). Verifică
 - [Lansări Empress](https://telegra.ph/Empress-Biography-07-15) - Jocuri piratate Empress
 - [Gamdie](https://gamdie.com) - Jocuri indie
 - [Appnetica](https://appnetica.com) - Jocuri indie
-- [DigitalZone](https://digital-zone.xyz) - Jocuri indie
+- [DigitalZone](https://rentry.co/god_csrinru) - Jocuri indie
 - [AtopGames](https://atopgames.com) - Jocuri indie
 - [Leechinghell](http://www.leechinghell.pw) - Jocuri multiplayer	
 - [Wendy's Forum](https://wendysforum.net/index.php) - HOG-uri / Necesită
@@ -88,7 +88,8 @@ durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 - [:star2: ElAmigos](https://elamigos.site) - Folosește link-ul oglindă de pe GLOAD sau Ova Games
   pentru downloadări mai rapide.
 - [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
-- [Xatab](https://byxatab.org)
+- [TriahGames](https://triahgames.com)
+- [Xatab](https://byxatab.org) - Majoritatea lansărilor noi nu sunt repack-uri.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
 - [ScOOt3r Repacks](https://game-repack.site/scooter) - S-a transferat la KaOsKrew în iunie 2024.
 - [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
