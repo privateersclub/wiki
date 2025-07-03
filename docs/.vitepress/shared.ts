@@ -63,10 +63,11 @@ export const sharedConfig = defineConfig({
             username: 'Kazevic',
             avatar: 'https://github.com/kazevic.png'
           },
+          // This person is NOT me, but I've aliased their username to myself so the contributors plugin doesn't break
           {
-            name: 'Nikolay_Avilov',
+            name: 'taskylizard',
             username: 'djoudx',
-            avatar: 'https://github.com/Nikolayavilov0.png'
+            avatar: 'https://github.com/taskylizard.png'
           }
         ],
         repoURL: () => 'https://github.com/privateersclub/wiki'
