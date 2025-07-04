@@ -18,9 +18,8 @@ ROM sites, emulators, discussion pages and more.
 - :star2: [Crocdb](https://crocdb.net)
 - :star2: [CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
-- [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Account required
-- [Vimm's Lair](https://vimm.net/vault)
+- [Vimm's Lair](https://vimm.net/vault) / [Restore "Download" button](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
@@ -46,7 +45,7 @@ with a :gear:. You can get them
 - :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the PPSSPP, Dolphin, & Citra cores
 - :gear: [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- :gear: [Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
+- :gear: [Kenji-NX](https://git.ryujinx.app/kenji-nx/ryujinx) /
   :gear: [Citron](https://git.citron-emu.org/Citron/Citron) - Nintendo Switch games
 - [shadPS4](https://shadps4.net) - PlayStation 4 games
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Wii U games
