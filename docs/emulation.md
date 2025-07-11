@@ -25,7 +25,6 @@ ROM sites, emulators, discussion pages and more.
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
   Portable games
 - [Ziperto](https://www.ziperto.com) - Nintendo games
-- [NSW2u](https://nsw2u.com) - Nintendo Switch games
 - [NXBrew](https://nxbrew.net) - Nintendo Switch games
 - [Romslab](https://romslab.com/) – Nintendo Switch games
 
