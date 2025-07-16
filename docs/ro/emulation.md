@@ -20,12 +20,11 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
-- [Vimm's Lair](https://vimm.net/vault)
+- [Vimm's Lair](https://vimm.net/vault) / [Restaurare buton "Download"](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jocuri de PlayStation 1, Vita, 3 și PSP
 - [Ziperto](https://www.ziperto.com) - Jocuri pentru console Nintendo
-- [NSW2u](https://nsw2u.com) - Jocuri pentru Nintendo Switch
 - [NXBrew](https://nxbrew.net) - Jocuri pentru Nintendo Switch
 - [Romslab](https://romslab.com/) – Jocuri pentru Nintendo Switch
 
@@ -46,7 +45,7 @@ cu o :gear:. Le poți lua de
 - [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile PPSSPP, Dolphin și Citra
 - [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
+- [:gear: Kenji-NX](https://git.ryujinx.app/kenji-nx/ryujinx) /
   [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emulator pentru Nintendo Switch
 - [shadPS4](https://shadps4.net) - Emulator pentru PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulator pentru Wii U
