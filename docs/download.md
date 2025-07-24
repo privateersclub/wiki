@@ -29,6 +29,7 @@ your downloads.
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
+- [:star2: Game3rb](https://game3rb.com)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
