@@ -17,6 +17,7 @@ ROM sites, emulators, discussion pages and more.
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
 - :star2: [Crocdb](https://crocdb.net)
 - :star2: [CDRomance](https://cdromance.com)
+- :star2: [RomsFun](https://romsfun.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [The ROM Depot](https://theromdepot.com) / Account required
 - [Vimm's Lair](https://vimm.net/vault) / [Restore "Download" button](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
