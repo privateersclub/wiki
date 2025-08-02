@@ -16,10 +16,11 @@ ROM sites, emulators, discussion pages and more.
 
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
 - :star2: [Crocdb](https://crocdb.net)
-- :star2: [CDRomance](https://cdromance.com)
+- :star2: [CDRomance](https://cdromance.com) / Account required
 - [DLPSGAME](https://dlpsgame.com)
 - [The ROM Depot](https://theromdepot.com) / Account required
 - [Vimm's Lair](https://vimm.net/vault) / [Restore "Download" button](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
+- [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Translator](https://megathread.pages.dev/useful#translator)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - PlayStation 1, Vita, 3, &
