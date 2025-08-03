@@ -16,11 +16,12 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 
 - [:star2: r/Roms Megathread](https://r-roms.github.io)
 - [:star2: Crocdb](https://crocdb.net)
-- [:star2: CDRomance](https://cdromance.com)
+- [:star2: CDRomance](https://cdromance.com) / Necesită înregistrare
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
 - [Vimm's Lair](https://vimm.net/vault) / [Restaurare buton "Download"](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
+- [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Căutare torrent](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Traducător](https://megathread.pages.dev/useful#translator)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jocuri de PlayStation 1, Vita, 3 și PSP
