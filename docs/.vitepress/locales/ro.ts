@@ -12,6 +12,7 @@ const sidebar: DefaultTheme.Sidebar = [
   { text: 'Download', link: '/ro/download' },
   { text: 'Emulare', link: '/ro/emulation' },
   { text: 'Linux', link: '/ro/linux' },
+  { text: 'Wotaku', link: 'https://wotaku.wiki' },
   { text: 'Folositor', link: '/ro/useful' },
   { text: 'Evită', link: '/ro/unsafe' }
 ]
