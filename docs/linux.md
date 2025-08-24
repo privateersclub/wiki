@@ -61,8 +61,8 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 :::
 
 - [CachyOS](https://github.com/CachyOS/linux-cachyos)
-- [XanMod](https://xanmod.org)    
-- [Liquorix](https://liquorix.net)          
+- [XanMod](https://xanmod.org)
+- [Liquorix](https://liquorix.net)
 - [Zen](https://github.com/zen-kernel/zen-kernel)
 - [tkg](https://github.com/Frogging-Family/linux-tkg) 
 
