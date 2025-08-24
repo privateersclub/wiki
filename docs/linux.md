@@ -26,7 +26,7 @@ Beware of what you search and read online on the Internet, it is the general rul
 
 Not everything will work out the way you intend *it may work*, sometimes the advice online is outdated or just **incompatible**, so be sure of what you're seeing will work for your system or not, before running any commands or changing configurations, and breaking your system in the process.
 
-If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and works universally for most distributions, not only arch.
+If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and works universally for most distributions.
 :::
 
 ## Downloading
@@ -56,20 +56,28 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 ::: danger
 Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instabilities and reliability issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
 :::
+::: info
+Real time kernels do not improve performance, and are only useful on embedded systems and when running applications built to use real time scheduling that are latency critical.
+:::
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Reliable kernel with patches for casual users
-- [XanMod Stable Real-time](https://xanmod.org)
+- [CachyOS](https://github.com/CachyOS/linux-cachyos)
+- [XanMod](https://xanmod.org)
 - [Liquorix](https://liquorix.net)
-- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - For Intel systems, very useful for servers
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requires self-compilation
+- [Zen](https://github.com/zen-kernel/zen-kernel)
+- [tkg](https://github.com/Frogging-Family/linux-tkg) 
 
-### Launchers
+### Game Launchers
 
 - :star2: [Lutris](https://lutris.net) - Game launcher
 - :star2: [Heroic Games Launcher](https://heroicgameslauncher.com) - Epic, GOG, &
   Amazon Prime Games launcher
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - GOG client
-- [Bottles](https://usebottles.com) - Windows software manager
+- [AAGL](https://github.com/an-anime-team/an-anime-game-launcher) - HoyoPlay client
+
+### Wine Wrappers
+- [Bottles](https://usebottles.com) - UI for running Wine in flatpak-style containers
+- [PlayOnLinux](https://www.playonlinux.com/en/) Program launcher with management features
+- [WineGUI](https://gitlab.melroy.org/melroy/winegui) Program launcher with tools to manage Wine itself as well
 
 ### Tools
 
