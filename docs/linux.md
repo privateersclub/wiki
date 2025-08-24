@@ -26,7 +26,7 @@ Beware of what you search and read online on the Internet, it is the general rul
 
 Not everything will work out the way you intend *it may work*, sometimes the advice online is outdated or just **incompatible**, so be sure of what you're seeing will work for your system or not, before running any commands or changing configurations, and breaking your system in the process.
 
-If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) and [Gentoo Wiki](https://wiki.gentoo.org/) are good and works universally for most distributions.
+If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and works universally for most distributions.
 :::
 
 ## Downloading
