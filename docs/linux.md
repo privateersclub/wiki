@@ -12,8 +12,6 @@ tags:
 
 # Linux
 
-Everything regarding piracy on Linux.
-
 ::: info Best Linux distribution for gaming?
 None. None of them will provide you the performance they claim that you can't get yourself by picking a regular distribution and using the latest updates.
 
@@ -88,6 +86,7 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) - Discord Overlay for Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility layer for games
 - [GameHub](https://tkashkin.github.io/projects/gamehub) - Unified games hub
+- [Winboat](https://github.com/TibixDev/winboat) - Containerized Windows VM for running apps
 
 ## Websites
 
