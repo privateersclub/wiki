@@ -100,6 +100,6 @@ time due to file decompression.
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally
   has lossy, or compressed repacks) / [Translator](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- [MagiPack Games](https://www.magipack.games) - Old games
+- [MagiPack Games](https://archive.org/details/@magitompg) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
 - [CPG Repacks](https://cpgrepacks.site) - NSFW anime games
