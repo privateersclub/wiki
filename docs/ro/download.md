@@ -100,6 +100,6 @@ durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 - [KAPITALSIN](https://kapitalsin.com/forum) - Forum despre jocurile care au repack-uri (are ocazional
   repack-uri comprimate cu pierderi) / [Traducător](/useful#translator)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
-- [MagiPack Games](https://www.magipack.games) - Jocuri vechi
+- [MagiPack Games](https://archive.org/details/@magitompg) - Jocuri vechi
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jocuri vechi
 - [CPG Repacks](https://cpgrepacks.site) - Jocuri anime NSFW (cu pornografie)
