@@ -87,6 +87,7 @@ Nucleele în timp real nu îmbunătățesc performanța și sunt utile numai pe 
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) - Suprapunere Discord pentru Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Compatibilitate Steam Play pentru jocuri
 - [GameHub](https://tkashkin.github.io/projects/gamehub) - Centru unificat pentru jocuri
+- [Winboat](https://github.com/TibixDev/winboat) - Mașină virtuală în container pentru rularea aplicațiilor
 
 ## Site-uri
 
