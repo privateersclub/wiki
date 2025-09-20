@@ -17,7 +17,7 @@ Totul despre pirateria pe Linux.
 ::: info Care e cea mai bună distrubuție pentru gaming?
 Niciunul. Niciunul nu-ți va oferi performanța pe care o pretind și pe care nu o poți obține prin alegerea unei distribuții normale și prin utilizarea celor mai recente actualizări.
 
-Deci, pentru a obține cea mai bună performanță, îți trebuie cele mai noi actualizări. Toate distribuțiile linux oferă aceleași pachete și furnizează actualizări. Unii le oferă mai rapid decăt alții. Deci, orice distribuție care își actualizează pachetele cel mai repede după upstream, este bun. 
+Așadar, pentru a obține cea mai bună performanță, îți trebuie cele mai noi actualizări. Toate distribuțiile linux oferă aceleași pachete și furnizează actualizări. Unii le oferă mai rapid decăt alții. Deci, orice distribuție care își actualizează pachetele cel mai repede după upstream, este bun. 
 :::
 
 ::: danger Ai grijă ce cauți/citești pe net!
@@ -25,7 +25,7 @@ Ai grijă ce cauți/citești pe net, regula de bază este că nu trebuie să cre
 
 Nu totul va merge cum *vrei*, uneori, sfaturile online sunt prea vechi sau sunt **incompatibile**, deci asigură-te că ceea ce vezi va funcționa sau nu pentru sistemul tău, înainte de a executa comenzi sau de a schimba configurații și de a-ți distruge sistemul în acest proces.
 
-Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) este bun și merge pe toate distribuțile, nu doar Arch.
+Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) este bun și funcționează pe toate distribuțile.
 :::
 
 ## Downloadare
@@ -55,12 +55,15 @@ Dacă ai nevoie de ajutor, [Wiki-ul Arch Linux](https://wiki.archlinux.org/) est
 ::: danger
 Nucleele (Kernel-urile) personalizate pot schimba comportamentul sistemului, pot [dezactiva reducerile de securitate](https://wiki.archlinux.org/index.php/Kernel_parameters), și pot cauza instabilități și probleme de siguranță. Este recomandat să faci [backup-uri](https://wiki.archlinux.org/title/Backup) și un nucleu de rezervă pentru a porni înapoi, din GRUB.
 :::
+::: info
+Nucleele în timp real nu îmbunătățesc performanța și sunt utile numai pe sistemele înglobate și atunci când rulează aplicații create pentru a utiliza programarea în timp real, care sunt critice din punct de vedere al latenței.
+:::
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Nucleu sigur cu patch-uri pentru utilizatorii obișnuiți
-- [XanMod Stable Real-time](https://xanmod.org)
+- [CachyOS](https://github.com/CachyOS/linux-cachyos)
+- [XanMod](https://xanmod.org)
 - [Liquorix](https://liquorix.net)
-- [Clear Linux Kernel](https://github.com/clearlinux-pkgs/linux) - Pentru calculatoarele care au un procesor Intel, foarte folositor pentru servere
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Necesită o compilare făcută de utilizator
+- [Zen](https://github.com/zen-kernel/zen-kernel)
+- [tkg](https://github.com/Frogging-Family/linux-tkg) 
 
 ### Lansatori (Launchere)
 
@@ -68,7 +71,12 @@ Nucleele (Kernel-urile) personalizate pot schimba comportamentul sistemului, pot
 - [:star2: Heroic Games Launcher](https://heroicgameslauncher.com) - Lansator de jocuri
   de pe Epic Games, GOG și Amazon Prime Games
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Client GOG
-- [Bottles](https://usebottles.com) - Gestionar de software pentru Windows
+- [AAGL](https://github.com/an-anime-team/an-anime-game-launcher) - Client HoyoPlay
+
+### Wrappere pentru Wine
+- [Bottles](https://usebottles.com) - Interfață pentru rularea Wine în containere în stil flatpak
+- [PlayOnLinux](https://www.playonlinux.com/en/) - Lansator de programe cu funcții de gestionare
+- [WineGUI](https://gitlab.melroy.org/melroy/winegui) - Lansator de programe cu instrumente pentru gestionarea Wine în sine
 
 ### Programe
 
