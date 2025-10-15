@@ -28,6 +28,7 @@ your downloads.
 - [:star2: SteamRIP](https://steamrip.com) - Steam games
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
+- [:star2: UnionCrax](https://union-crax.xyz)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
@@ -52,11 +53,11 @@ your downloads.
 - [Old-Games.RU](https://www.old-games.ru/catalog/) - Old games / Switch to
   English in the top-right corner
 - [F95zone](https://f95zone.to) - NSFW games / Account required
-- [Repacklab](https://repacklab.com/) – NSFW games
+- [Repacklab](https://repacklab.com) – NSFW games
+- [DOS Games Archive](https://www.dosgamesarchive.com/games?b=downloads) - MS-DOS Games
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
-- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
-  [Play without a legit account](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+- [Ely Prism Launcher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) - Java Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Torrent Sites
@@ -102,4 +103,5 @@ time due to file decompression.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://archive.org/details/@magitompg) - Old games
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
+- [RohanKar's Collection](https://archive.org/details/@rohankar) - Old games
 - [CPG Repacks](https://cpgrepacks.site) - NSFW anime games
