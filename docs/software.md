@@ -35,6 +35,7 @@ Software to enhance your piracy experience.
   [Web UI](https://github.com/ziahamza/webui-aria2)
 - [Free Download Manager](https://www.freedownloadmanager.org) /
   [Video downloader](https://github.com/meowcateatrat/elephant)
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Android
 
 ## Torrent Clients
 

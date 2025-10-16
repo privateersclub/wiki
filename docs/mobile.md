@@ -20,12 +20,13 @@ This section is for Android and iOS apps & games. We have separate sections for 
 - [Androeed](https://androeed.store) - Games
 - [APKHome](https://apkhome.io) - Games
 - [LITEAPKS](https://liteapks.com) - Modded Apps & Games
+- [AN1](https://an1.com) - Modded games
 - [RB Mods](https://www.rockmods.net) - Apps
 
 #### Sideloading & Utility
 - [Aurora Store](https://auroraoss.com/) - FOSS client for Play Store
 - [APKMirror](https://www.apkmirror.com/) - Untouched APKs
-- [Droid-ify](https://github.com/Droid-ify/client) - F-Droid Client
+- [Droid-ify](https://droidify.eu.org) - F-Droid Client
 - [Obtainium](https://github.com/ImranR98/Obtainium/) - Source-based App Updater
 
 ### iOS

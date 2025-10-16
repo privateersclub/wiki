@@ -20,16 +20,17 @@ Rapidgator in some EU countries). Check the
 [download managers section](/software#download-managers) for help managing
 your downloads.
 
-- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Account
+- :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Account
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
-- [:star2: SteamGG](https://steamgg.net)
-- [:star2: SteamRIP](https://steamrip.com) - Steam games
-- [:star2: AnkerGames](https://ankergames.net)
-- [:star2: Game Bounty](https://gamebounty.world)
-- [:star2: UnionCrax](https://union-crax.xyz)
-- [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
+- :star2: [SteamGG](https://steamgg.net)
+- :star2: [SteamRIP](https://steamrip.com) - Steam games
+- :star2: [SteamUnderground](https://steamunderground.net)
+- :star2: [AnkerGames](https://ankergames.net)
+- :star2: [Game Bounty](https://gamebounty.world)
+- :star2: [UnionCrax](https://union-crax.xyz)
+- :star2: [GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)

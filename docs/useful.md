@@ -48,7 +48,7 @@ for more Steam tools.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Free services for online multiplayer gaming.
 - [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
   [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
+- [GreenLuma 2025 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
   Automatic Steamworks fix creator
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA
@@ -69,7 +69,7 @@ for more Steam tools.
 
 :::tip
 Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
-Visit **[m0nkrus](https://vk.com/monkrus) (temporary mirror due to [site issues](https://reddit.com/r/GenP/comments/1h3c2ny/monkrus_users_need_to_use_mirror_site_on_vk))** for Adobe products.
+Visit **[m0nkrus](https://w17.monkrus.ws)** for Adobe products.
 
 For the rest, visit [LRepacks](https://lrepacks.net) or
 [CRACKSurl](https://cracksurl.com).
