@@ -34,8 +34,7 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 - :star2: [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
 - :star2: [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
-  (occasionally has lossy, or compressed repacks) /
-  [Translator](useful.md#translator)
+  (occasionally has lossy, or compressed repacks) /[Translator](useful.md#translator)
 - :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
@@ -74,8 +73,8 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 
 ### Wine Wrappers
 - [Bottles](https://usebottles.com) - UI for running Wine in flatpak-style containers
-- [PlayOnLinux](https://www.playonlinux.com/en/) Program launcher with management features
-- [WineGUI](https://gitlab.melroy.org/melroy/winegui) Program launcher with tools to manage Wine itself as well
+- [PlayOnLinux](https://www.playonlinux.com/en/) - Program launcher with management features
+- [WineGUI](https://gitlab.melroy.org/melroy/winegui) - Program launcher with tools to manage Wine itself as well
 
 ### Tools
 
@@ -96,7 +95,7 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Games that run natively on Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Everything from configuration tips to running games
 - [LibreGameWiki](https://libregamewiki.org/Main_Page)
-- [Open Source Game Clones](https://osgameclones.com/) - FOSS Game remakes/clones
+- [Open Source Game Clones](https://osgameclones.com) - FOSS Game remakes/clones
 
 ## Guides
 

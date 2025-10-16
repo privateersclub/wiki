@@ -48,8 +48,7 @@ Software to enhance your piracy experience.
 - [Tixati](https://tixati.com)
 - [PicoTorrent](https://picotorrent.org)
 - [BiglyBT](https://www.biglybt.com)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Android
-  devices
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Android devices
 
 ## VPNs
 

@@ -19,12 +19,13 @@ faltando no seu computador:
 ## Ferramentas
 
 :::tip
-:exclamation: Veja o [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) e
+:exclamation: Veja o
+[RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) e
 [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)
 para mais ferramentas da Steam.
 :::
 
-- [:star2: Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
+- :star2: [Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
   Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA (use o EA DLC Unlocker) e da Uplay
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
@@ -39,7 +40,7 @@ para mais ferramentas da Steam.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Serviços grátis para jogar multijogador online.
 - [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM da
   Steam / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gerenciador do desbloqueador da Steam GreenLuma
+- [GreenLuma 2025 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gerenciador do desbloqueador da Steam GreenLuma
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
   correções para o Steamworks
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos
@@ -59,7 +60,7 @@ para mais ferramentas da Steam.
 :::tip
 Ative produtos da Microsoft (Office e Windows) com os
 **[Scripts de Ativação da Microsoft](https://massgrave.dev).**
-Visite o **[m0nkrus](https://vk.com/monkrus) (espelho devido a [problemas com o site](https://reddit.com/r/GenP/comments/1h3c2ny/monkrus_users_need_to_use_mirror_site_on_vk))** para produtos da Adobe.
+Visite o **[m0nkrus](https://w17.monkrus.ws)** para produtos da Adobe.
 
 Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 [CRACKSurl](https://cracksurl.com).
@@ -104,14 +105,16 @@ Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Guias
   coloridas nesta ferramenta mantêm a sua vida online separada para preservar a privacidade. Cookies
-  são isolados, permitindo uso simultâneo de várias identidades ou contas.
+  são isolados, permitindo uso simultâneo de várias identidades
+  ou contas.
 
 ## Trainers (trapaças)
 
 Não são para jogos online. Não trapaceie em jogos online!
 
-- [:star2: FLiNG Trainer](https://flingtrainer.com)
-- [:star2: GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e correções de NoCD.
+- :star2: [FLiNG Trainer](https://flingtrainer.com)
+- :star2: [GameCopyWorld](https://gamecopyworld.com/games) - Também tem só o crack e
+  correções de NoCD.
 - [WeMod](https://www.wemod.com)
 - [MegaGames](https://megagames.com)
 - [FearLess Cheat Engine](https://fearlessrevolution.com) - Tabelas do Cheat Engine
@@ -122,7 +125,7 @@ Não são para jogos online. Não trapaceie em jogos online!
 Não fornece downloads. Os sites têm informações de lançamentos da Cena/P2P.
 Veja aqui se um jogo foi crackeado!
 
-- [:star2: xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
+- :star2: [xREL](https://www.xrel.to/games-release-list.html?lang=en_US)
 - [m2v.ru](https://m2v.ru/?func=part&Part=3)
 - [PreDB.org](https://predb.org/section/GAMES)
 - [PreDB.de](https://predb.de/section/GAMES)

@@ -12,8 +12,6 @@ tags:
 
 # Linux
 
-Tudo sobre pirataria no Linux.
-
 ::: info Qual a melhor distribuição Linux para jogar?
 Nenhuma. Nenhuma delas lhe fornecerá o desempenho que afirmam que vocè não pode conseguir sozinho(a) ao usar uma distribuição comum com as últimas atualizações.
 
@@ -32,47 +30,57 @@ Se você precisa de um guia, o [Wiki do Arch](https://wiki.archlinux.org/title/M
 
 ### Sites de Downloads Diretos
 
-- [:star2: Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
+- :star2: [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
   lançamentos da Cena / Requer conta
-- [:star2: KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks de jogos (ocasionalmente tem repacks
+- :star2: [KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks de jogos (ocasionalmente tem repacks
   com perdas, ou comprimidos) / [Tradutor](useful.md#translator)
-- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
+- :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
 
 ### Sites de Torrents
 
-- [:star2: johncena141](https://1337x.to/user/johncena141/) - Jogos de Linux
-- [:star2: RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux / [Tradutor](useful.md#translator)
+- :star2: [johncena141](https://1337x.to/user/johncena141/) - Jogos de Linux
+- :star2: [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Jogos de Linux / [Tradutor](useful.md#translator)
 
 ## Programas
 
 ### Kernels
 
 ::: danger
-Kerneis modificados podem mudar consideravelmente o comportamento do seu sistema, [desativar mitigações de segurança](https://wiki.archlinux.org/title/Kernel_parameters_(Portugu%C3%AAs)) e causar todo tipo de problema de instabilidade e confiabilidade. Recomenda-se manter[cópias de segurança](https://wiki.archlinux.org/title/System_maintenance_(Portugu%C3%AAs)) e um kernel e uma cópia do kernel instalada para bootar para, pelo GRUB.
+Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instabilities and reliability issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
+:::
+::: info
+Real time kernels do not improve performance, and are only useful on embedded systems and when running applications built to use real time scheduling that are latency critical.
 :::
 
-- [linux-zen](https://github.com/zen-kernel/zen-kernel) - Kernel confiável com patches para usuários casuais
-- [XanMod Stable Real-time](https://xanmod.org)
+- [CachyOS](https://github.com/CachyOS/linux-cachyos)
+- [XanMod](https://xanmod.org)
 - [Liquorix](https://liquorix.net)
-- [Kernel Clear Linux](https://github.com/clearlinux-pkgs/linux) - Para sistemas da Intel, muito útil para servidores
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Requer compilação própria.
+- [Zen](https://github.com/zen-kernel/zen-kernel)
+- [tkg](https://github.com/Frogging-Family/linux-tkg) 
 
-### Launchers
+### Launchers de Jogos
 
-- [:star2: Lutris](https://lutris.net) - Launcher de jogos
-- [:star2: Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher da Epic, GOG e
+- :star2: [Lutris](https://lutris.net) - Launcher de jogos
+- :star2: [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher da Epic, GOG e
   Amazon Prime Games
 - [Minigalaxy](https://sharkwouter.github.io/minigalaxy) - Cliente da GOG
-- [Bottles](https://usebottles.com) - Gerenciador de programas do Windows
+- [AAGL](https://github.com/an-anime-team/an-anime-game-launcher) - Cliente da HoyoPlay
 
-### Ferramentas
+### Wrappers dp Wine
+- [Bottles](https://usebottles.com) - Interface para rodar o Wine em contêineres no estilo de Flatpaks
+- [PlayOnLinux](https://www.playonlinux.com/en/) - Launcher de programas com recursos de gerenciamento
+- [WineGUI](https://gitlab.melroy.org/melroy/winegui) - Launcher de programas com ferramentas para também gerenciar o Wine em si
 
-- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para monitorar o desempenho / [GUI](https://github.com/benjamimgois/goverlay)
+## Ferramentas
+
+- [MangoHud](https://github.com/flightlessmango/MangoHud) - Sobreposição para
+  monitorar o desempenho / [GUI](https://github.com/benjamimgois/goverlay)
 - [ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) / [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Gerenciadores de ferramentas de compatibilidade baseadas no Wine e Proton
 - [Winetricks](https://github.com/Winetricks/winetricks) - Correções e ajustes do Wine
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) - Sobreposição do Discord para Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Camada de compatibilidade do Steam Play para jogos
 - [GameHub](https://tkashkin.github.io/projects/gamehub) - Hub de jogos unificada
+- [Winboat](https://github.com/TibixDev/winboat) - Máquina virtual do Windows em contêiner para rodar apps
 
 ## Sites
 
@@ -86,11 +94,13 @@ Kerneis modificados podem mudar consideravelmente o comportamento do seu sistema
 
 ## Guias
 
-- [:star2: Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
-- [:star2: Instalar repacks com o Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
-  / [Correção para erros de DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
+- :star2: [Linux Gaming Wiki](https://linux-gaming.kwindu.eu/index.php)
+- :star2: [Instalar repacks com o Lutris](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in)
+  /
+  [Correção para erros de DLL](https://reddit.com/r/LinuxCrackSupport/comments/tirarp/psa_when_installing_repacks_with_custom_wine)
 
 ## Subreddits Relacionados
 
 - [r/LinuxCrackSupport](https://www.reddit.com/r/LinuxCrackSupport)
 - [r/linux_gaming](https://www.reddit.com/r/linux_gaming)
+- [r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates)
