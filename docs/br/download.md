@@ -102,5 +102,5 @@ devido à descompressão de arquivos.
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site)
 - [MagiPack Games](https://archive.org/details/@magitompg) - Jogos antigos
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jogos antigos
-- [RohanKar's Collection](https://archive.org/details/@rohankar) - Jogos antigos
+- [Coleção do RohanKar](https://archive.org/details/@rohankar) - Jogos antigos
 - [CPG Repacks](https://cpgrepacks.site) - Jogos de anime NSFW
