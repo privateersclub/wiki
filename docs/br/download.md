@@ -58,7 +58,7 @@ gerenciamento de seus downloads.
 - [DOS Games Archive](https://www.dosgamesarchive.com/games?b=downloads) - Jogos de MS-DOS
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jogos de MS-DOS
-- [Ely Prism Launcher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) - Minecraft Java
+- [Ely Prism Launcher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Alternativa para o Prism normal](https://rentry.co/Prism4Free) - Minecraft Java
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Sites de Torrents
