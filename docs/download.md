@@ -38,6 +38,7 @@ your downloads.
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
 - [Scnlog](https://scnlog.me/games) - Scene releases
 - [Gamdie](https://gamdie.com) - Indie games
+- [SteamOra](https://steamora.net/) Pre-Installed Games
 - [Appnetica](https://appnetica.com) - Indie games
 - [DigitalZone](https://rentry.co/god_csrinru) - Indie games
 - [AtopGames](https://atopgames.com) - Indie games
