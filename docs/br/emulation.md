@@ -12,6 +12,7 @@ Sites de ROMs, emuladores, páginas de discussão e mais.
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
 - :star2: [Crocdb](https://crocdb.net)
 - :star2: [Vimm's Lair](https://vimm.net/vault) / [Restaurar o botão de "Download"](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
+- :star2: [CDRomance](https://cdromance.org)
 - [DLPSGAME](https://dlpsgame.com)
 - [The ROM Depot](https://theromdepot.com) / Requer conta
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Busca de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](https://megathread.pages.dev/useful#translator)
