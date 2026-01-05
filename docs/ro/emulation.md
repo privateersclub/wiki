@@ -37,7 +37,7 @@ pentru mai multe informații.
 
 Unele emulatoare au nevoie de fișiere în plus (chei sau BIOS) și sunt marcate
 cu o :gear:. Le poți lua de
-[aici](https://r-roms.github.io/megathread/misc/#bios-files).
+[aici](https://emulation.gametechwiki.com/index.php/Emulator_files).
 :::
 
 - [Batocera.linux](https://batocera.org) - Distribuție Linux pentru emularea jocurilor vechi
