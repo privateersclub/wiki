@@ -10,7 +10,6 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 ## Sitios para Descargar ROMS
 
 - [:star2: Megahilo de r/Roms](https://r-roms.github.io)
-- [:star2: Crocdb](https://crocdb.net)
 - [:star2: CDRomance](https://cdromance.com)
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)

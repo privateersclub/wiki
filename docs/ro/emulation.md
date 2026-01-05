@@ -15,7 +15,6 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 ## Site-uri cu ROM-uri
 
 - [:star2: r/Roms Megathread](https://r-roms.github.io)
-- [:star2: Crocdb](https://crocdb.net)
 - [:star2: CDRomance](https://cdromance.com) / Necesită înregistrare
 - [DLPSGAME](https://dlpsgame.com)
 - [Edge Emulation](https://edgeemu.net)

@@ -29,7 +29,6 @@ gerenciamento de seus downloads.
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [UnionCrax](https://union-crax.xyz)
 - :star2: [GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
@@ -37,6 +36,7 @@ gerenciamento de seus downloads.
 - [Ova Games](https://www.ovagames.com) / Senha: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Lançamentos da Cena e P2P
 - [Scnlog](https://scnlog.me/games) - Lançamentos da Cena
+- [UnionCrax](https://union-crax.xyz) - Jogos indie
 - [Gamdie](https://gamdie.com) - Jogos indie
 - [Appnetica](https://appnetica.com) - Jogos indie
 - [DigitalZone](https://digital-zone.xyz) - Jogos indie

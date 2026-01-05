@@ -29,7 +29,6 @@ your downloads.
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [UnionCrax](https://union-crax.xyz)
 - :star2: [GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - GOG Games
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
@@ -37,6 +36,7 @@ your downloads.
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
 - [Scnlog](https://scnlog.me/games) - Scene releases
+- [UnionCrax](https://union-crax.xyz) - Indie games
 - [Gamdie](https://gamdie.com) - Indie games
 - [Appnetica](https://appnetica.com) - Indie games
 - [DigitalZone](https://rentry.co/god_csrinru) - Indie games
