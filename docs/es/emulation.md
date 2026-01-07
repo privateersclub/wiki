@@ -31,7 +31,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 
   Algunos emuladores requieren archivos adicionales (keys o BIOS) y están marcados 
   con un :gear:. Los puedes obtener desde
-  [aquí](https://r-roms.github.io/megathread/misc/#bios-files).
+  [aquí](https://emulation.gametechwiki.com/index.php/Emulator_files).
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de juegos retro

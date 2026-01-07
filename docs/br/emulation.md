@@ -31,7 +31,7 @@ Veja a
 mais.
 
 Alguns emuladores requerem arquivos adicionais (chaves ou BIOS) e estão marcadas com um “:gear:”. Você pode
-obtê-los [aqui](https://r-roms.github.io/megathread/misc/#bios-files).
+obtê-los [aqui](https://emulation.gametechwiki.com/index.php/Emulator_files).
 :::
 - [Batocera.linux](https://batocera.org) - Distro de jogos retrô
 - [Winlator Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Jogos de Windows
