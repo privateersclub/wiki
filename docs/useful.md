@@ -51,14 +51,14 @@ for more Steam tools.
 - [GreenLuma 2025 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
 - [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
   Automatic Steamworks fix creator
-- [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - EA
+- [EA DLC Unlocker](https://mirror.anadius.cc/dlc-unlockers) - EA
   clients DLC unlocker
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
   Epic Online Services emulator
 - [SteamDB](https://steamdb.info) / [Extension](https://steamdb.info/extension) - Steam insight tool
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Steam Workshop
   downloader
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -
+- [Sims 4 Updater](https://mirror.anadius.cc/sims-4-updater) -
   Pirated The Sims 4 version updater
 - [Plutonium](https://plutonium.pw) - Dedicated Call of Duty servers, with mod
   support & extended features.

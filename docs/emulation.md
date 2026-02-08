@@ -37,7 +37,7 @@ for more.
 
 Some emulators require additional files (keys or BIOS) and are marked
 with a :gear:. You can get them
-[here](https://r-roms.github.io/megathread/misc/#bios-files).
+[here](https://emulation.gametechwiki.com/index.php/Emulator_files).
 :::
 - [Batocera.linux](https://batocera.org) - Retro-gaming distro
 - [Winlator Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Windows games
