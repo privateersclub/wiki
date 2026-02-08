@@ -40,7 +40,6 @@ This section is for Android and iOS apps & games. We have separate sections for 
 - [GLESign](https://t.me/glesign) - Ported Games
 - [CodeVN](https://ios.codevn.net) - Apps & Games
 - [AnyIPA](https://anyipa.me) - Decrypted iPAs
-- [Eth Mods](https://sultanmods.fyi) - Tweaked Apps
 - [4PDA](https://4pda.to/forum/) - Games
 - [PDALife](https://pdalife.com/ios/games/) - Games
 

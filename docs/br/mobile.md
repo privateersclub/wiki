@@ -40,7 +40,6 @@ Esta seção é para jogos e aplicativos de Android e iOS. Temos seções separa
 - [GLESign](https://t.me/glesign) - Jogos portados
 - [CodeVN](https://ios.codevn.net) - Aplicativos e Jogos
 - [AnyIPA](https://anyipa.me) - iPAs decriptadas
-- [Eth Mods](https://sultanmods.fyi) - Aplicativos modificados
 - [4PDA](https://4pda.to/forum/) - Jogos
 - [PDALife](https://pdalife.com/ios/games/) - Jogos
 

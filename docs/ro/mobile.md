@@ -36,7 +36,6 @@ Această parte este pentru aplicațiile și jocurile făcute pentru Android și 
 - [GLESign](https://t.me/glesign) - Jocuri portate (jocuri care au fost făcute pentru un alt sistem, dar care au fost adaptate de altcineva pentru iOS)
 - [CodeVN](https://ios.codevn.net) - Aplicații și jocuri
 - [AnyIPA](https://anyipa.me) - Fișiere iPA decriptate (fișierele iPA sunt ca și fișierele APK)
-- [Eth Mods](https://sultanmods.fyi) - Aplicații modificate
 - [4PDA](https://4pda.to/forum/) - Jocuri
 - [PDALife](https://pdalife.com/ios/games/) - Jocuri
 
