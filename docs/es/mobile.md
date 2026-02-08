@@ -19,7 +19,7 @@ Esta sección es para juegos y aplicaciones de Android e iOS. Tenemos secciones 
 - [ApkVision](https://apkvision.org) - Juegos
 - [PDALIFE](https://pdalife.com) - Juegos
 - [Androeed](https://androeed.store) - Juegos
-- [APKHome](https://apkhome.io) - Juegos
+- [APKHome](https://apkhome.net) - Juegos
 - [LITEAPKS](https://liteapks.com) - Aplicaciones y juegos modificados
 - [RB Mods](https://www.rockmods.net) - Aplicaciones
 

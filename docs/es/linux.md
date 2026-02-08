@@ -85,7 +85,6 @@ problemas de fiabilidad. Se recomienda que tengas una [copia de seguridad de tus
 - [Winetricks](https://github.com/Winetricks/winetricks) - Fixes y ajustes para Wine 
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) Overlay de discord para Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) Capa de compatibilidad de Steam Play para juegos en general.
-- [GameHub](https://tkashkin.github.io/projects/gamehub) Hub que unifica tus videojuegos en una sola plataforma.
 
 ## Sitios Web Relacionados con Juegos en Linux
 

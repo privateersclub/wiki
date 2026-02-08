@@ -18,7 +18,7 @@ Această parte este pentru aplicațiile și jocurile făcute pentru Android și 
 - [ApkVision](https://apkvision.org) - Jocuri
 - [PDALIFE](https://pdalife.com) - Jocuri
 - [Androeed](https://androeed.store) - Jocuri
-- [APKHome](https://apkhome.io) - Jocuri
+- [APKHome](https://apkhome.net) - Jocuri
 - [LITEAPKS](https://liteapks.com) - Aplicații și jocuri modificate
 - [RB Mods](https://www.rockmods.net) - Aplicații
 

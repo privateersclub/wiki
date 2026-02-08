@@ -19,7 +19,7 @@ This section is for Android and iOS apps & games. We have separate sections for 
 - [ApkVision](https://apkvision.org) - Games
 - [PDALIFE](https://pdalife.com) - Games
 - [Androeed](https://androeed.store) - Games
-- [APKHome](https://apkhome.io) - Games
+- [APKHome](https://apkhome.net) - Games
 - [LITEAPKS](https://liteapks.com) - Modded Apps & Games
 - [AN1](https://an1.com) - Modded games
 - [RB Mods](https://www.rockmods.net) - Apps

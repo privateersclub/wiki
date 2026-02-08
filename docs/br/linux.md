@@ -79,7 +79,6 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 - [Winetricks](https://github.com/Winetricks/winetricks) - Correções e ajustes do Wine
 - [DiscordOverlayLinux](https://github.com/trigg/Discover) - Sobreposição do Discord para Linux
 - [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Camada de compatibilidade do Steam Play para jogos
-- [GameHub](https://tkashkin.github.io/projects/gamehub) - Hub de jogos unificada
 - [Winboat](https://github.com/TibixDev/winboat) - Máquina virtual do Windows em contêiner para rodar apps
 
 ## Sites
