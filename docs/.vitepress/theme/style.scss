@@ -1,65 +1,70 @@
 :root {
-  --vp-c-default-1: theme('colors.neutral.11');
-  --vp-c-default-2: theme('colors.neutral.4');
-  --vp-c-default-3: theme('colors.neutral.3');
+  --vp-c-default-1: theme('colors.neutral.12');
+  --vp-c-default-2: theme('colors.neutral.11');
+  --vp-c-default-3: theme('colors.neutral.10');
   --vp-c-default-soft: theme('colors.neutral.4');
 
   /* Colors: Background */
   --vp-c-bg: theme('colors.neutral.1');
   --vp-sidebar-bg-color: theme('colors.neutral.1');
   --vp-c-bg-alt: theme('colors.neutral.2');
-  --vp-c-bg-elv: theme('colors.neutral.1');
-  --vp-c-bg-soft: theme('colors.neutral.2');
+  --vp-c-bg-elv: theme('colors.neutral.2');
+  --vp-c-bg-soft: theme('colors.neutral.3');
 
   --vp-c-brand-1: theme('colors.primary.11');
-  --vp-c-brand-2: theme('colors.primary.7');
-  --vp-c-brand-3: theme('colors.primary.8');
-  --vp-c-brand-soft: theme('colors.primary.4');
+  --vp-c-brand-2: theme('colors.primary.10');
+  --vp-c-brand-3: theme('colors.primary.9');
+  --vp-c-brand-soft: theme('colors.primary.3');
+
+  /* Colors: Surface */
+  --vp-c-border: theme('colors.neutral.6');
+  --vp-c-divider: theme('colors.neutral.5');
+  --vp-c-gutter: theme('colors.neutral.4');
 
   /* Colors: Button */
-  --vp-button-brand-bg: theme('colors.primary.3');
-  --vp-button-brand-border: theme('colors.primary.8');
-  --vp-button-brand-text: theme('colors.primary.11');
-  --vp-button-brand-hover-bg: theme('colors.primary.4');
-  --vp-button-brand-hover-border: theme('colors.primary.9');
+  --vp-button-brand-bg: theme('colors.primary.9');
+  --vp-button-brand-border: theme('colors.primary.7');
+  --vp-button-brand-text: theme('colors.primary.12');
+  --vp-button-brand-hover-bg: theme('colors.primary.10');
+  --vp-button-brand-hover-border: theme('colors.primary.8');
   --vp-button-brand-hover-text: theme('colors.primary.12');
-  --vp-button-brand-active-bg: theme('colors.primary.5');
-  --vp-button-brand-active-border: theme('colors.primary.10');
+  --vp-button-brand-active-bg: theme('colors.primary.11');
+  --vp-button-brand-active-border: theme('colors.primary.9');
   --vp-button-brand-active-text: theme('colors.primary.12');
   /** Alt button */
-  --vp-button-alt-bg: theme('colors.neutral.3');
-  --vp-button-alt-border: theme('colors.neutral.8');
-  --vp-button-alt-text: theme('colors.neutral.11');
-  --vp-button-alt-hover-bg: theme('colors.neutral.4');
-  --vp-button-alt-hover-border: theme('colors.neutral.9');
-  --vp-button-alt-hover-text: theme('colors.neutral.11');
-  --vp-button-alt-active-bg: theme('colors.neutral.5');
-  --vp-button-alt-active-border: theme('colors.neutral.10');
+  --vp-button-alt-bg: theme('colors.neutral.4');
+  --vp-button-alt-border: theme('colors.neutral.7');
+  --vp-button-alt-text: theme('colors.neutral.12');
+  --vp-button-alt-hover-bg: theme('colors.neutral.5');
+  --vp-button-alt-hover-border: theme('colors.neutral.8');
+  --vp-button-alt-hover-text: theme('colors.neutral.12');
+  --vp-button-alt-active-bg: theme('colors.neutral.6');
+  --vp-button-alt-active-border: theme('colors.neutral.9');
   --vp-button-alt-active-text: theme('colors.neutral.12');
 
   /* Colors: Custom Block */
   /** Tip custom block */
-  --vp-custom-block-tip-bg: theme('colors.primary.2');
+  --vp-custom-block-tip-bg: theme('colors.primary.3');
   --vp-custom-block-tip-border: theme('colors.primary.7');
   --vp-custom-block-tip-text: theme('colors.primary.11');
   --vp-custom-block-tip-text-deep: theme('colors.primary.12');
   /** Warning custom block */
-  --vp-custom-block-warning-bg: theme('colors.warning.2');
+  --vp-custom-block-warning-bg: theme('colors.warning.3');
   --vp-custom-block-warning-border: theme('colors.warning.7');
   --vp-custom-block-warning-text: theme('colors.warning.11');
   --vp-custom-block-warning-text-deep: theme('colors.warning.12');
   /** Danger custom block */
-  --vp-custom-block-danger-bg: theme('colors.danger.2');
+  --vp-custom-block-danger-bg: theme('colors.danger.3');
   --vp-custom-block-danger-border: theme('colors.danger.7');
   --vp-custom-block-danger-text: theme('colors.danger.11');
   --vp-custom-block-danger-text-deep: theme('colors.danger.12');
   /** Info custom block */
-  --vp-custom-block-info-bg: theme('colors.info.2');
+  --vp-custom-block-info-bg: theme('colors.info.3');
   --vp-custom-block-info-border: theme('colors.info.7');
   --vp-custom-block-info-text: theme('colors.info.11');
   --vp-custom-block-info-text-deep: theme('colors.info.12');
   /** Details custom block */
-  --vp-custom-block-details-bg: theme('colors.neutral.2');
+  --vp-custom-block-details-bg: theme('colors.neutral.3');
   --vp-custom-block-details-border: theme('colors.neutral.7');
   --vp-custom-block-details-text: theme('colors.neutral.11');
   --vp-custom-block-details-text-deep: theme('colors.neutral.12');
@@ -76,7 +81,9 @@
  * - `text-3`: Used for subtle texts, such as "placeholders" or "caret icon".
  * -------------------------------------------------------------------------- */
 
-  --vp-c-text-1: theme('colors.neutral.11');
+  --vp-c-text-1: theme('colors.neutral.12');
+  --vp-c-text-2: theme('colors.neutral.11');
+  --vp-c-text-3: theme('colors.neutral.10');
 }
 
 /* Make clicks pass-through */
@@ -247,7 +254,15 @@
   @apply my-6 rounded-lg border p-4 text-sm !important;
 
   & a {
-    @apply text-decoration-underline decoration-dashed underline-offset-2 !important;
+    @apply font-semibold text-decoration-underline decoration-solid underline-offset-2 transition-colors rounded-sm px-1 -mx-1 outline-none !important;
+    text-decoration-thickness: 2px;
+    text-decoration-color: currentColor;
+    -webkit-text-decoration-color: currentColor;
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 2px;
+    }
   }
 
   &-title {
@@ -264,40 +279,44 @@
 
   &.info {
     & a {
-      @apply text-info-11;
+      @apply text-info-11 decoration-info-9;
 
-      &:hover {
-        @apply text-info-12 decoration-info-12;
+      &:hover,
+      &:focus-visible {
+        @apply text-info-12 decoration-info-12 bg-info-3/40;
       }
     }
   }
 
   &.tip {
     & a {
-      @apply text-tip-11;
+      @apply text-tip-11 decoration-tip-9;
 
-      &:hover {
-        @apply text-tip-12 decoration-tip-12;
+      &:hover,
+      &:focus-visible {
+        @apply text-tip-12 decoration-tip-12 bg-tip-3/40;
       }
     }
   }
 
   &.warning {
     & a {
-      @apply text-warning-11;
+      @apply text-warning-11 decoration-warning-9;
 
-      &:hover {
-        @apply text-warning-12 decoration-warning-12;
+      &:hover,
+      &:focus-visible {
+        @apply text-warning-12 decoration-warning-12 bg-warning-3/40;
       }
     }
   }
 
   &.danger {
     & a {
-      @apply text-danger-11;
+      @apply text-danger-11 decoration-danger-9;
 
-      &:hover {
-        @apply text-danger-12 decoration-danger-12;
+      &:hover,
+      &:focus-visible {
+        @apply text-danger-12 decoration-danger-12 bg-danger-3/40;
       }
     }
   }

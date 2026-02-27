@@ -77,7 +77,11 @@ export const sharedConfig = defineConfig({
         ],
         repoURL: () => 'https://github.com/privateersclub/wiki'
       }),
-      GitChangelogMarkdownSection(),
+      GitChangelogMarkdownSection({
+        sections: {
+          disableContributors: true
+        }
+      }),
       UnoCSS()
     ]
   },
