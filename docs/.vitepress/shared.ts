@@ -48,15 +48,20 @@ export const sharedConfig = defineConfig({
         maxGitLogCount: 2000,
         mapAuthors: [
           {
-            name: 'taskylizard',
+            name: 'tasky',
             username: 'taskylizard',
             avatar: 'https://github.com/taskylizard.png'
           },
           {
-            name: 'taskylizard',
+            name: 'tasky',
             username:
               'taaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssky',
             avatar: 'https://github.com/taskylizard.png'
+          },
+          {
+            name: 'tasky',
+            username: 'taskyliz',
+            avatar: 'https://github.com/taskyliz.png'
           },
           {
             name: 'Kazevic',
