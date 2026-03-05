@@ -2,14 +2,6 @@ import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
 import { generateMeta } from './hooks/meta'
 import { generateImages } from './hooks/opengraph'
-import {
-  PageProperties,
-  PagePropertiesMarkdownSection
-} from '@nolebase/vitepress-plugin-page-properties/vite'
-import {
-  GitChangelog,
-  GitChangelogMarkdownSection
-} from '@nolebase/vitepress-plugin-git-changelog/vite'
 
 export const sharedConfig = defineConfig({
   title: 'privateersclub/wiki',
@@ -28,62 +20,12 @@ export const sharedConfig = defineConfig({
   ],
   vite: {
     optimizeDeps: {
-      exclude: [
-        '@nolebase/vitepress-plugin-enhanced-readabilities/client',
-        '@nolebase/vitepress-plugin-git-changelog/client',
-        '@nolebase/vitepress-plugin-page-properties/client'
-      ]
+      exclude: ['@nolebase/vitepress-plugin-enhanced-readabilities/client']
     },
     ssr: {
-      noExternal: [
-        '@nolebase/vitepress-plugin-enhanced-readabilities',
-        '@nolebase/vitepress-plugin-page-properties',
-        '@nolebase/vitepress-plugin-git-changelog'
-      ]
+      noExternal: ['@nolebase/vitepress-plugin-enhanced-readabilities']
     },
-    plugins: [
-      PageProperties(),
-      PagePropertiesMarkdownSection(),
-      GitChangelog({
-        maxGitLogCount: 2000,
-        mapAuthors: [
-          {
-            name: 'tasky',
-            username: 'taskylizard',
-            avatar: 'https://github.com/taskylizard.png'
-          },
-          {
-            name: 'tasky',
-            username:
-              'taaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssssssssssssky',
-            avatar: 'https://github.com/taskylizard.png'
-          },
-          {
-            name: 'tasky',
-            username: 'taskyliz',
-            avatar: 'https://github.com/taskyliz.png'
-          },
-          {
-            name: 'Kazevic',
-            username: 'Kazevic',
-            avatar: 'https://github.com/kazevic.png'
-          },
-          // This person is NOT me, but I've aliased their username to myself so the contributors plugin doesn't break
-          {
-            name: 'taskylizard',
-            username: 'djoudx',
-            avatar: 'https://github.com/taskylizard.png'
-          }
-        ],
-        repoURL: () => 'https://github.com/privateersclub/wiki'
-      }),
-      GitChangelogMarkdownSection({
-        sections: {
-          disableContributors: true
-        }
-      }),
-      UnoCSS()
-    ]
+    plugins: [UnoCSS()]
   },
   transformHead: async (context) =>
     generateMeta(context, 'https://megathread.pages.dev'),
