@@ -54,8 +54,7 @@ para que puedas gestionar tus descargas fácilmente.
 - [F95zone](https://f95zone.to) - Juegos NSFW / Cuenta requerida
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Juegos de MS-DOS
-- [Prism Launcher](https://prismlauncher.org) - Minecraft Java /
-  [Para jugar con una cuenta pirata](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+- [PineconeMC](https://prismlauncher.org) / [Crack alternativo de Prism Launcher](https://rentry.co/Prism4Free) - Minecraft Java
 - [Moriya Shrine](https://moriyashrine.org) - Juegos de la saga Touhou
 
 ## Torrents

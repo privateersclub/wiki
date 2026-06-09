@@ -56,8 +56,7 @@ Rapidgator în unele țări UE). Verifică
 - [Repacklab](https://repacklab.com/) – Jocuri NSFW (cu pornografie)
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   Jocuri MS-DOS
-- [Prism Launcher](https://prismlauncher.org) - Java Minecraft /
-  [Joacă folosind un cont non-premium](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+- [PineconeMC](https://prismlauncher.org) / [Versiune alternativă a Prism Launcher](https://rentry.co/Prism4Free) - Java Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Site-uri cu torrente

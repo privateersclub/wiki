@@ -24,6 +24,7 @@ your downloads.
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Password: `cs.rin.ru`
+- :star2: [AstralGames](https://astral-games.xyz)
 - :star2: [SteamGG](https://steamgg.net)
 - :star2: [SteamRIP](https://steamrip.com) - Steam games
 - :star2: [SteamUnderground](https://steamunderground.net)
@@ -58,7 +59,7 @@ your downloads.
 - [DOS Games Archive](https://www.dosgamesarchive.com/games?b=downloads) - MS-DOS Games
 - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games?and[]=mediatype%3A%22software%22) -
   MS-DOS games
-- [Ely Prism Launcher](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Alternative for regular Prism](https://rentry.co/Prism4Free) - Java Minecraft
+- [PineconeMC](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Alternative Prism Launcher crack](https://rentry.co/Prism4Free) - Java Minecraft
 - [Moriya Shrine](https://moriyashrine.org) - Touhou
 
 ## Torrent Sites
