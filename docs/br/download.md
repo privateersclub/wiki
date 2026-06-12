@@ -29,7 +29,7 @@ gerenciamento de seus downloads.
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
+- :star2: [GOG Games](https://gog-games.to) / [Arquivo](https://gog.squid.wtf) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)

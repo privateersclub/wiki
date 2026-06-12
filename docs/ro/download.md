@@ -28,7 +28,7 @@ Rapidgator în unele țări UE). Verifică
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [GOG Games](https://gog-games.to) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
+- :star2: [GOG Games](https://gog-games.to) / [Arhivă](https://gog.squid.wtf) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
