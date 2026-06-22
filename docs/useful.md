@@ -64,6 +64,8 @@ for more Steam tools.
   support & extended features.
 - [Lucky Patcher](https://www.luckypatchers.com) - Android apps patcher (better
   with root)
+- [WebTor] (https://webtor.io/) - Torrent in your  browser, no VPN needed (Login only if needed)
+
 
 ## Software
 
