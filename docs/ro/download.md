@@ -23,8 +23,9 @@ Rapidgator în unele țări UE). Verifică
   înregistrare /
   [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
-- :star2: [SteamGG](https://steamgg.net)
+- :star2: [AstralGames](https://astral-games.xyz)
 - :star2: [SteamRIP](https://steamrip.com) - Jocuri Steam
+- :star2: [SteamGG](https://steamgg.net)
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)

@@ -25,8 +25,9 @@ para que puedas gestionar tus descargas fácilmente.
   Cuenta requerida /
   [Mod de mejoras para rin.ru](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Contraseña: `cs.rin.ru`
-- [:star2: SteamGG](https://steamgg.net)
+- :star2: [AstralGames](https://astral-games.xyz)
 - [:star2: SteamRIP](https://steamrip.com) - Juegos de Steam
+- [:star2: SteamGG](https://steamgg.net)
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Torrents](https://freegogpcgames.com) - Juegos de GOG

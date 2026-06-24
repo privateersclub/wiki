@@ -24,8 +24,9 @@ gerenciamento de seus downloads.
   conta /
   [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Senha: `cs.rin.ru`
-- :star2: [SteamGG](https://steamgg.net)
+- :star2: [AstralGames](https://astral-games.xyz)
 - :star2: [SteamRIP](https://steamrip.com) - Jogos da Steam
+- :star2: [SteamGG](https://steamgg.net)
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
