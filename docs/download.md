@@ -94,10 +94,8 @@ time due to file decompression.
 - [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org) - Most newer releases aren't repacks.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
-- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
-  Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
 - [Tiny Repacks](https://www.tiny-repacks.win)
+- [Spinneret Repacks](https://spinneretrepacks.qzz.io)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally
@@ -107,3 +105,6 @@ time due to file decompression.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Old games
 - [RohanKar's Collection](https://archive.org/details/@rohankar) - Old games
 - [CPG Repacks](https://cpgrepacks.site) - NSFW anime games
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - Moved to KaOsKrew in June 2024.
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
+  Repacks from up to May 2022. Moved to KaOsKrew in June 2022.
