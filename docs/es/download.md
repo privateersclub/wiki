@@ -31,6 +31,7 @@ para que puedas gestionar tus descargas fácilmente.
 - [:star2: AnkerGames](https://ankergames.net)
 - [:star2: Game Bounty](https://gamebounty.world)
 - [:star2: GOG Games](https://gog-games.to) / [Archivo](https://gog.squid.wtf) / [Torrents](https://freegogpcgames.com) - Juegos de GOG
+- [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
@@ -94,9 +95,8 @@ pero su instalación toma mucho tiempo debido al proceso de descompresión de ar
 - [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [ScOOt3r Repacks](https://game-repack.site/scooter) - Se unió a Ka0sKrew en junio de 2024.
-- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
-  Recopilación de Repacks desde mayo de 2022. Se unió a KaOsKrew en junio de 2022.
+- [VHSTaPE](https://vhstaperepacks.com)
+- [Spinneret Repacks](https://spinneretrepacks.qzz.io)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Repacks de juegos de consola emulados.
@@ -107,3 +107,6 @@ pero su instalación toma mucho tiempo debido al proceso de descompresión de ar
 - [MagiPack Games](https://www.magipack.games) - Juegos retro
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Juegos retro
 - [CPG Repacks](https://cpgrepacks.site) - Juegos hentai
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - Se unió a Ka0sKrew en junio de 2024.
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
+  Recopilación de Repacks desde mayo de 2022. Se unió a KaOsKrew en junio de 2022.

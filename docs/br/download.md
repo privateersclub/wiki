@@ -31,6 +31,7 @@ gerenciamento de seus downloads.
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
 - :star2: [GOG Games](https://gog-games.to) / [Arquivo](https://gog.squid.wtf) / [Torrents](https://freegogpcgames.com) - Jogos da GOG
+- [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
@@ -92,9 +93,8 @@ devido à descompressão de arquivos.
 - [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org)
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
-- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
-  de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.
+- [VHSTaPE](https://vhstaperepacks.com)
+- [Spinneret Repacks](https://spinneretrepacks.qzz.io)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jogos de console emulados
@@ -105,3 +105,6 @@ devido à descompressão de arquivos.
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jogos antigos
 - [Coleção do RohanKar](https://archive.org/details/@rohankar) - Jogos antigos
 - [CPG Repacks](https://cpgrepacks.site) - Jogos de anime NSFW
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - Mudou-se para o KaOsKrew em junho de 2024.
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) - Repacks
+  de até maio de 2022. Mudou-se para o KaOsKrew em junho de 2022.

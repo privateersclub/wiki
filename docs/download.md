@@ -31,6 +31,7 @@ your downloads.
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
 - :star2: [GOG Games](https://gog-games.to) / [Archive](https://gog.squid.wtf) / [Torrents](https://freegogpcgames.com) - GOG Games
+- [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
@@ -94,8 +95,9 @@ time due to file decompression.
 - [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org) - Most newer releases aren't repacks.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [Tiny Repacks](https://www.tiny-repacks.win)
+- [VHSTaPE](https://vhstaperepacks.com)
 - [Spinneret Repacks](https://spinneretrepacks.qzz.io)
+- [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Emulated console games
 - [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum (occasionally

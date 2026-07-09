@@ -30,6 +30,7 @@ Rapidgator în unele țări UE). Verifică
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
 - :star2: [GOG Games](https://gog-games.to) / [Arhivă](https://gog.squid.wtf) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
+- [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
@@ -92,9 +93,8 @@ durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 - [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org) - Majoritatea lansărilor noi nu sunt repack-uri.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)
-- [ScOOt3r Repacks](https://game-repack.site/scooter) - S-a transferat la KaOsKrew în iunie 2024.
-- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
-  Repack-uri până în mai 2022. S-a transferat la KaOsKrew în iunie 2022.
+- [VHSTaPE](https://vhstaperepacks.com)
+- [Spinneret Repacks](https://spinneretrepacks.qzz.io)
 - [Tiny Repacks](https://www.tiny-repacks.win)
 - [ZAZIX](https://1337x.to/user/ZAZIX/)
 - [Gnarly Repacks](https://rentry.org/gnarly_repacks) - Jocuri de console emulate 
@@ -104,3 +104,6 @@ durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 - [MagiPack Games](https://archive.org/details/@magitompg) - Jocuri vechi
 - [The Collection Chamber](https://collectionchamber.blogspot.com) - Jocuri vechi
 - [CPG Repacks](https://cpgrepacks.site) - Jocuri anime NSFW (cu pornografie)
+- [ScOOt3r Repacks](https://game-repack.site/scooter) - S-a transferat la KaOsKrew în iunie 2024.
+- [Masquerade Repacks](https://web.archive.org/web/20220616203326/https://masquerade.site) -
+  Repack-uri până în mai 2022. S-a transferat la KaOsKrew în iunie 2022.
