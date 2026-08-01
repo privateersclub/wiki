@@ -9,12 +9,12 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 
 ## Sitios para Descargar ROMS
 
-- [:star2: Megahilo de r/Roms](https://r-roms.github.io)
-- [:star2: CDRomance](https://cdromance.com)
+- :star2: Megahilo de r/Roms](https://r-roms.github.io)
+- :star2: [Vimm's Lair](https://vimm.net/vault)
+- :star2: [LoLROMs](https://lolroms.com)
+- :star2: CDRomance](https://cdromance.com) / Cuenta requerida
 - [DLPSGAME](https://dlpsgame.com)
-- [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Cuenta requerida
-- [Vimm's Lair](https://vimm.net/vault)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Guía para descargar desde Emuparadise](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Juegos de PlayStation 1, Vita, 3 y Portable
@@ -35,30 +35,30 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 :::
 
 - [Batocera.linux](https://batocera.org) - Distro de juegos retro
-- [Winlator](https://winlator.org) - Juegos de Windows
-- [:gear: RetroArch](https://retroarch.com) - Emuladores de múltiples consolas /
+- [Winlator Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Juegos de Windows
+- :gear: [RetroArch](https://retroarch.com) - Emuladores de múltiples consolas /
   Evitar los núcleos de PPSSPP, Dolphin y Citra
-- [:gear: Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
+- :gear: [Ares](https://ares-emu.net) - Emuladores de múltiples consolas / Evitar los núcleos de Neo
   Geo, PlayStation 1 e Game Boy Advance
-- [:gear: Kenji-NX](https://github.com/KeatonTheBot/Kenji-NX) /
-  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emuladores de Nintendo Switch
+- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/projects/Kenji-NX)) /
+    :gear: [Citron Neo](https://citron-neo.org) - Emuladores de Nintendo Switch
 - [shadPS4](https://shadps4.net) - Emulador de PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulador de Wii U
-- [:gear: Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
+- :gear: [Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
 - [Azahar](https://azahar-emu.org) - Emulador de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulador de PlayStation 3
 - [xenia](https://xenia.jp) - Emulador de Xbox 360
-- [:gear: MAME](https://www.mamedev.org) - Emulador para juegos arcade
+- :gear: [MAME](https://www.mamedev.org) - Emulador para juegos arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulador de PlayStation Portable
 - [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
   Emulador de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulador de Game Boy Advance y Nintendo DS
-- [:gear: xemu](https://xemu.app) - Emulador de Xbox original
+- :gear: [xemu](https://xemu.app) - Emulador de Xbox original
 - [mGBA](https://mgba.io) - Emulador de Game Boy Advance
-- [:gear: PCSX2](https://pcsx2.net) - Emulador de PlayStation 2
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - Emulador de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulador de Nintendo 64
-- [:gear: DuckStation](https://www.duckstation.org) - Emulador de PlayStation 1
+- :gear: [DuckStation](https://www.duckstation.org) - Emulador de PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
   [Snes9x](https://www.snes9x.com) - Emulador de Super Nintendo
 - [WePlayDOS Games](https://weplaydos.games/) - Emulador de MS-DOS desde el navegador

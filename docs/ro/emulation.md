@@ -14,12 +14,12 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 
 ## Site-uri cu ROM-uri
 
-- [:star2: r/Roms Megathread](https://r-roms.github.io)
-- [:star2: CDRomance](https://cdromance.com) / Necesită înregistrare
+- :star2: [r/Roms Megathread](https://r-roms.github.io)
+- :star2: [Vimm's Lair](https://vimm.net/vault)
+- :star2: [LoLROMs](https://lolroms.com)
+- :star2: [CDRomance](https://cdromance.com) / Necesită înregistrare
 - [DLPSGAME](https://dlpsgame.com)
-- [Edge Emulation](https://edgeemu.net)
 - [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
-- [Vimm's Lair](https://vimm.net/vault) / [Restaurare buton "Download"](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Căutare torrent](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Traducător](https://megathread.pages.dev/useful#translator)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
   [Download workaround guide](https://lemmy.world/post/3061617)
@@ -41,29 +41,29 @@ cu o :gear:. Le poți lua de
 :::
 
 - [Batocera.linux](https://batocera.org) - Distribuție Linux pentru emularea jocurilor vechi
-- [Winlator](https://winlator.org) - Pentru jocuri Windows
-- [:gear: RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile PPSSPP, Dolphin și Citra
-- [:gear: Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
+- [Winlator Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Pentru jocuri Windows
+- :gear: [RetroArch](https://retroarch.com) - Pentru diverse console / Evită core-urile PPSSPP, Dolphin și Citra
+- :gear: [Ares](https://ares-emu.net) - Pentru diverse console / Evită core-urile Neo
   Geo, PlayStation 1 și Game Boy Advance
-- [:gear: Kenji-NX](https://git.ryujinx.app/kenji-nx/ryujinx) /
-  [:gear: Citron](https://git.citron-emu.org/Citron/Citron) - Emulator pentru Nintendo Switch
+- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/projects/Kenji-NX)) /
+  :gear: [Citron Neo](https://citron-neo.org) - Emulator pentru Nintendo Switch
 - [shadPS4](https://shadps4.net) - Emulator pentru PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Emulator pentru Wii U
-- [:gear: Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
+- :gear: [Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
 - [Azahar](https://azahar-emu.org) - Emulator pentru 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
 - [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulator pentru PlayStation 3
 - [xenia](https://xenia.jp) - Emulator pentru Xbox 360
-- [:gear: MAME](https://www.mamedev.org) - Emulator pentru jocurile Arcade
+- :gear: [MAME](https://www.mamedev.org) - Emulator pentru jocurile Arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulator pentru PSP
 - [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
   Emulator pentru Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulator pentru Nintendo DS și GBA
-- [:gear: xemu](https://xemu.app) - Emulator pentru primul Xbox
+- :gear: [xemu](https://xemu.app) - Emulator pentru primul Xbox
 - [mGBA](https://mgba.io) - Emulator pentru GBA
-- [:gear: PCSX2](https://pcsx2.net) - Emulator pentru PlayStation 2
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - Emulator pentru PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulator pentru Nintendo 64
-- [:gear: DuckStation](https://www.duckstation.org) - Emulator pentru PlayStation 1
+- :gear: [DuckStation](https://www.duckstation.org) - Emulator pentru PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
   [Snes9x](https://www.snes9x.com) - Emulator pentru SNES
 - [WePlayDOS Games](https://weplaydos.games/) - Jocuri MS-DOS în browser
