@@ -24,6 +24,9 @@ export const brLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
     editLink: {
       pattern: 'https://github.com/privateersclub/wiki/edit/master/docs/:path',
       text: 'Sugerir Mudanças'
+    },
+    outline: {
+      label: 'Nesta página'
     }
   }
 }

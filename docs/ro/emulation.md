@@ -22,7 +22,7 @@ Site-uri cu ROM-uri, emulatoare, formuri și mai multe.
 - [The ROM Depot](https://theromdepot.com) / Necesită înregistrare
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Căutare torrent](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Traducător](https://megathread.pages.dev/useful#translator)
 - [Emuparadise](https://www.emuparadise.me/roms-isos-games.php) /
-  [Download workaround guide](https://lemmy.world/post/3061617)
+  [Ghid pentru o soluție alternativă de descărcare](https://lemmy.world/post/3061617)
 - [NoPayStation](https://nopaystation.com) - Jocuri de PlayStation 1, Vita, 3 și PSP
 - [Ziperto](https://www.ziperto.com) - Jocuri pentru console Nintendo
 - [NXBrew](https://nxbrew.net) - Jocuri pentru Nintendo Switch
