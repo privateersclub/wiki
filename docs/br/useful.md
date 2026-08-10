@@ -25,10 +25,8 @@ faltando no seu computador:
 para mais ferramentas da Steam.
 :::
 
-- :star2: [Koalageddon](https://cs.rin.ru/forum/viewtopic.php?f=10&t=112021) / [v2](https://github.com/acidicoala/Koalageddon2) (só Steam) -
-  Desbloqueador de DLCs da Steam, Epic Games Store, dos clientes da EA (use o EA DLC Unlocker) e da Uplay
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs da Steam / [Configuração automática](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) - Emulador da
+- :star2: [SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker, DLC Unlocker, Auto Online Fix etc.
+- [Goldberg Steam Emulator](https://github.com/Detanup01/gbe_fork) - Emulador da
   Steam e do multijogador / [Interface gráfica](https://github.com/brunolee-GIT/GSE-Generator)  /
   [Guia](https://rentry.co/goldberg_emulator)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulador da Steam e do multijogador
@@ -38,18 +36,14 @@ para mais ferramentas da Steam.
   pirateados. / Senha: `online-fix.me`
 - [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emuladores virtuais de LAN para jogar multijogador online.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Serviços grátis para jogar multijogador online.
-- [Steamless](https://github.com/atom0s/Steamless) - Removedor da DRM da
-  Steam / [Crackeador automático](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2025 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gerenciador do desbloqueador da Steam GreenLuma
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Criador automático de
-  correções para o Steamworks
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Gerenciador](https://github.com/3vil3vo/GreenLuma-Manager) - Desbloqueador de DLCs da Steam
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs dos
   clientes da EA
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Emulador do
   Epic Online Services
 - [SteamDB](https://steamdb.info) / [Extensão](https://steamdb.info/extension) - Ferramenta de análise da Steam
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Baixador da Oficina da Steam
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) - Atualizador da versão
+- [Sims 4 Updater](https://mirror.anadius.cc/sims-4-updater) - Atualizador da versão
   pirateada de The Sims 4
 - [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, com suporte para mods e funções estendidas.
 - [Lucky Patcher](https://www.luckypatchers.com) - Remendador de aplicativos de Android (melhor com
