@@ -52,7 +52,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 :::tip
   Activa tus productos de Microsoft (Office y Windows) con **[Microsoft Activation Scripts](https://massgrave.dev).**
-Visita **[m0nkrus](https://vk.com/monkrus) (mirror debido a [problemas con el sitio](https://reddit.com/r/GenP/comments/1h3c2ny/monkrus_users_need_to_use_mirror_site_on_vk))** para productos de Adobe.
+Visita **[m0nkrus](https://w18.monkrus.ws)** para productos de Adobe.
 
 Para el resto, visita: [LRepacks](https://lrepacks.net) o
 [CRACKSurl](https://cracksurl.com).

@@ -54,7 +54,7 @@ para mais ferramentas da Steam.
 :::tip
 Ative produtos da Microsoft (Office e Windows) com os
 **[Scripts de Ativação da Microsoft](https://massgrave.dev).**
-Visite o **[m0nkrus](https://w17.monkrus.ws)** para produtos da Adobe.
+Visite o **[m0nkrus](https://w18.monkrus.ws)** para produtos da Adobe.
 
 Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 [CRACKSurl](https://cracksurl.com).

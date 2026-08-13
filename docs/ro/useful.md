@@ -59,7 +59,7 @@ pentru mai multe programe pentru Steam.
 
 :::tip
 Activează produsele Microsoft (Office și Windows) cu **[Microsoft Activation Scripts](https://massgrave.dev).**
-Intră pe **[m0nkrus](https://vk.com/monkrus)** pentru produsele Adobe.
+Intră pe **[m0nkrus](https://w18.monkrus.ws)** pentru produsele Adobe.
 
 Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net)
 sau [CRACKSurl](https://cracksurl.com).
