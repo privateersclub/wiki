@@ -31,11 +31,7 @@ from missing software on your computer:
 for more Steam tools.
 :::
 
-- :star2: [Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Steam-only) -
-  Steam, Epic Games Store, EA clients (use EA DLC Unlocker), & Uplay DLC unlocker
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Legitimate
-  Steam game DLC unlocker /
-  [Automatic setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
+- :star2: [SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker, DLC Unlocker, Auto Online Fix, etc.
 - [Goldberg Steam Emulator](https://github.com/Detanup01/gbe_fork) -
   Steam emulator / [GUI](https://github.com/brunolee-GIT/GSE-Generator) /
   [Guide](https://rentry.co/goldberg_emulator)
@@ -46,11 +42,7 @@ for more Steam tools.
   other pirated games. / Password: `online-fix.me`
 - [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Virtual LAN emulators for online multiplayer gaming.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Free services for online multiplayer gaming.
-- [Steamless](https://github.com/atom0s/Steamless) - Steam DRM remover /
-  [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2025 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - GreenLuma Steam unlocker manager
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
-  Automatic Steamworks fix creator
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Manager](https://github.com/3vil3vo/GreenLuma-Manager) - Steam DLC unlocker
 - [EA DLC Unlocker](https://mirror.anadius.cc/dlc-unlockers) - EA
   clients DLC unlocker
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
@@ -69,7 +61,7 @@ for more Steam tools.
 
 :::tip
 Activate Microsoft products (Office & Windows) with **[Microsoft Activation Scripts](https://massgrave.dev).**
-Visit **[m0nkrus](https://w17.monkrus.ws)** for Adobe products.
+Visit **[m0nkrus](https://w18.monkrus.ws)** for Adobe products.
 
 For the rest, visit [LRepacks](https://lrepacks.net) or
 [CRACKSurl](https://cracksurl.com).

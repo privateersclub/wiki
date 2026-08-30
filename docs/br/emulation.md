@@ -10,8 +10,9 @@ Sites de ROMs, emuladores, páginas de discussão e mais.
 ## Sites de ROMs
 
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
-- :star2: [Vimm's Lair](https://vimm.net/vault) / [Restaurar o botão de "Download"](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
-- :star2: [CDRomance](https://cdromance.org)
+- :star2: [Vimm's Lair](https://vimm.net/vault)
+- :star2: [LoLROMs](https://lolroms.com)
+- :star2: [CDRomance](https://cdromance.org) / Requer conta
 - [DLPSGAME](https://dlpsgame.com)
 - [The ROM Depot](https://theromdepot.com) / Requer conta
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Busca de torrents](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Tradutor](https://megathread.pages.dev/useful#translator)
@@ -38,8 +39,8 @@ obtê-los [aqui](https://emulation.gametechwiki.com/index.php/Emulator_files).
 - :gear: [RetroArch](https://retroarch.com) - Jogos de múltiplos consoles / Evite os núcleos do PPSSPP, Dolphin e Citra
 - :gear: [Ares](https://ares-emu.net) - Jogos de múltiplos consoles / Evite os núcleos de Neo Geo,
   PlayStation 1 e Game Boy Advance
-- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/kenji-nx/ryujinx)) /
-  :gear: [Eden](https://github.com/eden-emulator) - Jogos de Nintendo Switch
+- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/projects/Kenji-NX)) /
+  :gear: [Citron Neo](https://citron-neo.org) - Jogos de Nintendo Switch
 - [shadPS4](https://shadps4.net) - Jogos de PlayStation 4
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Jogos de Wii U
 - :gear: [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita

@@ -16,7 +16,42 @@ export const sharedConfig = defineConfig({
     ['meta', { name: 'theme-color', content: '#58D5BA' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/favicon.svg' }]
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
+
+      // Auto-detection of browser language
+    [
+      'script',
+        {},
+        `
+        (function() {
+          // Supported languages mapping
+          const supported = ['br', 'es', 'ro', 'en'];
+          const preferred = navigator.languages || [navigator.language];
+
+          // Normalize language codes
+          const normalize = (lang) => {
+            const code = lang.toLowerCase();
+            if (code.startsWith('pt')) return 'br';
+            return code.split('-')[0];
+          };
+
+          const matchedLang = preferred
+            .map(normalize)
+            .find(lang => supported.includes(lang));
+
+          const locale = matchedLang || 'en';
+
+          const currentPath = window.location.pathname;
+
+          // Redirect only if user is on root
+          if (currentPath === '/' || currentPath === '/index.html') {
+            if (locale !== 'en') {
+              window.location.replace('/' + locale + '/');
+            }
+          }
+        })();
+      `
+      ]
   ],
   vite: {
     optimizeDeps: {

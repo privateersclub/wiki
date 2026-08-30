@@ -24,6 +24,9 @@ export const roLocale: LocaleSpecificConfig<DefaultTheme.Config> = {
     editLink: {
       pattern: 'https://github.com/privateersclub/wiki/edit/master/docs/:path',
       text: 'Suggest Changes'
+    },
+    outline: {
+      label: 'Pe această pagină'
     }
   }
 }

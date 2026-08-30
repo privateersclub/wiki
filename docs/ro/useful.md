@@ -31,12 +31,8 @@ cauzate de lipsa software-ului instalat pe calculatorul tău:
 pentru mai multe programe pentru Steam.
 :::
 
-- [:star2: Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Doar pentru Steam) -
-  Client de Steam, Epic Games și EA (folosește EA DLC Unlocker), & Uplay DLC unlocker
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Deblochează
-  DLC-uri pentru jocurile de pe Steam legitim /
-  [Configurare automată](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
+- :star2: [SteaMidra](https://github.com/Midrags/SFF) - Deblocator de jocuri Steam, Deblocator de DLC-uri, automată Online Fix etc.
+- [Goldberg Steam Emulator](https://github.com/Detanup01/gbe_fork) -
   Emulator de Steam și jocuri multiplayer / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
   [Ghid](https://rentry.co/goldberg_emulator)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulator de Steam și jocuri multiplayer
@@ -44,11 +40,7 @@ pentru mai multe programe pentru Steam.
 - [Online Fix](https://online-fix.me) - Permite jucarea jocurilor piratate online. / Parola este: `online-fix.me`
 - [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emulatoare LAN virtuale pentru a juca jocuri multiplayer online.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Servicii multiplayer online gratuite.
-- [Steamless](https://github.com/atom0s/Steamless) - Ștergător de DRM pentru Steam /
-  [Automatic cracker](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestionar de deblocare Steam de GreenLuma
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
-  Creator automat de corecții Steamworks
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Gestor](https://github.com/3vil3vo/GreenLuma-Manager) - Deblocator de DLC pentru Steam
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Deblocator
   de DLC pentru Clienții EA
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
@@ -56,7 +48,7 @@ pentru mai multe programe pentru Steam.
 - [SteamDB](https://steamdb.info) / [Extensie](https://steamdb.info/extension) - Site de analiză a jocurilor de pe Steam (Prețurile vechi, statistici etc.)
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Descărcător pentru moduri de pe
   Steam Workshop
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -
+- [Sims 4 Updater](https://mirror.anadius.cc/sims-4-updater) -
   Actualizator de versiuni piratate pentru The Sims 4
 - [Plutonium](https://plutonium.pw) - Servere de Call of Duty, cu suport pentru
   moduri și mai multe lucruri.
@@ -67,7 +59,7 @@ pentru mai multe programe pentru Steam.
 
 :::tip
 Activează produsele Microsoft (Office și Windows) cu **[Microsoft Activation Scripts](https://massgrave.dev).**
-Intră pe **[m0nkrus](https://vk.com/monkrus)** pentru produsele Adobe.
+Intră pe **[m0nkrus](https://w18.monkrus.ws)** pentru produsele Adobe.
 
 Pentru celălalte lucruri, intră pe [LRepacks](https://lrepacks.net)
 sau [CRACKSurl](https://cracksurl.com).

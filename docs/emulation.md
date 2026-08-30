@@ -15,8 +15,9 @@ ROM sites, emulators, discussion pages and more.
 ## ROM Sites
 
 - :star2: [r/Roms Megathread](https://r-roms.github.io)
-- :star2: [Vimm's Lair](https://vimm.net/vault) / [Restore "Download" button](https://greasyfork.org/scripts/495800-vimm-s-vault-rom-restore)
-- :star2: [CDRomance](https://cdromance.org)
+- :star2: [Vimm's Lair](https://vimm.net/vault)
+- :star2: [LoLROMs](https://lolroms.com)
+- :star2: [CDRomance](https://cdromance.org) / Account required
 - [DLPSGAME](https://dlpsgame.com)
 - [The ROM Depot](https://theromdepot.com) / Account required
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=548) / [Torrent search](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search) / [Translator](https://megathread.pages.dev/useful#translator)
@@ -44,8 +45,8 @@ with a :gear:. You can get them
 - :gear: [RetroArch](https://retroarch.com) - Multiple consoles games / Avoid the PPSSPP, Dolphin, & Citra cores
 - :gear: [Ares](https://ares-emu.net) - Multiple consoles games / Avoid the Neo
   Geo, PlayStation 1, & Game Boy Advance cores
-- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/kenji-nx/ryujinx)) /
-  :gear: [Eden](https://github.com/eden-emulator) - Nintendo Switch games
+- :gear: [Ryubing](https://ryujinx.app) ([Android](https://git.ryujinx.app/projects/Kenji-NX)) /
+  :gear: [Citron Neo](https://citron-neo.org) - Nintendo Switch games
 - [shadPS4](https://shadps4.net) - PlayStation 4 games
 - [Cemu](https://cemu.info) ([Android](https://github.com/SSimco/Cemu)) - Wii U games
 - :gear: [Vita3K](https://vita3k.org) - PlayStation Vita games

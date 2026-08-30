@@ -25,12 +25,8 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   para más herramientas de Steam.
 :::
 
-- [:star2: Koalageddon](https://github.com/acidicoala/Koalageddon) / [v2](https://github.com/acidicoala/Koalageddon2) (Solo para Steam) -
-  DLC Unlocker para Steam, Epic Games Store, EA (utiliza el EA DLC Unlocker) y Uplay.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Desbloqueador de DLCs para juegos
-   comprados en Steam /
-  [Instalador automatizado](https://cs.rin.ru/forum/viewtopic.php?p=2013521)
-- [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627) -
+- :star2: [SteaMidra](https://github.com/Midrags/SFF) - Steam Game Unlocker, DLC Unlocker, Auto Online Fix, etc.
+- [Goldberg Steam Emulator](https://github.com/Detanup01/gbe_fork) -
   Emulador de Steam / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) /
   [Guía](https://rentry.co/goldberg_emulator)
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) - Emulador de Steam y multijugador online.
@@ -40,17 +36,13 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
   que posean el juego pirata. / Contraseña: `online-fix.me`
 - [Radmin VPN](https://www.radmin-vpn.com) / [ZeroTier](https://www.zerotier.com) - Emuladores virtuales de LAN para jugar multijugador online.
 - [GameRanger](https://www.gameranger.com) / [Voobly](https://www.voobly.com) - Servicios para jugar multijugador online gratuitos.
-- [Steamless](https://github.com/atom0s/Steamless) - Remueve el DRM de Steam /
-  [Crack automático](https://github.com/oureveryday/Steam-auto-crack)
-- [GreenLuma 2024 Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager) - Gestor de desbloqueo de juegos de Steam para GreenLuma.
-- [Auto SteamFix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) -
-  Arregla y crea las dependencias de Steamworks automáticamente.
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) / [Gestor](https://github.com/3vil3vo/GreenLuma-Manager) - Desbloqueador de DLCs de Steam.
 - [EA DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412) - Desbloqueador de DLCs para clientes de EA.
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) -
   Emulador de Epic Online Services.
 - [SteamDB](https://steamdb.info) / [Extensión](https://steamdb.info/extension) - Herramienta de perspectivas para Steam (Visualizar jugadores, estadísticas y precios históricos.)
 - [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Gestor de descargas para descargar mods desde la Workshop de Steam.
-- [Sims 4 Updater](https://cs.rin.ru/forum/viewtopic.php?f=29&t=102519) -
+- [Sims 4 Updater](https://mirror.anadius.cc/sims-4-updater) -
   Actualizador para la versión pirata de Los Sims 4.
 - [Plutonium](https://plutonium.pw) - Servidores dedicados de Call of Duty, con soporte
   para mods y más funciones.
@@ -60,7 +52,7 @@ para evitar crasheos debido a la ausencia de las librerías de software en tu si
 
 :::tip
   Activa tus productos de Microsoft (Office y Windows) con **[Microsoft Activation Scripts](https://massgrave.dev).**
-Visita **[m0nkrus](https://vk.com/monkrus) (mirror debido a [problemas con el sitio](https://reddit.com/r/GenP/comments/1h3c2ny/monkrus_users_need_to_use_mirror_site_on_vk))** para productos de Adobe.
+Visita **[m0nkrus](https://w18.monkrus.ws)** para productos de Adobe.
 
 Para el resto, visita: [LRepacks](https://lrepacks.net) o
 [CRACKSurl](https://cracksurl.com).
