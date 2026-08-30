@@ -43,13 +43,21 @@ malware. You can take these steps if you want an ad-free experience:
 ### Android
 
 Install
-[**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-and add
-[**uBlock Origin**](https://addons.mozilla.org/android/addon/ublock-origin).
-This should be more than enough. If you want system-wide support, try
-[**AdGuard**](https://adguard.com/adguard-android/overview.html) or
-[**NextDNS**](https://nextdns.io). You can watch
-[**this video**](https://youtu.be/WUG57ynLb8I) if you need guidance.
+  [**Firefox**](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+  and add
+    [**uBlock Origin**](https://addons.mozilla.org/android/addon/ublock-origin).
+    This should be more than enough.
+  ### OR
+   If you dont like firefox due to its lag on mobile then go for this chromium based browser with ublock support (a bit glitchy tho)
+   [**Titanium**](https://play.google.com/store/apps/details?id=io.github.jqssun.helium)
+   And add (makes sure to enable destop site before installing, since chrome webstore doesnt think mobile browsers support extensiosn)
+     [**uBlock Origin**](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  
+{SYSTEM-WIDE}
+If you want systemwide support, then try
+  [**AdGuard**](https://adguard.com/adguard-android/overview.html) or
+  [**NextDNS**](https://nextdns.io). You can watch
+  [**this video**](https://youtu.be/WUG57ynLb8I) if you need guidance.
 
 ### PC
 
