@@ -19,7 +19,7 @@ Dowloadările directe sunt downloadări normale, sunt mai sigure
 Rapidgator în unele țări UE). Verifică
 [partea managerilor de downloadări](/software#manageri-de-downloadări) pentru gestionarea downloadărilor.
 
-- [:star2: CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria jocurilor / Necesită
+- :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Forum despre pirateria jocurilor / Necesită
   înregistrare /
   [Mod de îmbunătățire](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
   Parola este: `cs.rin.ru`
@@ -29,7 +29,7 @@ Rapidgator în unele țări UE). Verifică
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [GOG Games](https://gog-games.to) / [Arhivă](https://gog.squid.wtf) / [Torrenți](https://freegogpcgames.com) - Jocuri GOG
+- :star2: [GOG Revived](https://gog-rev.com) / [Arhivă](https://gog.squid.wtf) - Jocuri GOG
 - [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
@@ -67,13 +67,13 @@ Torrenții sunt downloadări P2P (peer-to-peer/între persoane). Îți trebuie u
 pentru a descărca torrenți în siguranță și pentru a evita avertizările furnizorului de internet privind drepturile autorului, 
 exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri](/software#vpn-uri) pentru mai multe informații.
 
-- [:star2: 1337x](https://1337x.to/sub/10/0/) /
+- :star2: [1337x](https://1337x.to/sub/10/0/) /
   [Uploaderi siguri (cu excepția lui FileCR)](https://www.reddit.com/r/Piracy/comments/nudfgn/me_after_reading_the_megathread/h0yr0q6/?context=3)
   - [Îmbunătațiri la interfață](https://greasyfork.org/scripts/33379-1337x-torrent-page-improvements)
   - [Legături magnet pentru torrenți](https://greasyfork.org/scripts/420754-1337x-torrent-and-magnet-links)
   - [Corectarea fusului orar](https://greasyfork.org/scripts/421635-1337x-convert-torrent-timestamps-to-relative-format)
   - [Link-uri de subtitrare pentru filme și TV](https://greasyfork.org/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents)
-- [:star2: RuTracker](https://rutracker.org/forum/index.php?c=19) / [Cautare torrenți](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
+- :star2: [RuTracker](https://rutracker.org/forum/index.php?c=19) / [Cautare torrenți](https://addons.mozilla.org/firefox/addon/rutracker_torrent_search)
   / [Traducător](/useful#translator)
 - [Rutor](http://rutor.info/games) / [Traducător](/useful#translator)
 - [Rustorka](https://rustorka.com/forum/index.php?c=6) /
@@ -85,11 +85,11 @@ exceptând țările care tolerează piratarea. Verifică [Secțiunea de VPN-uri]
 Repack-urile sunt jocuri comprimate pentru persoanele care au o viteză de descărcare mică, dar instalând jocurile
 durează mai mult timp din cauza faptului că trebuie decomprimat fișierul.
 
-- [:star2: DODI Repacks](https://dodi-repacks.site)
-- [:star2: FitGirl Repacks](https://fitgirl-repacks.site)
-- [:star2: ElAmigos](https://elamigos.site) - Folosește link-ul oglindă de pe GLOAD sau Ova Games
+- :star2: [DODI Repacks](https://dodi-repacks.site)
+- :star2: [FitGirl Repacks](https://fitgirl-repacks.site)
+- :star2: [ElAmigos](https://elamigos.site) - Folosește link-ul oglindă de pe GLOAD sau Ova Games
   pentru downloadări mai rapide.
-- [:star2: KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
+- :star2: [KaOsKrew](https://kaoskrew.org/viewforum.php?f=13&sid=c2dac73979171b67f4c8b70c9c4c72fb)
 - [TriahGames](https://triahgames.com)
 - [Xatab](https://byxatab.org) - Majoritatea lansărilor noi nu sunt repack-uri.
 - [Chovka](http://rutor.info/browse/0/8/1642915/0), [2](https://repack.info)

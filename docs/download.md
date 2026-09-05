@@ -30,7 +30,7 @@ your downloads.
 - :star2: [SteamUnderground](https://steamunderground.net)
 - :star2: [AnkerGames](https://ankergames.net)
 - :star2: [Game Bounty](https://gamebounty.world)
-- :star2: [GOG Games](https://gog-games.to) / [Archive](https://gog.squid.wtf) / [Torrents](https://freegogpcgames.com) - GOG Games
+- :star2: [GOG Revived](https://gog-rev.com) / [Archive](https://gog.squid.wtf) - GOG Games
 - [SteamOra](https://steamora.net)
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
