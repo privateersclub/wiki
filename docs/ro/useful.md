@@ -88,7 +88,7 @@ sau [CRACKSurl](https://cracksurl.com).
 - [uBlock Origin](https://ublockorigin.com) - Blochează reclamele /
   [recomandările lui yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtru de căutare
-- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
+- [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) -
   Script pentru ocolirea scurtătorilor de link-uri - Are nevoie de una dintre cele 3 extensii de mai jos
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
   Gestionar de script-uri pentru Firefox cu codul sursă liber

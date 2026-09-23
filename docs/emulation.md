@@ -61,7 +61,7 @@ with a :gear:. You can get them
 - [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
 - :gear: [xemu](https://xemu.app) - Original Xbox games
 - [mGBA](https://mgba.io) - Game Boy Advance games
-- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - PlayStation 2 games
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - PlayStation 2 games
 - [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games
 - :gear: [DuckStation](https://www.duckstation.org) - PlayStation 1 games
 - [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Super Nintendo Entertainment System games

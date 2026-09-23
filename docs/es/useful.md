@@ -80,7 +80,7 @@ Para el resto, visita: [LRepacks](https://lrepacks.net) o
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de anuncios /
   [recomendaciones de yokoffing's](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrado de búsquedas
-- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
+- [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) -
   Script para realizarle un bypass a los acortadores de enlaces. Necesitas una de las tres extensiones de abajo para que funcione
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
   Gestor de scripts de usuario de código abierto para Firefox

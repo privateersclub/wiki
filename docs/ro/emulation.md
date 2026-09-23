@@ -61,7 +61,7 @@ cu o :gear:. Le poți lua de
 - [No$GBA](https://www.nogba.com) - Emulator pentru Nintendo DS și GBA
 - :gear: [xemu](https://xemu.app) - Emulator pentru primul Xbox
 - [mGBA](https://mgba.io) - Emulator pentru GBA
-- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - Emulator pentru PlayStation 2
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Emulator pentru PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulator pentru Nintendo 64
 - :gear: [DuckStation](https://www.duckstation.org) - Emulator pentru PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /

@@ -90,7 +90,7 @@ For the rest, visit [LRepacks](https://lrepacks.net) or
 - [uBlock Origin](https://ublockorigin.com) - Ad content blocker /
   [yokoffing's recommendations](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Search filter
-- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
+- [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) -
   Link shorteners bypasser userscript - Needs one of the 3 extensions below
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) -
   Open-source userscript manager for Firefox

@@ -55,7 +55,7 @@ obtê-los [aqui](https://emulation.gametechwiki.com/index.php/Emulator_files).
 - [No$GBA](https://www.nogba.com) - Jogos de Nintendo DS e Game Boy Advance
 - :gear: [xemu](https://xemu.app) - Jogos de Xbox original
 - [mGBA](https://mgba.io) - Jogos de Game Boy Advance
-- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - Jogos de PlayStation 2
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Jogos de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Jogos de Nintendo 64
 - :gear: [DuckStation](https://www.duckstation.org) - Jogos de PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) / [Snes9x](https://www.snes9x.com) - Jogos de Super Nintendo Entertainment System

@@ -82,7 +82,7 @@ Para o resto, visite o [LRepacks](https://lrepacks.net) ou
 - [uBlock Origin](https://ublockorigin.com) - Bloqueador de conteúdo de
   anúncio / [Recomendações do yokoffing](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin)
 - [uBlacklist](https://iorate.github.io/ublacklist/docs) - Filtrador de pesquisas
-- [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) -
+- [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) -
   Userscript contornador de encurtadores de links / Requer uma das 3 extensões abaixo
 - [FireMonkey](https://addons.mozilla.org/firefox/addon/firemonkey) - Gerenciador de userscripts de
   código aberto para o Firefox

@@ -56,7 +56,7 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - [No$GBA](https://www.nogba.com) - Emulador de Game Boy Advance y Nintendo DS
 - :gear: [xemu](https://xemu.app) - Emulador de Xbox original
 - [mGBA](https://mgba.io) - Emulador de Game Boy Advance
-- :gear: [PCSX2](https://pcsx2.net) ([Android](https://github.com/Trixarian/NetherSX2-patch)) - Emulador de PlayStation 2
+- :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Emulador de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulador de Nintendo 64
 - :gear: [DuckStation](https://www.duckstation.org) - Emulador de PlayStation 1
 - [bsnes](https://github.com/bsnes-emu/bsnes) /
