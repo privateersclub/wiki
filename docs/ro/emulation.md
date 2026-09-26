@@ -52,14 +52,14 @@ cu o :gear:. Le poți lua de
 - :gear: [Vita3K](https://vita3k.org) - Emulator pentru PlayStation Vita
 - [Azahar](https://azahar-emu.org) - Emulator pentru 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulator pentru GameCube și Wii
-- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulator pentru PlayStation 3
-- [xenia](https://xenia.jp) - Emulator pentru Xbox 360
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/ARMSX2/ARMSX3)) - Emulator pentru PlayStation 3
+- [xenia](https://xenia.jp) ([Android](https://x360mobile.com)) - Emulator pentru Xbox 360
 - :gear: [MAME](https://www.mamedev.org) - Emulator pentru jocurile Arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulator pentru PSP
-- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/SapphireRhodonite/WatermelonDS)) / [DeSmuME](https://desmume.org) -
   Emulator pentru Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulator pentru Nintendo DS și GBA
-- :gear: [xemu](https://xemu.app) - Emulator pentru primul Xbox
+- :gear: [xemu](https://xemu.app) ([Android](https://github.com/izzy2lost/xemu)) - Emulator pentru primul Xbox
 - [mGBA](https://mgba.io) - Emulator pentru GBA
 - :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Emulator pentru PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulator pentru Nintendo 64

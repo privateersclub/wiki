@@ -52,14 +52,14 @@ with a :gear:. You can get them
 - :gear: [Vita3K](https://vita3k.org) - PlayStation Vita games
 - [Azahar](https://azahar-emu.org) - Nintendo 3DS games
 - [Dolphin Emulator](https://dolphin-emu.org) - Wii & GameCube games
-- [RPCS3](https://rpcs3.net) ([Android](https://github.com/RPCSX/rpcsx-ui-android)) - PlayStation 3 games
-- [xenia](https://xenia.jp) - Xbox 360 games
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/ARMSX2/ARMSX3)) - PlayStation 3 games
+- [xenia](https://xenia.jp) ([Android](https://x360mobile.com)) - Xbox 360 games
 - :gear: [MAME](https://www.mamedev.org) - Arcade games
 - [PPSSPP](https://www.ppsspp.org) - PlayStation Portable games
-- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/SapphireRhodonite/WatermelonDS)) / [DeSmuME](https://desmume.org) -
   Nintendo DS games
 - [No$GBA](https://www.nogba.com) - Nintendo DS & Game Boy Advance games
-- :gear: [xemu](https://xemu.app) - Original Xbox games
+- :gear: [xemu](https://xemu.app) ([Android](https://github.com/izzy2lost/xemu)) - Original Xbox games
 - [mGBA](https://mgba.io) - Game Boy Advance games
 - :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - PlayStation 2 games
 - [Parallel Launcher](https://parallel-launcher.ca) - Nintendo 64 games

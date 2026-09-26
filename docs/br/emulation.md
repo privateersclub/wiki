@@ -46,14 +46,14 @@ obtê-los [aqui](https://emulation.gametechwiki.com/index.php/Emulator_files).
 - :gear: [Vita3K](https://vita3k.org) - Jogos de PlayStation Vita
 - [Azahar](https://azahar-emu.org) - Jogos de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Jogos de Wii e GameCube
-- [RPCS3](https://rpcs3.net) ([Android](https://github.com/RPCSX/rpcsx-ui-android)) - Jogos de PlayStation 3
-- [xenia](https://xenia.jp) - Jogos de Xbox 360
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/ARMSX2/ARMSX3)) - Jogos de PlayStation 3
+- [xenia](https://xenia.jp) ([Android](https://x360mobile.com)) - Jogos de Xbox 360
 - :gear: [MAME](https://www.mamedev.org) - Jogos de fliperama
 - [PPSSPP](https://www.ppsspp.org) - Jogos de PlayStation Portable
-- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/SapphireRhodonite/WatermelonDS)) / [DeSmuME](https://desmume.org) -
   Jogos de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Jogos de Nintendo DS e Game Boy Advance
-- :gear: [xemu](https://xemu.app) - Jogos de Xbox original
+- :gear: [xemu](https://xemu.app) ([Android](https://github.com/izzy2lost/xemu)) - Jogos de Xbox original
 - [mGBA](https://mgba.io) - Jogos de Game Boy Advance
 - :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Jogos de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Jogos de Nintendo 64

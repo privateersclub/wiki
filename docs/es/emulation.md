@@ -47,14 +47,14 @@ Sitios para descargar ROMS, emuladores, páginas de discusión y más.
 - :gear: [Vita3K](https://vita3k.org) - Emulador de PlayStation Vita
 - [Azahar](https://azahar-emu.org) - Emulador de Nintendo 3DS
 - [Dolphin Emulator](https://dolphin-emu.org) - Emulador de Wii y GameCube
-- [RPCS3](https://rpcs3.net) ([Android](https://github.com/DHrpcs3/rpcs3-android)) - Emulador de PlayStation 3
-- [xenia](https://xenia.jp) - Emulador de Xbox 360
+- [RPCS3](https://rpcs3.net) ([Android](https://github.com/ARMSX2/ARMSX3)) - Emulador de PlayStation 3
+- [xenia](https://xenia.jp) ([Android](https://x360mobile.com)) - Emulador de Xbox 360
 - :gear: [MAME](https://www.mamedev.org) - Emulador para juegos arcade
 - [PPSSPP](https://www.ppsspp.org) - Emulador de PlayStation Portable
-- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/rafaelvcaetano/melonDS-android)) / [DeSmuME](https://desmume.org) -
+- [melonDS](https://melonds.kuribo64.net) ([Android](https://github.com/SapphireRhodonite/WatermelonDS)) / [DeSmuME](https://desmume.org) -
   Emulador de Nintendo DS
 - [No$GBA](https://www.nogba.com) - Emulador de Game Boy Advance y Nintendo DS
-- :gear: [xemu](https://xemu.app) - Emulador de Xbox original
+- :gear: [xemu](https://xemu.app) ([Android](https://github.com/izzy2lost/xemu)) - Emulador de Xbox original
 - [mGBA](https://mgba.io) - Emulador de Game Boy Advance
 - :gear: [PCSX2](https://pcsx2.net) ([Android](https://armsx2.net)) - Emulador de PlayStation 2
 - [Parallel Launcher](https://parallel-launcher.ca) - Emulador de Nintendo 64
