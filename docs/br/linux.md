@@ -32,6 +32,7 @@ Se você precisa de um guia, o [Wiki do Arch](https://wiki.archlinux.org/title/M
 
 - :star2: [Torrminatorr](https://forum.torrminatorr.com) - Fórum de jogos da GOG, Linux e
   lançamentos da Cena / Requer conta
+- :star2: [Appnetica](https://appnetica.com/?platform=linux) - Jogos de Linux do GOG
 - :star2: [KAPITALSIN](https://kapitalsin.com/forum) - Fórum de repacks de jogos (ocasionalmente tem repacks
   com perdas, ou comprimidos) / [Tradutor](useful.md#translator)
 - :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Fórum de pirataria de jogos / Requer conta / [Mod de aprimoramento](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / Senha: `cs.rin.ru`
@@ -46,17 +47,17 @@ Se você precisa de um guia, o [Wiki do Arch](https://wiki.archlinux.org/title/M
 ### Kernels
 
 ::: danger
-Custom kernels can significantly change your system behavior, [disable security mitigations](https://wiki.archlinux.org/index.php/Kernel_parameters), and cause all sorts of instabilities and reliability issues. It is recommended that you keep [backups](https://wiki.archlinux.org/title/Backup) and a backup kernel installed to boot back to, from GRUB.
+Kernels personalizados podem mudar significativamente o comportamento do seu sistema, [desativar medidas de segurança](https://wiki.archlinux.org/index.php/Kernel_parameters) e causar todo tipo de instabilidade e problemas de confiabilidade. Recomenda-se manter [backups](https://wiki.archlinux.org/title/Backup) e um kernel de backup instalado para que você possa reiniciar o sistema a partir do GRUB.
 :::
 ::: info
-Real time kernels do not improve performance, and are only useful on embedded systems and when running applications built to use real time scheduling that are latency critical.
+Os kernels em tempo real não melhoram o desempenho e só são úteis em sistemas embarcados e ao executar aplicativos desenvolvidos para usar a programação em tempo real, nos quais a latência é um fator crítico.
 :::
 
 - [CachyOS](https://github.com/CachyOS/linux-cachyos)
 - [XanMod](https://xanmod.org)
 - [Liquorix](https://liquorix.net)
 - [Zen](https://github.com/zen-kernel/zen-kernel)
-- [tkg](https://github.com/Frogging-Family/linux-tkg) 
+- [tkg](https://github.com/Frogging-Family/linux-tkg)
 
 ### Launchers de Jogos
 
@@ -83,8 +84,8 @@ Real time kernels do not improve performance, and are only useful on embedded sy
 
 ## Sites
 
-- [ProtonDB](https://www.protondb.com) - Relatórios e correções de compatibilidade do Proton.
-- [AppDB](https://appdb.winehq.org) - Rastreador do Wine para rastrear relatórios e avaliações dos jogos.
+- [ProtonDB](https://www.protondb.com) - Relatórios e correções de compatibilidade do Proton
+- [AppDB](https://appdb.winehq.org) - Rastreador do Wine para rastrear relatórios e avaliações dos jogos
 - [GamingOnLinux](https://www.gamingonlinux.com)
 - [The Linux Gamers' Game List](https://www.icculus.org/lgfaq/gamelist.php) - Jogos que rodam nativamente no Linux
 - [Arch Wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) - Tudo sobre dicas de configurações para rodar jogos

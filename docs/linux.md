@@ -33,8 +33,9 @@ If you need a guide, the [Arch Wiki](https://wiki.archlinux.org) is good and wor
 
 - :star2: [Torrminatorr](https://forum.torrminatorr.com) - GOG, Linux games & Scene
   releases forum / Registration required
+- :star2: [Appnetica](https://appnetica.com/?platform=linux) - GOG Linux games
 - :star2: [KAPITALSIN](https://kapitalsin.com/forum) - Game repacks forum
-  (occasionally has lossy, or compressed repacks) /[Translator](useful.md#translator)
+  (occasionally has lossy, or compressed repacks) / [Translator](useful.md#translator)
 - :star2: [CS.RIN.RU](https://cs.rin.ru/forum) - Game piracy forum / Registration
   required /
   [Enhancement mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) /
