@@ -35,6 +35,8 @@ your downloads.
 - [World of PC Games](https://worldofpcgames.com)
 - [CG-gamesPC](https://www.cg-gamespc.com)
 - [GameDrive](https://gamedrive.org)
+- [SteamDownload](https://www.steamdownload.cn/?lang=en) - PC, Switch & retro
+  games / Chinese cloud drives (Quark, Baidu, Xunlei, UC)
 - [Ova Games](https://www.ovagames.com) / Password: `www.ovagames.com`
 - [GLOAD](https://gload.to/pc) - Scene & P2P releases
 - [Scnlog](https://scnlog.me/games) - Scene releases
